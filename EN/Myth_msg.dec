@@ -1,14 +1,14 @@
 <Myth_message>
 	<set_msg>
-		<msg	GradeID="1"	GradeName="Seraphim"	/>
-		<msg	GradeID="2"	GradeName="Cherubim"	/>
-		<msg	GradeID="3"	GradeName="Ophanim"	/>
-		<msg	GradeID="4"	GradeName="Dominion"	/>
-		<msg	GradeID="5"	GradeName="Angelus"	/>
-		<msg	GradeID="6"	GradeName="Archangel"	/>
-		<msg	GradeID="7"	GradeName="Raphael"	/>
-		<msg	GradeID="8"	GradeName="Uriel"	/>
-		<msg	GradeID="9"	GradeName="Michael"	/>
-		<msg	GradeID="10"	GradeName="Metatron"	/>
+		<msg GradeID="1" GradeName="Seraphim"/>
+		<msg GradeID="10" GradeName="Metatron"/>
+		<msg GradeID="2" GradeName="Cherubim"/>
+		<msg GradeID="3" GradeName="Ophanim"/>
+		<msg GradeID="4" GradeName="Dominion"/>
+		<msg GradeID="5" GradeName="Angelus"/>
+		<msg GradeID="6" GradeName="Arcangel"/>
+		<msg GradeID="7" GradeName="Raphael"/>
+		<msg GradeID="8" GradeName="Uriel"/>
+		<msg GradeID="9" GradeName="Michael"/>
 	</set_msg>
 </Myth_message>

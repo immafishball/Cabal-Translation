@@ -1,10 +1,10 @@
 <tab_message>
-	<msg tab_id="0" tab_name="BEST" />
-	<msg tab_id="1" tab_name="Essentials" />
-	<msg tab_id="2" tab_name="Accessory" />
-	<msg tab_id="3" tab_name="Trade" />
-	<msg tab_id="4" tab_name="Upgrade" />
-	<msg tab_id="5" tab_name="Force Gem" />
-	<msg tab_id="6" tab_name="" />
-	<msg tab_id="7" tab_name="Mystery Box" />
+	<version index="2" />
+	<msg tab_id="0" tab_name="Essentials" />
+	<msg tab_id="1" tab_name="Blessing Bead" />
+	<msg tab_id="2" tab_name="Consumable" />
+	<msg tab_id="3" tab_name="Functional" />
+	<msg tab_id="4" tab_name="Force Gem Shop" />
+	<msg tab_id="5" tab_name="" />
+	<msg tab_id="7" tab_name="Random Box" />
 </tab_message>

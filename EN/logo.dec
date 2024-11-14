@@ -1,4 +1,0 @@
-<cabal_logo>
-  <background Color="0xFF000000" ShowCI="1" ShowGrade="0" />
-  <Logo Filename="Logo.dds" Align="0" RenderTime="5000" ShowCI="1" UseBackgroundColor="1" />
-</cabal_logo>

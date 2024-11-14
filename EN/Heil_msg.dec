@@ -1,36 +1,35 @@
-
 <Heil_message>
 	<season_msg>
-		<msg	id="1"	desc="Heil's Study: Res."	/>
-		<msg	id="2"	desc="Heil's Study: Exam."	/>
-		<msg	id="3"	desc="Heil's Research: Hypothesis"	/>
+		<msg id="1" desc="Heil's Study: Res."/>
+		<msg id="2" desc="Heil's Study: Exa."/>
+		<msg id="3" desc="Heil's Research: Hypothesis"/>
 	</season_msg>
 	<clue_rank>
-		<msg	id="1"	desc="Final Assembly (Lv.1)"	/>
-		<msg	id="2"	desc="Permanent Power (Lv.2)"	/>
-		<msg	id="3"	desc="Complete Operation (Lv.3)"	/>
-		<msg	id="4"	desc="Managment (Lv.4)"	/>
-		<msg	id="5"	desc="Attack (Lv.5)"	/>
+		<msg id="1" desc="Final Assembly (Lv.1)"/>
+		<msg id="2" desc="Permanent Power (Lv.2)"/>
+		<msg id="3" desc="Complete Operation (Lv.3)"/>
+		<msg id="4" desc="Management (Lv.4)"/>
+		<msg id="5" desc="Attack (Lv.5)"/>
 	</clue_rank>
 	<change_group>
-		<msg	id="41"	desc="Weapon Option Scroll (Low)"	/>
-		<msg	id="42"	desc="Weapon Option Scroll (Med)"	/>
-		<msg	id="43"	desc="Weapon Option Scroll (High)"	/>
-		<msg	id="44"	desc="Weapon Option Scroll (Highest)"	/>
-		<msg	id="45"	desc="Armor Option Scroll (Low)"	/>
-		<msg	id="46"	desc="Armor Option Scroll (Med)"	/>
-		<msg	id="47"	desc="Armor Option Scroll (High)"	/>
-		<msg	id="48"	desc="Armor Option Scroll (Highest)"	/>
-		<msg	id="49"	desc="Upgrade Core (Low)"	/>
-		<msg	id="50"	desc="Upgrade Core (Med)"	/>
-		<msg	id="51"	desc="Upgrade Core (High)"	/>
-		<msg	id="52"	desc="Upgrade Core (Highest)"	/>
-		<msg	id="53"	desc="Upgrade Core (Ultimate)"	/>
-		<msg	id="54"	desc="Chaos Core"	/>
-		<msg	id="55"	desc="Divine Stone"	/>
-		<msg	id="56"	desc="Weapon/Armor Option Scroll (Highest)"	/>
-		<msg	id="57"	desc="Weapon/Armor Option Scroll (High)"	/>
-		<msg	id="58"	desc="Weapon/Armor Option Scroll (Med)"	/>
-		<msg	id="59"	desc="Weapon/Armor Option Scroll (Low)"	/>
+		<msg id="41" desc="Weapon Option Scroll (Low)"/>
+		<msg id="42" desc="Weapon Option Scroll (Med)"/>
+		<msg id="43" desc="Weapon Option Scroll (High)"/>
+		<msg id="44" desc="Weapon Option Scroll (Highest)"/>
+		<msg id="45" desc="Armor Option Scroll (Low)"/>
+		<msg id="46" desc="Armor Option Scroll (Med)"/>
+		<msg id="47" desc="Armor Option Scroll (High)"/>
+		<msg id="48" desc="Armor Option Scroll (Highest)"/>
+		<msg id="49" desc="Upgrade Core (Low)"/>
+		<msg id="50" desc="Upgrade Core (Med)"/>
+		<msg id="51" desc="Upgrade Core (High)"/>
+		<msg id="52" desc="Upgrade Core (Highest)"/>
+		<msg id="53" desc="Upgrade Core (Ultimate)"/>
+		<msg id="54" desc="Chaos Core"/>
+		<msg id="55" desc="Divine Stone"/>
+		<msg id="56" desc="Weapon/Armor Option Scroll (Highest)"/>
+		<msg id="57" desc="Weapon/Armor Option Scroll (High)"/>
+		<msg id="58" desc="Weapon/Armor Option Scroll (Med)"/>
+		<msg id="59" desc="Weapon/Armor Option Scroll (Low)"/>
 	</change_group>
 </Heil_message>

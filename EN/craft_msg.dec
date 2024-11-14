@@ -1,855 +1,842 @@
 <craft_message>
-	<version	index="1"	/>
+	<version index="2"/>
+	<version index="2"/>
 	<craft_category_msg>
-		<msg	id="category01"	cont="Craftsman's Orb"	/>
-		<msg	id="category02"	cont="Craftsman's Crystal"	/>
-		<msg	id="category03"	cont="Craftsman's Katana"	/>
-		<msg	id="category04"	cont="Craftsman's Blade"	/>
-		<msg	id="category05"	cont="Craftsman's Daikatana"	/>
-		<msg	id="category06"	cont="Craftsman's Greatsword"	/>
-		<msg	id="category07"	cont="Craftsman's Gauntlets (WA)"	/>
-		<msg	id="category08"	cont="Craftsman's Greaves (WA)"	/>
-		<msg	id="category09"	cont="Craftsman's Visor (WA)"	/>
-		<msg	id="category10"	cont="Craftsman's Plate (WA)"	/>
-		<msg	id="category11"	cont="Craftsman's Gloves (FA)"	/>
-		<msg	id="category12"	cont="Craftsman's Boots (FA)"	/>
-		<msg	id="category13"	cont="Craftsman's Headgear (FA)"	/>
-		<msg	id="category14"	cont="Craftsman's Coat (FA)"	/>
-		<msg	id="category15"	cont="Craftsman's Hands (BL)"	/>
-		<msg	id="category16"	cont="Craftsman's Shoes (BL)"	/>
-		<msg	id="category17"	cont="Craftsman's Headpiece (BL)"	/>
-		<msg	id="category18"	cont="Craftsman's Suit (BL)"	/>
-		<msg	id="category19"	cont="Ring"	/>
-		<msg	id="category20"	cont="Amulet"	/>
-		<msg	id="category21"	cont="Master's Orb"	/>
-		<msg	id="category22"	cont="Master's Crystal"	/>
-		<msg	id="category23"	cont="Master's Katana"	/>
-		<msg	id="category24"	cont="Master's Blade"	/>
-		<msg	id="category25"	cont="Master's Daikatana"	/>
-		<msg	id="category26"	cont="Master's Greatsword"	/>
-		<msg	id="category27"	cont="Master's Gauntlets (WA)"	/>
-		<msg	id="category28"	cont="Master's Greaves (WA)"	/>
-		<msg	id="category29"	cont="Master's Visor (WA)"	/>
-		<msg	id="category30"	cont="Master's Plate (WA)"	/>
-		<msg	id="category31"	cont="Master's Gloves (FA)"	/>
-		<msg	id="category32"	cont="Master's Boots (FA)"	/>
-		<msg	id="category33"	cont="Master's Headgear (FA)"	/>
-		<msg	id="category34"	cont="Master's Coat (FA)"	/>
-		<msg	id="category35"	cont="Master's Hands (BL)"	/>
-		<msg	id="category36"	cont="Master's Shoes (BL)"	/>
-		<msg	id="category37"	cont="Master's Headpiece (BL)"	/>
-		<msg	id="category38"	cont="Master's Suit (BL)"	/>
-		<msg	id="category39"	cont="Craftsman's Gauntlets (FS)"	/>
-		<msg	id="category40"	cont="Craftsman's Greaves (FS)"	/>
-		<msg	id="category41"	cont="Craftsman's Visor (FS)"	/>
-		<msg	id="category42"	cont="Craftsman's Plate (FS)"	/>
-		<msg	id="category43"	cont="Craftsman's Gauntlets (GL)"	/>
-		<msg	id="category44"	cont="Craftsman's Greaves (GL)"	/>
-		<msg	id="category45"	cont="Craftsman's Visor (GL)"	/>
-		<msg	id="category46"	cont="Craftsman's Plate (GL)"	/>
-		<msg	id="category47"	cont="Craftsman's Gloves (FB)"	/>
-		<msg	id="category48"	cont="Craftsman's Boots (FB)"	/>
-		<msg	id="category49"	cont="Craftsman's Headgear (FB)"	/>
-		<msg	id="category50"	cont="Craftsman's Coat (FB)"	/>
-		<msg	id="category51"	cont="Craftsman's Hands (WI)"	/>
-		<msg	id="category52"	cont="Craftsman's Shoes (WI)"	/>
-		<msg	id="category53"	cont="Craftsman's Headpiece (WI)"	/>
-		<msg	id="category54"	cont="Craftsman's Suit (WI)"	/>
-		<msg	id="category55"	cont="Master's Gauntlets (FS)"	/>
-		<msg	id="category56"	cont="Master's Greaves (FS)"	/>
-		<msg	id="category57"	cont="Master's Visor (FS)"	/>
-		<msg	id="category58"	cont="Master's Plate (FS)"	/>
-		<msg	id="category59"	cont="Master's Gauntlets (GL)"	/>
-		<msg	id="category60"	cont="Master's Greaves (GL)"	/>
-		<msg	id="category61"	cont="Master's Visor (GL)"	/>
-		<msg	id="category62"	cont="Master's Plate (GL)"	/>
-		<msg	id="category63"	cont="Master's Gloves (FB)"	/>
-		<msg	id="category64"	cont="Master's Boots (FB)"	/>
-		<msg	id="category65"	cont="Master's Headgear (FB)"	/>
-		<msg	id="category66"	cont="Master's Coat (FB)"	/>
-		<msg	id="category67"	cont="Master's Hands (WI)"	/>
-		<msg	id="category68"	cont="Master's Shoes (WI)"	/>
-		<msg	id="category69"	cont="Master's Headpiece (WI)"	/>
-		<msg	id="category70"	cont="Master's Suit (WI)"	/>
-		<msg	id="category71"	cont="Craftman's Chakram"	/>
-		<msg	id="category72"	cont="Master's Chakram"	/>
-		<msg	id="category73"	cont="Master's Gloves"	/>
-		<msg	id="category74"	cont="Master's Boots (FG)"	/>
-		<msg	id="category75"	cont="Master's Headgear (FG)"	/>
-		<msg	id="category76"	cont="Master's Coat (FG)"	/>
-		<msg	id="category77"	cont="Craftsman's Gloves (FG)"	/>
-		<msg	id="category78"	cont="Craftsman's Boots (FG)"	/>
-		<msg	id="category79"	cont="Craftsman's Headgear (FG)"	/>
-		<msg	id="category80"	cont="Craftsman's Coat (FG)"	/>
-		<msg	id="category81"	cont="Craftsman's Hands (DM)"	/>
-		<msg	id="category82"	cont="Craftsman's Shoes (DM)"	/>
-		<msg	id="category83"	cont="Craftsman's Headpiece (DM)"	/>
-		<msg	id="category84"	cont="Craftsman's Suit (DM)"	/>
-		<msg	id="category85"	cont="Master's Hands (DM)"	/>
-		<msg	id="category86"	cont="Master's Shoes (DM)"	/>
-		<msg	id="category87"	cont="Master's Headpiece (DM)"	/>
-		<msg	id="category88"	cont="Master's Suit (DM)"	/>
+		<msg id="category01" cont="Craftsman's Orb"/>
+		<msg id="category02" cont="Craftsman's Crystal"/>
+		<msg id="category03" cont="Craftsman's Katana"/>
+		<msg id="category04" cont="Craftsman's Blade"/>
+		<msg id="category05" cont="Craftsman's Daikatana"/>
+		<msg id="category06" cont="Craftsman's Greatsword"/>
+		<msg id="category07" cont="Craftsman's Gauntlets (WA)"/>
+		<msg id="category08" cont="Craftsman's Greaves (WA)"/>
+		<msg id="category09" cont="Craftsman's Visor (WA)"/>
+		<msg id="category10" cont="Craftsman's Plate (WA)"/>
+		<msg id="category11" cont="Craftsman's Gloves (FA)"/>
+		<msg id="category12" cont="Craftsman's Boots (FA)"/>
+		<msg id="category13" cont="Craftsman's Headgear (FA)"/>
+		<msg id="category14" cont="Craftsman's Coat (FA)"/>
+		<msg id="category15" cont="Craftsman's Hands (BL)"/>
+		<msg id="category16" cont="Craftsman's Shoes (BL)"/>
+		<msg id="category17" cont="Craftsman's Headpiece (BL)"/>
+		<msg id="category18" cont="Craftsman's Suit (BL)"/>
+		<msg id="category19" cont="Ring"/>
+		<msg id="category20" cont="Amulet"/>
+		<msg id="category21" cont="Master's Orb"/>
+		<msg id="category22" cont="Master's Crystal"/>
+		<msg id="category23" cont="Master's Katana"/>
+		<msg id="category24" cont="Master's Blade"/>
+		<msg id="category25" cont="Master's Daikatana"/>
+		<msg id="category26" cont="Master's Greatsword"/>
+		<msg id="category27" cont="Master's Gauntlets (WA)"/>
+		<msg id="category28" cont="Master's Greaves (WA)"/>
+		<msg id="category29" cont="Master's Visor (WA)"/>
+		<msg id="category30" cont="Master's Plate (WA)"/>
+		<msg id="category31" cont="Master's Gloves (FA)"/>
+		<msg id="category32" cont="Master's Boots (FA)"/>
+		<msg id="category33" cont="Master's Headgear (FA)"/>
+		<msg id="category34" cont="Master's Coat (FA)"/>
+		<msg id="category35" cont="Master's Hands (BL)"/>
+		<msg id="category36" cont="Master's Shoes (BL)"/>
+		<msg id="category37" cont="Master's Headpiece (BL)"/>
+		<msg id="category38" cont="Master's Suit (BL)"/>
+		<msg id="category39" cont="Craftsman's Gauntlets (FS)"/>
+		<msg id="category40" cont="Craftsman's Greaves (FS)"/>
+		<msg id="category41" cont="Craftsman's Visor (FS)"/>
+		<msg id="category42" cont="Craftsman's Plate (FS)"/>
+		<msg id="category43" cont="Craftsman's Gauntlets (GL)"/>
+		<msg id="category44" cont="Craftsman's Greaves (GL)"/>
+		<msg id="category45" cont="Craftsman's Visor (GL)"/>
+		<msg id="category46" cont="Craftsman's Plate (GL)"/>
+		<msg id="category47" cont="Craftsman's Gloves (FB)"/>
+		<msg id="category48" cont="Craftsman's Boots (FB)"/>
+		<msg id="category49" cont="Craftsman's Headgear (FB)"/>
+		<msg id="category50" cont="Craftsman's Coat (FB)"/>
+		<msg id="category51" cont="Craftsman's Hands (WI)"/>
+		<msg id="category52" cont="Craftsman's Shoes (WI)"/>
+		<msg id="category53" cont="Craftsman's Headpiece (WI)"/>
+		<msg id="category54" cont="Craftsman's Suit (WI)"/>
+		<msg id="category55" cont="Master's Gauntlets (FS)"/>
+		<msg id="category56" cont="Master's Greaves (FS)"/>
+		<msg id="category57" cont="Master's Visor (FS)"/>
+		<msg id="category58" cont="Master's Plate (FS)"/>
+		<msg id="category59" cont="Master's Gauntlets (GL)"/>
+		<msg id="category60" cont="Master's Greaves (GL)"/>
+		<msg id="category61" cont="Master's Visor (GL)"/>
+		<msg id="category62" cont="Master's Plate (GL)"/>
+		<msg id="category63" cont="Master's Gloves (FB)"/>
+		<msg id="category64" cont="Master's Boots (FB)"/>
+		<msg id="category65" cont="Master's Headgear (FB)"/>
+		<msg id="category66" cont="Master's Coat (FB)"/>
+		<msg id="category67" cont="Master's Hands (WI)"/>
+		<msg id="category68" cont="Master's Shoes (WI)"/>
+		<msg id="category69" cont="Master's Headpiece (WI)"/>
+		<msg id="category70" cont="Master's Suit (WI)"/>
+		<msg id="category71" cont="Craftman's Chakram"/>
+		<msg id="category72" cont="Master's Chakram"/>
+		<msg id="category73" cont="Master's Gloves"/>
+		<msg id="category74" cont="Master's Boots (FG)"/>
+		<msg id="category75" cont="Master's Headgear (FG)"/>
+		<msg id="category76" cont="Master's Coat (FG)"/>
+		<msg id="category77" cont="Craftsman's Gloves (FG)"/>
+		<msg id="category78" cont="Craftsman's Boots (FG)"/>
+		<msg id="category79" cont="Craftsman's Headgear (FG)"/>
+		<msg id="category80" cont="Craftsman's Coat (FG)"/>
+		<msg id="category81" cont="Craftsman's Hands (DM)"/>
+		<msg id="category82" cont="Craftsman's Shoes (DM)"/>
+		<msg id="category83" cont="Craftsman's Headpiece (DM)"/>
+		<msg id="category84" cont="Craftsman's Suit (DM)"/>
+		<msg id="category85" cont="Master's Hands (DM)"/>
+		<msg id="category86" cont="Master's Shoes (DM)"/>
+		<msg id="category87" cont="Master's Headpiece (DM)"/>
+		<msg id="category88" cont="Master's Suit (DM)"/>
 	</craft_category_msg>
 	<craft_grade_msg>
-		<msg	id="grade001"	cont="Bluestin"	/>
-		<msg	id="grade002"	cont="Bluestin"	/>
-		<msg	id="grade003"	cont="Bluestin (Expert)"	/>
-		<msg	id="grade004"	cont="Pherystin"	/>
-		<msg	id="grade005"	cont="Pherystin"	/>
-		<msg	id="grade006"	cont="Pherystin (Expert)"	/>
-		<msg	id="grade007"	cont="Aqua"	/>
-		<msg	id="grade008"	cont="Aqua"	/>
-		<msg	id="grade009"	cont="Aqua (Expert)"	/>
-		<msg	id="grade010"	cont="Lapis"	/>
-		<msg	id="grade011"	cont="Lapis"	/>
-		<msg	id="grade012"	cont="Lapis (Expert)"	/>
-		<msg	id="grade013"	cont="Topaz"	/>
-		<msg	id="grade014"	cont="Topaz"	/>
-		<msg	id="grade015"	cont="Topaz (Expert)"	/>
-		<msg	id="grade016"	cont="SIGMetal"	/>
-		<msg	id="grade017"	cont="SIGMetal"	/>
-		<msg	id="grade018"	cont="SIGMetal (Expert)"	/>
-		<msg	id="grade019"	cont="Mithril"	/>
-		<msg	id="grade020"	cont="Mithril"	/>
-		<msg	id="grade021"	cont="Mithril (Expert)"	/>
-		<msg	id="grade022"	cont="Bluestin"	/>
-		<msg	id="grade023"	cont="Bluestin"	/>
-		<msg	id="grade024"	cont="Bluestin (Expert)"	/>
-		<msg	id="grade025"	cont="Titanium"	/>
-		<msg	id="grade026"	cont="Titanium"	/>
-		<msg	id="grade027"	cont="Titanium (Expert)"	/>
-		<msg	id="grade028"	cont="Shadow Titanium"	/>
-		<msg	id="grade029"	cont="Shadow Titanium"	/>
-		<msg	id="grade030"	cont="Shadow Titanium (Expert)"	/>
-		<msg	id="grade031"	cont="Osmium"	/>
-		<msg	id="grade032"	cont="Osmium"	/>
-		<msg	id="grade033"	cont="Osmium (Expert)"	/>
-		<msg	id="grade034"	cont="Red Osmium"	/>
-		<msg	id="grade035"	cont="Red Osmium"	/>
-		<msg	id="grade036"	cont="Red Osmium (Expert)"	/>
-		<msg	id="grade037"	cont="SIGMetal"	/>
-		<msg	id="grade038"	cont="SIGMetal"	/>
-		<msg	id="grade039"	cont="SIGMetal (Expert)"	/>
-		<msg	id="grade040"	cont="Mithril"	/>
-		<msg	id="grade041"	cont="Mithril"	/>
-		<msg	id="grade042"	cont="Mithril (Expert)"	/>
-		<msg	id="grade043"	cont="Bluestin (WA)"	/>
-		<msg	id="grade044"	cont="Bluestin (FS)"	/>
-		<msg	id="grade045"	cont="Bluestin (WA)"	/>
-		<msg	id="grade046"	cont="Bluestin (FS)"	/>
-		<msg	id="grade047"	cont="Bluestin (WA) (Expert)"	/>
-		<msg	id="grade048"	cont="Bluestin (FS) (Expert)"	/>
-		<msg	id="grade049"	cont="Titanium (WA)"	/>
-		<msg	id="grade050"	cont="Titanium (FS)"	/>
-		<msg	id="grade051"	cont="Titanium (WA)"	/>
-		<msg	id="grade052"	cont="Titanium (FS)"	/>
-		<msg	id="grade053"	cont="Titanium (WA) (Expert)"	/>
-		<msg	id="grade054"	cont="Titanium (FS) (Expert)"	/>
-		<msg	id="grade055"	cont="Shadow Titanium (WA)"	/>
-		<msg	id="grade056"	cont="Shadow Titanium (FS)"	/>
-		<msg	id="grade057"	cont="Shadow Titanium (WA)"	/>
-		<msg	id="grade058"	cont="Shadow Titanium (FS)"	/>
-		<msg	id="grade059"	cont="Shadow Titanium (WA) (Expert)"	/>
-		<msg	id="grade060"	cont="Shadow Titanium (FS) (Expert)"	/>
-		<msg	id="grade061"	cont="Osmium (WA)"	/>
-		<msg	id="grade062"	cont="Osmium (FS)"	/>
-		<msg	id="grade063"	cont="Osmium (WA)"	/>
-		<msg	id="grade064"	cont="Osmium (FS)"	/>
-		<msg	id="grade065"	cont="Osmium (WA) (Expert)"	/>
-		<msg	id="grade066"	cont="Osmium (FS) (Expert)"	/>
-		<msg	id="grade067"	cont="Shineguard (WA)"	/>
-		<msg	id="grade068"	cont="Shineguard (FS)"	/>
-		<msg	id="grade069"	cont="Shineguard (WA)"	/>
-		<msg	id="grade070"	cont="Shineguard (FS)"	/>
-		<msg	id="grade071"	cont="Shineguard (WA) (Expert)"	/>
-		<msg	id="grade072"	cont="Shineguard (FS) (Expert)"	/>
-		<msg	id="grade073"	cont="SIGMetal (WA)"	/>
-		<msg	id="grade074"	cont="SIGMetal (FS)"	/>
-		<msg	id="grade075"	cont="SIGMetal (WA)"	/>
-		<msg	id="grade076"	cont="SIGMetal (FS)"	/>
-		<msg	id="grade077"	cont="SIGMetal (WA) (Expert)"	/>
-		<msg	id="grade078"	cont="SIGMetal (FS) (Expert)"	/>
-		<msg	id="grade079"	cont="Mithril (WA)"	/>
-		<msg	id="grade080"	cont="Mithril (FS)"	/>
-		<msg	id="grade081"	cont="Mithril (WA)"	/>
-		<msg	id="grade082"	cont="Mithril (FS)"	/>
-		<msg	id="grade083"	cont="Mithril (WA) (Expert)"	/>
-		<msg	id="grade084"	cont="Mithril (FS) (Expert)"	/>
-		<msg	id="grade085"	cont="Bluestin (FB)"	/>
-		<msg	id="grade086"	cont="Bluestin (FA)"	/>
-		<msg	id="grade087"	cont="Bluestin (FB)"	/>
-		<msg	id="grade088"	cont="Bluestin (FA)"	/>
-		<msg	id="grade089"	cont="Bluestin (FB) (Expert)"	/>
-		<msg	id="grade090"	cont="Bluestin (FA) (Expert)"	/>
-		<msg	id="grade091"	cont="Titanium (FB)"	/>
-		<msg	id="grade092"	cont="Titanium (FA)"	/>
-		<msg	id="grade093"	cont="Titanium (FB)"	/>
-		<msg	id="grade094"	cont="Titanium (FA)"	/>
-		<msg	id="grade095"	cont="Titanium (FB) (Expert)"	/>
-		<msg	id="grade096"	cont="Titanium (FA) (Expert)"	/>
-		<msg	id="grade097"	cont="Shadow Titanium (FB)"	/>
-		<msg	id="grade098"	cont="Shadow Titanium (FA)"	/>
-		<msg	id="grade099"	cont="Shadow Titanium (FB)"	/>
-		<msg	id="grade100"	cont="Shadow Titanium (FA)"	/>
-		<msg	id="grade101"	cont="Shadow Titanium (FB) (Expert)"	/>
-		<msg	id="grade102"	cont="Shadow Titanium (FA) (Expert)"	/>
-		<msg	id="grade103"	cont="Osmium (FB)"	/>
-		<msg	id="grade104"	cont="Osmium (FA)"	/>
-		<msg	id="grade105"	cont="Osmium (FB)"	/>
-		<msg	id="grade106"	cont="Osmium (FA)"	/>
-		<msg	id="grade107"	cont="Osmium (FB) (Expert)"	/>
-		<msg	id="grade108"	cont="Osmium (FA) (Expert)"	/>
-		<msg	id="grade109"	cont="Teragrace (FB)"	/>
-		<msg	id="grade110"	cont="Teragrace (FA)"	/>
-		<msg	id="grade111"	cont="Teragrace (FB)"	/>
-		<msg	id="grade112"	cont="Teragrace (FA)"	/>
-		<msg	id="grade113"	cont="Teragrace (FB) (Expert)"	/>
-		<msg	id="grade114"	cont="Teragrace (FA) (Expert)"	/>
-		<msg	id="grade115"	cont="SIGMetal (FB)"	/>
-		<msg	id="grade116"	cont="SIGMetal (FA)"	/>
-		<msg	id="grade117"	cont="SIGMetal (FB)"	/>
-		<msg	id="grade118"	cont="SIGMetal (FA)"	/>
-		<msg	id="grade119"	cont="SIGMetal (FB) (Expert)"	/>
-		<msg	id="grade120"	cont="SIGMetal (FA) (Expert)"	/>
-		<msg	id="grade121"	cont="Mithril (FB)"	/>
-		<msg	id="grade122"	cont="Mithril (FA)"	/>
-		<msg	id="grade123"	cont="Mithril (FB)"	/>
-		<msg	id="grade124"	cont="Mithril (FA)"	/>
-		<msg	id="grade125"	cont="Mithril (FB) (Expert)"	/>
-		<msg	id="grade126"	cont="Mithril (FA) (Expert)"	/>
-		<msg	id="grade127"	cont="Bluestin (BL)"	/>
-		<msg	id="grade128"	cont="Bluestin (WI)"	/>
-		<msg	id="grade129"	cont="Bluestin (BL)"	/>
-		<msg	id="grade130"	cont="Bluestin (WI)"	/>
-		<msg	id="grade131"	cont="Bluestin (BL) (Expert)"	/>
-		<msg	id="grade132"	cont="Bluestin (WI) (Expert)"	/>
-		<msg	id="grade133"	cont="Titanium (BL)"	/>
-		<msg	id="grade134"	cont="Titanium (WI)"	/>
-		<msg	id="grade135"	cont="Titanium (BL)"	/>
-		<msg	id="grade136"	cont="Titanium (WI)"	/>
-		<msg	id="grade137"	cont="Titanium (BL) (Expert)"	/>
-		<msg	id="grade138"	cont="Titanium (WI) (Expert)"	/>
-		<msg	id="grade139"	cont="Shadow Titanium (BL)"	/>
-		<msg	id="grade140"	cont="Shadow Titanium (WI)"	/>
-		<msg	id="grade141"	cont="Shadow Titanium (BL)"	/>
-		<msg	id="grade142"	cont="Shadow Titanium (WI)"	/>
-		<msg	id="grade143"	cont="Shadow Titanium (BL) (Expert)"	/>
-		<msg	id="grade144"	cont="Shadow Titanium (WI) (Expert)"	/>
-		<msg	id="grade145"	cont="Osmium (BL)"	/>
-		<msg	id="grade146"	cont="Osmium (WI)"	/>
-		<msg	id="grade147"	cont="Osmium (BL)"	/>
-		<msg	id="grade148"	cont="Osmium (WI)"	/>
-		<msg	id="grade149"	cont="Osmium (BL) (Expert)"	/>
-		<msg	id="grade150"	cont="Osmium (WI) (Expert)"	/>
-		<msg	id="grade151"	cont="Mystic (BL)"	/>
-		<msg	id="grade152"	cont="Mystic (WI)"	/>
-		<msg	id="grade153"	cont="Mystic (BL)"	/>
-		<msg	id="grade154"	cont="Mystic (WI)"	/>
-		<msg	id="grade155"	cont="Mystic (BL) (Expert)"	/>
-		<msg	id="grade156"	cont="Mystic (WI) (Expert)"	/>
-		<msg	id="grade157"	cont="SIGMetal (BL)"	/>
-		<msg	id="grade158"	cont="SIGMetal (WI)"	/>
-		<msg	id="grade159"	cont="SIGMetal (BL)"	/>
-		<msg	id="grade160"	cont="SIGMetal (WI)"	/>
-		<msg	id="grade161"	cont="SIGMetal (BL) (Expert)"	/>
-		<msg	id="grade162"	cont="SIGMetal (WI) (Expert)"	/>
-		<msg	id="grade163"	cont="Mithril (BL)"	/>
-		<msg	id="grade164"	cont="Mithril (WI)"	/>
-		<msg	id="grade165"	cont="Mithril (BL)"	/>
-		<msg	id="grade166"	cont="Mithril (WI)"	/>
-		<msg	id="grade167"	cont="Mithril (BL) (Expert)"	/>
-		<msg	id="grade168"	cont="Mithril (WI) (Expert)"	/>
-		<msg	id="grade169"	cont="Ring Craft Lv. 1"	/>
-		<msg	id="grade170"	cont="Ring Craft Lv. 2"	/>
-		<msg	id="grade171"	cont="Ring Craft Lv. 3"	/>
-		<msg	id="grade172"	cont="Ring Craft Lv. 4"	/>
-		<msg	id="grade173"	cont="Amulet Craft Lv. 1"	/>
-		<msg	id="grade174"	cont="Amulet Craft Lv. 2"	/>
-		<msg	id="grade175"	cont="Amulet Craft Lv. 3"	/>
-		<msg	id="grade176"	cont="Amulet Craft Lv. 4"	/>
-		<msg	id="grade177"	cont="Bluestin"	/>
-		<msg	id="grade178"	cont="Bluestin"	/>
-		<msg	id="grade179"	cont="Bluestin (Smith)"	/>
-		<msg	id="grade180"	cont="Titanium"	/>
-		<msg	id="grade181"	cont="Titanium"	/>
-		<msg	id="grade182"	cont="Titanium (Smith)"	/>
-		<msg	id="grade183"	cont="Shadow Titanium"	/>
-		<msg	id="grade184"	cont="Shadow Titanium"	/>
-		<msg	id="grade185"	cont="Shadow Titanium (Smith)"	/>
-		<msg	id="grade186"	cont="Osmium"	/>
-		<msg	id="grade187"	cont="Osmium"	/>
-		<msg	id="grade188"	cont="Osmium (Smith)"	/>
-		<msg	id="grade189"	cont="Red Osmium"	/>
-		<msg	id="grade190"	cont="Red Osmium"	/>
-		<msg	id="grade191"	cont="Red Osmium (Smith)"	/>
-		<msg	id="grade192"	cont="SIGMetal"	/>
-		<msg	id="grade193"	cont="SIGMetal"	/>
-		<msg	id="grade194"	cont="SIGMetal (Smith)"	/>
-		<msg	id="grade195"	cont="Mithril"	/>
-		<msg	id="grade196"	cont="Mithril"	/>
-		<msg	id="grade197"	cont="Mithril (Smith)"	/>
-		<msg	id="grade198"	cont="Bluestin (GL)"	/>
-		<msg	id="grade199"	cont="Bluestin (GL)"	/>
-		<msg	id="grade200"	cont="Bluestin (GL) (Smith)"	/>
-		<msg	id="grade201"	cont="Titanium (GL)"	/>
-		<msg	id="grade202"	cont="Titanium (GL)"	/>
-		<msg	id="grade203"	cont="Titanium (GL) (Smith)"	/>
-		<msg	id="grade204"	cont="Shadow Titanium (GL)"	/>
-		<msg	id="grade205"	cont="Shadow Titanium (GL)"	/>
-		<msg	id="grade206"	cont="Shadow Titanium (GL) (Smith)"	/>
-		<msg	id="grade207"	cont="Osmium (GL)"	/>
-		<msg	id="grade208"	cont="Osmium (GL)"	/>
-		<msg	id="grade209"	cont="Osmium (GL) (Smith)"	/>
-		<msg	id="grade210"	cont="Shineguard (GL)"	/>
-		<msg	id="grade211"	cont="Shineguard (GL)"	/>
-		<msg	id="grade212"	cont="Shineguard (GL) (Smith)"	/>
-		<msg	id="grade213"	cont="SIGMetal (GL)"	/>
-		<msg	id="grade214"	cont="SIGMetal (GL)"	/>
-		<msg	id="grade215"	cont="SIGMetal (GL) (Smith)"	/>
-		<msg	id="grade216"	cont="Mithril (GL)"	/>
-		<msg	id="grade217"	cont="Mithril (GL)"	/>
-		<msg	id="grade218"	cont="Mithril (GL) (Smith)"	/>
-		<msg	id="grade219"	cont="Archridium"	/>
-		<msg	id="grade220"	cont="Archridium"	/>
-		<msg	id="grade221"	cont="Archridium"	/>
-		<msg	id="grade222"	cont="Archridium"	/>
-		<msg	id="grade223"	cont="Archridium (WA)"	/>
-		<msg	id="grade224"	cont="Archridium (FS)"	/>
-		<msg	id="grade225"	cont="Archridium (WA)"	/>
-		<msg	id="grade226"	cont="Archridium (FS)"	/>
-		<msg	id="grade227"	cont="Archridium (GL)"	/>
-		<msg	id="grade228"	cont="Archridium (GL)"	/>
-		<msg	id="grade229"	cont="Archridium (FB)"	/>
-		<msg	id="grade230"	cont="Archridium (FA)"	/>
-		<msg	id="grade231"	cont="Archridium (FB)"	/>
-		<msg	id="grade232"	cont="Archridium (FA)"	/>
-		<msg	id="grade233"	cont="Archridium (BL)"	/>
-		<msg	id="grade234"	cont="Archridium (WI)"	/>
-		<msg	id="grade235"	cont="Archridium (BL)"	/>
-		<msg	id="grade236"	cont="Archridium (WI)"	/>
-		<msg	id="grade237"	cont="Archridium"	/>
-		<msg	id="grade238"	cont="Archridium"	/>
-		<msg	id="grade239"	cont="Bluestin (FG)"	/>
-		<msg	id="grade240"	cont="Bluestin (FG)"	/>
-		<msg	id="grade241"	cont="Bluestin (FG) (Expert)"	/>
-		<msg	id="grade242"	cont="Titanium (FG)"	/>
-		<msg	id="grade243"	cont="Titanium (FG)"	/>
-		<msg	id="grade244"	cont="Titanium (FG) (Expert)"	/>
-		<msg	id="grade245"	cont="Shadow Titanium (FG)"	/>
-		<msg	id="grade246"	cont="Shadow Titanium (FG)"	/>
-		<msg	id="grade247"	cont="Shadow Titanium (FG) (Expert)"	/>
-		<msg	id="grade248"	cont="Osmium (FG)"	/>
-		<msg	id="grade249"	cont="Osmium (FG)"	/>
-		<msg	id="grade250"	cont="Osmium (FG) (Expert)"	/>
-		<msg	id="grade251"	cont="Teragrace (FG)"	/>
-		<msg	id="grade252"	cont="Teragrace (FG)"	/>
-		<msg	id="grade253"	cont="Teragrace (FG) (Expert)"	/>
-		<msg	id="grade254"	cont="SIGMetal (FG)"	/>
-		<msg	id="grade255"	cont="SIGMetal (FG)"	/>
-		<msg	id="grade256"	cont="SIGMetal (FG) (Expert)"	/>
-		<msg	id="grade257"	cont="Mithril (FG)"	/>
-		<msg	id="grade258"	cont="Mithril (FG)"	/>
-		<msg	id="grade259"	cont="Mithril (FG) (Expert)"	/>
-		<msg	id="grade260"	cont="Archridium (FG)"	/>
-		<msg	id="grade261"	cont="Archridium (FG)"	/>
-		<msg	id="grade262"	cont="Palladium"	/>
-		<msg	id="grade263"	cont="Palladium"	/>
-		<msg	id="grade264"	cont="Palladium"	/>
-		<msg	id="grade265"	cont="Palladium"	/>
-		<msg	id="grade266"	cont="Palladium(WA)"	/>
-		<msg	id="grade267"	cont="Palladium(FS)"	/>
-		<msg	id="grade268"	cont="Palladium(WA)"	/>
-		<msg	id="grade269"	cont="Palladium(FS)"	/>
-		<msg	id="grade270"	cont="Palladium(GL)"	/>
-		<msg	id="grade271"	cont="Palladium(GL)"	/>
-		<msg	id="grade272"	cont="Palladium(FB)"	/>
-		<msg	id="grade273"	cont="Palladium(FA)"	/>
-		<msg	id="grade274"	cont="Palladium(FB)"	/>
-		<msg	id="grade275"	cont="Palladium(FA)"	/>
-		<msg	id="grade276"	cont="Palladium(BL)"	/>
-		<msg	id="grade277"	cont="Palladium(WI)"	/>
-		<msg	id="grade278"	cont="Palladium(BL)"	/>
-		<msg	id="grade279"	cont="Palladium(WI)"	/>
-		<msg	id="grade280"	cont="Palladium"	/>
-		<msg	id="grade281"	cont="Palladium"	/>
-		<msg	id="grade282"	cont="Palladium(FG)"	/>
-		<msg	id="grade283"	cont="Palladium(FG)"	/>
-		<msg	id="grade284"	cont="Bluestin (DM)"	/>
-		<msg	id="grade285"	cont="Bluestin (DM)"	/>
-		<msg	id="grade286"	cont="Bluestin (DM) (Expert)"	/>
-		<msg	id="grade287"	cont="Titanium (DM)"	/>
-		<msg	id="grade288"	cont="Titanium (DM)"	/>
-		<msg	id="grade289"	cont="Titanium (DM) (Expert)&#xA;"	/>
-		<msg	id="grade290"	cont="Shadow Titanium (DM)"	/>
-		<msg	id="grade291"	cont="Shadow Titanium (DM)"	/>
-		<msg	id="grade292"	cont="Shadow Titanium (DM) (Expert)"	/>
-		<msg	id="grade293"	cont="Osmium (DM)"	/>
-		<msg	id="grade294"	cont="Osmium (DM)"	/>
-		<msg	id="grade295"	cont="Osmium (DM) (Expert)"	/>
-		<msg	id="grade296"	cont="Mystic (DM)"	/>
-		<msg	id="grade297"	cont="Mystic (DM)"	/>
-		<msg	id="grade298"	cont="Mystic (DM) (Expert)"	/>
-		<msg	id="grade299"	cont="SIGMetal (DM)"	/>
-		<msg	id="grade300"	cont="SIGMetal (DM)"	/>
-		<msg	id="grade301"	cont="SIGMetal (DM) (Expert)"	/>
-		<msg	id="grade302"	cont="Mithril (DM)"	/>
-		<msg	id="grade303"	cont="Mithril (DM)"	/>
-		<msg	id="grade304"	cont="Mithril (DM) (Expert)"	/>
-		<msg	id="grade305"	cont="Archridium (DM)"	/>
-		<msg	id="grade306"	cont="Archridium (DM)"	/>
-		<msg	id="grade307"	cont="Palladium (DM)"	/>
-		<msg	id="grade308"	cont="Palladium (DM)"	/>
+		<msg id="grade001" cont="Bluestin"/>
+		<msg id="grade002" cont="Bluestin"/>
+		<msg id="grade003" cont="Bluestin (Expert)"/>
+		<msg id="grade004" cont="Pherystin"/>
+		<msg id="grade005" cont="Pherystin"/>
+		<msg id="grade006" cont="Pherystin (Expert)"/>
+		<msg id="grade007" cont="Aqua"/>
+		<msg id="grade008" cont="Aqua"/>
+		<msg id="grade009" cont="Aqua (Expert)"/>
+		<msg id="grade010" cont="Lapis"/>
+		<msg id="grade011" cont="Lapis"/>
+		<msg id="grade012" cont="Lapis (Expert)"/>
+		<msg id="grade013" cont="Topaz"/>
+		<msg id="grade014" cont="Topaz"/>
+		<msg id="grade015" cont="Topaz (Expert)"/>
+		<msg id="grade016" cont="SIGMetal"/>
+		<msg id="grade017" cont="SIGMetal"/>
+		<msg id="grade018" cont="SIGMetal (Expert)"/>
+		<msg id="grade019" cont="Forcium"/>
+		<msg id="grade020" cont="Forcium"/>
+		<msg id="grade021" cont="Forcium (Expert)"/>
+		<msg id="grade022" cont="Bluestin"/>
+		<msg id="grade023" cont="Bluestin"/>
+		<msg id="grade024" cont="Bluestin (Expert)"/>
+		<msg id="grade025" cont="Titanium"/>
+		<msg id="grade026" cont="Titanium"/>
+		<msg id="grade027" cont="Titanium (Expert)"/>
+		<msg id="grade028" cont="Shadow Titanium"/>
+		<msg id="grade029" cont="Shadow Titanium"/>
+		<msg id="grade030" cont="Shadow Titanium (Expert)"/>
+		<msg id="grade031" cont="Osmium"/>
+		<msg id="grade032" cont="Osmium"/>
+		<msg id="grade033" cont="Osmium (Expert)"/>
+		<msg id="grade034" cont="Red Osmium"/>
+		<msg id="grade035" cont="Red Osmium"/>
+		<msg id="grade036" cont="Red Osmium (Expert)"/>
+		<msg id="grade037" cont="SIGMetal"/>
+		<msg id="grade038" cont="SIGMetal"/>
+		<msg id="grade039" cont="SIGMetal (Expert)"/>
+		<msg id="grade040" cont="Forcium"/>
+		<msg id="grade041" cont="Forcium"/>
+		<msg id="grade042" cont="Forcium (Expert)"/>
+		<msg id="grade043" cont="Bluestin (WA)"/>
+		<msg id="grade044" cont="Bluestin (FS)"/>
+		<msg id="grade045" cont="Bluestin (WA)"/>
+		<msg id="grade046" cont="Bluestin (FS)"/>
+		<msg id="grade047" cont="Bluestin (WA) (Expert)"/>
+		<msg id="grade048" cont="Bluestin (FS) (Expert)"/>
+		<msg id="grade049" cont="Titanium (WA)"/>
+		<msg id="grade050" cont="Titanium (FS)"/>
+		<msg id="grade051" cont="Titanium (WA)"/>
+		<msg id="grade052" cont="Titanium (FS)"/>
+		<msg id="grade053" cont="Titanium (WA) (Expert)"/>
+		<msg id="grade054" cont="Titanium (FS) (Expert)"/>
+		<msg id="grade055" cont="Shadow Titanium (WA)"/>
+		<msg id="grade056" cont="Shadow Titanium (FS)"/>
+		<msg id="grade057" cont="Shadow Titanium (WA)"/>
+		<msg id="grade058" cont="Shadow Titanium (FS)"/>
+		<msg id="grade059" cont="Shadow Titanium (WA) (Expert)"/>
+		<msg id="grade060" cont="Shadow Titanium (FS) (Expert)"/>
+		<msg id="grade061" cont="Osmium (WA)"/>
+		<msg id="grade062" cont="Osmium (FS)"/>
+		<msg id="grade063" cont="Osmium (WA)"/>
+		<msg id="grade064" cont="Osmium (FS)"/>
+		<msg id="grade065" cont="Osmium (WA) (Expert)"/>
+		<msg id="grade066" cont="Osmium (FS) (Expert)"/>
+		<msg id="grade067" cont="Shineguard (WA)"/>
+		<msg id="grade068" cont="Shineguard (FS)"/>
+		<msg id="grade069" cont="Shineguard (WA)"/>
+		<msg id="grade070" cont="Shineguard (FS)"/>
+		<msg id="grade071" cont="Shineguard (WA) (Expert)"/>
+		<msg id="grade072" cont="Shineguard (FS) (Expert)"/>
+		<msg id="grade073" cont="SIGMetal (WA)"/>
+		<msg id="grade074" cont="SIGMetal (FS)"/>
+		<msg id="grade075" cont="SIGMetal (WA)"/>
+		<msg id="grade076" cont="SIGMetal (FS)"/>
+		<msg id="grade077" cont="SIGMetal (WA) (Expert)"/>
+		<msg id="grade078" cont="SIGMetal (FS) (Expert)"/>
+		<msg id="grade079" cont="Forcium (WA)"/>
+		<msg id="grade080" cont="Forcium (FS)"/>
+		<msg id="grade081" cont="Forcium (WA)"/>
+		<msg id="grade082" cont="Forcium (FS)"/>
+		<msg id="grade083" cont="Forcium (WA) (Expert)"/>
+		<msg id="grade084" cont="Forcium (FS) (Expert)"/>
+		<msg id="grade085" cont="Bluestin (FB)"/>
+		<msg id="grade086" cont="Bluestin (FA)"/>
+		<msg id="grade087" cont="Bluestin (FB)"/>
+		<msg id="grade088" cont="Bluestin (FA)"/>
+		<msg id="grade089" cont="Bluestin (FB) (Expert)"/>
+		<msg id="grade090" cont="Bluestin (FA) (Expert)"/>
+		<msg id="grade091" cont="Titanium (FB)"/>
+		<msg id="grade092" cont="Titanium (FA)"/>
+		<msg id="grade093" cont="Titanium (FB)"/>
+		<msg id="grade094" cont="Titanium (FA)"/>
+		<msg id="grade095" cont="Titanium (FB) (Expert)"/>
+		<msg id="grade096" cont="Titanium (FA) (Expert)"/>
+		<msg id="grade097" cont="Shadow Titanium (FB)"/>
+		<msg id="grade098" cont="Shadow Titanium (FA)"/>
+		<msg id="grade099" cont="Shadow Titanium (FB)"/>
+		<msg id="grade100" cont="Shadow Titanium (FA)"/>
+		<msg id="grade101" cont="Shadow Titanium (FB) (Expert)"/>
+		<msg id="grade102" cont="Shadow Titanium (FA) (Expert)"/>
+		<msg id="grade103" cont="Osmium (FB)"/>
+		<msg id="grade104" cont="Osmium (FA)"/>
+		<msg id="grade105" cont="Osmium (FB)"/>
+		<msg id="grade106" cont="Osmium (FA)"/>
+		<msg id="grade107" cont="Osmium (FB) (Expert)"/>
+		<msg id="grade108" cont="Osmium (FA) (Expert)"/>
+		<msg id="grade109" cont="Teragrace (FB)"/>
+		<msg id="grade110" cont="Teragrace (FA)"/>
+		<msg id="grade111" cont="Teragrace (FB)"/>
+		<msg id="grade112" cont="Teragrace (FA)"/>
+		<msg id="grade113" cont="Teragrace (FB) (Expert)"/>
+		<msg id="grade114" cont="Teragrace (FA) (Expert)"/>
+		<msg id="grade115" cont="SIGMetal (FB)"/>
+		<msg id="grade116" cont="SIGMetal (FA)"/>
+		<msg id="grade117" cont="SIGMetal (FB)"/>
+		<msg id="grade118" cont="SIGMetal (FA)"/>
+		<msg id="grade119" cont="SIGMetal (FB) (Expert)"/>
+		<msg id="grade120" cont="SIGMetal (FA) (Expert)"/>
+		<msg id="grade121" cont="Forcium (FB)"/>
+		<msg id="grade122" cont="Forcium (FA)"/>
+		<msg id="grade123" cont="Forcium (FB)"/>
+		<msg id="grade124" cont="Forcium (FA)"/>
+		<msg id="grade125" cont="Forcium (FB) (Expert)"/>
+		<msg id="grade126" cont="Forcium (FA) (Expert)"/>
+		<msg id="grade127" cont="Bluestin (BL)"/>
+		<msg id="grade128" cont="Bluestin (WI)"/>
+		<msg id="grade129" cont="Bluestin (BL)"/>
+		<msg id="grade130" cont="Bluestin (WI)"/>
+		<msg id="grade131" cont="Bluestin (BL) (Expert)"/>
+		<msg id="grade132" cont="Bluestin (WI) (Expert)"/>
+		<msg id="grade133" cont="Titanium (BL)"/>
+		<msg id="grade134" cont="Titanium (WI)"/>
+		<msg id="grade135" cont="Titanium (BL)"/>
+		<msg id="grade136" cont="Titanium (WI)"/>
+		<msg id="grade137" cont="Titanium (BL) (Expert)"/>
+		<msg id="grade138" cont="Titanium (WI) (Expert)"/>
+		<msg id="grade139" cont="Shadow Titanium (BL)"/>
+		<msg id="grade140" cont="Shadow Titanium (WI)"/>
+		<msg id="grade141" cont="Shadow Titanium (BL)"/>
+		<msg id="grade142" cont="Shadow Titanium (WI)"/>
+		<msg id="grade143" cont="Shadow Titanium (BL) (Expert)"/>
+		<msg id="grade144" cont="Shadow Titanium (WI) (Expert)"/>
+		<msg id="grade145" cont="Osmium (BL)"/>
+		<msg id="grade146" cont="Osmium (WI)"/>
+		<msg id="grade147" cont="Osmium (BL)"/>
+		<msg id="grade148" cont="Osmium (WI)"/>
+		<msg id="grade149" cont="Osmium (BL) (Expert)"/>
+		<msg id="grade150" cont="Osmium (WI) (Expert)"/>
+		<msg id="grade151" cont="Mystic (BL)"/>
+		<msg id="grade152" cont="Mystic (WI)"/>
+		<msg id="grade153" cont="Mystic (BL)"/>
+		<msg id="grade154" cont="Mystic (WI)"/>
+		<msg id="grade155" cont="Mystic (BL) (Expert)"/>
+		<msg id="grade156" cont="Mystic (WI) (Expert)"/>
+		<msg id="grade157" cont="SIGMetal (BL)"/>
+		<msg id="grade158" cont="SIGMetal (WI)"/>
+		<msg id="grade159" cont="SIGMetal (BL)"/>
+		<msg id="grade160" cont="SIGMetal (WI)"/>
+		<msg id="grade161" cont="SIGMetal (BL) (Expert)"/>
+		<msg id="grade162" cont="SIGMetal (WI) (Expert)"/>
+		<msg id="grade163" cont="Forcium (BL)"/>
+		<msg id="grade164" cont="Forcium (WI)"/>
+		<msg id="grade165" cont="Forcium (BL)"/>
+		<msg id="grade166" cont="Forcium (WI)"/>
+		<msg id="grade167" cont="Forcium (BL) (Expert)"/>
+		<msg id="grade168" cont="Forcium (WI) (Expert)"/>
+		<msg id="grade169" cont="Ring Craft Lv. 1"/>
+		<msg id="grade170" cont="Ring Craft Lv. 2"/>
+		<msg id="grade171" cont="Ring Craft Lv. 3"/>
+		<msg id="grade172" cont="Ring Craft Lv. 4"/>
+		<msg id="grade173" cont="Amulet Craft Lv. 1"/>
+		<msg id="grade174" cont="Amulet Craft Lv. 2"/>
+		<msg id="grade175" cont="Amulet Craft Lv. 3"/>
+		<msg id="grade176" cont="Amulet Craft Lv. 4"/>
+		<msg id="grade177" cont="Bluestin"/>
+		<msg id="grade178" cont="Bluestin"/>
+		<msg id="grade179" cont="Bluestin (Smith)"/>
+		<msg id="grade180" cont="Titanium"/>
+		<msg id="grade181" cont="Titanium"/>
+		<msg id="grade182" cont="Titanium (Smith)"/>
+		<msg id="grade183" cont="Shadow Titanium"/>
+		<msg id="grade184" cont="Shadow Titanium"/>
+		<msg id="grade185" cont="Shadow Titanium (Smith)"/>
+		<msg id="grade186" cont="Osmium"/>
+		<msg id="grade187" cont="Osmium"/>
+		<msg id="grade188" cont="Osmium (Smith)"/>
+		<msg id="grade189" cont="Red Osmium"/>
+		<msg id="grade190" cont="Red Osmium"/>
+		<msg id="grade191" cont="Red Osmium (Smith)"/>
+		<msg id="grade192" cont="SIGMetal"/>
+		<msg id="grade193" cont="SIGMetal"/>
+		<msg id="grade194" cont="SIGMetal (Smith)"/>
+		<msg id="grade195" cont="Forcium"/>
+		<msg id="grade196" cont="Forcium"/>
+		<msg id="grade197" cont="Forcium (Smith)"/>
+		<msg id="grade198" cont="Bluestin (GL)"/>
+		<msg id="grade199" cont="Bluestin (GL)"/>
+		<msg id="grade200" cont="Bluestin (GL) (Smith)"/>
+		<msg id="grade201" cont="Titanium (GL)"/>
+		<msg id="grade202" cont="Titanium (GL)"/>
+		<msg id="grade203" cont="Titanium (GL) (Smith)"/>
+		<msg id="grade204" cont="Shadow Titanium (GL)"/>
+		<msg id="grade205" cont="Shadow Titanium (GL)"/>
+		<msg id="grade206" cont="Shadow Titanium (GL) (Smith)"/>
+		<msg id="grade207" cont="Osmium (GL)"/>
+		<msg id="grade208" cont="Osmium (GL)"/>
+		<msg id="grade209" cont="Osmium (GL) (Smith)"/>
+		<msg id="grade210" cont="Shineguard (GL)"/>
+		<msg id="grade211" cont="Shineguard (GL)"/>
+		<msg id="grade212" cont="Shineguard (GL) (Smith)"/>
+		<msg id="grade213" cont="SIGMetal (GL)"/>
+		<msg id="grade214" cont="SIGMetal (GL)"/>
+		<msg id="grade215" cont="SIGMetal (GL) (Smith)"/>
+		<msg id="grade216" cont="Forcium (GL)"/>
+		<msg id="grade217" cont="Forcium (GL)"/>
+		<msg id="grade218" cont="Forcium (GL) (Smith)"/>
+		<msg id="grade219" cont="Archridium"/>
+		<msg id="grade220" cont="Archridium"/>
+		<msg id="grade221" cont="Archridium"/>
+		<msg id="grade222" cont="Archridium"/>
+		<msg id="grade223" cont="Archridium (WA)"/>
+		<msg id="grade224" cont="Archridium (FS)"/>
+		<msg id="grade225" cont="Archridium (WA)"/>
+		<msg id="grade226" cont="Archridium (FS)"/>
+		<msg id="grade227" cont="Archridium (GL)"/>
+		<msg id="grade228" cont="Archridium (GL)"/>
+		<msg id="grade229" cont="Archridium (FB)"/>
+		<msg id="grade230" cont="Archridium (FA)"/>
+		<msg id="grade231" cont="Archridium (FB)"/>
+		<msg id="grade232" cont="Archridium (FA)"/>
+		<msg id="grade233" cont="Archridium (BL)"/>
+		<msg id="grade234" cont="Archridium (WI)"/>
+		<msg id="grade235" cont="Archridium (BL)"/>
+		<msg id="grade236" cont="Archridium (WI)"/>
+		<msg id="grade237" cont="Archridium"/>
+		<msg id="grade238" cont="Archridium"/>
+		<msg id="grade239" cont="Bluestin (FG)"/>
+		<msg id="grade240" cont="Bluestin (FG)"/>
+		<msg id="grade241" cont="Bluestin (FG) (Expert)"/>
+		<msg id="grade242" cont="Titanium (FG)"/>
+		<msg id="grade243" cont="Titanium (FG)"/>
+		<msg id="grade244" cont="Titanium (FG) (Expert)"/>
+		<msg id="grade245" cont="Shadow Titanium (FG)"/>
+		<msg id="grade246" cont="Shadow Titanium (FG)"/>
+		<msg id="grade247" cont="Shadow Titanium (FG) (Expert)"/>
+		<msg id="grade248" cont="Osmium (FG)"/>
+		<msg id="grade249" cont="Osmium (FG)"/>
+		<msg id="grade250" cont="Osmium (FG) (Expert)"/>
+		<msg id="grade251" cont="Teragrace (FG)"/>
+		<msg id="grade252" cont="Teragrace (FG)"/>
+		<msg id="grade253" cont="Teragrace (FG) (Expert)"/>
+		<msg id="grade254" cont="SIGMetal (FG)"/>
+		<msg id="grade255" cont="SIGMetal (FG)"/>
+		<msg id="grade256" cont="SIGMetal (FG) (Expert)"/>
+		<msg id="grade257" cont="Forcium (FG)"/>
+		<msg id="grade258" cont="Forcium (FG)"/>
+		<msg id="grade259" cont="Forcium (FG) (Expert)"/>
+		<msg id="grade260" cont="Archridium (FG)"/>
+		<msg id="grade261" cont="Archridium (FG)"/>
+		<msg id="grade262" cont="Palladium"/>
+		<msg id="grade263" cont="Palladium"/>
+		<msg id="grade264" cont="Palladium"/>
+		<msg id="grade265" cont="Palladium"/>
+		<msg id="grade266" cont="Palladium(WA)"/>
+		<msg id="grade267" cont="Palladium(FS)"/>
+		<msg id="grade268" cont="Palladium(WA)"/>
+		<msg id="grade269" cont="Palladium(FS)"/>
+		<msg id="grade270" cont="Palladium(GL)"/>
+		<msg id="grade271" cont="Palladium(GL)"/>
+		<msg id="grade272" cont="Palladium(FB)"/>
+		<msg id="grade273" cont="Palladium(FA)"/>
+		<msg id="grade274" cont="Palladium(FB)"/>
+		<msg id="grade275" cont="Palladium(FA)"/>
+		<msg id="grade276" cont="Palladium(BL)"/>
+		<msg id="grade277" cont="Palladium(WI)"/>
+		<msg id="grade278" cont="Palladium(BL)"/>
+		<msg id="grade279" cont="Palladium(WI)"/>
+		<msg id="grade280" cont="Palladium"/>
+		<msg id="grade281" cont="Palladium"/>
+		<msg id="grade282" cont="Palladium(FG)"/>
+		<msg id="grade283" cont="Palladium(FG)"/>
+		<msg id="grade284" cont="Bluestin (DM)"/>
+		<msg id="grade285" cont="Bluestin (DM)"/>
+		<msg id="grade286" cont="Bluestin (DM) (Expert)"/>
+		<msg id="grade287" cont="Titanium (DM)"/>
+		<msg id="grade288" cont="Titanium (DM)"/>
+		<msg id="grade289" cont="Titanium (DM) (Expert)
+"/>
+		<msg id="grade290" cont="Shadow Titanium (DM)"/>
+		<msg id="grade291" cont="Shadow Titanium (DM)"/>
+		<msg id="grade292" cont="Shadow Titanium (DM) (Expert)"/>
+		<msg id="grade293" cont="Osmium (DM)"/>
+		<msg id="grade294" cont="Osmium (DM)"/>
+		<msg id="grade295" cont="Osmium (DM) (Expert)"/>
+		<msg id="grade296" cont="Mystic (DM)"/>
+		<msg id="grade297" cont="Mystic (DM)"/>
+		<msg id="grade298" cont="Mystic (DM) (Expert)"/>
+		<msg id="grade299" cont="SIGMetal (DM)"/>
+		<msg id="grade300" cont="SIGMetal (DM)"/>
+		<msg id="grade301" cont="SIGMetal (DM) (Expert)"/>
+		<msg id="grade302" cont="Forcium (DM)"/>
+		<msg id="grade303" cont="Forcium (DM)"/>
+		<msg id="grade304" cont="Forcium (DM) (Expert)"/>
+		<msg id="grade305" cont="Archridium (DM)"/>
+		<msg id="grade306" cont="Archridium (DM)"/>
+		<msg id="grade307" cont="Palladium (DM)"/>
+		<msg id="grade308" cont="Palladium (DM)"/>
 	</craft_grade_msg>
 	<craft_mainoption_msg>
-		<msg	id="mainoption01"	cont="Critical Rate"	/>
-		<msg	id="mainoption02"	cont="Critical DMG"	/>
-		<msg	id="mainoption03"	cont="All Skill Amp."	/>
-		<msg	id="mainoption04"	cont="Defense"	/>
-		<msg	id="mainoption05"	cont="Ring of Fighter (Lv. 1)"	/>
-		<msg	id="mainoption06"	cont="Ring of Sage (Lv. 1)"	/>
-		<msg	id="mainoption07"	cont="Ring of Champion (Lv. 1)"	/>
-		<msg	id="mainoption08"	cont="Ring of Luck (Lv. 1)"	/>
-		<msg	id="mainoption09"	cont="Critical Ring (Lv. 1)"	/>
-		<msg	id="mainoption10"	cont="Craftsman's Ring"	/>
-		<msg	id="mainoption11"	cont="Ring of Fighter (Lv. 2)"	/>
-		<msg	id="mainoption12"	cont="Ring of Sage (Lv. 2)"	/>
-		<msg	id="mainoption13"	cont="Ring of Champion (Lv. 2)"	/>
-		<msg	id="mainoption14"	cont="Ring of Luck (Lv. 2)"	/>
-		<msg	id="mainoption15"	cont="Critical Ring (Lv. 2)"	/>
-		<msg	id="mainoption16"	cont="Ring (Lv. 2)"	/>
-		<msg	id="mainoption17"	cont="Ring of Fighter (Lv. 3)"	/>
-		<msg	id="mainoption18"	cont="Ring of Sage (Lv. 3)"	/>
-		<msg	id="mainoption19"	cont="Ring of Champion (Lv. 3)"	/>
-		<msg	id="mainoption20"	cont="Ring of Luck (Lv. 3)"	/>
-		<msg	id="mainoption21"	cont="Critical Ring (Lv. 3)"	/>
-		<msg	id="mainoption22"	cont="Ring (Lv. 3)"	/>
-		<msg	id="mainoption23"	cont="Ring of Fighter (Lv. 4)"	/>
-		<msg	id="mainoption24"	cont="Ring of Sage (Lv. 4)"	/>
-		<msg	id="mainoption25"	cont="Ring of Champion (Lv. 4)"	/>
-		<msg	id="mainoption26"	cont="Ring of Luck (Lv. 4)"	/>
-		<msg	id="mainoption27"	cont="Critical Ring (Lv. 4)"	/>
-		<msg	id="mainoption28"	cont="Ring (Lv. 4)"	/>
-		<msg	id="mainoption29"	cont="Craftsman's Amulet"	/>
-		<msg	id="mainoption30"	cont="Amulet of Guard (Lv. 1)"	/>
-		<msg	id="mainoption31"	cont="Amulet of Pain (Lv. 1)"	/>
-		<msg	id="mainoption32"	cont="Vampiric Amulet (Lv. 1)"	/>
-		<msg	id="mainoption33"	cont="Adept Amulet (Lv. 1)"	/>
-		<msg	id="mainoption34"	cont="Amulet (Lv. 2)"	/>
-		<msg	id="mainoption35"	cont="Amulet of Guard (Lv. 2)"	/>
-		<msg	id="mainoption36"	cont="Amulet of Pain (Lv. 2)"	/>
-		<msg	id="mainoption37"	cont="Vampiric Amulet (Lv. 2)"	/>
-		<msg	id="mainoption38"	cont="Adept Amulet (Lv. 2)"	/>
-		<msg	id="mainoption39"	cont="Amulet (Lv. 3)"	/>
-		<msg	id="mainoption40"	cont="Amulet of Guard (Lv. 3)"	/>
-		<msg	id="mainoption41"	cont="Amulet of Pain (Lv. 3)"	/>
-		<msg	id="mainoption42"	cont="Vampiric Amulet (Lv. 3)"	/>
-		<msg	id="mainoption43"	cont="Adept Amulet (Lv. 3)"	/>
-		<msg	id="mainoption44"	cont="Amulet (Lv. 4)"	/>
-		<msg	id="mainoption45"	cont="Amulet of Guard (Lv. 4)"	/>
-		<msg	id="mainoption46"	cont="Amulet of Pain (Lv. 4)"	/>
-		<msg	id="mainoption47"	cont="Vampiric Amulet (Lv. 4)"	/>
-		<msg	id="mainoption48"	cont="Adept Amulet (Lv. 4)"	/>
-		<msg	id="mainoption49"	cont="HP"	/>
-		<msg	id="mainoption50"	cont="Resist Critical Rate"	/>
-		<msg	id="mainoption51"	cont="Resist Skill AMP"	/>
-		<msg	id="mainoption52"	cont="Resist Critical DMG"	/>
+		<msg id="mainoption01" cont="Critical Rate"/>
+		<msg id="mainoption02" cont="Critical DMG"/>
+		<msg id="mainoption03" cont="All Skill Amp."/>
+		<msg id="mainoption04" cont="Defense"/>
+		<msg id="mainoption05" cont="Ring of Fighter (Lv. 1)"/>
+		<msg id="mainoption06" cont="Ring of Sage (Lv. 1)"/>
+		<msg id="mainoption07" cont="Ring of Champion (Lv. 1)"/>
+		<msg id="mainoption08" cont="Ring of Luck (Lv. 1)"/>
+		<msg id="mainoption09" cont="Critical Ring (Lv. 1)"/>
+		<msg id="mainoption10" cont="Craftsman's Ring"/>
+		<msg id="mainoption11" cont="Ring of Fighter (Lv. 2)"/>
+		<msg id="mainoption12" cont="Ring of Sage (Lv. 2)"/>
+		<msg id="mainoption13" cont="Ring of Champion (Lv. 2)"/>
+		<msg id="mainoption14" cont="Ring of Luck (Lv. 2)"/>
+		<msg id="mainoption15" cont="Critical Ring (Lv. 2)"/>
+		<msg id="mainoption16" cont="Ring (Lv. 2)"/>
+		<msg id="mainoption17" cont="Ring of Fighter (Lv. 3)"/>
+		<msg id="mainoption18" cont="Ring of Sage (Lv. 3)"/>
+		<msg id="mainoption19" cont="Ring of Champion (Lv. 3)"/>
+		<msg id="mainoption20" cont="Ring of Luck (Lv. 3)"/>
+		<msg id="mainoption21" cont="Critical Ring (Lv. 3)"/>
+		<msg id="mainoption22" cont="Ring (Lv. 3)"/>
+		<msg id="mainoption23" cont="Ring of Fighter (Lv. 4)"/>
+		<msg id="mainoption24" cont="Ring of Sage (Lv. 4)"/>
+		<msg id="mainoption25" cont="Ring of Champion (Lv. 4)"/>
+		<msg id="mainoption26" cont="Ring of Luck (Lv. 4)"/>
+		<msg id="mainoption27" cont="Critical Ring (Lv. 4)"/>
+		<msg id="mainoption28" cont="Ring (Lv. 4)"/>
+		<msg id="mainoption29" cont="Craftsman's Amulet"/>
+		<msg id="mainoption30" cont="Amulet of Guard (Lv. 1)"/>
+		<msg id="mainoption31" cont="Amulet of Pain (Lv. 1)"/>
+		<msg id="mainoption32" cont="Vampiric Amulet (Lv. 1)"/>
+		<msg id="mainoption33" cont="Adept Amulet (Lv. 1)"/>
+		<msg id="mainoption34" cont="Amulet (Lv. 2)"/>
+		<msg id="mainoption35" cont="Amulet of Guard (Lv. 2)"/>
+		<msg id="mainoption36" cont="Amulet of Pain (Lv. 2)"/>
+		<msg id="mainoption37" cont="Vampiric Amulet (Lv. 2)"/>
+		<msg id="mainoption38" cont="Adept Amulet (Lv. 2)"/>
+		<msg id="mainoption39" cont="Amulet (Lv. 3)"/>
+		<msg id="mainoption40" cont="Amulet of Guard (Lv. 3)"/>
+		<msg id="mainoption41" cont="Amulet of Pain (Lv. 3)"/>
+		<msg id="mainoption42" cont="Vampiric Amulet (Lv. 3)"/>
+		<msg id="mainoption43" cont="Adept Amulet (Lv. 3)"/>
+		<msg id="mainoption44" cont="Amulet (Lv. 4)"/>
+		<msg id="mainoption45" cont="Amulet of Guard (Lv. 4)"/>
+		<msg id="mainoption46" cont="Amulet of Pain (Lv. 4)"/>
+		<msg id="mainoption47" cont="Vampiric Amulet (Lv. 4)"/>
+		<msg id="mainoption48" cont="Adept Amulet (Lv. 4)"/>
+		<msg id="mainoption49" cont="HP"/>
+		<msg id="mainoption50" cont="Resist Critical Rate"/>
+		<msg id="mainoption51" cont="Resist Skill AMP"/>
+		<msg id="mainoption52" cont="Resist Critical DMG"/>
 	</craft_mainoption_msg>
 	<request_name_msg>
-		<msg	id="request0001"	cont="Warrior Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0002"	cont="Warrior Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0003"	cont="Warrior Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0004"	cont="Blader Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0005"	cont="Blader Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0006"	cont="Blader Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0007"	cont="Wizard Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0008"	cont="Wizard Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0009"	cont="Wizard Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0010"	cont="Force Archer Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0011"	cont="Force Archer Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0012"	cont="Force Archer Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0013"	cont="Force Shielder Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0014"	cont="Force Shielder Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0015"	cont="Force Shielder Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0016"	cont="Force Blader Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0017"	cont="Force Blader Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0018"	cont="Force Blader Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0019"	cont="New Material Development Support (Daily Quest)"	/>
-		<msg	id="request0020"	cont="Coin Lotto (Forgotten Ruin) x 1"	/>
-		<msg	id="request0021"	cont="Coin Lotto (Lakeside) x 1"	/>
-		<msg	id="request0022"	cont="Coin Lotto (Mutant Forest) x 1"	/>
-		<msg	id="request0023"	cont="Coin Lotto (Pontus Ferrum) x 1"	/>
-		<msg	id="request0024"	cont="Coin Lotto (Porta Inferno) x 1"	/>
-		<msg	id="request0025"	cont="Coin Lotto (Arcane Trace) x 1"	/>
-		<msg	id="request0026"	cont="Bike Epic Converter Box (Lv. 2)"	/>
-		<msg	id="request0027"	cont="Bike Epic Converter Box (Lv. 3)"	/>
-		<msg	id="request0028"	cont="Bike Epic Converter Box (Lv. 4)"	/>
-		<msg	id="request0029"	cont="Extreme Core Pocket (Normal) I"	/>
-		<msg	id="request0030"	cont="Repair Kit Box"	/>
-		<msg	id="request0031"	cont="Mirror of Observation (Bronze)"	/>
-		<msg	id="request0032"	cont="Mirror of Observation (Silver)"	/>
-		<msg	id="request0033"	cont="Extreme Core Pocket (Normal) II"	/>
-		<msg	id="request0034"	cont="Gladiator Battle Mode3 (Lv. 1)"	/>
-		<msg	id="request0035"	cont="Gladiator Battle Mode3 (Lv. 2)"	/>
-		<msg	id="request0036"	cont="Gladiator Battle Mode3 (Lv. 3)"	/>
-		<msg	id="request0037"	cont="Astral Board Card - K Violet I"	/>
-		<msg	id="request0038"	cont="Astral Board Card - K Violet II"	/>
-		<msg	id="request0039"	cont="Force Gunner Battle Mode 3 (Lv. 1)"	/>
-		<msg	id="request0040"	cont="Force Gunner Battle Mode 3 (Lv. 2)"	/>
-		<msg	id="request0041"	cont="Force Gunner Battle Mode 3 (Lv. 3)"	/>
-		<msg	id="request0042"	cont="Skill Book (Aqua Aura)"	/>
-		<msg	id="request0043"	cont="Skill Book (Ice Aura)"	/>
-		<msg	id="request0044"	cont="Skill Book (Flame Aura)"	/>
-		<msg	id="request0045"	cont="Skill Book (Lighting Aura)"	/>
-		<msg	id="request0046"	cont="Luxury Jewerly Box"	/>
-		<msg	id="request0047"	cont="Bike Epic Converter Box (Lv. 5)"	/>
-		<msg	id="request0048"	cont="Luxury Suitcase"	/>
-		<msg	id="request0049"	cont="Dark Mage Battle Mode 3 (Lv. 1)"	/>
-		<msg	id="request0050"	cont="Dark Mage Battle Mode 3 (Lv. 2)"	/>
-		<msg	id="request0051"	cont="Dark Mage Battle Mode 3 (Lv. 3)"	/>
-		<msg	id="request0101"	cont="Plasma Circuit x 5"	/>
-		<msg	id="request0102"	cont="Extender Circuit x 5"	/>
-		<msg	id="request0103"	cont="Sword Damage Amplifier (Lv. 1) X 100"	/>
-		<msg	id="request0104"	cont="Magic Damage Amplifier (Lv. 1) X 100"	/>
-		<msg	id="request0105"	cont="Extract Potion (STR) x 5"	/>
-		<msg	id="request0106"	cont="Extract Potion (DEX) x 5"	/>
-		<msg	id="request0107"	cont="Extract Potion (INT) x 5"	/>
-		<msg	id="request0108"	cont="Diamond Cube x 1"	/>
-		<msg	id="request0109"	cont="Sapphire Charm Upgrade (Lv. 1)"	/>
-		<msg	id="request0110"	cont="Ruby Charm Upgrade (Lv. 1)"	/>
-		<msg	id="request0111"	cont="Emerald Charm Upgrade (Lv. 1)"	/>
-		<msg	id="request0112"	cont="Sealed Mergaheph's ring"	/>
-		<msg	id="request0113"	cont="Killian's Ring"	/>
-		<msg	id="request0114"	cont="Material Core (Titanium) x 20"	/>
-		<msg	id="request0115"	cont="Quartz Core (Pherystin) x 20"	/>
-		<msg	id="request0116"	cont="Map Part x 1"	/>
-		<msg	id="request0117"	cont="Muster Card: Ruina Station x 1"	/>
-		<msg	id="request0118"	cont="Stain Clone Set x 1"	/>
-		<msg	id="request0119"	cont="Amber Charm Upgrade (Lv. 1)"	/>
-		<msg	id="request0120"	cont="Tempus' Ring"	/>
-		<msg	id="request0121"	cont="Rare Muster Card : Forgotten Temple B2F x1"	/>
-		<msg	id="request0122"	cont="Awakened Tyrant's Ring"	/>
-		<msg	id="request0123"	cont="Unusual Lost Island Compass x1"	/>
-		<msg	id="request0124"	cont="Sealed Siena's Bracelet"	/>
-		<msg	id="request0125"	cont="Convert Sword Damage Amplifier (Lv. 1)"	/>
-		<msg	id="request0126"	cont="Convert Magic Damage Amplifier (Lv. 1)"	/>
-		<msg	id="request0127"	cont="Chaos Talisman of Destruction"	/>
-		<msg	id="request0128"	cont="Rune Slot Extender"	/>
-		<msg	id="request0129"	cont="Amethyst Charm Upgrade (Lv.1)"	/>
-		<msg	id="request0130"	cont="Unbound Cube of Honor (Low)"	/>
-		<msg	id="request0131"	cont="Unbound Cube of Honor (Medium)"	/>
-		<msg	id="request0132"	cont="Unbound Cube of Honor (High)"	/>
-		<msg	id="request0133"	cont="Unbound Cube of Honor (Highest)"	/>
-		<msg	id="request0134"	cont="AP Saver (5000/5000)"	/>
-		<msg	id="request0135"	cont="Ring of Dr. Mazel"	/>
-		<msg	id="request0136"	cont="Shiny Jewel of Nix"	/>
-		<msg	id="request0137"	cont="Force Essence x 1"	/>
-		<msg	id="request0138"	cont="Essence Rune (STR II)"	/>
-		<msg	id="request0139"	cont="Essence Rune (Resist Critical Rate)"	/>
-		<msg	id="request0140"	cont="Sealed Chief Laxar's Brooch"	/>
-		<msg	id="request0141"	cont="Essence Rune(DEX II)"	/>
-		<msg	id="request0142"	cont="Sealed Turmacan's Bracelet"	/>
-		<msg	id="request0143"	cont="Essence Rune (INT II)"	/>
-		<msg	id="request0144"	cont="Sealed Ferius Earring"	/>
-		<msg	id="request0145"	cont="Sealed Gaiaforce Amulet"	/>
-		<msg	id="request0146"	cont="Sealed Terraforce Amulet"	/>
-		<msg	id="request0147"	cont="Characteristic Opening Potion"	/>
-		<msg	id="request0148"	cont="Lustrous Damage Amplifier (Lv. 1) x 100"	/>
-		<msg	id="request0149"	cont="Turbid Soul's Ring"	/>
-		<msg	id="request0150"	cont="Hekaton's Ring"	/>
-		<msg	id="request0201"	cont="Plasma Circuit x 10"	/>
-		<msg	id="request0202"	cont="Extender Circuit x 10"	/>
-		<msg	id="request0203"	cont="Upgrade Core (Crystal) x 5"	/>
-		<msg	id="request0204"	cont="Force Core (Crystal) x 5"	/>
-		<msg	id="request0205"	cont="Sword Damage Amplifier (Lv. 2) x 100"	/>
-		<msg	id="request0206"	cont="Magic Damage Amplifier (Lv. 2) x 100"	/>
-		<msg	id="request0207"	cont="Sapphire Charm Upgrade (Lv. 2)"	/>
-		<msg	id="request0208"	cont="Ruby Charm Upgrade (Lv. 2)"	/>
-		<msg	id="request0209"	cont="Emerald Charm Upgrade (Lv. 2)"	/>
-		<msg	id="request0210"	cont="Concentration Potion (Lv. 1) x 5"	/>
-		<msg	id="request0211"	cont="Reflex Potion (Lv. 1) x 5"	/>
-		<msg	id="request0212"	cont="Vital Potion (Lv. 1) x 5"	/>
-		<msg	id="request0213"	cont="Sharpness Potion (Lv. 1) x 5"	/>
-		<msg	id="request0214"	cont="Mana Condense Potion (Lv. 1) x 5"	/>
-		<msg	id="request0215"	cont="Material Core (Shadow Titanium) x 20"	/>
-		<msg	id="request0216"	cont="Quartz Core (Aqua) x 20"	/>
-		<msg	id="request0217"	cont="Epaulet of the Dead x 1"	/>
-		<msg	id="request0218"	cont="Seal of Darkness x 1"	/>
-		<msg	id="request0219"	cont="Cartridge Roulette (Lv. 2) x 1"	/>
-		<msg	id="request0220"	cont="Amber Charm Upgrade (Lv. 2)"	/>
-		<msg	id="request0221"	cont="Convert Sword Damage Amplifier (Lv. 2)"	/>
-		<msg	id="request0222"	cont="Convert Magic Damage Amplifier (Lv. 2)"	/>
-		<msg	id="request0223"	cont="Amethyst Charm Upgrade (Lv.2)"	/>
-		<msg	id="request0224"	cont="Force Essence x 2"	/>
-		<msg	id="request0225"	cont="Upgrade Core Set (Low) (x1)"	/>
-		<msg	id="request0226"	cont="Upgrade Core Set (Medium) (x1)"	/>
-		<msg	id="request0227"	cont="Upgrade Core Set (High) (x1)"	/>
-		<msg	id="request0228"	cont="Upgrade Core Set (Highest) (x1)"	/>
-		<msg	id="request0229"	cont="Upgrade Core Set (Ultimate) (x1)"	/>
-		<msg	id="request0230"	cont="Chaos Core Set (x1)"	/>
-		<msg	id="request0231"	cont="Divine Stone Set (x1)"	/>
-		<msg	id="request0232"	cont="Lustrous Damage Amplifier (Lv. 2) x 100"	/>
-		<msg	id="request0301"	cont="Upgrade Core (Crystal) x 10"	/>
-		<msg	id="request0302"	cont="Force Core (Crystal) x 10"	/>
-		<msg	id="request0303"	cont="Sword Damage Amplifier (Lv. 3) x 100"	/>
-		<msg	id="request0304"	cont="Magic Damage Amplifier (Lv. 3) x 100"	/>
-		<msg	id="request0305"	cont="Sapphire Charm Upgrade (Lv. 3)"	/>
-		<msg	id="request0306"	cont="Ruby Charm Upgrade (Lv. 3)"	/>
-		<msg	id="request0307"	cont="Emerald Charm Upgrade (Lv. 3)"	/>
-		<msg	id="request0308"	cont="Concentration Potion (Lv. 2) x 5"	/>
-		<msg	id="request0309"	cont="Reflex Potion (Lv. 2) x 5"	/>
-		<msg	id="request0310"	cont="Vital Potion (Lv. 2) x 5"	/>
-		<msg	id="request0311"	cont="Sharpness Potion (Lv. 2) x 5"	/>
-		<msg	id="request0312"	cont="Mana Condense Potion (Lv. 2) x 5"	/>
-		<msg	id="request0313"	cont="Vital Regen Potion (Lv. 1) x 5"	/>
-		<msg	id="request0314"	cont="Hardness Potion (Lv. 1) x 5"	/>
-		<msg	id="request0315"	cont="Strike Potion (Lv. 1) x 5"	/>
-		<msg	id="request0316"	cont="Material Core (Osmium) x 20"	/>
-		<msg	id="request0317"	cont="Quartz Core (Lapis) x 20"	/>
-		<msg	id="request0318"	cont="Epaulet of the Dead (B2F) Part1 x 1"	/>
-		<msg	id="request0319"	cont="Muster Card: Forgotten Temple B1F x 1"	/>
-		<msg	id="request0320"	cont="Flame Dice (Lv. 2) x 1"	/>
-		<msg	id="request0321"	cont="Dark Dice (Lv. 2) x 1"	/>
-		<msg	id="request0322"	cont="Holy Dice (Lv. 2) x 1"	/>
-		<msg	id="request0323"	cont="Air Dice (Lv. 2) x 1"	/>
-		<msg	id="request0324"	cont="Thunder Dice (Lv. 2) x 1"	/>
-		<msg	id="request0325"	cont="Bloody Dice (Lv. 2) x 1"	/>
-		<msg	id="request0326"	cont="Earth Dice (Lv. 2) x 1"	/>
-		<msg	id="request0327"	cont="Aqua Dice (Lv. 2) x 1"	/>
-		<msg	id="request0328"	cont="Soul Dice (Lv. 2) x 1"	/>
-		<msg	id="request0329"	cont="Amber Charm Upgrade (Lv. 3)"	/>
-		<msg	id="request0330"	cont="Convert Sword Damage Amplifier (Lv. 3)"	/>
-		<msg	id="request0331"	cont="Convert Magic Damage Amplifier (Lv. 3)"	/>
-		<msg	id="request0332"	cont="Amethyst Charm Upgrade (Lv.3)"	/>
-		<msg	id="request0333"	cont="Force Essence x 3"	/>
-		<msg	id="request0334"	cont="Upgrade Core Set (Low) (x3)"	/>
-		<msg	id="request0335"	cont="Upgrade Core Set (Medium) (x3)"	/>
-		<msg	id="request0336"	cont="Upgrade Core Set (High) (x3)"	/>
-		<msg	id="request0337"	cont="Upgrade Core Set (Highest) (x3)"	/>
-		<msg	id="request0338"	cont="Upgrade Core Set (Ultimate) (x3)"	/>
-		<msg	id="request0339"	cont="Chaos Core Set (x3)"	/>
-		<msg	id="request0340"	cont="Divine Stone Set (x3)"	/>
-		<msg	id="request0341"	cont="Lustrous Damage Amplifier (Lv. 3) x 100"	/>
-		<msg	id="request0401"	cont="Sword Damage Amplifier (Lv. 4) x 100"	/>
-		<msg	id="request0402"	cont="Magic Damage Amplifier (Lv. 4) x 100"	/>
-		<msg	id="request0403"	cont="Sapphire Charm Upgrade (Lv. 4)"	/>
-		<msg	id="request0404"	cont="Ruby Charm Upgrade (Lv. 4)"	/>
-		<msg	id="request0405"	cont="Emerald Charm Upgrade (Lv. 4)"	/>
-		<msg	id="request0406"	cont="Concentration Potion (Lv. 3) x 5"	/>
-		<msg	id="request0407"	cont="Reflex Potion (Lv. 3) x 5"	/>
-		<msg	id="request0408"	cont="Vital Potion (Lv. 3) x 5"	/>
-		<msg	id="request0409"	cont="Sharpness Potion (Lv. 3) x 5"	/>
-		<msg	id="request0410"	cont="Mana Condense Potion (Lv. 3) x 5"	/>
-		<msg	id="request0411"	cont="Vital Regen Potion (Lv. 2) x 5"	/>
-		<msg	id="request0412"	cont="Hardness Potion (Lv. 2) x 5"	/>
-		<msg	id="request0413"	cont="Strike Potion (Lv. 2) x 5"	/>
-		<msg	id="request0414"	cont="Fury Potion (Lv. 1) x 5"	/>
-		<msg	id="request0415"	cont="Sword Master Potion (Lv. 1) x 5"	/>
-		<msg	id="request0416"	cont="Magic Master Potion (Lv. 1) x 5"	/>
-		<msg	id="request0417"	cont="Evasion Potion (Lv. 1) x 5"	/>
-		<msg	id="request0418"	cont="Material Core (Red Osmium) x 20"	/>
-		<msg	id="request0419"	cont="Quartz Core (Topaz) x 20"	/>
-		<msg	id="request0420"	cont="Copy of Illusive Apocalypse x 1"	/>
-		<msg	id="request0421"	cont="Siena's Crest B1F x 1"	/>
-		<msg	id="request0422"	cont="Cartridge Roulette (Lv. 3) x 1"	/>
-		<msg	id="request0423"	cont="Amber Charm Upgrade (Lv. 4)"	/>
-		<msg	id="request0424"	cont="Extreme Core Pocket (Rare)"	/>
-		<msg	id="request0425"	cont="Convert Sword Damage Amplifier (Lv. 4)"	/>
-		<msg	id="request0426"	cont="Convert Magic Damage Amplifier (Lv. 4)"	/>
-		<msg	id="request0427"	cont="Amethyst Charm Upgrade (Lv.4)"	/>
-		<msg	id="request0428"	cont="Force Essence x 4"	/>
-		<msg	id="request0429"	cont="Upgrade Core Set (Low) (x8)"	/>
-		<msg	id="request0430"	cont="Upgrade Core Set (Medium) (x8)"	/>
-		<msg	id="request0431"	cont="Upgrade Core Set (High) (x8)"	/>
-		<msg	id="request0432"	cont="Upgrade Core Set (Highest) (x8)"	/>
-		<msg	id="request0433"	cont="Upgrade Core Set (Ultimate) (x8)"	/>
-		<msg	id="request0434"	cont="Chaos Core Set (x8)"	/>
-		<msg	id="request0435"	cont="Divine Stone Set (x8)"	/>
-		<msg	id="request0436"	cont="Lustrous Damage Amplifier (Lv. 4) x 100"	/>
-		<msg	id="request0501"	cont="Sword Damage Amplifier (Lv. 5) x 100"	/>
-		<msg	id="request0502"	cont="Magic Damage Amplifier (Lv. 5) x 100"	/>
-		<msg	id="request0503"	cont="Sapphire Charm Upgrade (Lv. 5)"	/>
-		<msg	id="request0504"	cont="Ruby Charm Upgrade (Lv. 5)"	/>
-		<msg	id="request0505"	cont="Emerald Charm Upgrade (Lv. 5)"	/>
-		<msg	id="request0506"	cont="Concentration Potion (Lv. 4) x 5"	/>
-		<msg	id="request0507"	cont="Reflex Potion (Lv. 4) x 5"	/>
-		<msg	id="request0508"	cont="Vital Potion (Lv. 4) x 5"	/>
-		<msg	id="request0509"	cont="Sharpness Potion (Lv. 4) x 5"	/>
-		<msg	id="request0510"	cont="Mana Condense Potion (Lv. 4) x 5"	/>
-		<msg	id="request0511"	cont="Vital Regen Potion (Lv. 3) x 5"	/>
-		<msg	id="request0512"	cont="Hardness Potion (Lv. 3) x 5"	/>
-		<msg	id="request0513"	cont="Strike Potion (Lv. 3) x 5"	/>
-		<msg	id="request0514"	cont="Fury Potion (Lv. 2) x 5"	/>
-		<msg	id="request0515"	cont="Sword Master Potion (Lv. 2) x 5"	/>
-		<msg	id="request0516"	cont="Magic Master Potion (Lv. 2) x 5"	/>
-		<msg	id="request0517"	cont="Evasion Potion (Lv. 2) x 5"	/>
-		<msg	id="request0518"	cont="Upgrade Core (Low) x 1"	/>
-		<msg	id="request0519"	cont="Force Core (Low) x 1"	/>
-		<msg	id="request0520"	cont="Material Core (SIGMetal) x 20"	/>
-		<msg	id="request0521"	cont="Quartz Core (SIGMetal) x 20"	/>
-		<msg	id="request0522"	cont="Lost Island Compass x 1"	/>
-		<msg	id="request0523"	cont="Siena's Crest B2F x 1"	/>
-		<msg	id="request0524"	cont="Flame Dice (Lv. 3) x 1"	/>
-		<msg	id="request0525"	cont="Dark Dice (Lv. 3) x 1"	/>
-		<msg	id="request0526"	cont="Holy Dice(Lv. 3) x 1"	/>
-		<msg	id="request0527"	cont="Air Dice (Lv. 3) x 1"	/>
-		<msg	id="request0528"	cont="Thunder Dice (Lv. 3) x 1"	/>
-		<msg	id="request0529"	cont="Bloody Dice (Lv. 3) x 1"	/>
-		<msg	id="request0530"	cont="Earth Dice (Lv. 3) x 1"	/>
-		<msg	id="request0531"	cont="Aqua Dice (Lv. 3) x 1"	/>
-		<msg	id="request0532"	cont="Soul Dice (Lv. 3) x 1"	/>
-		<msg	id="request0533"	cont="Amber Charm Upgrade (Lv. 5)"	/>
-		<msg	id="request0534"	cont="Chaos Core x 1"	/>
-		<msg	id="request0535"	cont="Convert Sword Damage Amplifier (Lv. 5)"	/>
-		<msg	id="request0536"	cont="Convert Magic Damage Amplifier (Lv. 5)"	/>
-		<msg	id="request0537"	cont="Amethyst Charm Upgrade (Lv.5)"	/>
-		<msg	id="request0538"	cont="Divine Stone x 1"	/>
-		<msg	id="request0539"	cont="Force Essence x 5"	/>
-		<msg	id="request0540"	cont="Upgrade Core Set (Low) (x15)"	/>
-		<msg	id="request0541"	cont="Upgrade Core Set (Medium) (x15)"	/>
-		<msg	id="request0542"	cont="Upgrade Core Set (High) (x15)"	/>
-		<msg	id="request0543"	cont="Upgrade Core Set (Highest) (x15)"	/>
-		<msg	id="request0544"	cont="Upgrade Core Set (Ultimate) (x15)"	/>
-		<msg	id="request0545"	cont="Chaos Core Set (x15)"	/>
-		<msg	id="request0546"	cont="Divine Stone Set (x15)"	/>
-		<msg	id="request0547"	cont="Lustrous Damage Amplifier (Lv. 5) x 100"	/>
-		<msg	id="request0601"	cont="Sword Damage Amplifier (Lv. 6) x 100"	/>
-		<msg	id="request0602"	cont="Magic Damage Amplifier (Lv. 6) x 100"	/>
-		<msg	id="request0603"	cont="Sapphire Charm Upgrade (Lv. 6)"	/>
-		<msg	id="request0604"	cont="Ruby Charm Upgrade (Lv. 6)"	/>
-		<msg	id="request0605"	cont="Emerald Charm Upgrade (Lv. 6)"	/>
-		<msg	id="request0606"	cont="Vital Regen Potion (Lv. 4) x 5"	/>
-		<msg	id="request0607"	cont="Hardness Potion (Lv. 4) x 5"	/>
-		<msg	id="request0608"	cont="Strike Potion (Lv. 4) x 5"	/>
-		<msg	id="request0609"	cont="Fury Potion (Lv. 3) x 5"	/>
-		<msg	id="request0610"	cont="Sword Master Potion (Lv. 3) x 5"	/>
-		<msg	id="request0611"	cont="Magic Master Potion (Lv. 3) x 5"	/>
-		<msg	id="request0612"	cont="Evasion Potion (Lv. 3) x 5"	/>
-		<msg	id="request0613"	cont="Upgrade Core (Low) x 5"	/>
-		<msg	id="request0614"	cont="Force Core (Low) x 5"	/>
-		<msg	id="request0615"	cont="Upgrade Core (Medium) x 1"	/>
-		<msg	id="request0616"	cont="Force Core (Medium) x 1"	/>
-		<msg	id="request0617"	cont="Perfect Core (Low) x 1"	/>
-		<msg	id="request0618"	cont="Slot Extender (Low) x 1"	/>
-		<msg	id="request0619"	cont="Material Core (Mithril) x 20"	/>
-		<msg	id="request0620"	cont="Quartz Core (Mithril) x 20"	/>
-		<msg	id="request0621"	cont="Apocalypse of Other Dimension x 1"	/>
-		<msg	id="request0622"	cont="Muster Card: Forgotten Temple B2F x 1"	/>
-		<msg	id="request0623"	cont="Cartridge Roulette (Lv. 4) x 1"	/>
-		<msg	id="request0624"	cont="Unbinding Stone Cube (Medium) 1ea"	/>
-		<msg	id="request0625"	cont="Amber Charm Upgrade (Lv. 6)"	/>
-		<msg	id="request0626"	cont="Extreme Core Pocket (Epic)"	/>
-		<msg	id="request0627"	cont="Chaos Core x 3"	/>
-		<msg	id="request0628"	cont="Convert Sword Damage Amplifier (Lv. 6)"	/>
-		<msg	id="request0629"	cont="Convert Magic Damage Amplifier (Lv. 6)"	/>
-		<msg	id="request0630"	cont="Amethyst Charm Upgrade (Lv.6)"	/>
-		<msg	id="request0631"	cont="Divine Stone x 3"	/>
-		<msg	id="request0632"	cont="Unbound Merit Medal x 1"	/>
-		<msg	id="request0633"	cont="Enchant Safeguard (Divine)"	/>
-		<msg	id="request0634"	cont="Chaos Safeguard - Chaos Belt"	/>
-		<msg	id="request0635"	cont="Chaos Safeguard - Chaos Talisman"	/>
-		<msg	id="request0636"	cont="Chaos Safeguard - Carnelian"	/>
-		<msg	id="request0637"	cont="Chaos Safeguard - Arcana of Chaos"	/>
-		<msg	id="request0638"	cont="Chaos Safeguard - Arcana of Laws"	/>
-		<msg	id="request0639"	cont="Chaos Safeguard - Arcana of Guardian"	/>
-		<msg	id="request0640"	cont="Unbound Merit Medal x 127"	/>
-		<msg	id="request0641"	cont="Upgrade Core Set (Low) (x30)"	/>
-		<msg	id="request0642"	cont="Upgrade Core Set (Medium) (x30)"	/>
-		<msg	id="request0643"	cont="Upgrade Core Set (High) (x30)"	/>
-		<msg	id="request0644"	cont="Upgrade Core Set (Highest) (x30)"	/>
-		<msg	id="request0645"	cont="Upgrade Core Set (Ultimate) (x30)"	/>
-		<msg	id="request0646"	cont="Chaos Core Set (x30)"	/>
-		<msg	id="request0647"	cont="Divine Stone Set (x30)"	/>
-		<msg	id="request0648"	cont="Chaos Safeguard - Earring"	/>
-		<msg	id="request0649"	cont="Chaos Safeguard - Amulet"	/>
-		<msg	id="request0650"	cont="Chaos Safeguard - Bracelet"	/>
-		<msg	id="request0651"	cont="Lustrous Damage Amplifier (Lv. 6) x 100"	/>
-		<msg	id="request0701"	cont="Sapphire Charm Upgrade (Lv. 7)"	/>
-		<msg	id="request0702"	cont="Ruby Charm Upgrade (Lv. 7)"	/>
-		<msg	id="request0703"	cont="Emerald Charm Upgrade (Lv. 7)"	/>
-		<msg	id="request0704"	cont="Sword Master Potion (Lv. 4) x 5"	/>
-		<msg	id="request0705"	cont="Magic Master Potion (Lv. 4) x 5"	/>
-		<msg	id="request0706"	cont="Evasion Potion (Lv. 4) x 5"	/>
-		<msg	id="request0707"	cont="Upgrade Core (Medium) x 5"	/>
-		<msg	id="request0708"	cont="Force Core (Medium) x 5"	/>
-		<msg	id="request0709"	cont="Upgrade Core (High) x 1"	/>
-		<msg	id="request0710"	cont="Force Core (High) x 1"	/>
-		<msg	id="request0711"	cont="Perfect Core (Low) x 2"	/>
-		<msg	id="request0712"	cont="Slot Extender (Low) x 2"	/>
-		<msg	id="request0713"	cont="Perfect Core (Medium) x 1"	/>
-		<msg	id="request0714"	cont="Slot Extender (Medium) x 1"	/>
-		<msg	id="request0715"	cont="Bike Slot Converter (Lv. 2) x 1"	/>
-		<msg	id="request0716"	cont="Bike Slot Converter (Lv. 3) x 1"	/>
-		<msg	id="request0717"	cont="Hacked Code Disk x 1"	/>
-		<msg	id="request0718"	cont="Flame Dice (Lv. 4) x 1"	/>
-		<msg	id="request0719"	cont="Dark Dice (Lv. 4) x 1"	/>
-		<msg	id="request0720"	cont="Holy Dice (Lv. 4) x 1"	/>
-		<msg	id="request0721"	cont="Air Dice (Lv. 4) x 1"	/>
-		<msg	id="request0722"	cont="Thunder Dice (Lv. 4) x 1"	/>
-		<msg	id="request0723"	cont="Bloody Dice (Lv. 4) x 1"	/>
-		<msg	id="request0724"	cont="Earth Dice (Lv. 4) x 1"	/>
-		<msg	id="request0725"	cont="Aqua Dice (Lv. 4) x 1"	/>
-		<msg	id="request0726"	cont="Soul Dice (Lv. 4) x 1"	/>
-		<msg	id="request0727"	cont="Unbinding Stone Cube (High) x 1"	/>
-		<msg	id="request0728"	cont="Amber Charm Upgrade (Lv. 7)"	/>
-		<msg	id="request0729"	cont="Bike Slot Converter (Lv. 4) x 1"	/>
-		<msg	id="request0730"	cont="Chaos Core x 5"	/>
-		<msg	id="request0731"	cont="Sword Damage Amplifier (Lv. 7) x 100"	/>
-		<msg	id="request0732"	cont="Magic Damage Amplifier (Lv. 7) x 100"	/>
-		<msg	id="request0733"	cont="Convert Sword Damage Amplifier (Lv. 7)"	/>
-		<msg	id="request0734"	cont="Convert Magic Damage Amplifier (Lv. 7)"	/>
-		<msg	id="request0735"	cont="Material Core (Archridium) x 20"	/>
-		<msg	id="request0736"	cont="Rage Potion(Lv3) x 5"	/>
-		<msg	id="request0737"	cont="Quartz Core (Archridium) x 20"	/>
-		<msg	id="request0738"	cont="Amethyst Charm Upgrade (Lv.7)"	/>
-		<msg	id="request0739"	cont="Divine Stone x 5"	/>
-		<msg	id="request0740"	cont="Unbound Merit Medal x 5"	/>
-		<msg	id="request0741"	cont="Bike Slot Converter (Lv. 5) x 1 "	/>
-		<msg	id="request0742"	cont="Lustrous Damage Amplifier (Lv. 7) x 100"	/>
-		<msg	id="request0801"	cont="Upgrade Core (High) x 5"	/>
-		<msg	id="request0802"	cont="Force Core (High) x 5"	/>
-		<msg	id="request0803"	cont="Upgrade Core (Highest) x 1"	/>
-		<msg	id="request0804"	cont="Force Core (Highest) x 1"	/>
-		<msg	id="request0805"	cont="Perfect Core (Medium) x 2"	/>
-		<msg	id="request0806"	cont="Slot Extender (Medium) x 2"	/>
-		<msg	id="request0807"	cont="Perfect Core (High) x 1"	/>
-		<msg	id="request0808"	cont="Slot Extender (High) x 1"	/>
-		<msg	id="request0809"	cont="Unbinding Stone Cube (Highest) x 1"	/>
-		<msg	id="request0810"	cont="Minesta's Red Sapphire Charm"	/>
-		<msg	id="request0811"	cont="Minesta's Green Sapphire Charm"	/>
-		<msg	id="request0812"	cont="Minesta's Yellow Sapphire Charm"	/>
-		<msg	id="request0813"	cont="Minesta's Blue Ruby Charm"	/>
-		<msg	id="request0814"	cont="Minesta's Green Ruby Charm"	/>
-		<msg	id="request0815"	cont="Minesta's Yellow Ruby Charm"	/>
-		<msg	id="request0816"	cont="Minesta's Blue Emerald Charm"	/>
-		<msg	id="request0817"	cont="Minesta's Red Emerald Charm"	/>
-		<msg	id="request0818"	cont="Minesta's Yellow Emerald Charm"	/>
-		<msg	id="request0819"	cont="Minesta's Blue Amber Charm"	/>
-		<msg	id="request0820"	cont="Minesta's Red Amber Charm"	/>
-		<msg	id="request0821"	cont="Minesta's Green Amber Charm"	/>
-		<msg	id="request0822"	cont="Chaos Core x 7"	/>
-		<msg	id="request0823"	cont="Minesta's Red Amethyst Charm"	/>
-		<msg	id="request0824"	cont="Minesta's Green Amethyst Charm"	/>
-		<msg	id="request0825"	cont="Minesta's Yellow Amethyst Charm"	/>
-		<msg	id="request0826"	cont="Minesta's Blue Amethyst Charm"	/>
-		<msg	id="request0827"	cont="Minesta's Purple Sapphire Charm"	/>
-		<msg	id="request0828"	cont="Minesta's Purple Ruby Charm"	/>
-		<msg	id="request0829"	cont="Minesta's Purple Emerald Charm"	/>
-		<msg	id="request0830"	cont="Minesta's Purple Amber Charm"	/>
-		<msg	id="request0831"	cont="Divine Stone x 7"	/>
-		<msg	id="request0832"	cont="Unbound Merit Medal x 10"	/>
-		<msg	id="request0833"	cont="Sword Damage Amplifier (Lv. 8) x 100"	/>
-		<msg	id="request0834"	cont="Magic Damage Amplifier (Lv. 8) x 100"	/>
-		<msg	id="request0835"	cont="Convert Sword Damage Amplifier (Lv. 8)"	/>
-		<msg	id="request0836"	cont="Convert Magic Damage Amplifier (Lv. 8)"	/>
-		<msg	id="request0837"	cont="Lustrous Damage Amplifier (Lv. 8) x 100"	/>
-		<msg	id="request0901"	cont="Perfect Core (High) x 2"	/>
-		<msg	id="request0902"	cont="Slot Extender (High) x 2"	/>
-		<msg	id="request0903"	cont="Perfect Core (Highest) x 1"	/>
-		<msg	id="request0904"	cont="Slot Extender (Highest) x 1"	/>
-		<msg	id="request0905"	cont="Upgrade Core (Highest) x 5"	/>
-		<msg	id="request0906"	cont="Force Core (Highest) x 5"	/>
-		<msg	id="request0907"	cont="Extreme Core Pocket (Unique)"	/>
-		<msg	id="request0908"	cont="Chaos Core x 10"	/>
-		<msg	id="request0909"	cont="Divine Stone x 10"	/>
+		<msg id="request0001" cont="Warrior Battle Mode3 (Lv. 1)"/>
+		<msg id="request0002" cont="Warrior Battle Mode3 (Lv. 2)"/>
+		<msg id="request0003" cont="Warrior Battle Mode3 (Lv. 3)"/>
+		<msg id="request0004" cont="Blader Battle Mode3 (Lv. 1)"/>
+		<msg id="request0005" cont="Blader Battle Mode3 (Lv. 2)"/>
+		<msg id="request0006" cont="Blader Battle Mode3 (Lv. 3)"/>
+		<msg id="request0007" cont="Wizard Battle Mode3 (Lv. 1)"/>
+		<msg id="request0008" cont="Wizard Battle Mode3 (Lv. 2)"/>
+		<msg id="request0009" cont="Wizard Battle Mode3 (Lv. 3)"/>
+		<msg id="request0010" cont="Force Archer Battle Mode3 (Lv. 1)"/>
+		<msg id="request0011" cont="Force Archer Battle Mode3 (Lv. 2)"/>
+		<msg id="request0012" cont="Force Archer Battle Mode3 (Lv. 3)"/>
+		<msg id="request0013" cont="Force Shielder Battle Mode3 (Lv. 1)"/>
+		<msg id="request0014" cont="Force Shielder Battle Mode3 (Lv. 2)"/>
+		<msg id="request0015" cont="Force Shielder Battle Mode3 (Lv. 3)"/>
+		<msg id="request0016" cont="Force Blader Battle Mode3 (Lv. 1)"/>
+		<msg id="request0017" cont="Force Blader Battle Mode3 (Lv. 2)"/>
+		<msg id="request0018" cont="Force Blader Battle Mode3 (Lv. 3)"/>
+		<msg id="request0019" cont="New Material Development Support (Daily Quest)"/>
+		<msg id="request0020" cont="Coin Lotto (Forgotten Ruin) x 1"/>
+		<msg id="request0021" cont="Coin Lotto (Lakeside) x 1"/>
+		<msg id="request0022" cont="Coin Lotto (Mutant Forest) x 1"/>
+		<msg id="request0023" cont="Coin Lotto (Pontus Ferrum) x 1"/>
+		<msg id="request0024" cont="Coin Lotto (Porta Inferno) x 1"/>
+		<msg id="request0025" cont="Coin Lotto (Arcane Trace) x 1"/>
+		<msg id="request0026" cont="Bike Epic Converter Box (Lv. 2)"/>
+		<msg id="request0027" cont="Bike Epic Converter Box (Lv. 3)"/>
+		<msg id="request0028" cont="Bike Epic Converter Box (Lv. 4)"/>
+		<msg id="request0029" cont="Extreme Core Pocket (Normal) I"/>
+		<msg id="request0030" cont="Repair Kit Box"/>
+		<msg id="request0031" cont="Mirror of Observation (Bronze)"/>
+		<msg id="request0032" cont="Mirror of Observation (Silver)"/>
+		<msg id="request0033" cont="Extreme Core Pocket (Normal) II"/>
+		<msg id="request0034" cont="Gladiator Battle Mode3 (Lv. 1)"/>
+		<msg id="request0035" cont="Gladiator Battle Mode3 (Lv. 2)"/>
+		<msg id="request0036" cont="Gladiator Battle Mode3 (Lv. 3)"/>
+		<msg id="request0037" cont="Astral Board Card - K Violet I"/>
+		<msg id="request0038" cont="Astral Board Card - K Violet II"/>
+		<msg id="request0039" cont="Force Gunner Battle Mode 3 (Lv. 1)"/>
+		<msg id="request0040" cont="Force Gunner Battle Mode 3 (Lv. 2)"/>
+		<msg id="request0041" cont="Force Gunner Battle Mode 3 (Lv. 3)"/>
+		<msg id="request0042" cont="Skill Book (Aqua Aura)"/>
+		<msg id="request0043" cont="Skill Book (Ice Aura)"/>
+		<msg id="request0044" cont="Skill Book (Flame Aura)"/>
+		<msg id="request0045" cont="Skill Book (Lighting Aura)"/>
+		<msg id="request0046" cont="Luxury Jewelry Box"/>
+		<msg id="request0047" cont="Bike Epic Converter Box (Lv. 5)"/>
+		<msg id="request0048" cont="Luxury Suitcase"/>
+		<msg id="request0049" cont="Dark Mage Battle Mode 3 (Lv. 1)"/>
+		<msg id="request0050" cont="Dark Mage Battle Mode 3 (Lv. 2)"/>
+		<msg id="request0051" cont="Dark Mage Battle Mode 3 (Lv. 3)"/>
+		<msg id="request0101" cont="Plasma Circuit x 5"/>
+		<msg id="request0102" cont="Extender Circuit x 5"/>
+		<msg id="request0103" cont="Sword Damage Amplifier (Lv. 1) X 100"/>
+		<msg id="request0104" cont="Magic Damage Amplifier (Lv. 1) X 100"/>
+		<msg id="request0105" cont="Extract Potion (STR) x 5"/>
+		<msg id="request0106" cont="Extract Potion (DEX) x 5"/>
+		<msg id="request0107" cont="Extract Potion (INT) x 5"/>
+		<msg id="request0108" cont="Diamond Cube x 1"/>
+		<msg id="request0109" cont="Sapphire Charm Upgrade (Lv. 1)"/>
+		<msg id="request0110" cont="Ruby Charm Upgrade (Lv. 1)"/>
+		<msg id="request0111" cont="Emerald Charm Upgrade (Lv. 1)"/>
+		<msg id="request0112" cont="Sealed Mergaheph's ring"/>
+		<msg id="request0113" cont="Killian's Ring"/>
+		<msg id="request0114" cont="Material Core (Titanium) x 20"/>
+		<msg id="request0115" cont="Quartz Core (Pherystin) x 20"/>
+		<msg id="request0116" cont="Map Part x 1"/>
+		<msg id="request0117" cont="Muster Card: Ruina Station x 1"/>
+		<msg id="request0118" cont="Stain Clone Set x 1"/>
+		<msg id="request0119" cont="Amber Charm Upgrade (Lv. 1)"/>
+		<msg id="request0120" cont="Tempus' Ring"/>
+		<msg id="request0121" cont="Rare Muster Card : Forgotten Temple B2F x1"/>
+		<msg id="request0122" cont="Awakened Tyrant's Ring"/>
+		<msg id="request0123" cont="Unusual Lost Island Compass x1"/>
+		<msg id="request0124" cont="Sealed Siena's Bracelet"/>
+		<msg id="request0125" cont="Convert Sword Damage Amplifier (Lv. 1)"/>
+		<msg id="request0126" cont="Convert Magic Damage Amplifier (Lv. 1)"/>
+		<msg id="request0127" cont="Chaos Talisman of Destruction"/>
+		<msg id="request0128" cont="Rune Slot Extender"/>
+		<msg id="request0129" cont="Amethyst Charm Upgrade (Lv.1)"/>
+		<msg id="request0130" cont="Unbound Cube of Honor (Low)"/>
+		<msg id="request0131" cont="Unbound Cube of Honor (Medium)"/>
+		<msg id="request0132" cont="Unbound Cube of Honor (High)"/>
+		<msg id="request0133" cont="Unbound Cube of Honor (Highest)"/>
+		<msg id="request0134" cont="AP Saver (5000/5000)"/>
+		<msg id="request0135" cont="Ring of Dr. Mazel"/>
+		<msg id="request0136" cont="Shiny Jewel of Nix"/>
+		<msg id="request0137" cont="Force Essence x 1"/>
+		<msg id="request0138" cont="Essence Rune (STR II)"/>
+		<msg id="request0139" cont="Essence Rune (Resist Critical Rate)"/>
+		<msg id="request0140" cont="Sealed Chief Laxar's Brooch"/>
+		<msg id="request0141" cont="Essence Rune(DEX ll)"/>
+		<msg id="request0142" cont="Sealed Turmacan's Bracelet"/>
+		<msg id="request0143" cont="Essence Rune(INT II)"/>
+		<msg id="request0144" cont="Sealed Perius' Earring"/>
+		<msg id="request0145" cont="Sealed Gaia Force Amulet"/>
+		<msg id="request0146" cont="Sealed terra Force Amulet"/>
+		<msg id="request0201" cont="Plasma Circuit x 10"/>
+		<msg id="request0202" cont="Extender Circuit x 10"/>
+		<msg id="request0203" cont="Upgrade Core (Crystal) x 5"/>
+		<msg id="request0204" cont="Force Core (Crystal) x 5"/>
+		<msg id="request0205" cont="Sword Damage Amplifier (Lv. 2) x 100"/>
+		<msg id="request0206" cont="Magic Damage Amplifier (Lv. 2) x 100"/>
+		<msg id="request0207" cont="Sapphire Charm Upgrade (Lv. 2)"/>
+		<msg id="request0208" cont="Ruby Charm Upgrade (Lv. 2)"/>
+		<msg id="request0209" cont="Emerald Charm Upgrade (Lv. 2)"/>
+		<msg id="request0210" cont="Concentration Potion (Lv. 1) x 5"/>
+		<msg id="request0211" cont="Reflex Potion (Lv. 1) x 5"/>
+		<msg id="request0212" cont="Vital Potion (Lv. 1) x 5"/>
+		<msg id="request0213" cont="Sharpness Potion (Lv. 1) x 5"/>
+		<msg id="request0214" cont="Mana Condense Potion (Lv. 1) x 5"/>
+		<msg id="request0215" cont="Material Core (Shadow Titanium) x 20"/>
+		<msg id="request0216" cont="Quartz Core (Aqua) x 20"/>
+		<msg id="request0217" cont="Epaulet of the Dead x 1"/>
+		<msg id="request0218" cont="Seal of Darkness x 1"/>
+		<msg id="request0219" cont="Cartridge Roulette (Lv. 2) x 1"/>
+		<msg id="request0220" cont="Amber Charm Upgrade (Lv. 2)"/>
+		<msg id="request0221" cont="Convert Sword Damage Amplifier (Lv. 2)"/>
+		<msg id="request0222" cont="Convert Magic Damage Amplifier (Lv. 2)"/>
+		<msg id="request0223" cont="Amethyst Charm Upgrade (Lv.2)"/>
+		<msg id="request0224" cont="Force Essence x 2"/>
+		<msg id="request0225" cont="Upgrade Core Set (Low) (x1)"/>
+		<msg id="request0226" cont="Upgrade Core Set (Medium) (x1)"/>
+		<msg id="request0227" cont="Upgrade Core Set (High) (x1)"/>
+		<msg id="request0228" cont="Upgrade Core Set (Highest) (x1)"/>
+		<msg id="request0229" cont="Upgrade Core Set (Ultimate) (x1)"/>
+		<msg id="request0230" cont="Chaos Core Set (x1)"/>
+		<msg id="request0231" cont="Divine Stone Set (x1)"/>
+		<msg id="request0301" cont="Upgrade Core (Crystal) x 10"/>
+		<msg id="request0302" cont="Force Core (Crystal) x 10"/>
+		<msg id="request0303" cont="Sword Damage Amplifier (Lv. 3) x 100"/>
+		<msg id="request0304" cont="Magic Damage Amplifier (Lv. 3) x 100"/>
+		<msg id="request0305" cont="Sapphire Charm Upgrade (Lv. 3)"/>
+		<msg id="request0306" cont="Ruby Charm Upgrade (Lv. 3)"/>
+		<msg id="request0307" cont="Emerald Charm Upgrade (Lv. 3)"/>
+		<msg id="request0308" cont="Concentration Potion (Lv. 2) x 5"/>
+		<msg id="request0309" cont="Reflex Potion (Lv. 2) x 5"/>
+		<msg id="request0310" cont="Vital Potion (Lv. 2) x 5"/>
+		<msg id="request0311" cont="Sharpness Potion (Lv. 2) x 5"/>
+		<msg id="request0312" cont="Mana Condense Potion (Lv. 2) x 5"/>
+		<msg id="request0313" cont="Vital Regen Potion (Lv. 1) x 5"/>
+		<msg id="request0314" cont="Hardness Potion (Lv. 1) x 5"/>
+		<msg id="request0315" cont="Strike Potion (Lv. 1) x 5"/>
+		<msg id="request0316" cont="Material Core (Osmium) x 20"/>
+		<msg id="request0317" cont="Quartz Core (Lapis) x 20"/>
+		<msg id="request0318" cont="Epaulet of the Dead (B2F) Part1 x 1"/>
+		<msg id="request0319" cont="Muster Card: Forgotten Temple B1F x 1"/>
+		<msg id="request0320" cont="Flame Dice (Lv. 2) x 1"/>
+		<msg id="request0321" cont="Dark Dice (Lv. 2) x 1"/>
+		<msg id="request0322" cont="Holy Dice (Lv. 2) x 1"/>
+		<msg id="request0323" cont="Air Dice (Lv. 2) x 1"/>
+		<msg id="request0324" cont="Thunder Dice (Lv. 2) x 1"/>
+		<msg id="request0325" cont="Bloody Dice (Lv. 2) x 1"/>
+		<msg id="request0326" cont="Earth Dice (Lv. 2) x 1"/>
+		<msg id="request0327" cont="Aqua Dice (Lv. 2) x 1"/>
+		<msg id="request0328" cont="Soul Dice (Lv. 2) x 1"/>
+		<msg id="request0329" cont="Amber Charm Upgrade (Lv. 3)"/>
+		<msg id="request0330" cont="Convert Sword Damage Amplifier (Lv. 3)"/>
+		<msg id="request0331" cont="Convert Magic Damage Amplifier (Lv. 3)"/>
+		<msg id="request0332" cont="Amethyst Charm Upgrade (Lv.3)"/>
+		<msg id="request0333" cont="Force Essence x 3"/>
+		<msg id="request0334" cont="Upgrade Core Set (Low) (x3)"/>
+		<msg id="request0335" cont="Upgrade Core Set (Medium) (x3)"/>
+		<msg id="request0336" cont="Upgrade Core Set (High) (x3)"/>
+		<msg id="request0337" cont="Upgrade Core Set (Highest) (x3)"/>
+		<msg id="request0338" cont="Upgrade Core Set (Ultimate) (x3)"/>
+		<msg id="request0339" cont="Chaos Core Set (x3)"/>
+		<msg id="request0340" cont="Divine Stone Set (x3)"/>
+		<msg id="request0401" cont="Sword Damage Amplifier (Lv. 4) x 100"/>
+		<msg id="request0402" cont="Magic Damage Amplifier (Lv. 4) x 100"/>
+		<msg id="request0403" cont="Sapphire Charm Upgrade (Lv. 4)"/>
+		<msg id="request0404" cont="Ruby Charm Upgrade (Lv. 4)"/>
+		<msg id="request0405" cont="Emerald Charm Upgrade (Lv. 4)"/>
+		<msg id="request0406" cont="Concentration Potion (Lv. 3) x 5"/>
+		<msg id="request0407" cont="Reflex Potion (Lv. 3) x 5"/>
+		<msg id="request0408" cont="Vital Potion (Lv. 3) x 5"/>
+		<msg id="request0409" cont="Sharpness Potion (Lv. 3) x 5"/>
+		<msg id="request0410" cont="Mana Condense Potion (Lv. 3) x 5"/>
+		<msg id="request0411" cont="Vital Regen Potion (Lv. 2) x 5"/>
+		<msg id="request0412" cont="Hardness Potion (Lv. 2) x 5"/>
+		<msg id="request0413" cont="Strike Potion (Lv. 2) x 5"/>
+		<msg id="request0414" cont="Fury Potion (Lv. 1) x 5"/>
+		<msg id="request0415" cont="Sword Master Potion (Lv. 1) x 5"/>
+		<msg id="request0416" cont="Magic Master Potion (Lv. 1) x 5"/>
+		<msg id="request0417" cont="Evasion Potion (Lv. 1) x 5"/>
+		<msg id="request0418" cont="Material Core (Red Osmium) x 20"/>
+		<msg id="request0419" cont="Quartz Core (Topaz) x 20"/>
+		<msg id="request0420" cont="Copy of Illusive Apocalypse x 1"/>
+		<msg id="request0421" cont="Siena's Crest B1F x 1"/>
+		<msg id="request0422" cont="Cartridge Roulette (Lv. 3) x 1"/>
+		<msg id="request0423" cont="Amber Charm Upgrade (Lv. 4)"/>
+		<msg id="request0424" cont="Extreme Core Pocket (Rare)"/>
+		<msg id="request0425" cont="Convert Sword Damage Amplifier (Lv. 4)"/>
+		<msg id="request0426" cont="Convert Magic Damage Amplifier (Lv. 4)"/>
+		<msg id="request0427" cont="Amethyst Charm Upgrade (Lv.4)"/>
+		<msg id="request0428" cont="Force Essence x 4"/>
+		<msg id="request0429" cont="Upgrade Core Set (Low) (x8)"/>
+		<msg id="request0430" cont="Upgrade Core Set (Medium) (x8)"/>
+		<msg id="request0431" cont="Upgrade Core Set (High) (x8)"/>
+		<msg id="request0432" cont="Upgrade Core Set (Highest) (x8)"/>
+		<msg id="request0433" cont="Upgrade Core Set (Ultimate) (x8)"/>
+		<msg id="request0434" cont="Chaos Core Set (x8)"/>
+		<msg id="request0435" cont="Divine Stone Set (x8)"/>
+		<msg id="request0501" cont="Sword Damage Amplifier (Lv. 5) x 100"/>
+		<msg id="request0502" cont="Magic Damage Amplifier (Lv. 5) x 100"/>
+		<msg id="request0503" cont="Sapphire Charm Upgrade (Lv. 5)"/>
+		<msg id="request0504" cont="Ruby Charm Upgrade (Lv. 5)"/>
+		<msg id="request0505" cont="Emerald Charm Upgrade (Lv. 5)"/>
+		<msg id="request0506" cont="Concentration Potion (Lv. 4) x 5"/>
+		<msg id="request0507" cont="Reflex Potion (Lv. 4) x 5"/>
+		<msg id="request0508" cont="Vital Potion (Lv. 4) x 5"/>
+		<msg id="request0509" cont="Sharpness Potion (Lv. 4) x 5"/>
+		<msg id="request0510" cont="Mana Condense Potion (Lv. 4) x 5"/>
+		<msg id="request0511" cont="Vital Regen Potion (Lv. 3) x 5"/>
+		<msg id="request0512" cont="Hardness Potion (Lv. 3) x 5"/>
+		<msg id="request0513" cont="Strike Potion (Lv. 3) x 5"/>
+		<msg id="request0514" cont="Fury Potion (Lv. 2) x 5"/>
+		<msg id="request0515" cont="Sword Master Potion (Lv. 2) x 5"/>
+		<msg id="request0516" cont="Magic Master Potion (Lv. 2) x 5"/>
+		<msg id="request0517" cont="Evasion Potion (Lv. 2) x 5"/>
+		<msg id="request0518" cont="Upgrade Core (Low) x 1"/>
+		<msg id="request0519" cont="Force Core (Low) x 1"/>
+		<msg id="request0520" cont="Material Core (SIGMetal) x 20"/>
+		<msg id="request0521" cont="Quartz Core (SIGMetal) x 20"/>
+		<msg id="request0522" cont="Lost Island Compass x 1"/>
+		<msg id="request0523" cont="Siena's Crest B2F x 1"/>
+		<msg id="request0524" cont="Flame Dice (Lv. 3) x 1"/>
+		<msg id="request0525" cont="Dark Dice (Lv. 3) x 1"/>
+		<msg id="request0526" cont="Holy Dice(Lv. 3) x 1"/>
+		<msg id="request0527" cont="Air Dice (Lv. 3) x 1"/>
+		<msg id="request0528" cont="Thunder Dice (Lv. 3) x 1"/>
+		<msg id="request0529" cont="Bloody Dice (Lv. 3) x 1"/>
+		<msg id="request0530" cont="Earth Dice (Lv. 3) x 1"/>
+		<msg id="request0531" cont="Aqua Dice (Lv. 3) x 1"/>
+		<msg id="request0532" cont="Soul Dice (Lv. 3) x 1"/>
+		<msg id="request0533" cont="Amber Charm Upgrade (Lv. 5)"/>
+		<msg id="request0534" cont="Chaos Core x 1"/>
+		<msg id="request0535" cont="Convert Sword Damage Amplifier (Lv. 5)"/>
+		<msg id="request0536" cont="Convert Magic Damage Amplifier (Lv. 5)"/>
+		<msg id="request0537" cont="Amethyst Charm Upgrade (Lv.5)"/>
+		<msg id="request0538" cont="Divine Stone x 1"/>
+		<msg id="request0539" cont="Force Essence x 5"/>
+		<msg id="request0540" cont="Upgrade Core Set (Low) (x15)"/>
+		<msg id="request0541" cont="Upgrade Core Set (Medium) (x15)"/>
+		<msg id="request0542" cont="Upgrade Core Set (High) (x15)"/>
+		<msg id="request0543" cont="Upgrade Core Set (Highest) (x15)"/>
+		<msg id="request0544" cont="Upgrade Core Set (Ultimate) (x15)"/>
+		<msg id="request0545" cont="Chaos Core Set (x15)"/>
+		<msg id="request0546" cont="Divine Stone Set (x15)"/>
+		<msg id="request0601" cont="Sword Damage Amplifier (Lv. 6) x 100"/>
+		<msg id="request0602" cont="Magic Damage Amplifier (Lv. 6) x 100"/>
+		<msg id="request0603" cont="Sapphire Charm Upgrade (Lv. 6)"/>
+		<msg id="request0604" cont="Ruby Charm Upgrade (Lv. 6)"/>
+		<msg id="request0605" cont="Emerald Charm Upgrade (Lv. 6)"/>
+		<msg id="request0606" cont="Vital Regen Potion (Lv. 4) x 5"/>
+		<msg id="request0607" cont="Hardness Potion (Lv. 4) x 5"/>
+		<msg id="request0608" cont="Strike Potion (Lv. 4) x 5"/>
+		<msg id="request0609" cont="Fury Potion (Lv. 3) x 5"/>
+		<msg id="request0610" cont="Sword Master Potion (Lv. 3) x 5"/>
+		<msg id="request0611" cont="Magic Master Potion (Lv. 3) x 5"/>
+		<msg id="request0612" cont="Evasion Potion (Lv. 3) x 5"/>
+		<msg id="request0613" cont="Upgrade Core (Low) x 5"/>
+		<msg id="request0614" cont="Force Core (Low) x 5"/>
+		<msg id="request0615" cont="Upgrade Core (Medium) x 1"/>
+		<msg id="request0616" cont="Force Core (Medium) x 1"/>
+		<msg id="request0617" cont="Perfect Core (Low) x 1"/>
+		<msg id="request0618" cont="Slot Extender (Low) x 1"/>
+		<msg id="request0619" cont="Material Core (Forcium) x 20"/>
+		<msg id="request0620" cont="Quartz Core (Forcium) x 20"/>
+		<msg id="request0621" cont="Apocalypse of Other Dimension x 1"/>
+		<msg id="request0622" cont="Muster Card: Forgotten Temple B2F x 1"/>
+		<msg id="request0623" cont="Cartridge Roulette (Lv. 4) x 1"/>
+		<msg id="request0624" cont="Unbinding Stone Cube (Medium) 1ea"/>
+		<msg id="request0625" cont="Amber Charm Upgrade (Lv. 6)"/>
+		<msg id="request0626" cont="Extreme Core Pocket (Epic)"/>
+		<msg id="request0627" cont="Chaos Core x 3"/>
+		<msg id="request0628" cont="Convert Sword Damage Amplifier (Lv. 6)"/>
+		<msg id="request0629" cont="Convert Magic Damage Amplifier (Lv. 6)"/>
+		<msg id="request0630" cont="Amethyst Charm Upgrade (Lv.6)"/>
+		<msg id="request0631" cont="Divine Stone x 3"/>
+		<msg id="request0632" cont="Unbound Merit Medal x 1"/>
+		<msg id="request0633" cont="Enchant Safeguard(Divine)"/>
+		<msg id="request0634" cont="Chaos Safeguard - Chaos Belt"/>
+		<msg id="request0635" cont="Chaos Safeguard - Chaos Talisman"/>
+		<msg id="request0636" cont="Chaos Safeguard - Carnelian"/>
+		<msg id="request0637" cont="Chaos Safeguard - Arcana of Chaos"/>
+		<msg id="request0638" cont="Chaos Safeguard - Arcana of Laws"/>
+		<msg id="request0639" cont="Chaos Safeguard - Arcana of Guardian"/>
+		<msg id="request0640" cont="Unbound Merit Medal x 127"/>
+		<msg id="request0641" cont="Upgrade Core Set (Low) (x30)"/>
+		<msg id="request0642" cont="Upgrade Core Set (Medium) (x30)"/>
+		<msg id="request0643" cont="Upgrade Core Set (High) (x30)"/>
+		<msg id="request0644" cont="Upgrade Core Set (Highest) (x30)"/>
+		<msg id="request0645" cont="Upgrade Core Set (Ultimate) (x30)"/>
+		<msg id="request0646" cont="Chaos Core Set (x30)"/>
+		<msg id="request0647" cont="Divine Stone Set (x30)"/>
+		<msg id="request0648" cont="Chaos Safeguard - Earring"/>
+		<msg id="request0649" cont="Chaos Safeguard - Amulet"/>
+		<msg id="request0650" cont="Chaos Safeguard - Bracelet"/>
+		<msg id="request0701" cont="Sapphire Charm Upgrade (Lv. 7)"/>
+		<msg id="request0702" cont="Ruby Charm Upgrade (Lv. 7)"/>
+		<msg id="request0703" cont="Emerald Charm Upgrade (Lv. 7)"/>
+		<msg id="request0704" cont="Sword Master Potion (Lv. 4) x 5"/>
+		<msg id="request0705" cont="Magic Master Potion (Lv. 4) x 5"/>
+		<msg id="request0706" cont="Evasion Potion (Lv. 4) x 5"/>
+		<msg id="request0707" cont="Upgrade Core (Medium) x 5"/>
+		<msg id="request0708" cont="Force Core (Medium) x 5"/>
+		<msg id="request0709" cont="Upgrade Core (High) x 1"/>
+		<msg id="request0710" cont="Force Core (High) x 1"/>
+		<msg id="request0711" cont="Perfect Core (Low) x 2"/>
+		<msg id="request0712" cont="Slot Extender (Low) x 2"/>
+		<msg id="request0713" cont="Perfect Core (Medium) x 1"/>
+		<msg id="request0714" cont="Slot Extender (Medium) x 1"/>
+		<msg id="request0715" cont="Bike Slot Converter (Lv. 2) x 1"/>
+		<msg id="request0716" cont="Bike Slot Converter (Lv. 3) x 1"/>
+		<msg id="request0717" cont="Hacked Code Disk x 1"/>
+		<msg id="request0718" cont="Flame Dice (Lv. 4) x 1"/>
+		<msg id="request0719" cont="Dark Dice (Lv. 4) x 1"/>
+		<msg id="request0720" cont="Holy Dice (Lv. 4) x 1"/>
+		<msg id="request0721" cont="Air Dice (Lv. 4) x 1"/>
+		<msg id="request0722" cont="Thunder Dice (Lv. 4) x 1"/>
+		<msg id="request0723" cont="Bloody Dice (Lv. 4) x 1"/>
+		<msg id="request0724" cont="Earth Dice (Lv. 4) x 1"/>
+		<msg id="request0725" cont="Aqua Dice (Lv. 4) x 1"/>
+		<msg id="request0726" cont="Soul Dice (Lv. 4) x 1"/>
+		<msg id="request0727" cont="Unbinding Stone Cube (High) x 1"/>
+		<msg id="request0728" cont="Amber Charm Upgrade (Lv. 7)"/>
+		<msg id="request0729" cont="Bike Slot Converter (Lv. 4) x 1"/>
+		<msg id="request0730" cont="Chaos Core x 5"/>
+		<msg id="request0731" cont="Sword Damage Amplifier (Lv. 7) x 100"/>
+		<msg id="request0732" cont="Magic Damage Amplifier (Lv. 7) x 100"/>
+		<msg id="request0733" cont="Convert Sword Damage Amplifier (Lv. 7)"/>
+		<msg id="request0734" cont="Convert Magic Damage Amplifier (Lv. 7)"/>
+		<msg id="request0735" cont="Material Core (Archridium) x 20"/>
+		<msg id="request0736" cont="Rage Potion(Lv3) x 5"/>
+		<msg id="request0737" cont="Quartz Core (Archridium) x 20"/>
+		<msg id="request0738" cont="Amethyst Charm Upgrade (Lv.7)"/>
+		<msg id="request0739" cont="Divine Stone x 5"/>
+		<msg id="request0740" cont="Unbound Merit Medal x 5"/>
+		<msg id="request0741" cont="Bike Slot Converter (Lv. 5) x 1 "/>
+		<msg id="request0801" cont="Upgrade Core (High) x 5"/>
+		<msg id="request0802" cont="Force Core (High) x 5"/>
+		<msg id="request0803" cont="Upgrade Core (Highest) x 1"/>
+		<msg id="request0804" cont="Force Core (Highest) x 1"/>
+		<msg id="request0805" cont="Perfect Core (Medium) x 2"/>
+		<msg id="request0806" cont="Slot Extender (Medium) x 2"/>
+		<msg id="request0807" cont="Perfect Core (High) x 1"/>
+		<msg id="request0808" cont="Slot Extender (High) x 1"/>
+		<msg id="request0809" cont="Unbinding Stone Cube (Highest) x 1"/>
+		<msg id="request0810" cont="Minesta's Red Sapphire Charm"/>
+		<msg id="request0811" cont="Minesta's Green Sapphire Charm"/>
+		<msg id="request0812" cont="Minesta's Yellow Sapphire Charm"/>
+		<msg id="request0813" cont="Minesta's Blue Ruby Charm"/>
+		<msg id="request0814" cont="Minesta's Green Ruby Charm"/>
+		<msg id="request0815" cont="Minesta's Yellow Ruby Charm"/>
+		<msg id="request0816" cont="Minesta's Blue Emerald Charm"/>
+		<msg id="request0817" cont="Minesta's Red Emerald Charm"/>
+		<msg id="request0818" cont="Minesta's Yellow Emerald Charm"/>
+		<msg id="request0819" cont="Minesta's Blue Amber Charm"/>
+		<msg id="request0820" cont="Minesta's Red Amber Charm"/>
+		<msg id="request0821" cont="Minesta's Green Amber Charm"/>
+		<msg id="request0822" cont="Chaos Core x 7"/>
+		<msg id="request0823" cont="Minesta's Red Amethyst Charm"/>
+		<msg id="request0824" cont="Minesta's Green Amethyst Charm"/>
+		<msg id="request0825" cont="Minesta's Yellow Amethyst Charm"/>
+		<msg id="request0826" cont="Minesta's Blue Amethyst Charm"/>
+		<msg id="request0827" cont="Minesta's Purple Sapphire Charm"/>
+		<msg id="request0828" cont="Minesta's Purple Ruby Charm"/>
+		<msg id="request0829" cont="Minesta's Purple Emerald Charm"/>
+		<msg id="request0830" cont="Minesta's Purple Amber Charm"/>
+		<msg id="request0831" cont="Divine Stone x 7"/>
+		<msg id="request0832" cont="Unbound Merit Medal x 10"/>
+		<msg id="request0901" cont="Perfect Core (High) x 2"/>
+		<msg id="request0902" cont="Slot Extender (High) x 2"/>
+		<msg id="request0903" cont="Perfect Core (Highest) x 1"/>
+		<msg id="request0904" cont="Slot Extender (Highest) x 1"/>
+		<msg id="request0905" cont="Upgrade Core (Highest) x 5"/>
+		<msg id="request0906" cont="Force Core (Highest) x 5"/>
+		<msg id="request0907" cont="Extreme Core Pocket (Unique)"/>
+		<msg id="request0908" cont="Chaos Core x 10"/>
+		<msg id="request0909" cont="Divine Stone x 10"/>
 	</request_name_msg>
 </craft_message>

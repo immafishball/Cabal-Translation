@@ -1,155 +1,155 @@
 <MissionFestival_message>
 	<MissionTitle_msg>
-		<msg	Title_Index="1"	desc="Gain {0} {1} qty"	/>
-		<msg	Title_Index="2"	desc="Clear {0} {1} times"	/>
-		<msg	Title_Index="3"	desc="Enter {0} {1} times"	/>
-		<msg	Title_Index="4"	desc="Participate Mission War {0} times"	/>
-		<msg	Title_Index="5"	desc="Gain Mission War reward {0} times"	/>
-		<msg	Title_Index="6"	desc="Report Merit Meal {0} times"	/>
-		<msg	Title_Index="7"	desc="Evaluate Merit Medal {0} times"	/>
-		<msg	Title_Index="8"	desc="Agent Shop item register {0} times"	/>
-		<msg	Title_Index="9"	desc="Agent Shop item purchase {0} times"	/>
-		<msg	Title_Index="10"	desc="Complete Quest {0} times"	/>
-		<msg	Title_Index="11"	desc="Do PVP {0}"	/>
-		<msg	Title_Index="12"	desc="Win PVP {0} times"	/>
-		<msg	Title_Index="13"	desc="Lose PVP {0} times"	/>
-		<msg	Title_Index="14"	desc="Upgrade Item {0} times"	/>
-		<msg	Title_Index="15"	desc="Extract Item {0} times"	/>
-		<msg	Title_Index="16"	desc="Gain {0} DP"	/>
-		<msg	Title_Index="17"	desc="Use {0} DP"	/>
-		<msg	Title_Index="18"	desc="Gain {0} AP"	/>
-		<msg	Title_Index="19"	desc="Use {0} AP"	/>
-		<msg	Title_Index="20"	desc="Gain {0} Alz"	/>
-		<msg	Title_Index="21"	desc="Kill {0} monsters"	/>
-		<msg	Title_Index="22"	desc="Use {0} {1} qty"	/>
-		<msg	Title_Index="23"	desc="Chaos Upgrade {0} times"	/>
-		<msg	Title_Index="24"	desc="Divine Upgrade {0} times"	/>
-		<msg	Title_Index="25"	desc="Use {0} Forcegem"	/>
-		<msg	Title_Index="26"	desc="Spend {0} Alz"	/>
-		<msg	Title_Index="27"	desc="Ressurect {0} times"	/>
-		<msg	Title_Index="28"	desc="Die {0} times"	/>
-		<msg	Title_Index="29"	desc="Gain {0} Upgrade Point"	/>
-		<msg	Title_Index="30"	desc="Kill {0} {1} monsters"	/>
+		<msg Title_Index="1" desc="Gain {0} {1} qty" />
+		<msg Title_Index="10" desc="Complete Quest {0} times" />
+		<msg Title_Index="11" desc="Do PVP {0}" />
+		<msg Title_Index="12" desc="Win PVP {0} times" />
+		<msg Title_Index="13" desc="Lose PVP {0} times" />
+		<msg Title_Index="14" desc="Upgrade Item {0} times" />
+		<msg Title_Index="15" desc="Extract Item {0} times" />
+		<msg Title_Index="16" desc="Gain {0} DP" />
+		<msg Title_Index="17" desc="Use {0} DP" />
+		<msg Title_Index="18" desc="Gain {0} AP" />
+		<msg Title_Index="19" desc="Use {0} AP" />
+		<msg Title_Index="2" desc="Clear {0} {1} times" />
+		<msg Title_Index="20" desc="Gain {0} Alz" />
+		<msg Title_Index="21" desc="Kill {0} monsters" />
+		<msg Title_Index="22" desc="Use {0} {1} qty" />
+		<msg Title_Index="23" desc="Chaos Upgrade {0} times" />
+		<msg Title_Index="24" desc="Divine Upgrade {0} times" />
+		<msg Title_Index="25" desc="Use {0} Forcegem" />
+		<msg Title_Index="26" desc="Spend {0} Alz" />
+		<msg Title_Index="27" desc="Resurrect {0} times" />
+		<msg Title_Index="28" desc="Die {0} times" />
+		<msg Title_Index="29" desc="Gain {0} Upgrade Point" />
+		<msg Title_Index="3" desc="Enter {0} {1} times" />
+		<msg Title_Index="30" desc="Kill {0} {1} monsters" />
+		<msg Title_Index="4" desc="Participate Mission War {0} times" />
+		<msg Title_Index="5" desc="Gain Mission War reward {0} times" />
+		<msg Title_Index="6" desc="Report Merit Meal {0} times" />
+		<msg Title_Index="7" desc="Evaluate Merit Medal {0} times" />
+		<msg Title_Index="8" desc="Agent Shop item register {0} times" />
+		<msg Title_Index="9" desc="Agent Shop item purchase {0} times" />
 	</MissionTitle_msg>
 	<Count_msg>
-		<msg	Count_Index="1"	desc="{0} / {1} qty"	/>
-		<msg	Count_Index="2"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="3"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="4"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="5"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="6"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="7"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="8"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="9"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="10"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="11"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="12"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="13"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="14"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="15"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="16"	desc="{0} / {1} points"	/>
-		<msg	Count_Index="17"	desc="{0} / {1} points"	/>
-		<msg	Count_Index="18"	desc="{0} / {1} points"	/>
-		<msg	Count_Index="19"	desc="{0} / {1} points"	/>
-		<msg	Count_Index="20"	desc="{0} / {1} Alz"	/>
-		<msg	Count_Index="21"	desc="{0} / {1} monsters"	/>
-		<msg	Count_Index="22"	desc="{0} / {1} qty."	/>
-		<msg	Count_Index="23"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="24"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="25"	desc="{0} / {1} qty."	/>
-		<msg	Count_Index="26"	desc="{0} / {1} Alz"	/>
-		<msg	Count_Index="27"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="28"	desc="{0} / {1} times"	/>
-		<msg	Count_Index="29"	desc="{0} / {1} points"	/>
-		<msg	Count_Index="30"	desc="{0} / {1} monsters"	/>
+		<msg Count_Index="1" desc="{0} / {1} qty" />
+		<msg Count_Index="10" desc="{0} / {1} times" />
+		<msg Count_Index="11" desc="{0} / {1} times" />
+		<msg Count_Index="12" desc="{0} / {1} times" />
+		<msg Count_Index="13" desc="{0} / {1} times" />
+		<msg Count_Index="14" desc="{0} / {1} times" />
+		<msg Count_Index="15" desc="{0} / {1} times" />
+		<msg Count_Index="16" desc="{0} / {1} points" />
+		<msg Count_Index="17" desc="{0} / {1} points" />
+		<msg Count_Index="18" desc="{0} / {1} points" />
+		<msg Count_Index="19" desc="{0} / {1} points" />
+		<msg Count_Index="2" desc="{0} / {1} times" />
+		<msg Count_Index="20" desc="{0} / {1} Alz" />
+		<msg Count_Index="21" desc="{0} / {1} monsters" />
+		<msg Count_Index="22" desc="{0} / {1} qty." />
+		<msg Count_Index="23" desc="{0} / {1} times" />
+		<msg Count_Index="24" desc="{0} / {1} times" />
+		<msg Count_Index="25" desc="{0} / {1} qty." />
+		<msg Count_Index="26" desc="{0} / {1} Alz" />
+		<msg Count_Index="27" desc="{0} / {1} times" />
+		<msg Count_Index="28" desc="{0} / {1} times" />
+		<msg Count_Index="29" desc="{0} / {1} points" />
+		<msg Count_Index="3" desc="{0} / {1} times" />
+		<msg Count_Index="30" desc="{0} / {1} monsters" />
+		<msg Count_Index="4" desc="{0} / {1} times" />
+		<msg Count_Index="5" desc="{0} / {1} times" />
+		<msg Count_Index="6" desc="{0} / {1} times" />
+		<msg Count_Index="7" desc="{0} / {1} times" />
+		<msg Count_Index="8" desc="{0} / {1} times" />
+		<msg Count_Index="9" desc="{0} / {1} times" />
 	</Count_msg>
 	<Desc_msg>
-		<msg	Desc_Index="1"	desc="$27#Gain {2}$ $28#{1}$ in $4#{0}."	/>
-		<msg	Desc_Index="2"	desc="$27#Clear$ $28#{1}$ in $4#{0}$ $27#{2} times$."	/>
-		<msg	Desc_Index="3"	desc="$27#Enter$ $28#{1}$ in $4#{0}$ $27#{2} times$."	/>
-		<msg	Desc_Index="4"	desc="Participate $28#Mission War$ $27#{0} times$."	/>
-		<msg	Desc_Index="5"	desc="Participate $28#Mission War$ and $27#gain reward {0} times$."	/>
-		<msg	Desc_Index="6"	desc="$27#Report {0}$ $28#Merit Medals$ to $4#Officers$."	/>
-		<msg	Desc_Index="7"	desc="$27#Evaluate {0}$ $28#Merit Medals$ to $4#Officers$."	/>
-		<msg	Desc_Index="8"	desc="$27#Register {0}$ $28#items$ in $4#Agent Shop#"	/>
-		<msg	Desc_Index="9"	desc="$27#Purchase {0}$ $28#items$ in $4#Agent Shop#"	/>
-		<msg	Desc_Index="10"	desc="$27#Complete$ $28#any quest$ $27#{0} times$."	/>
-		<msg	Desc_Index="11"	desc="$27#Participate {0} times$ on $28#PVP$."	/>
-		<msg	Desc_Index="12"	desc="$27#Win {0} times$ on $28#PVP$."	/>
-		<msg	Desc_Index="13"	desc="$27#Lose {0} times$ on $28#PVP$."	/>
-		<msg	Desc_Index="14"	desc="Upgrade $28#item$ $27#{0}times$ using $4#Upgrade Core$."	/>
-		<msg	Desc_Index="15"	desc="Extract $28#Any Items$ $27#{0}times$."	/>
-		<msg	Desc_Index="16"	desc="Gain $27#{0} $28#DP(Dungeon Point)$."	/>
-		<msg	Desc_Index="17"	desc="Use $27#{0} $28#DP(Dungeon Point)$."	/>
-		<msg	Desc_Index="18"	desc="Gain $27#{0} $28#AP(Ability Point)$"	/>
-		<msg	Desc_Index="19"	desc="Use $27#{0} $28#AP(Ability Point)$."	/>
-		<msg	Desc_Index="20"	desc="Loot(Gain) $27#{0}Alz$."	/>
-		<msg	Desc_Index="21"	desc="Kill $28#any monster$ $27#{0}times$."	/>
-		<msg	Desc_Index="22"	desc="Use $27#{1}$	$28#{0}$."	/>
-		<msg	Desc_Index="23"	desc="Try $28#Chaos Upgrade$ $27#{0} times$ using $4#Chaos Core$."	/>
-		<msg	Desc_Index="24"	desc="Try $28#Divine Upgrade$ $27#{0} times$ using $4#Divine Stone$."	/>
-		<msg	Desc_Index="25"	desc="$27#Use {0}Forcegem$."	/>
-		<msg	Desc_Index="26"	desc="$27#Spend {0}Alz$."	/>
-		<msg	Desc_Index="27"	desc="$27#Ressurect {0}times$ using $28#Forcegem$ or  $28#Odd Circle$."	/>
-		<msg	Desc_Index="28"	desc="$27#Die {0}times$."	/>
-		<msg	Desc_Index="29"	desc="Gain $27#{0}$ $28#Upgrade Points$ from $4#Upgrade Fail$."	/>
-		<msg	Desc_Index="30"	desc="$27#Kill {2}$ $28#{1}$ in $4#{0}$."	/>
+		<msg Desc_Index="1" desc="$27#Gain {2}$ $28#{1}$ in $4#{0}." />
+		<msg Desc_Index="10" desc="$27#Complete$ $28#any quest$ $27#{0} times$." />
+		<msg Desc_Index="11" desc="$27#Participate {0} times$ on $28#PVP$." />
+		<msg Desc_Index="12" desc="$27#Win {0} times$ on $28#PVP$." />
+		<msg Desc_Index="13" desc="$27#Lose {0} times$ on $28#PVP$." />
+		<msg Desc_Index="14" desc="Upgrade $28#item$ $27#{0}times$ using $4#Upgrade Core$." />
+		<msg Desc_Index="15" desc="Extract $28#Any Items$ $27#{0}times$." />
+		<msg Desc_Index="16" desc="Gain $27#{0} $28#DP(Dungeon Point)$." />
+		<msg Desc_Index="17" desc="Use $27#{0} $28#DP(Dungeon Point)$." />
+		<msg Desc_Index="18" desc="Gain $27#{0} $28#AP(Ability Point)$" />
+		<msg Desc_Index="19" desc="Use $27#{0} $28#AP(Ability Point)$." />
+		<msg Desc_Index="2" desc="$27#Clear$ $28#{1}$ $27#{2} times$." />
+		<msg Desc_Index="20" desc="Loot(Gain) $27#{0}Alz$." />
+		<msg Desc_Index="21" desc="Kill $28#any monster$ $27#{0}times$." />
+		<msg Desc_Index="22" desc="Use $27#{1}$	$28#{0}$." />
+		<msg Desc_Index="23" desc="Try $28#Chaos Upgrade$ $27#{0} times$ using $4#Chaos Core$." />
+		<msg Desc_Index="24" desc="Try $28#Divine Upgrade$ $27#{0} times$ using $4#Divine Stone$." />
+		<msg Desc_Index="25" desc="$27#Use {0}Forcegem$." />
+		<msg Desc_Index="26" desc="$27#Spend {0}Alz$." />
+		<msg Desc_Index="27" desc="$27#Resurrect {0}times$ using $28#Forcegem$ or  $28#Odd Circle$." />
+		<msg Desc_Index="28" desc="$27#Die {0}times$." />
+		<msg Desc_Index="29" desc="Gain $27#{0}$ $28#Upgrade Points$ from $4#Upgrade Fail$." />
+		<msg Desc_Index="3" desc="$27#Enter$ $28#{1}$ $27#{2} times$." />
+		<msg Desc_Index="30" desc="$27#Kill {2}$ $28#{1}$ in $4#{0}$." />
+		<msg Desc_Index="4" desc="Participate $28#Mission War$ $27#{0} times$." />
+		<msg Desc_Index="5" desc="Participate $28#Mission War$ and $27#gain reward {0} times$." />
+		<msg Desc_Index="6" desc="$27#Report {0}$ $28#Merit Medals$ to $4#Officers$." />
+		<msg Desc_Index="7" desc="$27#Evaluate {0}$ $28#Merit Medals$ to $4#Officers$." />
+		<msg Desc_Index="8" desc="$27#Register {0}$ $28#items$ in $4#Agent Shop#" />
+		<msg Desc_Index="9" desc="$27#Purchase {0}$ $28#items$ in $4#Agent Shop#" />
 	</Desc_msg>
 	<MissionList_msg>
-		<Mission	Type="1"	Title_Index="1"	Icon="Title_4"	Desc_Index="1"	Count_Index="1"	/>
-		<Mission	Type="2"	Title_Index="2"	Icon="Title_3"	Desc_Index="2"	Count_Index="2"	/>
-		<Mission	Type="3"	Title_Index="3"	Icon="Title_3"	Desc_Index="3"	Count_Index="3"	/>
-		<Mission	Type="4"	Title_Index="4,5"	Icon="Title_6"	Desc_Index="4,5"	Count_Index="4,5"	/>
-		<Mission	Type="5"	Title_Index="6"	Icon="Title_1"	Desc_Index="6"	Count_Index="6"	/>
-		<Mission	Type="6"	Title_Index="7"	Icon="Title_1"	Desc_Index="7"	Count_Index="7"	/>
-		<Mission	Type="7"	Title_Index="8,9"	Icon="social_08"	Desc_Index="8,9"	Count_Index="8,9"	/>
-		<Mission	Type="8"	Title_Index="10"	Icon="Title_2"	Desc_Index="10"	Count_Index="10"	/>
-		<Mission	Type="9"	Title_Index="11,12,13"	Icon="Title_5"	Desc_Index="11,12,13"	Count_Index="11,12,13"	/>
-		<Mission	Type="10"	Title_Index="14"	Icon="Request\\request0142"	Desc_Index="14"	Count_Index="14"	/>
-		<Mission	Type="11"	Title_Index="15"	Icon="limit_upgrade_result_3"	Desc_Index="15"	Count_Index="15"	/>
-		<Mission	Type="12"	Title_Index="16"	Icon="Overload_buff"	Desc_Index="16"	Count_Index="16"	/>
-		<Mission	Type="13"	Title_Index="17"	Icon="Overload_buff"	Desc_Index="17"	Count_Index="17"	/>
-		<Mission	Type="14"	Title_Index="18"	Icon="assistant_singlepassive"	Desc_Index="18"	Count_Index="18"	/>
-		<Mission	Type="15"	Title_Index="19"	Icon="assistant_singlepassive"	Desc_Index="19"	Count_Index="19"	/>
-		<Mission	Type="16"	Title_Index="20"	Icon="force044"	Desc_Index="20"	Count_Index="20"	/>
-		<Mission	Type="17"	Title_Index="21,30"	Icon="Title_7"	Desc_Index="21,30"	Count_Index="21,30"	/>
-		<Mission	Type="18"	Title_Index="22"	Icon="Title_8"	Desc_Index="22"	Count_Index="22"	/>
-		<Mission	Type="19"	Title_Index="23"	Icon="Request\\request0143"	Desc_Index="23"	Count_Index="23"	/>
-		<Mission	Type="20"	Title_Index="24"	Icon="Request\\request0538"	Desc_Index="24"	Count_Index="24"	/>
-		<Mission	Type="21"	Title_Index="25"	Icon="Title_8"	Desc_Index="25"	Count_Index="25"	/>
-		<Mission	Type="22"	Title_Index="26"	Icon="force109"	Desc_Index="26"	Count_Index="26"	/>
-		<Mission	Type="23"	Title_Index="27"	Icon="skill246"	Desc_Index="27"	Count_Index="27"	/>
-		<Mission	Type="24"	Title_Index="28"	Icon="Death_T"	Desc_Index="28"	Count_Index="28"	/>
-		<Mission	Type="25"	Title_Index="29"	Icon="craft103"	Desc_Index="29"	Count_Index="29"	/>
+		<Mission Type="1" Title_Index="1" Icon="Title_4" Desc_Index="1" Count_Index="1" />
+		<Mission Type="10" Title_Index="14" Icon="Request\\request0142" Desc_Index="14" Count_Index="14" />
+		<Mission Type="11" Title_Index="15" Icon="limit_upgrade_result_3" Desc_Index="15" Count_Index="15" />
+		<Mission Type="12" Title_Index="16" Icon="Overload_buff" Desc_Index="16" Count_Index="16" />
+		<Mission Type="13" Title_Index="17" Icon="Overload_buff" Desc_Index="17" Count_Index="17" />
+		<Mission Type="14" Title_Index="18" Icon="assistant_singlepassive" Desc_Index="18" Count_Index="18" />
+		<Mission Type="15" Title_Index="19" Icon="assistant_singlepassive" Desc_Index="19" Count_Index="19" />
+		<Mission Type="16" Title_Index="20" Icon="force044" Desc_Index="20" Count_Index="20" />
+		<Mission Type="17" Title_Index="21,30" Icon="Title_7" Desc_Index="21,30" Count_Index="21,30" />
+		<Mission Type="18" Title_Index="22" Icon="Title_8" Desc_Index="22" Count_Index="22" />
+		<Mission Type="19" Title_Index="23" Icon="Request\\request0143" Desc_Index="23" Count_Index="23" />
+		<Mission Type="2" Title_Index="2" Icon="Title_3" Desc_Index="2" Count_Index="2" />
+		<Mission Type="20" Title_Index="24" Icon="Request\\request0538" Desc_Index="24" Count_Index="24" />
+		<Mission Type="21" Title_Index="25" Icon="Title_8" Desc_Index="25" Count_Index="25" />
+		<Mission Type="22" Title_Index="26" Icon="force109" Desc_Index="26" Count_Index="26" />
+		<Mission Type="23" Title_Index="27" Icon="skill246" Desc_Index="27" Count_Index="27" />
+		<Mission Type="24" Title_Index="28" Icon="Death_T" Desc_Index="28" Count_Index="28" />
+		<Mission Type="25" Title_Index="29" Icon="craft103" Desc_Index="29" Count_Index="29" />
+		<Mission Type="3" Title_Index="3" Icon="Title_3" Desc_Index="3" Count_Index="3" />
+		<Mission Type="4" Title_Index="4,5" Icon="Title_6" Desc_Index="4,5" Count_Index="4,5" />
+		<Mission Type="5" Title_Index="6" Icon="Title_1" Desc_Index="6" Count_Index="6" />
+		<Mission Type="6" Title_Index="7" Icon="Title_1" Desc_Index="7" Count_Index="7" />
+		<Mission Type="7" Title_Index="8,9" Icon="social_08" Desc_Index="8,9" Count_Index="8,9" />
+		<Mission Type="8" Title_Index="10" Icon="Title_2" Desc_Index="10" Count_Index="10" />
+		<Mission Type="9" Title_Index="11,12,13" Icon="Title_5" Desc_Index="11,12,13" Count_Index="11,12,13" />
 	</MissionList_msg>
 	<Drop_Location>
-		<Item_Location	Item_Index="33554732"	Dungeon_index="4276"	/>
-		<Item_Location	Item_Index="33555962"	Dungeon_index="4338"	/>
-		<Item_Location	Item_Index="33556336"	Dungeon_index="4346"	/>
-		<Item_Location	Item_Index="33555110"	Dungeon_index="4277"	/>
-		<Item_Location	Item_Index="33555111"	Dungeon_index="4280"	/>
-		<Item_Location	Item_Index="33555112"	Dungeon_index="4279"	/>
-		<Item_Location	Item_Index="33555113"	Dungeon_index="4278"	/>
-		<Item_Location	Item_Index="3343"	Dungeon_index="4098"	/>
-		<Item_Location	Item_Index="33554726"	Dungeon_index="4099"	/>
+		<Item_Location Item_Index="3343" Dungeon_index="4098" />
+		<Item_Location Item_Index="33554726" Dungeon_index="4099" />
+		<Item_Location Item_Index="33554732" Dungeon_index="4276" />
+		<Item_Location Item_Index="33555110" Dungeon_index="4277" />
+		<Item_Location Item_Index="33555111" Dungeon_index="4280" />
+		<Item_Location Item_Index="33555112" Dungeon_index="4279" />
+		<Item_Location Item_Index="33555113" Dungeon_index="4278" />
+		<Item_Location Item_Index="33555962" Dungeon_index="4338" />
+		<Item_Location Item_Index="33556336" Dungeon_index="4346" />
 	</Drop_Location>
 	<Monster_Location>
-		<Boss_Location	Monster_index="108"	World_index="8"	/>
-		<Boss_Location	Monster_index="109"	World_index="8"	/>
-		<Boss_Location	Monster_index="110"	World_index="8"	/>
-		<Boss_Location	Monster_index="111"	World_index="8"	/>
-		<Boss_Location	Monster_index="704"	World_index="6"	/>
-		<Boss_Location	Monster_index="919"	World_index="10"	/>
-		<Boss_Location	Monster_index="915"	World_index="10"	/>
-		<Boss_Location	Monster_index="913"	World_index="10"	/>
-		<Boss_Location	Monster_index="918"	World_index="10"	/>
-		<Boss_Location	Monster_index="1498"	World_index="11"	/>
-		<Boss_Location	Monster_index="1499"	World_index="11"	/>
-		<Boss_Location	Monster_index="1497"	World_index="11"	/>
-		<Boss_Location	Monster_index="1929"	World_index="12"	/>
-		<Boss_Location	Monster_index="2790"	World_index="22"	/>
-		<Boss_Location	Monster_index="2791"	World_index="22"	/>
-		<Boss_Location	Monster_index="2792"	World_index="22"	/>
-		<Boss_Location	Monster_index="2793"	World_index="22"	/>
+		<Boss_Location Monster_index="108" World_index="8" />
+		<Boss_Location Monster_index="109" World_index="8" />
+		<Boss_Location Monster_index="110" World_index="8" />
+		<Boss_Location Monster_index="111" World_index="8" />
+		<Boss_Location Monster_index="1497" World_index="11" />
+		<Boss_Location Monster_index="1498" World_index="11" />
+		<Boss_Location Monster_index="1499" World_index="11" />
+		<Boss_Location Monster_index="1929" World_index="12" />
+		<Boss_Location Monster_index="2790" World_index="22" />
+		<Boss_Location Monster_index="2791" World_index="22" />
+		<Boss_Location Monster_index="2792" World_index="22" />
+		<Boss_Location Monster_index="2793" World_index="22" />
+		<Boss_Location Monster_index="704" World_index="6" />
+		<Boss_Location Monster_index="913" World_index="10" />
+		<Boss_Location Monster_index="915" World_index="10" />
+		<Boss_Location Monster_index="918" World_index="10" />
+		<Boss_Location Monster_index="919" World_index="10" />
 	</Monster_Location>
 </MissionFestival_message>

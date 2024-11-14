@@ -1,13 +1,13 @@
 <challengemission_message>
 	<mission_msg>
-		<mission	idx="0"	desc="Gain {0} DP"	/>
-		<mission	idx="1"	desc="Gain {0} AP"	/>
-		<mission	idx="2"	desc="Report Merit Medal x{0}"	/>
-		<mission	idx="3"	desc="Create Guild Treasure x{0}"	/>
-		<mission	idx="4"	desc="Craft Request x{0}"	/>
-		<mission	idx="5"	desc="Kill Monster x{0}"	/>
-		<mission	idx="6"	desc="Use {0}alz"	/>
-		<mission	idx="7"	desc="Use Force Gem x{0}"	/>
-		<mission	idx="8"	desc="Participate Mission War x{0}"	/>
+		<mission idx="0" desc="Gain {0} DP" />
+		<mission idx="1" desc="Gain {0} AP" />
+		<mission idx="2" desc="Report Merit Medal x{0}" />
+		<mission idx="3" desc="Create Guild Treasure x{0}" />
+		<mission idx="4" desc="Craft Request x{0}" />
+		<mission idx="5" desc="Kill Monster x{0}" />
+		<mission idx="6" desc="Use {0}alz" />
+		<mission idx="7" desc="Use Force Gem x{0}" />
+		<mission idx="8" desc="Participate Mission War x{0}" />
 	</mission_msg>
 </challengemission_message>

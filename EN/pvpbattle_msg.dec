@@ -1,5 +1,5 @@
 <pvpbattle_message>
-	<version index="1" />
+	<version index="2" />
 	<battle_map_msg>
 		<msg id="battle_map01" cont="Penta Montes" />
 	</battle_map_msg>
