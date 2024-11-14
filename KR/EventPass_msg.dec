@@ -1,62 +1,62 @@
 <EventPass_message>
 	<type_msg>
-		<msg	q_type="1"	desc="AP È¹µæ"	/>
-		<msg	q_type="2"	desc="DP È¹µæ"	/>
-		<msg	q_type="3"	desc="AP ¼Ò¸ð"	/>
-		<msg	q_type="4"	desc="DP ¼Ò¸ð"	/>
-		<msg	q_type="5"	desc="¾ËÁî ·çÆÃ"	/>
-		<msg	q_type="6"	desc="ÃßÃâ·Î È¹µæ"	/>
-		<msg	q_type="7"	desc="WEXPÈ¹µæ"	/>
-		<msg	q_type="8"	desc="WEXP¼Ò¸ð"	/>
-		<msg	q_type="9"	desc="ÀÏÀÏ Á¢¼Ó"	/>
-		<msg	q_type="10"	desc="°­È­ ½Ãµµ"	/>
-		<msg	q_type="11"	desc="Á¦Á¶ÀÇ·Ú"	/>
-		<msg	q_type="12"	desc="±æµå º¸¹° »ý¼º"	/>
-		<msg	q_type="13"	desc="¸ó½ºÅÍ Ã³Ä¡"	/>
-		<msg	q_type="14"	desc="Äù½ºÆ® ¿Ï·á"	/>
-		<msg	q_type="15"	desc="°øÈÆÆÐ º¸°í"	/>
-		<msg	q_type="16"	desc="°øÈÆÆÐ Æò°¡"	/>
-		<msg	q_type="17"	desc="´øÀü ¿Ï·á"	/>
-		<msg	q_type="18"	desc="´øÀü ÀÔÀå"	/>
-		<msg	q_type="19"	desc="ÀÏÀÏ ¹Ì¼Ç ¿Ï·á"	/>
-		<msg	q_type="20"	desc="¾ÆÀÌÅÛ ·çÆÃ"	/>
-		<msg	q_type="21"	desc="¾ÆÀÌÅÛ »ç¿ë"	/>
-		<msg	q_type="22"	desc="µµÀü ¹Ì¼Ç Á¡¼ö È¹µæ"	/>
-		<msg	q_type="23"	desc="¿À´ÃÀÇ ´øÀü Å¬¸®¾î"	/>
-		<msg	q_type="24"	desc="¹Ì¼Ç ÀüÀï Âü¿©"	/>
-		<msg	q_type="25"	desc="´øÀü ¸®½ºÆ® ÀÔÀå"	/>
-		<msg	q_type="26"	desc="´øÀü ¸®½ºÆ® ¿Ï·á"	/>
-		<msg	q_type="27"	desc="´øÀü ¸ó½ºÅÍ Ã³Ä¡"	/>
-		<msg	q_type="28"	desc="¿ëº´ ¼ÒÈ¯"	/>
-		<msg	q_type="29"	desc="·¹Àüµå ¾Æ·¹³ª ¿Ï·á"	/>
-		<msg	q_type="30"	desc="¾ÆÀÌÅÛ ¸®½ºÆ® »ç¿ë"	/>
-		<msg	q_type="31"	desc="Ä«¿À½º/µð¹ÙÀÎ ÄÁ¹öÅÍ »ç¿ë"	/>
-		<msg	q_type="32"	desc="¾ÆÀÌÅÛ ¸®½ºÆ® Á¦Á¶ ÀÇ·Ú"	/>
-		<msg	q_type="33"	desc="ÀÏ¹Ý °­È­"	/>
-		<msg	q_type="34"	desc="Ä«¿À½º °­È­"	/>
-		<msg	q_type="35"	desc="µð¹ÙÀÎ °­È­"	/>
-		<msg	q_type="36"	desc="ÀÏ¹Ý °­È­ +{0} ´Þ¼º "	/>
-		<msg	q_type="37"	desc="Ä«¿À½º °­È­ +{0} ´Þ¼º "	/>
-		<msg	q_type="38"	desc="µð¹ÙÀÎ °­È­ +{0} ´Þ¼º "	/>
-		<msg	q_type="39"	desc="¾ÆÆ¼ÆÑÆ® °­È­/Á¶À²"	/>
-		<msg	q_type="40"	desc="Å¸ÀÓ ¸®µà¼­ »ç¿ë"	/>
-		<msg	q_type="41"	desc="¹Ì¼Ç ÀüÀï Ä³¸¯ÅÍ Ã³Ä¡"	/>
-		<msg	q_type="42"	desc="°øÈÆÆÐ ¼Ò¸ð"	/>
-		<msg	q_type="43"	desc="PvP¹èÆ² Âü¿©"	/>
-		<msg	q_type="44"	desc="½ÅÈ­ Æ÷ÀÎÆ® ¼Ò¸ð"	/>
-		<msg	q_type="45"	desc="Áö¹èÀÚ º¸½º ·¹ÀÌµå Âü¿©"	/>
-		<msg	q_type="46"	desc="¹Ì¼Ç ÀüÀï º¸»ó ¼ö·É"	/>
-		<msg	q_type="47"	desc="±æµå ´øÀü ¿Ï·á"	/>
-		<msg	q_type="48"	desc="Æ÷½º À® °­¸² ½ºÅ³ »ç¿ë"	/>
-		<msg	q_type="49"	desc="¾ÆÀÌÅÛ ¸®½ºÆ® ·çÆÃ"	/>
-		<msg	q_type="50"	desc="Äù½ºÆ® ¸®½ºÆ® Å¬¸®¾î"	/>
-		<msg	q_type="51"	desc="½ºÅÚ¶ó¸µÅ© °¢ÀÎ"	/>
-		<msg	q_type="52"	desc="À§Å¹ »óÁ¡¿¡ ¾ÆÀÌÅÛ µî·Ï"	/>
-		<msg	q_type="53"	desc="¸í¿¹ Á¡¼ö È¹µæ"	/>
-		<msg	q_type="54"	desc="·¹º§ ¾÷"	/>
-		<msg	q_type="55"	desc="´øÀü È¸Â÷ º¸»ó ¼ö·É"	/>
-		<msg	q_type="56"	desc="½ºÆä¼È ±³È¯±Ç ¼Ò¸ð"	/>
-		<msg	q_type="57"	desc="À²ÀÇ ´øÀü ÀÔÀå±Ç ±³È¯±Ç ±³È¯ Æ¼ÄÏ ¼Ò¸ð"	/>
-		<msg	q_type="58"	desc="±â¾ïÀÇ ÆÄÆí ¼Ò¸ð"	/>
+		<msg	q_type="1"	desc="AP íšë“"	/>
+		<msg	q_type="2"	desc="DP íšë“"	/>
+		<msg	q_type="3"	desc="AP ì†Œëª¨"	/>
+		<msg	q_type="4"	desc="DP ì†Œëª¨"	/>
+		<msg	q_type="5"	desc="ì•Œì¦ˆ ë£¨íŒ…"	/>
+		<msg	q_type="6"	desc="ì¶”ì¶œë¡œ íšë“"	/>
+		<msg	q_type="7"	desc="WEXPíšë“"	/>
+		<msg	q_type="8"	desc="WEXPì†Œëª¨"	/>
+		<msg	q_type="9"	desc="ì¼ì¼ ì ‘ì†"	/>
+		<msg	q_type="10"	desc="ê°•í™” ì‹œë„"	/>
+		<msg	q_type="11"	desc="ì œì¡°ì˜ë¢°"	/>
+		<msg	q_type="12"	desc="ê¸¸ë“œ ë³´ë¬¼ ìƒì„±"	/>
+		<msg	q_type="13"	desc="ëª¬ìŠ¤í„° ì²˜ì¹˜"	/>
+		<msg	q_type="14"	desc="í€˜ìŠ¤íŠ¸ ì™„ë£Œ"	/>
+		<msg	q_type="15"	desc="ê³µí›ˆíŒ¨ ë³´ê³ "	/>
+		<msg	q_type="16"	desc="ê³µí›ˆíŒ¨ í‰ê°€"	/>
+		<msg	q_type="17"	desc="ë˜ì „ ì™„ë£Œ"	/>
+		<msg	q_type="18"	desc="ë˜ì „ ìž…ìž¥"	/>
+		<msg	q_type="19"	desc="ì¼ì¼ ë¯¸ì…˜ ì™„ë£Œ"	/>
+		<msg	q_type="20"	desc="ì•„ì´í…œ ë£¨íŒ…"	/>
+		<msg	q_type="21"	desc="ì•„ì´í…œ ì‚¬ìš©"	/>
+		<msg	q_type="22"	desc="ë„ì „ ë¯¸ì…˜ ì ìˆ˜ íšë“"	/>
+		<msg	q_type="23"	desc="ì˜¤ëŠ˜ì˜ ë˜ì „ í´ë¦¬ì–´"	/>
+		<msg	q_type="24"	desc="ë¯¸ì…˜ ì „ìŸ ì°¸ì—¬"	/>
+		<msg	q_type="25"	desc="ë˜ì „ ë¦¬ìŠ¤íŠ¸ ìž…ìž¥"	/>
+		<msg	q_type="26"	desc="ë˜ì „ ë¦¬ìŠ¤íŠ¸ ì™„ë£Œ"	/>
+		<msg	q_type="27"	desc="ë˜ì „ ëª¬ìŠ¤í„° ì²˜ì¹˜"	/>
+		<msg	q_type="28"	desc="ìš©ë³‘ ì†Œí™˜"	/>
+		<msg	q_type="29"	desc="ë ˆì „ë“œ ì•„ë ˆë‚˜ ì™„ë£Œ"	/>
+		<msg	q_type="30"	desc="ì•„ì´í…œ ë¦¬ìŠ¤íŠ¸ ì‚¬ìš©"	/>
+		<msg	q_type="31"	desc="ì¹´ì˜¤ìŠ¤/ë””ë°”ì¸ ì»¨ë²„í„° ì‚¬ìš©"	/>
+		<msg	q_type="32"	desc="ì•„ì´í…œ ë¦¬ìŠ¤íŠ¸ ì œì¡° ì˜ë¢°"	/>
+		<msg	q_type="33"	desc="ì¼ë°˜ ê°•í™”"	/>
+		<msg	q_type="34"	desc="ì¹´ì˜¤ìŠ¤ ê°•í™”"	/>
+		<msg	q_type="35"	desc="ë””ë°”ì¸ ê°•í™”"	/>
+		<msg	q_type="36"	desc="ì¼ë°˜ ê°•í™” +{0} ë‹¬ì„± "	/>
+		<msg	q_type="37"	desc="ì¹´ì˜¤ìŠ¤ ê°•í™” +{0} ë‹¬ì„± "	/>
+		<msg	q_type="38"	desc="ë””ë°”ì¸ ê°•í™” +{0} ë‹¬ì„± "	/>
+		<msg	q_type="39"	desc="ì•„í‹°íŒ©íŠ¸ ê°•í™”/ì¡°ìœ¨"	/>
+		<msg	q_type="40"	desc="íƒ€ìž„ ë¦¬ë“€ì„œ ì‚¬ìš©"	/>
+		<msg	q_type="41"	desc="ë¯¸ì…˜ ì „ìŸ ìºë¦­í„° ì²˜ì¹˜"	/>
+		<msg	q_type="42"	desc="ê³µí›ˆíŒ¨ ì†Œëª¨"	/>
+		<msg	q_type="43"	desc="PvPë°°í‹€ ì°¸ì—¬ í›„ ìŠ¹íŒ¨ íšë“"	/>
+		<msg	q_type="44"	desc="ì‹ í™” í¬ì¸íŠ¸ ì†Œëª¨"	/>
+		<msg	q_type="45"	desc="ì§€ë°°ìž ë³´ìŠ¤ ë ˆì´ë“œ ì°¸ì—¬"	/>
+		<msg	q_type="46"	desc="ë¯¸ì…˜ ì „ìŸ ë³´ìƒ ìˆ˜ë ¹"	/>
+		<msg	q_type="47"	desc="ê¸¸ë“œ ë˜ì „ ì™„ë£Œ"	/>
+		<msg	q_type="48"	desc="í¬ìŠ¤ ìœ™ ê°•ë¦¼ ìŠ¤í‚¬ ì‚¬ìš©"	/>
+		<msg	q_type="49"	desc="ì•„ì´í…œ ë¦¬ìŠ¤íŠ¸ ë£¨íŒ…"	/>
+		<msg	q_type="50"	desc="í€˜ìŠ¤íŠ¸ ë¦¬ìŠ¤íŠ¸ í´ë¦¬ì–´"	/>
+		<msg	q_type="51"	desc="ìŠ¤í…”ë¼ë§í¬ ê°ì¸"	/>
+		<msg	q_type="52"	desc="ìœ„íƒ ìƒì ì— ì•„ì´í…œ ë“±ë¡"	/>
+		<msg	q_type="53"	desc="ëª…ì˜ˆ ì ìˆ˜ íšë“"	/>
+		<msg	q_type="54"	desc="ë ˆë²¨ ì—…"	/>
+		<msg	q_type="55"	desc="ë˜ì „ íšŒì°¨ ë³´ìƒ ìˆ˜ë ¹"	/>
+		<msg	q_type="56"	desc="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ ì†Œëª¨"	/>
+		<msg	q_type="57"	desc="ìœ¨ì˜ ë˜ì „ ìž…ìž¥ê¶Œ êµí™˜ í‹°ì¼“ ì†Œëª¨"	/>
+		<msg	q_type="58"	desc="ê¸°ì–µì˜ íŒŒíŽ¸ ì†Œëª¨"	/>
 	</type_msg>
 </EventPass_message>

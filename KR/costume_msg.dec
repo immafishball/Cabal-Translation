@@ -142,6 +142,14 @@
 		<msg	Index="33558318"	costume_name="다크 황실복"	/>
 		<msg	Index="33558417"	costume_name="별의 지배자"	/>
 		<msg	Index="33558423"	costume_name="아이돌"	/>
+		<msg	Index="33558433"	costume_name="회색빛 제복"	/>
+		<msg	Index="33558439"	costume_name="사이버 버니 블루"	/>
+		<msg	Index="33558445"	costume_name="사이버 버니 핑크"	/>
+		<msg	Index="33558451"	costume_name="사이버 버니 옐로우"	/>
+		<msg	Index="33558457"	costume_name="프레피 룩"	/>
+		<msg	Index="33558463"	costume_name="프레피 룩 퍼플"	/>
+		<msg	Index="33558469"	costume_name="레전드 오브 레드"	/>
+		<msg	Index="33558472"	costume_name="블랙 치파오"	/>
 		<msg	Index="1013"	costume_name="할로윈 - 호박 투구"	/>
 		<msg	Index="1078"	costume_name="루돌프 뿔 + 코"	/>
 		<msg	Index="1079"	costume_name="루돌프 뿔"	/>
@@ -287,6 +295,12 @@
 		<msg	Index="33558075"	costume_name="샴 드레스 페이스"	/>
 		<msg	Index="33558420"	costume_name="별의 지배자 페이스"	/>
 		<msg	Index="33558426"	costume_name="아이돌 페이스"	/>
+		<msg	Index="33558436"	costume_name="회색빛 제복 페이스"	/>
+		<msg	Index="33558442"	costume_name="사이버 버니 블루 페이스"	/>
+		<msg	Index="33558448"	costume_name="사이버 버니 핑크 페이스"	/>
+		<msg	Index="33558454"	costume_name="사이버 버니 옐로우 페이스"	/>
+		<msg	Index="33558460"	costume_name="프레피 룩 페이스"	/>
+		<msg	Index="33558466"	costume_name="프레피 룩 퍼플 페이스"	/>
 		<msg	Index="1014"	costume_name="캔디 - 오브/크리스탈"	/>
 		<msg	Index="1015"	costume_name="캔디 - 카타나/다이카타나"	/>
 		<msg	Index="1016"	costume_name="캔디 - 블레이드/그레이트소드"	/>

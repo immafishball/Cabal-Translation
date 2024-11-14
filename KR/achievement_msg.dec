@@ -1550,6 +1550,17 @@
 		<title_msg	msg_id="11123"	name1="중국 전용 신규 호칭 3"	name2=""	name3=""	desc=""	/>
 		<title_msg	msg_id="11124"	name1="중국 전용 신규 호칭 4"	name2=""	name3=""	desc=""	/>
 		<title_msg	msg_id="11125"	name1="중국 전용 신규 호칭 5"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11126"	name1="태국 전용 신규 호칭 1"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11127"	name1="태국 전용 신규 호칭 2"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11128"	name1="태국 전용 신규 호칭 3"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11129"	name1="태국 전용 신규 호칭 4"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11130"	name1="태국 전용 신규 호칭 5"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11131"	name1="태국 전용 신규 호칭 6"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11132"	name1="태국 전용 신규 호칭 7"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11133"	name1="태국 전용 신규 호칭 8"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11134"	name1="태국 전용 신규 호칭 9"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11135"	name1="태국 전용 신규 호칭 10"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11136"	name1="태국 전용 신규 호칭 11"	name2=""	name3=""	desc=""	/>
 	</title>
 	<who>
 		<who_msg	msg_id="1"	msg=""	/>
