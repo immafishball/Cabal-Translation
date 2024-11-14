@@ -1,408 +1,408 @@
 <cabal_help>
 	<version	index="1"/>
 	<helpgroup>
-		<group	group_id="1"	group_name="±âº»Á¶ÀÛ">
-			<title	title_id="1"	title_name="ÀÌµ¿"	target_id="11"	/>
-			<title	title_id="2"	title_name="½ÃÁ¡º¯È¯"	target_id="12"	/>
-			<title	title_id="3"	title_name="Çàµ¿"	target_id="15"	/>
-			<title	title_id="4"	title_name="Ã¤ÆÃ"	target_id="17"	/>
-			<title	title_id="5"	title_name="Äü½½·Ô"	target_id="21"	/>
-			<title	title_id="6"	title_name="¾ÆÀÌÅÛ È¹µæ"	target_id="24"	/>
-			<title	title_id="7"	title_name="¾ÆÀÌÅÛ »ç¿ë"	target_id="26"	/>
-			<title	title_id="8"	title_name="¾ÆÀÌÅÛ Âø¿ë"	target_id="28"	/>
-			<title	title_id="9"	title_name="½ºÅ³ µî·Ï°ú »ç¿ë"	target_id="31"	/>
-			<title	title_id="10"	title_name="´ÜÃàÅ°"	target_id="33"	/>
+		<group	group_id="1"	group_name="ê¸°ë³¸ì¡°ìž‘">
+			<title	title_id="1"	title_name="ì´ë™"	target_id="11"	/>
+			<title	title_id="2"	title_name="ì‹œì ë³€í™˜"	target_id="12"	/>
+			<title	title_id="3"	title_name="í–‰ë™"	target_id="15"	/>
+			<title	title_id="4"	title_name="ì±„íŒ…"	target_id="17"	/>
+			<title	title_id="5"	title_name="í€µìŠ¬ë¡¯"	target_id="21"	/>
+			<title	title_id="6"	title_name="ì•„ì´í…œ íšë“"	target_id="24"	/>
+			<title	title_id="7"	title_name="ì•„ì´í…œ ì‚¬ìš©"	target_id="26"	/>
+			<title	title_id="8"	title_name="ì•„ì´í…œ ì°©ìš©"	target_id="28"	/>
+			<title	title_id="9"	title_name="ìŠ¤í‚¬ ë“±ë¡ê³¼ ì‚¬ìš©"	target_id="31"	/>
+			<title	title_id="10"	title_name="ë‹¨ì¶•í‚¤"	target_id="33"	/>
 		</group>
-		<group	group_id="2"	group_name="ÀÎÅÍÆäÀÌ½º">
-			<title	title_id="11"	title_name="¸Þ´º"	target_id="35"	/>
-			<title	title_id="12"	title_name="Ä³¸¯ÅÍÃ¢"	target_id="37"	/>
+		<group	group_id="2"	group_name="ì¸í„°íŽ˜ì´ìŠ¤">
+			<title	title_id="11"	title_name="ë©”ë‰´"	target_id="35"	/>
+			<title	title_id="12"	title_name="ìºë¦­í„°ì°½"	target_id="37"	/>
 			<title	title_id="13"	title_name="GPS"	target_id="40"	/>
-			<title	title_id="14"	title_name="¿É¼Ç"	target_id="45"	/>
+			<title	title_id="14"	title_name="ì˜µì…˜"	target_id="45"	/>
 		</group>
-		<group	group_id="3"	group_name="½Ã½ºÅÛ">
-			<title	title_id="15"	title_name="Äù½ºÆ®"	target_id="46"	/>
-			<title	title_id="16"	title_name="´øÀü"	target_id="50"	/>
-			<title	title_id="17"	title_name="¼ºÀå"	target_id="57"	/>
-			<title	title_id="18"	title_name="¸í¿¹"	target_id="62"	/>
+		<group	group_id="3"	group_name="ì‹œìŠ¤í…œ">
+			<title	title_id="15"	title_name="í€˜ìŠ¤íŠ¸"	target_id="46"	/>
+			<title	title_id="16"	title_name="ë˜ì „"	target_id="50"	/>
+			<title	title_id="17"	title_name="ì„±ìž¥"	target_id="57"	/>
+			<title	title_id="18"	title_name="ëª…ì˜ˆ"	target_id="62"	/>
 			<title	title_id="19"	title_name="WExp"	target_id="64"	/>
-			<title	title_id="20"	title_name="È£Äª"	target_id="66"	/>
-			<title	title_id="21"	title_name="¿ëº´"	target_id="68"	/>
+			<title	title_id="20"	title_name="í˜¸ì¹­"	target_id="66"	/>
+			<title	title_id="21"	title_name="ìš©ë³‘"	target_id="68"	/>
 		</group>
-		<group	group_id="4"	group_name="ÀüÅõ">
-			<title	title_id="22"	title_name="ÀüÅõÀÇ ±âÃÊ"	target_id="70"	/>
+		<group	group_id="4"	group_name="ì „íˆ¬">
+			<title	title_id="22"	title_name="ì „íˆ¬ì˜ ê¸°ì´ˆ"	target_id="70"	/>
 			<title	title_id="23"	title_name="SP"	target_id="72"	/>
-			<title	title_id="24"	title_name="¿À·¯ ¸ðµå"	target_id="74"	/>
-			<title	title_id="25"	title_name="¹èÆ² ¸ðµå"	target_id="75"	/>
-			<title	title_id="26"	title_name="À¯Àú °£ ÀüÅõ"	target_id="77"	/>
+			<title	title_id="24"	title_name="ì˜¤ëŸ¬ ëª¨ë“œ"	target_id="74"	/>
+			<title	title_id="25"	title_name="ë°°í‹€ ëª¨ë“œ"	target_id="75"	/>
+			<title	title_id="26"	title_name="ìœ ì € ê°„ ì „íˆ¬"	target_id="77"	/>
 		</group>
-		<group	group_id="5"	group_name="½ºÅ³">
-			<title	title_id="27"	title_name="½ºÅ³ Á¾·ù"	target_id="79"	/>
-			<title	title_id="28"	title_name="½ºÅ³ Æ®·¹ÀÌ´×"	target_id="83"	/>
-			<title	title_id="29"	title_name="½ºÅ³ ·©Å©"	target_id="85"	/>
-			<title	title_id="30"	title_name="ÄÞº¸"	target_id="90"	/>
-			<title	title_id="31"	title_name="´õ¹Ì"	target_id="94"	/>
+		<group	group_id="5"	group_name="ìŠ¤í‚¬">
+			<title	title_id="27"	title_name="ìŠ¤í‚¬ ì¢…ë¥˜"	target_id="79"	/>
+			<title	title_id="28"	title_name="ìŠ¤í‚¬ íŠ¸ë ˆì´ë‹"	target_id="83"	/>
+			<title	title_id="29"	title_name="ìŠ¤í‚¬ ëž­í¬"	target_id="85"	/>
+			<title	title_id="30"	title_name="ì½¤ë³´"	target_id="90"	/>
+			<title	title_id="31"	title_name="ë”ë¯¸"	target_id="94"	/>
 		</group>
-		<group	group_id="6"	group_name="¾ÆÀÌÅÛ">
-			<title	title_id="32"	title_name="¾ÆÀÌÅÛ Á¾·ù"	target_id="95"	/>
-			<title	title_id="33"	title_name="¾ÆÀÌÅÛ °­È­"	target_id="98"	/>
-			<title	title_id="34"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	target_id="103"	/>
-			<title	title_id="35"	title_name="¾ÆÀÌÅÛ ¿ÜÇü º¯°æ"	target_id="109"	/>
-			<title	title_id="36"	title_name="±âÅ¸ ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛ"	target_id="114"	/>
+		<group	group_id="6"	group_name="ì•„ì´í…œ">
+			<title	title_id="32"	title_name="ì•„ì´í…œ ì¢…ë¥˜"	target_id="95"	/>
+			<title	title_id="33"	title_name="ì•„ì´í…œ ê°•í™”"	target_id="98"	/>
+			<title	title_id="34"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	target_id="103"	/>
+			<title	title_id="35"	title_name="ì•„ì´í…œ ì™¸í˜• ë³€ê²½"	target_id="109"	/>
+			<title	title_id="36"	title_name="ê¸°íƒ€ ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œ"	target_id="114"	/>
 		</group>
-		<group	group_id="7"	group_name="Á¦Á¶">
-			<title	title_id="37"	title_name="Á¦Á¶ÀÇ ±âÃÊ"	target_id="118"	/>
-			<title	title_id="38"	title_name="ÀÏ¹Ý Á¦Á¶"	target_id="120"	/>
-			<title	title_id="39"	title_name="Àü¹® Á¦Á¶"	target_id="122"	/>
-			<title	title_id="40"	title_name="¾ÆÀÌÅÛ ÃßÃâ"	target_id="123"	/>
+		<group	group_id="7"	group_name="ì œì¡°">
+			<title	title_id="37"	title_name="ì œì¡°ì˜ ê¸°ì´ˆ"	target_id="118"	/>
+			<title	title_id="38"	title_name="ì¼ë°˜ ì œì¡°"	target_id="120"	/>
+			<title	title_id="39"	title_name="ì „ë¬¸ ì œì¡°"	target_id="122"	/>
+			<title	title_id="40"	title_name="ì•„ì´í…œ ì¶”ì¶œ"	target_id="123"	/>
 		</group>
-		<group	group_id="8"	group_name="°Å·¡">
-			<title	title_id="41"	title_name="NPC »óÁ¡"	target_id="125"	/>
-			<title	title_id="42"	title_name="°³ÀÎ »óÁ¡"	target_id="128"	/>
-			<title	title_id="43"	title_name="À§Å¹ »óÁ¡"	target_id="131"	/>
-			<title	title_id="44"	title_name="°³ÀÎ °Å·¡"	target_id="137"	/>
-			<title	title_id="45"	title_name="Ã¢°í"	target_id="139"	/>
+		<group	group_id="8"	group_name="ê±°ëž˜">
+			<title	title_id="41"	title_name="NPC ìƒì "	target_id="125"	/>
+			<title	title_id="42"	title_name="ê°œì¸ ìƒì "	target_id="128"	/>
+			<title	title_id="43"	title_name="ìœ„íƒ ìƒì "	target_id="131"	/>
+			<title	title_id="44"	title_name="ê°œì¸ ê±°ëž˜"	target_id="137"	/>
+			<title	title_id="45"	title_name="ì°½ê³ "	target_id="139"	/>
 		</group>
-		<group	group_id="9"	group_name="Æê">
-			<title	title_id="46"	title_name="Æê"	target_id="140"	/>
-			<title	title_id="47"	title_name="Æê ¼ºÀå"	target_id="142"	/>
-			<title	title_id="48"	title_name="Æê Æ®·¹ÀÌ´×"	target_id="144"	/>
+		<group	group_id="9"	group_name="íŽ«">
+			<title	title_id="46"	title_name="íŽ«"	target_id="140"	/>
+			<title	title_id="47"	title_name="íŽ« ì„±ìž¥"	target_id="142"	/>
+			<title	title_id="48"	title_name="íŽ« íŠ¸ë ˆì´ë‹"	target_id="144"	/>
 		</group>
-		<group	group_id="10"	group_name="ÆÄÆ¼">
-			<title	title_id="49"	title_name="ÆÄÆ¼ ÃÊ´ë"	target_id="146"	/>
-			<title	title_id="50"	title_name="ÆÄÆ¼ ¿É¼Ç"	target_id="148"	/>
-			<title	title_id="51"	title_name="ÆÄÆ¼ Å»Åð"	target_id="149"	/>
+		<group	group_id="10"	group_name="íŒŒí‹°">
+			<title	title_id="49"	title_name="íŒŒí‹° ì´ˆëŒ€"	target_id="146"	/>
+			<title	title_id="50"	title_name="íŒŒí‹° ì˜µì…˜"	target_id="148"	/>
+			<title	title_id="51"	title_name="íŒŒí‹° íƒˆí‡´"	target_id="149"	/>
 		</group>
-		<group	group_id="11"	group_name="Ä¿¹Â´ÏÆ¼">
-			<title	title_id="52"	title_name="¹öµð"	target_id="151"	/>
-			<title	title_id="53"	title_name="±æµå"	target_id="153"	/>
-			<title	title_id="54"	title_name="±¹°¡"	target_id="157"	/>
+		<group	group_id="11"	group_name="ì»¤ë®¤ë‹ˆí‹°">
+			<title	title_id="52"	title_name="ë²„ë””"	target_id="151"	/>
+			<title	title_id="53"	title_name="ê¸¸ë“œ"	target_id="153"	/>
+			<title	title_id="54"	title_name="êµ­ê°€"	target_id="157"	/>
 		</group>
-		<group	group_id="12"	group_name="¹Ì¼ÇÀüÀï">
-			<title	title_id="55"	title_name="¹Ì¼ÇÀüÀï Ã¤³Î ÁøÀÔ"	target_id="161"	/>
-			<title	title_id="56"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	target_id="163"	/>
-			<title	title_id="57"	title_name="¹Ì¼ÇÀüÀï Á¾·á"	target_id="169"	/>
-			<title	title_id="58"	title_name="¹Ì¼ÇÀüÀï º¸»ó"	target_id="171"	/>
+		<group	group_id="12"	group_name="ë¯¸ì…˜ì „ìŸ">
+			<title	title_id="55"	title_name="ë¯¸ì…˜ì „ìŸ ì±„ë„ ì§„ìž…"	target_id="161"	/>
+			<title	title_id="56"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	target_id="163"	/>
+			<title	title_id="57"	title_name="ë¯¸ì…˜ì „ìŸ ì¢…ë£Œ"	target_id="169"	/>
+			<title	title_id="58"	title_name="ë¯¸ì…˜ì „ìŸ ë³´ìƒ"	target_id="171"	/>
 		</group>
-		<group	group_id="13"	group_name="¼Ò¿ï ¾îºô¸®Æ¼">
+		<group	group_id="13"	group_name="ì†Œìš¸ ì–´ë¹Œë¦¬í‹°">
 			<title	title_id="59"	title_name="AXP/AP"	target_id="175"	/>
-			<title	title_id="60"	title_name="¿¡¼¾½º ·é"	target_id="177"	/>
-			<title	title_id="61"	title_name="ºí·»µðµå ·é"	target_id="180"	/>
+			<title	title_id="60"	title_name="ì—ì„¼ìŠ¤ ë£¬"	target_id="177"	/>
+			<title	title_id="61"	title_name="ë¸”ë Œë””ë“œ ë£¬"	target_id="180"	/>
 		</group>
-		<group	group_id="14"	group_name="º¸¾È">
-			<title	title_id="62"	title_name="¼­ºêÆÐ½º¿öµå"	target_id="184"	/>
+		<group	group_id="14"	group_name="ë³´ì•ˆ">
+			<title	title_id="62"	title_name="ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œ"	target_id="184"	/>
 		</group>
 	</helpgroup>
 	<helpcontent>
 		<help	title_id="0"	>
-			<content	help_id="1"	title_name="Æ©Åä¸®¾ó"	help_image="tutor_officer"	help_desc="°¢ ¸¶À»ÀÇ ¿ÀÇÇ¼­´Â °ÔÀÓÀ» ÁøÇàÇÏ´Â µ¥ Áß¿äÇÑ NPCÀÔ´Ï´Ù. ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ´ëÈ­ÇØ º¸¼¼¿ä."	/>
-			<content	help_id="2"	title_name="Æ©Åä¸®¾ó"	help_image="tutor_officer2"	help_desc="NPC ¸Ó¸® À§¿¡ ÀÖ´Â ½ºÅ©·ÑÀÌ º¸ÀÌ½Ã³ª¿ä? ½ºÅ©·ÑÀÌ Ç¥½ÃµÇ´Â NPC´Â Äù½ºÆ®¿Í °ü·ÃµÈ Äù½ºÆ® NPC ÀÔ´Ï´Ù. [Äù½ºÆ®] Ç×¸ñÀ» ¼±ÅÃÇÏ¿© ´ëÈ­ÇÏ¸é, Äù½ºÆ®¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="3"	title_name="Æ©Åä¸®¾ó"	help_image="move"	help_desc="Äù½ºÆ®¸¦ È¹µæÇÏ¿´½À´Ï´Ù. ¿ÀÇÇ¼­°¡ ÁØ Äù½ºÆ®¸¦ ¼öÇàÇÏ±â À§ÇØ ÀÌµ¿ÇØ¾ß ÇÕ´Ï´Ù. ÇÊµå¸¦ ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, Å°º¸µå Q W E A S D¸¦ »ç¿ëÇÏ¿© ÀÌµ¿ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="4"	title_name="Æ©Åä¸®¾ó"	help_image="angle"	help_desc="½ÃÁ¡ÀÌ ºÒÆíÇÏ´Ù¸é, ¿øÇÏ´Â ½ÃÁ¡À¸·Î º¯°æÇØ º¸¼¼¿ä. ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À» Å¬¸¯ÇÑ »óÅÂ¿¡¼­ ¸¶¿ì½º¸¦ ¿òÁ÷¿© ÀÚÀ¯·Ó°Ô È­¸éÀÇ °¢µµ¸¦ ¹Ù²Ü ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="5"	title_name="Æ©Åä¸®¾ó"	help_image="tutor_questwindow"	help_desc="Äù½ºÆ®´Â °ÔÀÓÀ» ÁøÇàÇÏ´Âµ¥ Áß¿äÇÑ ¿ä¼ÒÀÔ´Ï´Ù. ¹«¾ùÀ» ÇØ¾ßÇÒ Áö Àß ¸ð¸£°Ú´Ù¸é, Äù½ºÆ® Ã¢À» ¿­¾î ÁøÇà°¡´ÉÇÑ Äù½ºÆ®¸¦ È®ÀÎÇØ º¸¼¼¿ä. Äù½ºÆ® Ã¢ÀÇ ´ÜÃàÅ°´Â T ÀÔ´Ï´Ù."	/>
-			<content	help_id="6"	title_name="Æ©Åä¸®¾ó"	help_image="gps_m"	help_desc="´ÜÃàÅ° MÀ» ´©¸£°Å³ª TAB Å°¸¦ ´©¸£°í ÀÖÀ» ¶§ GPS Ã¢À» ¿­ ¼ö ÀÖ½À´Ï´Ù. GPS¸¦ ÀÌ¿ëÇØ ÀüÃ¼ ¸Ê ¹× NPCÀÇ À§Ä¡, Äù½ºÆ® Á¤º¸ µîÀ» È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="7"	title_name="Æ©Åä¸®¾ó"	help_image="qslot_use"	help_desc="Äü½½·Ô¿¡ ¾ÆÀÌÅÛÀÌ³ª ½ºÅ³À» µî·ÏÇÏ¸é, Æí¸®ÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. Äü½½·Ô¿¡ µî·ÏµÈ ¾ÆÀÌÅÛÀÌ³ª ½ºÅ³Àº ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª ´ÜÃàÅ°¸¦ ´­·¯ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. Äü½½·ÔÀÇ ´ÜÃàÅ°´Â °¢ ½½·ÔÀÇ ¿ÞÂÊ »ó´Ü¿¡ Ç¥½ÃµË´Ï´Ù."	/>
-			<content	help_id="8"	title_name="Æ©Åä¸®¾ó"	help_image="battlebasic_basic"	help_desc="ÀüÅõ¸¦ ÇÏ±â À§ÇØ¼­´Â ¸ÕÀú ¸ó½ºÅÍ¸¦ ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ¼±ÅÃÇØ¾ß ÇÕ´Ï´Ù. ¸ó½ºÅÍ°¡ ¼±ÅÃµÈ »óÅÂ¿¡¼­ ½ºÅ³À» »ç¿ëÇÏ¸é, ÀüÅõ¸¦ ½ÃÀÛÇÒ ¼ö ÀÖ½À´Ï´Ù. Äü½½·ÔÀÇ ½ºÅ³Àº ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, ´ÜÃàÅ°¸¦ ´­·¯ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="9"	title_name="Æ©Åä¸®¾ó"	help_image="itemtake"	help_desc="ÀüÅõ¿¡¼­ ½Â¸®ÇÏ¸é ¸ó½ºÅÍ°¡ ¾ÆÀÌÅÛÀ» µå·ÓÇÕ´Ï´Ù. µå·ÓµÈ ¾ÆÀÌÅÛÀº ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, ¾ÆÀÌÅÛ °¡±îÀÌ¿¡¼­ Space bar ¸¦ ´©¸£¸é È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="10"	title_name="Æ©Åä¸®¾ó"	help_image="tutor_help"	help_desc="´ÜÃàÅ° H¸¦ ´­·¯ µµ¿ò¸» ¸ñ·ÏÃ¢À» ¿­°Å³ª, °ÔÀÓÀ» ÁøÇàÇÏ¸é¼­ ³ªÅ¸³ª´Â ?¹öÆ°À» Å¬¸¯ÇØ º¸¼¼¿ä. À¯¿ëÇÑ Á¤º¸¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="1"	title_name="íŠœí† ë¦¬ì–¼"	help_image="tutor_officer"	help_desc="ê° ë§ˆì„ì˜ ì˜¤í”¼ì„œëŠ” ê²Œìž„ì„ ì§„í–‰í•˜ëŠ” ë° ì¤‘ìš”í•œ NPCìž…ë‹ˆë‹¤. ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ëŒ€í™”í•´ ë³´ì„¸ìš”."	/>
+			<content	help_id="2"	title_name="íŠœí† ë¦¬ì–¼"	help_image="tutor_officer2"	help_desc="NPC ë¨¸ë¦¬ ìœ„ì— ìžˆëŠ” ìŠ¤í¬ë¡¤ì´ ë³´ì´ì‹œë‚˜ìš”? ìŠ¤í¬ë¡¤ì´ í‘œì‹œë˜ëŠ” NPCëŠ” í€˜ìŠ¤íŠ¸ì™€ ê´€ë ¨ëœ í€˜ìŠ¤íŠ¸ NPC ìž…ë‹ˆë‹¤. [í€˜ìŠ¤íŠ¸] í•­ëª©ì„ ì„ íƒí•˜ì—¬ ëŒ€í™”í•˜ë©´, í€˜ìŠ¤íŠ¸ë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="3"	title_name="íŠœí† ë¦¬ì–¼"	help_image="move"	help_desc="í€˜ìŠ¤íŠ¸ë¥¼ íšë“í•˜ì˜€ìŠµë‹ˆë‹¤. ì˜¤í”¼ì„œê°€ ì¤€ í€˜ìŠ¤íŠ¸ë¥¼ ìˆ˜í–‰í•˜ê¸° ìœ„í•´ ì´ë™í•´ì•¼ í•©ë‹ˆë‹¤. í•„ë“œë¥¼ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, í‚¤ë³´ë“œ Q W E A S Dë¥¼ ì‚¬ìš©í•˜ì—¬ ì´ë™í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="4"	title_name="íŠœí† ë¦¬ì–¼"	help_image="angle"	help_desc="ì‹œì ì´ ë¶ˆíŽ¸í•˜ë‹¤ë©´, ì›í•˜ëŠ” ì‹œì ìœ¼ë¡œ ë³€ê²½í•´ ë³´ì„¸ìš”. ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ì„ í´ë¦­í•œ ìƒíƒœì—ì„œ ë§ˆìš°ìŠ¤ë¥¼ ì›€ì§ì—¬ ìžìœ ë¡­ê²Œ í™”ë©´ì˜ ê°ë„ë¥¼ ë°”ê¿€ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="5"	title_name="íŠœí† ë¦¬ì–¼"	help_image="tutor_questwindow"	help_desc="í€˜ìŠ¤íŠ¸ëŠ” ê²Œìž„ì„ ì§„í–‰í•˜ëŠ”ë° ì¤‘ìš”í•œ ìš”ì†Œìž…ë‹ˆë‹¤. ë¬´ì—‡ì„ í•´ì•¼í•  ì§€ ìž˜ ëª¨ë¥´ê² ë‹¤ë©´, í€˜ìŠ¤íŠ¸ ì°½ì„ ì—´ì–´ ì§„í–‰ê°€ëŠ¥í•œ í€˜ìŠ¤íŠ¸ë¥¼ í™•ì¸í•´ ë³´ì„¸ìš”. í€˜ìŠ¤íŠ¸ ì°½ì˜ ë‹¨ì¶•í‚¤ëŠ” T ìž…ë‹ˆë‹¤."	/>
+			<content	help_id="6"	title_name="íŠœí† ë¦¬ì–¼"	help_image="gps_m"	help_desc="ë‹¨ì¶•í‚¤ Mì„ ëˆ„ë¥´ê±°ë‚˜ TAB í‚¤ë¥¼ ëˆ„ë¥´ê³  ìžˆì„ ë•Œ GPS ì°½ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. GPSë¥¼ ì´ìš©í•´ ì „ì²´ ë§µ ë° NPCì˜ ìœ„ì¹˜, í€˜ìŠ¤íŠ¸ ì •ë³´ ë“±ì„ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="7"	title_name="íŠœí† ë¦¬ì–¼"	help_image="qslot_use"	help_desc="í€µìŠ¬ë¡¯ì— ì•„ì´í…œì´ë‚˜ ìŠ¤í‚¬ì„ ë“±ë¡í•˜ë©´, íŽ¸ë¦¬í•˜ê²Œ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í€µìŠ¬ë¡¯ì— ë“±ë¡ëœ ì•„ì´í…œì´ë‚˜ ìŠ¤í‚¬ì€ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜ ë‹¨ì¶•í‚¤ë¥¼ ëˆŒëŸ¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í€µìŠ¬ë¡¯ì˜ ë‹¨ì¶•í‚¤ëŠ” ê° ìŠ¬ë¡¯ì˜ ì™¼ìª½ ìƒë‹¨ì— í‘œì‹œë©ë‹ˆë‹¤."	/>
+			<content	help_id="8"	title_name="íŠœí† ë¦¬ì–¼"	help_image="battlebasic_basic"	help_desc="ì „íˆ¬ë¥¼ í•˜ê¸° ìœ„í•´ì„œëŠ” ë¨¼ì € ëª¬ìŠ¤í„°ë¥¼ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ì„ íƒí•´ì•¼ í•©ë‹ˆë‹¤. ëª¬ìŠ¤í„°ê°€ ì„ íƒëœ ìƒíƒœì—ì„œ ìŠ¤í‚¬ì„ ì‚¬ìš©í•˜ë©´, ì „íˆ¬ë¥¼ ì‹œìž‘í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í€µìŠ¬ë¡¯ì˜ ìŠ¤í‚¬ì€ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, ë‹¨ì¶•í‚¤ë¥¼ ëˆŒëŸ¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="9"	title_name="íŠœí† ë¦¬ì–¼"	help_image="itemtake"	help_desc="ì „íˆ¬ì—ì„œ ìŠ¹ë¦¬í•˜ë©´ ëª¬ìŠ¤í„°ê°€ ì•„ì´í…œì„ ë“œë¡­í•©ë‹ˆë‹¤. ë“œë¡­ëœ ì•„ì´í…œì€ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, ì•„ì´í…œ ê°€ê¹Œì´ì—ì„œ Space bar ë¥¼ ëˆ„ë¥´ë©´ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="10"	title_name="íŠœí† ë¦¬ì–¼"	help_image="tutor_help"	help_desc="ë‹¨ì¶•í‚¤ Hë¥¼ ëˆŒëŸ¬ ë„ì›€ë§ ëª©ë¡ì°½ì„ ì—´ê±°ë‚˜, ê²Œìž„ì„ ì§„í–‰í•˜ë©´ì„œ ë‚˜íƒ€ë‚˜ëŠ” ?ë²„íŠ¼ì„ í´ë¦­í•´ ë³´ì„¸ìš”. ìœ ìš©í•œ ì •ë³´ë¥¼ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="1"	>
-			<content	help_id="11"	title_name="ÀÌµ¿"	help_image="move"	help_desc="Å°º¸µå W S Q E A D ¸¦ »ç¿ëÇÏ¿© ÀÌµ¿ÇÒ ¼ö ÀÖ½À´Ï´Ù. \¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î ÇÊµå¸¦ Å¬¸¯ÇÏ¿© ÀÌµ¿ÇÒ ¼öµµ ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="11"	title_name="ì´ë™"	help_image="move"	help_desc="í‚¤ë³´ë“œ W S Q E A D ë¥¼ ì‚¬ìš©í•˜ì—¬ ì´ë™í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. \ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í•„ë“œë¥¼ í´ë¦­í•˜ì—¬ ì´ë™í•  ìˆ˜ë„ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="2"	>
-			<content	help_id="12"	title_name="½ÃÁ¡º¯È¯"	help_image="angle"	help_desc="¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À» Å¬¸¯ÇÑ »óÅÂ¿¡¼­ ¸¶¿ì½º¸¦ ¿òÁ÷ÀÌ¸é ÀÚÀ¯·Ó°Ô ½ÃÁ¡À» ¹Ù²Ü ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ Å°º¸µåÀÇ ¹æÇâÅ°¸¦ »ç¿ëÇÏ¿© Á¶ÀýÇÒ ¼öµµ ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="13"	title_name="½ÃÁ¡º¯È¯"	help_image="angle_key_new"	help_desc="±âº» Ä«¸Þ¶ó ¸ðµå´Â ÄõÅÍºä »óÅÂ¸¦ ±âÁØÀ¸·Î Ä«¸Þ¶ó ½ÃÁ¡ÀÇ ÁÂ¿ì È¸Àü ¹× »óÇÏ °¢µµ Á¶ÀýÀÌ °¡´ÉÇÑ ¹öµåºä·Î ¼³Á¤µÇ¾î ÀÖ½À´Ï´Ù. PageDown Å°¸¦ »ç¿ëÇÏ¸é ´Ù¸¥ ¸ðµå·Î ¹Ù²Ü ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="14"	title_name="½ÃÁ¡º¯È¯"	help_image="angle_zoom"	help_desc="¸¶¿ì½º ÈÙ ¶Ç´Â Å°º¸µå ¼ýÀÚ ÆÐµåÀÇ +/- Å°¸¦ »ç¿ëÇÏ¿© È­¸éÀ» È®´ë, Ãà¼ÒÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="12"	title_name="ì‹œì ë³€í™˜"	help_image="angle"	help_desc="ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ì„ í´ë¦­í•œ ìƒíƒœì—ì„œ ë§ˆìš°ìŠ¤ë¥¼ ì›€ì§ì´ë©´ ìžìœ ë¡­ê²Œ ì‹œì ì„ ë°”ê¿€ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë˜í•œ í‚¤ë³´ë“œì˜ ë°©í–¥í‚¤ë¥¼ ì‚¬ìš©í•˜ì—¬ ì¡°ì ˆí•  ìˆ˜ë„ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="13"	title_name="ì‹œì ë³€í™˜"	help_image="angle_key_new"	help_desc="ê¸°ë³¸ ì¹´ë©”ë¼ ëª¨ë“œëŠ” ì¿¼í„°ë·° ìƒíƒœë¥¼ ê¸°ì¤€ìœ¼ë¡œ ì¹´ë©”ë¼ ì‹œì ì˜ ì¢Œìš° íšŒì „ ë° ìƒí•˜ ê°ë„ ì¡°ì ˆì´ ê°€ëŠ¥í•œ ë²„ë“œë·°ë¡œ ì„¤ì •ë˜ì–´ ìžˆìŠµë‹ˆë‹¤. PageDown í‚¤ë¥¼ ì‚¬ìš©í•˜ë©´ ë‹¤ë¥¸ ëª¨ë“œë¡œ ë°”ê¿€ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="14"	title_name="ì‹œì ë³€í™˜"	help_image="angle_zoom"	help_desc="ë§ˆìš°ìŠ¤ íœ  ë˜ëŠ” í‚¤ë³´ë“œ ìˆ«ìž íŒ¨ë“œì˜ +/- í‚¤ë¥¼ ì‚¬ìš©í•˜ì—¬ í™”ë©´ì„ í™•ëŒ€, ì¶•ì†Œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="3"	>
-			<content	help_id="15"	title_name="Çàµ¿"	help_image="act_Lclick"	help_desc="NPC¸¦ ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ´ëÈ­³ª NPC »óÁ¡ ¿­±â µîÀÇ Çàµ¿À» ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="16"	title_name="Çàµ¿"	help_image="act_select"	help_desc="Ä³¸¯ÅÍ³ª ¸ó½ºÅÍ´Â ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ¸é ¼±ÅÃÀ» ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¼±ÅÃµÈ ´ë»óÀº È­¸é À§ÂÊ¿¡ ¼±ÅÃ »óÅÂ°¡ Ç¥½ÃµË´Ï´Ù."	/>
+			<content	help_id="15"	title_name="í–‰ë™"	help_image="act_Lclick"	help_desc="NPCë¥¼ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ëŒ€í™”ë‚˜ NPC ìƒì  ì—´ê¸° ë“±ì˜ í–‰ë™ì„ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="16"	title_name="í–‰ë™"	help_image="act_select"	help_desc="ìºë¦­í„°ë‚˜ ëª¬ìŠ¤í„°ëŠ” ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ë©´ ì„ íƒì„ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì„ íƒëœ ëŒ€ìƒì€ í™”ë©´ ìœ„ìª½ì— ì„ íƒ ìƒíƒœê°€ í‘œì‹œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="4"	>
-			<content	help_id="17"	title_name="Ã¤ÆÃ"	help_image="chat_enter"	help_desc="Enter¸¦ ´©¸£¸é Ã¤ÆÃ ÀÔ·ÂÃ¢ÀÌ ³ªÅ¸³³´Ï´Ù. ÀÌ °÷¿¡ ¸Þ½ÃÁö¸¦ ÀÔ·ÂÇÏ°í ´Ù½Ã Enter¸¦ ´©¸£¸é ´Ù¸¥ À¯Àú¿Í ´ëÈ­°¡ °¡´ÉÇÕ´Ï´Ù."	/>
-			<content	help_id="18"	title_name="Ã¤ÆÃ"	help_image="chat_btn"	help_desc="¸»Ç³¼± ¸ð¾çÀÇ ¹öÆ°À» Å¬¸¯ÇÏ¸é Ã¤ÆÃ Á¾·ù¸¦ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="19"	title_name="Ã¤ÆÃ"	help_image="chat_cmd"	help_desc="Ã¤ÆÃ ÀÔ·ÂÃ¢¿¡ ´ÙÀ½ ¸í·É¾î¸¦ ÀÔ·ÂÇÑ ÈÄ EnterÅ°¸¦ ´­·¯ Ã¤ÆÃ Á¾·ù¸¦ º¯°æÇÒ ¼öµµ ÀÖ½À´Ï´Ù. '/L' À» ÀÔ·ÂÇÏ¸é ¿ÜÄ¡±â·Î º¯°æµÇ°í, '/N'À» ÀÔ·ÂÇÏ¸é ÀÏ¹ÝÀ¸·Î º¯°æµË´Ï´Ù."	/>
-			<content	help_id="20"	title_name="Ã¤ÆÃ"	help_image="chat_cmd"	help_desc="ÀÌ ¿Ü¿¡µµ ¸¹Àº Ã¤ÆÃ ¸í·É¾î°¡ Á¸ÀçÇÕ´Ï´Ù. \/P - ÆÄÆ¼ Ã¤ÆÃ,  /G - ±æµå Ã¤ÆÃ,  /T - °Å·¡ Ã¤ÆÃ \/C - Ã¤³Î Ã¤ÆÃ,  /M - ¸Þ°¡Æù,  /W - ±Ó¼Ó¸» \/R - ±Ó¼Ó¸» ÀÀ´ä"	/>
+			<content	help_id="17"	title_name="ì±„íŒ…"	help_image="chat_enter"	help_desc="Enterë¥¼ ëˆ„ë¥´ë©´ ì±„íŒ… ìž…ë ¥ì°½ì´ ë‚˜íƒ€ë‚©ë‹ˆë‹¤. ì´ ê³³ì— ë©”ì‹œì§€ë¥¼ ìž…ë ¥í•˜ê³  ë‹¤ì‹œ Enterë¥¼ ëˆ„ë¥´ë©´ ë‹¤ë¥¸ ìœ ì €ì™€ ëŒ€í™”ê°€ ê°€ëŠ¥í•©ë‹ˆë‹¤."	/>
+			<content	help_id="18"	title_name="ì±„íŒ…"	help_image="chat_btn"	help_desc="ë§í’ì„  ëª¨ì–‘ì˜ ë²„íŠ¼ì„ í´ë¦­í•˜ë©´ ì±„íŒ… ì¢…ë¥˜ë¥¼ ë³€ê²½í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="19"	title_name="ì±„íŒ…"	help_image="chat_cmd"	help_desc="ì±„íŒ… ìž…ë ¥ì°½ì— ë‹¤ìŒ ëª…ë ¹ì–´ë¥¼ ìž…ë ¥í•œ í›„ Enterí‚¤ë¥¼ ëˆŒëŸ¬ ì±„íŒ… ì¢…ë¥˜ë¥¼ ë³€ê²½í•  ìˆ˜ë„ ìžˆìŠµë‹ˆë‹¤. '/L' ì„ ìž…ë ¥í•˜ë©´ ì™¸ì¹˜ê¸°ë¡œ ë³€ê²½ë˜ê³ , '/N'ì„ ìž…ë ¥í•˜ë©´ ì¼ë°˜ìœ¼ë¡œ ë³€ê²½ë©ë‹ˆë‹¤."	/>
+			<content	help_id="20"	title_name="ì±„íŒ…"	help_image="chat_cmd"	help_desc="ì´ ì™¸ì—ë„ ë§Žì€ ì±„íŒ… ëª…ë ¹ì–´ê°€ ì¡´ìž¬í•©ë‹ˆë‹¤. \/P - íŒŒí‹° ì±„íŒ…,  /G - ê¸¸ë“œ ì±„íŒ…,  /T - ê±°ëž˜ ì±„íŒ… \/C - ì±„ë„ ì±„íŒ…,  /M - ë©”ê°€í°,  /W - ê·“ì†ë§ \/R - ê·“ì†ë§ ì‘ë‹µ"	/>
 		</help>
 		<help	title_id="5"	>
-			<content	help_id="21"	title_name="Äü½½·Ô"	help_image="qslot_use"	help_desc="Äü½½·Ô¿¡ µî·ÏµÈ ¾ÆÀÌÅÛÀÌ³ª ½ºÅ³Àº ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª ´ÜÃàÅ°¸¦ ´­·¯ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. Äü½½·ÔÀÇ ´ÜÃàÅ°´Â °¢ ½½·ÔÀÇ ¿ÞÂÊ »ó´Ü¿¡ Ç¥½ÃµË´Ï´Ù."	/>
-			<content	help_id="22"	title_name="Äü½½·Ô"	help_image="qslot_register"	help_desc="Äü½½·Ô¿¡ ¿øÇÏ´Â ¾ÆÀÌÅÛÀÌ³ª ½ºÅ³À» µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù. ¾ÆÀÌÅÛÀÌ³ª ½ºÅ³À» ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© µé°íÀÖ´Â »óÅÂ¿¡¼­, ¿øÇÏ´Â Äü½½·Ô ÀÚ¸®¿¡¼­ ´Ù½Ã ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ³õÀ¸¸é Äü½½·Ô¿¡ µî·ÏµË´Ï´Ù."	/>
-			<content	help_id="23"	title_name="Äü½½·Ô"	help_image="qslot_del"	help_desc="Äü½½·ÔÀÇ ¾ÆÀÌÅÛÀÌ³ª ½ºÅ³À» Áö¿ì·Á¸é, ÇØ´ç ¾ÆÀÌÄÜÀ» Å¬¸¯ÇÏ¿© µé°í ÀÖ´Â »óÅÂ¿¡¼­, È­¸é ºó°÷À» Å¬¸¯ÇÕ´Ï´Ù."	/>
+			<content	help_id="21"	title_name="í€µìŠ¬ë¡¯"	help_image="qslot_use"	help_desc="í€µìŠ¬ë¡¯ì— ë“±ë¡ëœ ì•„ì´í…œì´ë‚˜ ìŠ¤í‚¬ì€ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜ ë‹¨ì¶•í‚¤ë¥¼ ëˆŒëŸ¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í€µìŠ¬ë¡¯ì˜ ë‹¨ì¶•í‚¤ëŠ” ê° ìŠ¬ë¡¯ì˜ ì™¼ìª½ ìƒë‹¨ì— í‘œì‹œë©ë‹ˆë‹¤."	/>
+			<content	help_id="22"	title_name="í€µìŠ¬ë¡¯"	help_image="qslot_register"	help_desc="í€µìŠ¬ë¡¯ì— ì›í•˜ëŠ” ì•„ì´í…œì´ë‚˜ ìŠ¤í‚¬ì„ ë“±ë¡í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì•„ì´í…œì´ë‚˜ ìŠ¤í‚¬ì„ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ë“¤ê³ ìžˆëŠ” ìƒíƒœì—ì„œ, ì›í•˜ëŠ” í€µìŠ¬ë¡¯ ìžë¦¬ì—ì„œ ë‹¤ì‹œ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ë†“ìœ¼ë©´ í€µìŠ¬ë¡¯ì— ë“±ë¡ë©ë‹ˆë‹¤."	/>
+			<content	help_id="23"	title_name="í€µìŠ¬ë¡¯"	help_image="qslot_del"	help_desc="í€µìŠ¬ë¡¯ì˜ ì•„ì´í…œì´ë‚˜ ìŠ¤í‚¬ì„ ì§€ìš°ë ¤ë©´, í•´ë‹¹ ì•„ì´ì½˜ì„ í´ë¦­í•˜ì—¬ ë“¤ê³  ìžˆëŠ” ìƒíƒœì—ì„œ, í™”ë©´ ë¹ˆê³³ì„ í´ë¦­í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="6"	>
-			<content	help_id="24"	title_name="¾ÆÀÌÅÛ È¹µæ"	help_image="itemtake"	help_desc="¹Ù´Ú¿¡ µå·ÓµÈ ¾ÆÀÌÅÛÀº ´ë»ó¿¡ ¸¶¿ì½º¸¦ °¡Á®°¡ Ä¿¼­ ¸ð¾çÀÌ ¹Ù²î¾úÀ» ¶§ ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ°Å³ª, ¾ÆÀÌÅÛ °¡±îÀÌ¿¡¼­ Space bar Å°¸¦ ´©¸£¸é È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="25"	title_name="¾ÆÀÌÅÛ È¹µæ"	help_image="itemtake_inven"	help_desc="È¹µæÇÑ ¾ÆÀÌÅÛÀº ÀÎº¥Åä¸® Ã¢À» ¿­¾î È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀÎº¥Åä¸® Ã¢ÀÇ ´ÜÃàÅ°´Â I ÀÔ´Ï´Ù."	/>
+			<content	help_id="24"	title_name="ì•„ì´í…œ íšë“"	help_image="itemtake"	help_desc="ë°”ë‹¥ì— ë“œë¡­ëœ ì•„ì´í…œì€ ëŒ€ìƒì— ë§ˆìš°ìŠ¤ë¥¼ ê°€ì ¸ê°€ ì»¤ì„œ ëª¨ì–‘ì´ ë°”ë€Œì—ˆì„ ë•Œ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ê±°ë‚˜, ì•„ì´í…œ ê°€ê¹Œì´ì—ì„œ Space bar í‚¤ë¥¼ ëˆ„ë¥´ë©´ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="25"	title_name="ì•„ì´í…œ íšë“"	help_image="itemtake_inven"	help_desc="íšë“í•œ ì•„ì´í…œì€ ì¸ë²¤í† ë¦¬ ì°½ì„ ì—´ì–´ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ ì°½ì˜ ë‹¨ì¶•í‚¤ëŠ” I ìž…ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="7"	>
-			<content	help_id="26"	title_name="¾ÆÀÌÅÛ »ç¿ë"	help_image="itemuse_inven"	help_desc="ÀÎº¥Åä¸®¿¡ ÀÖ´Â ¾ÆÀÌÅÛÀº ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, Äü½½·Ô¿¡ µî·ÏÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="27"	title_name="¾ÆÀÌÅÛ »ç¿ë"	help_image="itemuse_qslot"	help_desc="Äü½½·Ô¿¡ µî·ÏÇÑ ¾ÆÀÌÅÛÀº ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, ´ÜÃàÅ°¸¦ ´­·¯ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="26"	title_name="ì•„ì´í…œ ì‚¬ìš©"	help_image="itemuse_inven"	help_desc="ì¸ë²¤í† ë¦¬ì— ìžˆëŠ” ì•„ì´í…œì€ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, í€µìŠ¬ë¡¯ì— ë“±ë¡í•˜ì—¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="27"	title_name="ì•„ì´í…œ ì‚¬ìš©"	help_image="itemuse_qslot"	help_desc="í€µìŠ¬ë¡¯ì— ë“±ë¡í•œ ì•„ì´í…œì€ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, ë‹¨ì¶•í‚¤ë¥¼ ëˆŒëŸ¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="8"	>
-			<content	help_id="28"	title_name="¾ÆÀÌÅÛ Âø¿ë"	help_image="itemequip_Rclick"	help_desc="ÀÎº¥Åä¸®¿¡ ÀÖ´Â Àåºñ ¾ÆÀÌÅÛÀ» ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¸é, ÇØ´ç ÀåºñÀÇ À§Ä¡¿¡ Âø¿ëÀÌ µË´Ï´Ù."	/>
-			<content	help_id="29"	title_name="¾ÆÀÌÅÛ Âø¿ë"	help_image="itemequip_holding"	help_desc="´Ù¸¥ ¹æ¹ýÀ¸·Î, ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ¿© Àåºñ¸¦ µé°í, ¿øÇÏ´Â À§Ä¡¿¡¼­ ´Ù½Ã ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ¿© Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. "	/>
-			<content	help_id="30"	title_name="¾ÆÀÌÅÛ Âø¿ë"	help_image="itemequip_unable"	help_desc="Âø¿ë ¾ÆÀÌÅÛÀÇ ÁÖº¯ Ä­ÀÌ ºÓÀº »öÀ¸·Î Ç¥½ÃµÇ´Â °ÍÀº ´É·ÂÄ¡°¡ ºÎÁ·ÇÏ°Å³ª »ç¿ë Á¦ÇÑ Á¶°ÇÀ» ¸¸Á·½ÃÅ°Áö ¾Ê¾Æ Âø¿ëÇÒ ¼ö ¾øÀ½À» ÀÇ¹ÌÇÕ´Ï´Ù."	/>
+			<content	help_id="28"	title_name="ì•„ì´í…œ ì°©ìš©"	help_image="itemequip_Rclick"	help_desc="ì¸ë²¤í† ë¦¬ì— ìžˆëŠ” ìž¥ë¹„ ì•„ì´í…œì„ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ë©´, í•´ë‹¹ ìž¥ë¹„ì˜ ìœ„ì¹˜ì— ì°©ìš©ì´ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="29"	title_name="ì•„ì´í…œ ì°©ìš©"	help_image="itemequip_holding"	help_desc="ë‹¤ë¥¸ ë°©ë²•ìœ¼ë¡œ, ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ì—¬ ìž¥ë¹„ë¥¼ ë“¤ê³ , ì›í•˜ëŠ” ìœ„ì¹˜ì—ì„œ ë‹¤ì‹œ ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ì—¬ ì°©ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. "	/>
+			<content	help_id="30"	title_name="ì•„ì´í…œ ì°©ìš©"	help_image="itemequip_unable"	help_desc="ì°©ìš© ì•„ì´í…œì˜ ì£¼ë³€ ì¹¸ì´ ë¶‰ì€ ìƒ‰ìœ¼ë¡œ í‘œì‹œë˜ëŠ” ê²ƒì€ ëŠ¥ë ¥ì¹˜ê°€ ë¶€ì¡±í•˜ê±°ë‚˜ ì‚¬ìš© ì œí•œ ì¡°ê±´ì„ ë§Œì¡±ì‹œí‚¤ì§€ ì•Šì•„ ì°©ìš©í•  ìˆ˜ ì—†ìŒì„ ì˜ë¯¸í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="9"	>
-			<content	help_id="31"	title_name="½ºÅ³ µî·Ï°ú »ç¿ë"	help_image="skill_K"	help_desc="½ºÅ³Ã¢Àº ´ÜÃàÅ° K¸¦ ´­·¯ ¿­ ¼ö ÀÖ½À´Ï´Ù. ½ºÅ³Ã¢ÀÇ ½ºÅ³Àº ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, Äü½½·Ô¿¡ µî·ÏÇÏ¿© »ç¿ëÇÕ´Ï´Ù."	/>
-			<content	help_id="32"	title_name="½ºÅ³ µî·Ï°ú »ç¿ë"	help_image="skill_register"	help_desc="½ºÅ³À» Äü½½·Ô¿¡ µî·ÏÇÏ±â À§ÇØ¼­´Â ½ºÅ³Ã¢ÀÇ ½ºÅ³ ¾ÆÀÌÄÜÀ» ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ½ºÅ³À» µé°í, Äü½½·Ô À§¿¡¼­ ´Ù½Ã ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ¿© ³õÀ¸¸é µË´Ï´Ù. ¾ÆÀÌÅÛÀ» µî·ÏÇÏ´Â ¹æ½Ä°ú µ¿ÀÏÇÕ´Ï´Ù."	/>
+			<content	help_id="31"	title_name="ìŠ¤í‚¬ ë“±ë¡ê³¼ ì‚¬ìš©"	help_image="skill_K"	help_desc="ìŠ¤í‚¬ì°½ì€ ë‹¨ì¶•í‚¤ Kë¥¼ ëˆŒëŸ¬ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¤í‚¬ì°½ì˜ ìŠ¤í‚¬ì€ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, í€µìŠ¬ë¡¯ì— ë“±ë¡í•˜ì—¬ ì‚¬ìš©í•©ë‹ˆë‹¤."	/>
+			<content	help_id="32"	title_name="ìŠ¤í‚¬ ë“±ë¡ê³¼ ì‚¬ìš©"	help_image="skill_register"	help_desc="ìŠ¤í‚¬ì„ í€µìŠ¬ë¡¯ì— ë“±ë¡í•˜ê¸° ìœ„í•´ì„œëŠ” ìŠ¤í‚¬ì°½ì˜ ìŠ¤í‚¬ ì•„ì´ì½˜ì„ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ìŠ¤í‚¬ì„ ë“¤ê³ , í€µìŠ¬ë¡¯ ìœ„ì—ì„œ ë‹¤ì‹œ ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ì—¬ ë†“ìœ¼ë©´ ë©ë‹ˆë‹¤. ì•„ì´í…œì„ ë“±ë¡í•˜ëŠ” ë°©ì‹ê³¼ ë™ì¼í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="10"	>
-			<content	help_id="33"	title_name="´ÜÃàÅ°"	help_image="shortcut_all"	help_desc="Ä«¹ß¿¡¼­ ÀÚÁÖ »ç¿ëÇÏ´Â ´ÜÃàÅ°ÀÔ´Ï´Ù."	/>
-			<content	help_id="34"	title_name="´ÜÃàÅ°"	help_image="shortcut_setting"	help_desc="ESC Å°¸¦ ´­·¯ ³ªÅ¸³ª´Â ¸Þ´º¿¡¼­ ¿É¼ÇÀ» ¼±ÅÃÇÏ¸é ¿É¼ÇÃ¢À» ¿­ ¼ö ÀÖ½À´Ï´Ù. ¿É¼ÇÃ¢ÀÇ 'Å° ¼³Á¤'¿¡¼­ ´ÜÃàÅ°¸¦ È®ÀÎÇÏ°í, º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="33"	title_name="ë‹¨ì¶•í‚¤"	help_image="shortcut_all"	help_desc="ì¹´ë°œì—ì„œ ìžì£¼ ì‚¬ìš©í•˜ëŠ” ë‹¨ì¶•í‚¤ìž…ë‹ˆë‹¤."	/>
+			<content	help_id="34"	title_name="ë‹¨ì¶•í‚¤"	help_image="shortcut_setting"	help_desc="ESC í‚¤ë¥¼ ëˆŒëŸ¬ ë‚˜íƒ€ë‚˜ëŠ” ë©”ë‰´ì—ì„œ ì˜µì…˜ì„ ì„ íƒí•˜ë©´ ì˜µì…˜ì°½ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì˜µì…˜ì°½ì˜ 'í‚¤ ì„¤ì •'ì—ì„œ ë‹¨ì¶•í‚¤ë¥¼ í™•ì¸í•˜ê³ , ë³€ê²½í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="11"	>
-			<content	help_id="35"	title_name="¸Þ´º"	help_image="menu_basicmenu"	help_desc="È­¸é ¿À¸¥ÂÊ ÇÏ´ÜÀÇ C ¾ÆÀÌÄÜ ¹öÆ°À» Å¬¸¯ÇÏ¸é ¸Þ´º°¡ ³ªÅ¸³³´Ï´Ù. ÀÌ ¸Þ´º¸¦ ÅëÇÏ¿© Á¦Á¶Ã¢, ½ºÅ³Ã¢, ÀÎº¥Åä¸®Ã¢, Äù½ºÆ®Ã¢, ¹öµðÃ¢, ÆÄÆ¼Ã¢, GPSÃ¢ µîÀ» ¿­ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="36"	title_name="¸Þ´º"	help_image="menu_chrmenu"	help_desc="Ä³¸¯ÅÍ¸¦ ¼±ÅÃÇÏ¸é »ó´Ü¿¡ ¼±ÅÃµÈ Ä³¸¯ÅÍ ¹Ù°¡ Ç¥½ÃµË´Ï´Ù. ÀÌ Ä³¸¯ÅÍ ¹Ù¸¦ Å¬¸¯ÇÏ¸é Ä³¸¯ÅÍ ¸Þ´º¸¦ ¶ç¿ï ¼ö ÀÖ½À´Ï´Ù. ÀÚ½ÅÀÇ Ä³¸¯ÅÍ¸¦ ¼±ÅÃÇÑ °æ¿ì¿¡µµ Ä³¸¯ÅÍ ¸Þ´º¸¦ ¶ç¿ï ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="35"	title_name="ë©”ë‰´"	help_image="menu_basicmenu"	help_desc="í™”ë©´ ì˜¤ë¥¸ìª½ í•˜ë‹¨ì˜ C ì•„ì´ì½˜ ë²„íŠ¼ì„ í´ë¦­í•˜ë©´ ë©”ë‰´ê°€ ë‚˜íƒ€ë‚©ë‹ˆë‹¤. ì´ ë©”ë‰´ë¥¼ í†µí•˜ì—¬ ì œì¡°ì°½, ìŠ¤í‚¬ì°½, ì¸ë²¤í† ë¦¬ì°½, í€˜ìŠ¤íŠ¸ì°½, ë²„ë””ì°½, íŒŒí‹°ì°½, GPSì°½ ë“±ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="36"	title_name="ë©”ë‰´"	help_image="menu_chrmenu"	help_desc="ìºë¦­í„°ë¥¼ ì„ íƒí•˜ë©´ ìƒë‹¨ì— ì„ íƒëœ ìºë¦­í„° ë°”ê°€ í‘œì‹œë©ë‹ˆë‹¤. ì´ ìºë¦­í„° ë°”ë¥¼ í´ë¦­í•˜ë©´ ìºë¦­í„° ë©”ë‰´ë¥¼ ë„ìš¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìžì‹ ì˜ ìºë¦­í„°ë¥¼ ì„ íƒí•œ ê²½ìš°ì—ë„ ìºë¦­í„° ë©”ë‰´ë¥¼ ë„ìš¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="12"	>
-			<content	help_id="37"	title_name="Ä³¸¯ÅÍÃ¢"	help_image="char_C"	help_desc="Ä«¹ß ¸Þ´º¿¡¼­ Ä³¸¯ÅÍ>ÀÏ¹Ý Ç×¸ñÀ» ¼±ÅÃÇÏ°Å³ª, ´ÜÃàÅ° C¸¦ ´©¸£¸é Ä³¸¯ÅÍ Ã¢À» ¿­ ¼ö ÀÖ½À´Ï´Ù. Ä³¸¯ÅÍÃ¢¿¡¼­´Â Ä³¸¯ÅÍÀÇ ±âº» Á¤º¸¸¦ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="38"	title_name="Ä³¸¯ÅÍÃ¢"	help_image="char_lvup"	help_desc="·¹º§ ¾÷À» ÇÒ ¶§¸¶´Ù 5Æ÷ÀÎÆ®¾¿ ¾ò½À´Ï´Ù. Ä³¸¯ÅÍÃ¢¿¡¼­ ÀÌ Æ÷ÀÎÆ®¸¦ ¹èºÐÇÒ ¼ö ÀÖ½À´Ï´Ù. Æ÷ÀÎÆ®¸¦ Èû/Áö´É/¹ÎÃ¸¿¡ ¹èºÐÇÏ¸é ´É·ÂÄ¡¸¦ »ó½Â½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="39"	title_name="Ä³¸¯ÅÍÃ¢"	help_image="char_auto"	help_desc="Ä³¸¯ÅÍÀÇ ¼ºÀå Æ÷ÀÎÆ®¸¦ ÀÚµ¿À¸·Î ´É·ÂÄ¡¿¡ ºÐ¹èÇÏ´Â ¹öÆ°ÀÔ´Ï´Ù. ÀÚµ¿ ºÐ¹è´Â Ä³¸¯ÅÍ '½Â±Þ ÇÊ¿ä ´É·ÂÄ¡'±îÁö¸¸ ºÐ¹è°¡ µË´Ï´Ù."	/>
+			<content	help_id="37"	title_name="ìºë¦­í„°ì°½"	help_image="char_C"	help_desc="ì¹´ë°œ ë©”ë‰´ì—ì„œ ìºë¦­í„°>ì¼ë°˜ í•­ëª©ì„ ì„ íƒí•˜ê±°ë‚˜, ë‹¨ì¶•í‚¤ Cë¥¼ ëˆ„ë¥´ë©´ ìºë¦­í„° ì°½ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìºë¦­í„°ì°½ì—ì„œëŠ” ìºë¦­í„°ì˜ ê¸°ë³¸ ì •ë³´ë¥¼ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="38"	title_name="ìºë¦­í„°ì°½"	help_image="char_lvup"	help_desc="ë ˆë²¨ ì—…ì„ í•  ë•Œë§ˆë‹¤ 5í¬ì¸íŠ¸ì”© ì–»ìŠµë‹ˆë‹¤. ìºë¦­í„°ì°½ì—ì„œ ì´ í¬ì¸íŠ¸ë¥¼ ë°°ë¶„í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í¬ì¸íŠ¸ë¥¼ íž˜/ì§€ëŠ¥/ë¯¼ì²©ì— ë°°ë¶„í•˜ë©´ ëŠ¥ë ¥ì¹˜ë¥¼ ìƒìŠ¹ì‹œí‚¬ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="39"	title_name="ìºë¦­í„°ì°½"	help_image="char_auto"	help_desc="ìºë¦­í„°ì˜ ì„±ìž¥ í¬ì¸íŠ¸ë¥¼ ìžë™ìœ¼ë¡œ ëŠ¥ë ¥ì¹˜ì— ë¶„ë°°í•˜ëŠ” ë²„íŠ¼ìž…ë‹ˆë‹¤. ìžë™ ë¶„ë°°ëŠ” ìºë¦­í„° 'ìŠ¹ê¸‰ í•„ìš” ëŠ¥ë ¥ì¹˜'ê¹Œì§€ë§Œ ë¶„ë°°ê°€ ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="13"	>
-			<content	help_id="40"	title_name="GPS"	help_image="gps_M"	help_desc="´ÜÃàÅ° MÀ» ´©¸£°Å³ª TAB Å°¸¦ ´©¸£°í ÀÖÀ» ¶§ GPS Ã¢À» ¿­ ¼ö ÀÖ½À´Ï´Ù. GPS¸¦ ÀÌ¿ëÇØ ÀüÃ¼ ¸Ê ¹× NPCÀÇ À§Ä¡, Äù½ºÆ® Á¤º¸ µîÀ» ÆÄ¾ÇÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="41"	title_name="GPS"	help_image="gps_difficulty"	help_desc="»ç³É ³­ÀÌµµ Ç¥½Ã¸¦ Ã¼Å©ÇÏ¸é ÀÚ½ÅÀÇ ·¹º§¿¡ µû¸¥ »ç³ÉÅÍÀÇ ³­ÀÌµµ¸¦ »ö»óÀ¸·Î Ç¥½ÃÇØÁÝ´Ï´Ù. ºÓÀº »ö¿¡ °¡±î¿ï ¼ö·Ï ³­ÀÌµµ°¡ ³ôÀ½À» ÀÇ¹ÌÇÕ´Ï´Ù."	/>
-			<content	help_id="42"	title_name="GPS"	help_image="gps_icon"	help_desc="¸Ê¿¡´Â NPC ¾ÆÀÌÄÜ, ¿öÇÁ°ÔÀÌÆ® ¾ÆÀÌÄÜ, ´øÀü ¾ÆÀÌÄÜÀÌ Ç¥½ÃµË´Ï´Ù. °¢ ¾ÆÀÌÄÜ¿¡ ¸¶¿ì½º Ä¿¼­¸¦ °¡Á®°¡¸é, ±×¿¡ ÇØ´çÇÏ´Â Á¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="43"	title_name="GPS"	help_image="gps_warp"	help_desc="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛÀÌ³ª ºí·¹½Ì ºñµå ÇÃ·¯½º¸¦ »ç¿ëÇÏ´Â Ä³¸¯ÅÍ´Â ¿öÇÁ°¡ °¡´ÉÇÕ´Ï´Ù. ¿öÇÁ¿¡´Â ¸®ÅÏ ½ºÅæÀÌ ¼Ò¸ðµË´Ï´Ù. ¸®ÅÏ ½ºÅæÀ» ¼ÒÁöÇÏ°í ÀÖÀ» ¶§, ¿öÇÁ Æ÷ÀÎÆ®¸¦ Å¬¸¯ÇÏ¸é ÇØ´ç À§Ä¡·Î ¿öÇÁ µË´Ï´Ù. ¸®ÅÏ ½ºÅæÀº ¸¶¹ý»óÀÎ/ÀâÈ­»óÀÎ¿¡°Ô¼­ ±¸ÀÔÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="44"	title_name="GPS"	help_image="gpa_nationwarp"	help_desc="±¹°¡ º¸»ó ¿öÇÁ´Â ÀÏ¿äÀÏ 22½Ã 170Lv-180LvÀÇ ¹Ì¼ÇÀüÀï¿¡¼­ ½Â¸®ÇÑ ±¹°¡°¡ »ç¿ëÇÒ ¼ö ÀÖ´Â ¿öÇÁ Æ÷ÀÎÆ®ÀÔ´Ï´Ù. ÆÐÀü ±¹°¡¿øÀÌ ±¹°¡ º¸»ó ¿öÇÁ¸¦ ÀÌ¿ëÇÏ·Á¸é ¸¶À»ÀÇ ÀâÈ­»óÀÎÀÌ³ª ¸¶¹ý»óÀÎNPC°¡ ÆÇ¸ÅÇÏ´Â ¿öÇÁ ½ºÅæÀ» ¼ÒÁöÇØ¾ß ÇÕ´Ï´Ù."	/>
+			<content	help_id="40"	title_name="GPS"	help_image="gps_M"	help_desc="ë‹¨ì¶•í‚¤ Mì„ ëˆ„ë¥´ê±°ë‚˜ TAB í‚¤ë¥¼ ëˆ„ë¥´ê³  ìžˆì„ ë•Œ GPS ì°½ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. GPSë¥¼ ì´ìš©í•´ ì „ì²´ ë§µ ë° NPCì˜ ìœ„ì¹˜, í€˜ìŠ¤íŠ¸ ì •ë³´ ë“±ì„ íŒŒì•…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="41"	title_name="GPS"	help_image="gps_difficulty"	help_desc="ì‚¬ëƒ¥ ë‚œì´ë„ í‘œì‹œë¥¼ ì²´í¬í•˜ë©´ ìžì‹ ì˜ ë ˆë²¨ì— ë”°ë¥¸ ì‚¬ëƒ¥í„°ì˜ ë‚œì´ë„ë¥¼ ìƒ‰ìƒìœ¼ë¡œ í‘œì‹œí•´ì¤ë‹ˆë‹¤. ë¶‰ì€ ìƒ‰ì— ê°€ê¹Œìš¸ ìˆ˜ë¡ ë‚œì´ë„ê°€ ë†’ìŒì„ ì˜ë¯¸í•©ë‹ˆë‹¤."	/>
+			<content	help_id="42"	title_name="GPS"	help_image="gps_icon"	help_desc="ë§µì—ëŠ” NPC ì•„ì´ì½˜, ì›Œí”„ê²Œì´íŠ¸ ì•„ì´ì½˜, ë˜ì „ ì•„ì´ì½˜ì´ í‘œì‹œë©ë‹ˆë‹¤. ê° ì•„ì´ì½˜ì— ë§ˆìš°ìŠ¤ ì»¤ì„œë¥¼ ê°€ì ¸ê°€ë©´, ê·¸ì— í•´ë‹¹í•˜ëŠ” ì •ë³´ë¥¼ ë³¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="43"	title_name="GPS"	help_image="gps_warp"	help_desc="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œì´ë‚˜ ë¸”ë ˆì‹± ë¹„ë“œ í”ŒëŸ¬ìŠ¤ë¥¼ ì‚¬ìš©í•˜ëŠ” ìºë¦­í„°ëŠ” ì›Œí”„ê°€ ê°€ëŠ¥í•©ë‹ˆë‹¤. ì›Œí”„ì—ëŠ” ë¦¬í„´ ìŠ¤í†¤ì´ ì†Œëª¨ë©ë‹ˆë‹¤. ë¦¬í„´ ìŠ¤í†¤ì„ ì†Œì§€í•˜ê³  ìžˆì„ ë•Œ, ì›Œí”„ í¬ì¸íŠ¸ë¥¼ í´ë¦­í•˜ë©´ í•´ë‹¹ ìœ„ì¹˜ë¡œ ì›Œí”„ ë©ë‹ˆë‹¤. ë¦¬í„´ ìŠ¤í†¤ì€ ë§ˆë²•ìƒì¸/ìž¡í™”ìƒì¸ì—ê²Œì„œ êµ¬ìž…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="44"	title_name="GPS"	help_image="gpa_nationwarp"	help_desc="êµ­ê°€ ë³´ìƒ ì›Œí”„ëŠ” ì¼ìš”ì¼ 22ì‹œ 170Lv-180Lvì˜ ë¯¸ì…˜ì „ìŸì—ì„œ ìŠ¹ë¦¬í•œ êµ­ê°€ê°€ ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” ì›Œí”„ í¬ì¸íŠ¸ìž…ë‹ˆë‹¤. íŒ¨ì „ êµ­ê°€ì›ì´ êµ­ê°€ ë³´ìƒ ì›Œí”„ë¥¼ ì´ìš©í•˜ë ¤ë©´ ë§ˆì„ì˜ ìž¡í™”ìƒì¸ì´ë‚˜ ë§ˆë²•ìƒì¸NPCê°€ íŒë§¤í•˜ëŠ” ì›Œí”„ ìŠ¤í†¤ì„ ì†Œì§€í•´ì•¼ í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="14"	>
-			<content	help_id="45"	title_name="¿É¼Ç"	help_image="option"	help_desc="ESC ³ª O Å°¸¦ ´­·¯ ³ª¿À´Â ¸Þ´º¿¡¼­ ¿É¼ÇÀ» ¼±ÅÃÇÏ¸é ¿É¼ÇÃ¢À» ¿­ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="45"	title_name="ì˜µì…˜"	help_image="option"	help_desc="ESC ë‚˜ O í‚¤ë¥¼ ëˆŒëŸ¬ ë‚˜ì˜¤ëŠ” ë©”ë‰´ì—ì„œ ì˜µì…˜ì„ ì„ íƒí•˜ë©´ ì˜µì…˜ì°½ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="15"	>
-			<content	help_id="46"	title_name="Äù½ºÆ®"	help_image="quest_scrollFX"	help_desc="NPC À§¿¡ ³ªÅ¸³ª´Â ½ºÅ©·Ñ ÇüÅÂÀÇ ÀÌÆåÆ®¸¦ ÅëÇØ Äù½ºÆ® NPC ÀÓÀ» ¾Ë ¼ö ÀÖ½À´Ï´Ù. Äù½ºÆ® ½ÃÀÛ ½ºÅ©·ÑÀÌ ³ªÅ¸³­ NPC¿Í ´ëÈ­ÇÏ¸é Äù½ºÆ®¸¦ È¹µæÇÒ ¼ö ÀÖÀ¸¸ç, Äù½ºÆ® ¿Ï·á ½ºÅ©·ÑÀÌ ³ªÅ¸³­ NPC¿Í ´ëÈ­ÇÏ¸é, ¼öÇà ÁßÀÎ Äù½ºÆ®¸¦ ¿Ï·áÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="47"	title_name="Äù½ºÆ®"	help_image="tutor_questwindow"	help_desc="ÁøÇà ÁßÀÎ Äù½ºÆ® ¹× ÁøÇà °¡´ÉÇÑ Äù½ºÆ®´Â Å°º¸µåÀÇ 'T' Å°¸¦ ´­·¯ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="48"	title_name="Äù½ºÆ®"	help_image="quest_giveup"	help_desc="Äù½ºÆ®¸¦ ÁøÇàÇÏ´Â µµÁß Æ÷±âÇÏ°í ½ÍÀ» ¶§¿¡´Â 'Äù½ºÆ® Æ÷±â'±â´ÉÀ» ÀÌ¿ëÇØ ÁøÇà ÁßÀÎ Äù½ºÆ®¸¦ Æ÷±âÇÒ ¼ö ÀÖ½À´Ï´Ù. Æ÷±âÇÑ Äù½ºÆ®´Â ½ÃÀÛ NPC¿¡°Ô ´Ù½Ã ¹Þ¾Æ ÁøÇàÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="49"	title_name="Äù½ºÆ®"	help_image="quest_del"	help_desc="Äù½ºÆ® Ã¢ÀÇ 'ÀÏ¹Ý' ÅÇ¿¡¼­ Äù½ºÆ®¸¦ ¼±ÅÃÇÑ ÈÄ '»èÁ¦ÇÏ±â'¸¦ ½ÇÇàÇÏ¸é Äù½ºÆ®¸¦ »èÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù. »èÁ¦µÈ Äù½ºÆ®´Â NPC¿¡°Ô¼­ Äù½ºÆ® ½ºÅ©·Ñ ÀÌÆåÆ®°¡ Ç¥½ÃµÇÁö ¾Ê½À´Ï´Ù. ½Ç¼ö·Î »èÁ¦ÇßÀ» °æ¿ì »èÁ¦µÈ Äù½ºÆ® ¸ñ·Ï¿¡¼­ º¹±¸ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="46"	title_name="í€˜ìŠ¤íŠ¸"	help_image="quest_scrollFX"	help_desc="NPC ìœ„ì— ë‚˜íƒ€ë‚˜ëŠ” ìŠ¤í¬ë¡¤ í˜•íƒœì˜ ì´íŽ™íŠ¸ë¥¼ í†µí•´ í€˜ìŠ¤íŠ¸ NPC ìž„ì„ ì•Œ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í€˜ìŠ¤íŠ¸ ì‹œìž‘ ìŠ¤í¬ë¡¤ì´ ë‚˜íƒ€ë‚œ NPCì™€ ëŒ€í™”í•˜ë©´ í€˜ìŠ¤íŠ¸ë¥¼ íšë“í•  ìˆ˜ ìžˆìœ¼ë©°, í€˜ìŠ¤íŠ¸ ì™„ë£Œ ìŠ¤í¬ë¡¤ì´ ë‚˜íƒ€ë‚œ NPCì™€ ëŒ€í™”í•˜ë©´, ìˆ˜í–‰ ì¤‘ì¸ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="47"	title_name="í€˜ìŠ¤íŠ¸"	help_image="tutor_questwindow"	help_desc="ì§„í–‰ ì¤‘ì¸ í€˜ìŠ¤íŠ¸ ë° ì§„í–‰ ê°€ëŠ¥í•œ í€˜ìŠ¤íŠ¸ëŠ” í‚¤ë³´ë“œì˜ 'T' í‚¤ë¥¼ ëˆŒëŸ¬ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="48"	title_name="í€˜ìŠ¤íŠ¸"	help_image="quest_giveup"	help_desc="í€˜ìŠ¤íŠ¸ë¥¼ ì§„í–‰í•˜ëŠ” ë„ì¤‘ í¬ê¸°í•˜ê³  ì‹¶ì„ ë•Œì—ëŠ” 'í€˜ìŠ¤íŠ¸ í¬ê¸°'ê¸°ëŠ¥ì„ ì´ìš©í•´ ì§„í–‰ ì¤‘ì¸ í€˜ìŠ¤íŠ¸ë¥¼ í¬ê¸°í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í¬ê¸°í•œ í€˜ìŠ¤íŠ¸ëŠ” ì‹œìž‘ NPCì—ê²Œ ë‹¤ì‹œ ë°›ì•„ ì§„í–‰í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="49"	title_name="í€˜ìŠ¤íŠ¸"	help_image="quest_del"	help_desc="í€˜ìŠ¤íŠ¸ ì°½ì˜ 'ì¼ë°˜' íƒ­ì—ì„œ í€˜ìŠ¤íŠ¸ë¥¼ ì„ íƒí•œ í›„ 'ì‚­ì œí•˜ê¸°'ë¥¼ ì‹¤í–‰í•˜ë©´ í€˜ìŠ¤íŠ¸ë¥¼ ì‚­ì œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì‚­ì œëœ í€˜ìŠ¤íŠ¸ëŠ” NPCì—ê²Œì„œ í€˜ìŠ¤íŠ¸ ìŠ¤í¬ë¡¤ ì´íŽ™íŠ¸ê°€ í‘œì‹œë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ì‹¤ìˆ˜ë¡œ ì‚­ì œí–ˆì„ ê²½ìš° ì‚­ì œëœ í€˜ìŠ¤íŠ¸ ëª©ë¡ì—ì„œ ë³µêµ¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="16"	>
-			<content	help_id="50"	title_name="´øÀü"	help_image="dungeon_entry"	help_desc="´øÀüÀº ÁøÀÔ ·¹º§ ÀÚ°ÝÀ» ¸¸Á·ÇßÀ» ¶§, °¢ ´øÀü¿¡ ¸Â´Â '´øÀü ÁøÀÔ ¾ÆÀÌÅÛ'À» °¡Áö°í, ´øÀü ÀÔ±¸·Î °¡°Ô µÇ¸é ¿öÇÁ Æ÷ÅÐÀÌ ³ªÅ¸³³´Ï´Ù. ÀÌ ¿öÇÁ Æ÷ÅÐÀ» Å¬¸¯ÇÏ¸é ´øÀü¿¡ ÁøÀÔÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="51"	title_name="´øÀü"	help_image="dungeon_info"	help_desc="Äù½ºÆ® ´øÀüÀ» Á¦¿ÜÇÑ °¢ ´øÀüÀÇ ÁøÀÔ ·¹º§°ú ´øÀü ÁøÀÔ ¾ÆÀÌÅÛ, À§Ä¡ Á¤º¸´Â Ä«¹ß ¸Þ´ºÀÇ '´øÀü Á¤º¸' Ç×¸ñÀ» Å¬¸¯ÇÏ¿© È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="52"	title_name="´øÀü"	help_image="dungeon_MD"	help_desc="¹Ì¼Ç ´øÀüÀº ±Ô¸ð°¡ Å« ´ëÇü ´øÀüÀ¸·Î ÇÊµå¿¡¼­ º¼ ¼ö ¾ø´Â °­·ÂÇÑ ¸ó½ºÅÍ°¡ µîÀåÇÏ¸ç ÁøÇà ¹æ½ÄÀÌ ¸Å¿ì º¹ÀâÇÏ°Ô ±¸¼ºµÇ¾î ÀÖ½À´Ï´Ù. "	/>
-			<content	help_id="53"	title_name="´øÀü"	help_image="dungeon_DX"	help_desc="DX ´øÀüÀº ³­ÀÌµµ¸¦ ¼±ÅÃÇÏ¿©, ÂªÀº ½Ã°£ µ¿¾È ½Ì±Û ÇÃ·¹ÀÌ¸¦ ÇÒ ¼ö ÀÖ´Â ´øÀüÀÔ´Ï´Ù.´øÀüÀÇ ³­ÀÌµµ´Â ½¬¿ò/º¸Åë/¾î·Á¿òÀ¸·Î ³ª´²Áý´Ï´Ù."	/>
-			<content	help_id="54"	title_name="´øÀü"	help_image="dungeon_arena"	help_desc="Ä«¿À½º ¾Æ·¹³ª´Â ÁøÀÔÇÒ ¼ö ÀÖ´Â ·¹º§¿¡ µû¶ó ÃÑ 6´Ü°èÀÇ ³­ÀÌµµ·Î ±¸¼ºµÇ¾î ÀÖ½À´Ï´Ù. Ä«¿À½º ¾Æ·¹³ª¿¡ ÁøÀÔÇÏ±â À§ÇØ¼­´Â ÀÚ½ÅÀÇ ·¹º§¿¡ ¸Â´Â 'È¥µ·ÀÇ ¿­¼è'°¡ ÇÊ¿äÇÕ´Ï´Ù."	/>
-			<content	help_id="55"	title_name="´øÀü"	help_image="dungeon_arenago"	help_desc="È¥µ·ÀÇ ¿­¼è¸¦ °¡Áö°í Ä«¿À½º ¾Æ·¹³ª ÀÔ±¸·Î °¡¸é ÁøÀÔ ¿öÇÁ°¡ º¸ÀÔ´Ï´Ù. Ä«¿À½º ¾Æ·¹³ª ÀÔ±¸´Â ºí·¯µð ¾ÆÀÌ½º ¸Ê¿¡¼­ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="56"	title_name="´øÀü"	help_image="dungeon_QD"	help_desc="Äù½ºÆ® ´øÀüÀº Äù½ºÆ®¸¦ ÁøÇàÇÏ±â À§ÇØ ÁøÀÔÇÏ´Â ´øÀüÀÔ´Ï´Ù. Äù½ºÆ®¸¦ ÁøÇàÇÏ·Á¸é ³¡±îÁö Å¬¸®¾îÇØ¾ß ÇÕ´Ï´Ù."	/>
+			<content	help_id="50"	title_name="ë˜ì „"	help_image="dungeon_entry"	help_desc="ë˜ì „ì€ ì§„ìž… ë ˆë²¨ ìžê²©ì„ ë§Œì¡±í–ˆì„ ë•Œ, ê° ë˜ì „ì— ë§žëŠ” 'ë˜ì „ ì§„ìž… ì•„ì´í…œ'ì„ ê°€ì§€ê³ , ë˜ì „ ìž…êµ¬ë¡œ ê°€ê²Œ ë˜ë©´ ì›Œí”„ í¬í„¸ì´ ë‚˜íƒ€ë‚©ë‹ˆë‹¤. ì´ ì›Œí”„ í¬í„¸ì„ í´ë¦­í•˜ë©´ ë˜ì „ì— ì§„ìž…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="51"	title_name="ë˜ì „"	help_image="dungeon_info"	help_desc="í€˜ìŠ¤íŠ¸ ë˜ì „ì„ ì œì™¸í•œ ê° ë˜ì „ì˜ ì§„ìž… ë ˆë²¨ê³¼ ë˜ì „ ì§„ìž… ì•„ì´í…œ, ìœ„ì¹˜ ì •ë³´ëŠ” ì¹´ë°œ ë©”ë‰´ì˜ 'ë˜ì „ ì •ë³´' í•­ëª©ì„ í´ë¦­í•˜ì—¬ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="52"	title_name="ë˜ì „"	help_image="dungeon_MD"	help_desc="ë¯¸ì…˜ ë˜ì „ì€ ê·œëª¨ê°€ í° ëŒ€í˜• ë˜ì „ìœ¼ë¡œ í•„ë“œì—ì„œ ë³¼ ìˆ˜ ì—†ëŠ” ê°•ë ¥í•œ ëª¬ìŠ¤í„°ê°€ ë“±ìž¥í•˜ë©° ì§„í–‰ ë°©ì‹ì´ ë§¤ìš° ë³µìž¡í•˜ê²Œ êµ¬ì„±ë˜ì–´ ìžˆìŠµë‹ˆë‹¤. "	/>
+			<content	help_id="53"	title_name="ë˜ì „"	help_image="dungeon_DX"	help_desc="DX ë˜ì „ì€ ë‚œì´ë„ë¥¼ ì„ íƒí•˜ì—¬, ì§§ì€ ì‹œê°„ ë™ì•ˆ ì‹±ê¸€ í”Œë ˆì´ë¥¼ í•  ìˆ˜ ìžˆëŠ” ë˜ì „ìž…ë‹ˆë‹¤.ë˜ì „ì˜ ë‚œì´ë„ëŠ” ì‰¬ì›€/ë³´í†µ/ì–´ë ¤ì›€ìœ¼ë¡œ ë‚˜ëˆ ì§‘ë‹ˆë‹¤."	/>
+			<content	help_id="54"	title_name="ë˜ì „"	help_image="dungeon_arena"	help_desc="ì¹´ì˜¤ìŠ¤ ì•„ë ˆë‚˜ëŠ” ì§„ìž…í•  ìˆ˜ ìžˆëŠ” ë ˆë²¨ì— ë”°ë¼ ì´ 6ë‹¨ê³„ì˜ ë‚œì´ë„ë¡œ êµ¬ì„±ë˜ì–´ ìžˆìŠµë‹ˆë‹¤. ì¹´ì˜¤ìŠ¤ ì•„ë ˆë‚˜ì— ì§„ìž…í•˜ê¸° ìœ„í•´ì„œëŠ” ìžì‹ ì˜ ë ˆë²¨ì— ë§žëŠ” 'í˜¼ëˆì˜ ì—´ì‡ 'ê°€ í•„ìš”í•©ë‹ˆë‹¤."	/>
+			<content	help_id="55"	title_name="ë˜ì „"	help_image="dungeon_arenago"	help_desc="í˜¼ëˆì˜ ì—´ì‡ ë¥¼ ê°€ì§€ê³  ì¹´ì˜¤ìŠ¤ ì•„ë ˆë‚˜ ìž…êµ¬ë¡œ ê°€ë©´ ì§„ìž… ì›Œí”„ê°€ ë³´ìž…ë‹ˆë‹¤. ì¹´ì˜¤ìŠ¤ ì•„ë ˆë‚˜ ìž…êµ¬ëŠ” ë¸”ëŸ¬ë”” ì•„ì´ìŠ¤ ë§µì—ì„œ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="56"	title_name="ë˜ì „"	help_image="dungeon_QD"	help_desc="í€˜ìŠ¤íŠ¸ ë˜ì „ì€ í€˜ìŠ¤íŠ¸ë¥¼ ì§„í–‰í•˜ê¸° ìœ„í•´ ì§„ìž…í•˜ëŠ” ë˜ì „ìž…ë‹ˆë‹¤. í€˜ìŠ¤íŠ¸ë¥¼ ì§„í–‰í•˜ë ¤ë©´ ëê¹Œì§€ í´ë¦¬ì–´í•´ì•¼ í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="17"	>
-			<content	help_id="57"	title_name="¼ºÀå"	help_image="char_lvup"	help_desc="·¹º§¾÷À» ÇÒ ¶§¸¶´Ù 5Æ÷ÀÎÆ®¸¦ È¹µæÇÏ¸ç, Èû/Áö´É/¹ÎÃ¸¿¡ ºÐ¹èÇÒ ¼ö ÀÖ½À´Ï´Ù. ºÐ¹èÇÒ ¶§ ½Â±Þ ÇÊ¿ä ´É·ÂÄ¡¿¡ ¸ÂÃç ºÐ¹èÇØ¾ß ½Â±Þ ·¹º§ÀÌ µÇ¾úÀ» ¶§(10·¹º§ ´ÜÀ§) ½Â±Þ Äù½ºÆ®¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀÚµ¿ºÐ¹è ¹öÆ°Àº ½Â±Þ ÇÊ¿ä ´É·ÂÄ¡¿¡ ¸ÂÃç Æ÷ÀÎÆ®¸¦ ºÐ¹èÇØ ÁÝ´Ï´Ù."	/>
-			<content	help_id="58"	title_name="¼ºÀå"	help_image="up_classup01"	help_desc="½Â±ÞÀº Å¬·¡½º µî±ÞÀÇ »ó½ÂÀ» ¸»ÇÕ´Ï´Ù. °¢ 10·¹º§¸¶´Ù ½Â±Þ ÇÊ¿ä ´É·ÂÄ¡¸¦ ÃæÁ·½ÃÅ°¸é, ½ÃÀÛ¸¶À»ÀÇ ¿ÀÇÇ¼­¿¡°Ô¼­ ½Â±Þ Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="59"	title_name="¼ºÀå"	help_image="up_classup02"	help_desc="½Â±Þ Äù½ºÆ®¸¦ ¿Ï·áÇÏ¿© Å¬·¡½º µî±ÞÀÌ ¿Ã¶ó°¥ °æ¿ì Ä³¸¯ÅÍÀÇ ´É·ÂÄ¡°¡ Å« ÆøÀ¸·Î »ó½ÂÇÏ¸ç µ¿½Ã¿¡ °¢ µî±Þº° Æ¯¼ö º¸»óÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="60"	title_name="¼ºÀå"	help_image="up_rankup"	help_desc="½ºÅ³À» »ç¿ëÇÏ¿© ¾ò´Â ½ºÅ³°æÇèÄ¡°¡ Á¤ÇØÁø ¼öÄ¡±îÁö ¸ðÀÌ¸é, ·©Å©°¡ ¿Ã¶ó°©´Ï´Ù. ·©Å©°¡ ¿Ã¶ó°¡¸é Ä³¸¯ÅÍÀÇ ´É·ÂÄ¡°¡ »ó½ÂÇÏ¸ç ´õ ³ôÀº ´Ü°èÀÇ ½ºÅ³À» ¹è¿ï ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="61"	title_name="¼ºÀå"	help_image="axpap_axp"	help_desc="120·¹º§ ÀÌ»óÀÇ Ä³¸¯ÅÍ´Â »ç³ÉÀÌ³ª ¹Ì¼Ç ÀüÀïÀ» ÅëÇÏ¿© AXP¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù 10,000,000AXP´Â 1AP·Î ÀüÈ¯µÇ¾î ¼Ò¿ï ¾îºô¸®Æ¼ Çâ»ó¿¡ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="57"	title_name="ì„±ìž¥"	help_image="char_lvup"	help_desc="ë ˆë²¨ì—…ì„ í•  ë•Œë§ˆë‹¤ 5í¬ì¸íŠ¸ë¥¼ íšë“í•˜ë©°, íž˜/ì§€ëŠ¥/ë¯¼ì²©ì— ë¶„ë°°í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë¶„ë°°í•  ë•Œ ìŠ¹ê¸‰ í•„ìš” ëŠ¥ë ¥ì¹˜ì— ë§žì¶° ë¶„ë°°í•´ì•¼ ìŠ¹ê¸‰ ë ˆë²¨ì´ ë˜ì—ˆì„ ë•Œ(10ë ˆë²¨ ë‹¨ìœ„) ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìžë™ë¶„ë°° ë²„íŠ¼ì€ ìŠ¹ê¸‰ í•„ìš” ëŠ¥ë ¥ì¹˜ì— ë§žì¶° í¬ì¸íŠ¸ë¥¼ ë¶„ë°°í•´ ì¤ë‹ˆë‹¤."	/>
+			<content	help_id="58"	title_name="ì„±ìž¥"	help_image="up_classup01"	help_desc="ìŠ¹ê¸‰ì€ í´ëž˜ìŠ¤ ë“±ê¸‰ì˜ ìƒìŠ¹ì„ ë§í•©ë‹ˆë‹¤. ê° 10ë ˆë²¨ë§ˆë‹¤ ìŠ¹ê¸‰ í•„ìš” ëŠ¥ë ¥ì¹˜ë¥¼ ì¶©ì¡±ì‹œí‚¤ë©´, ì‹œìž‘ë§ˆì„ì˜ ì˜¤í”¼ì„œì—ê²Œì„œ ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë¥¼ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="59"	title_name="ì„±ìž¥"	help_image="up_classup02"	help_desc="ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ì—¬ í´ëž˜ìŠ¤ ë“±ê¸‰ì´ ì˜¬ë¼ê°ˆ ê²½ìš° ìºë¦­í„°ì˜ ëŠ¥ë ¥ì¹˜ê°€ í° í­ìœ¼ë¡œ ìƒìŠ¹í•˜ë©° ë™ì‹œì— ê° ë“±ê¸‰ë³„ íŠ¹ìˆ˜ ë³´ìƒì„ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="60"	title_name="ì„±ìž¥"	help_image="up_rankup"	help_desc="ìŠ¤í‚¬ì„ ì‚¬ìš©í•˜ì—¬ ì–»ëŠ” ìŠ¤í‚¬ê²½í—˜ì¹˜ê°€ ì •í•´ì§„ ìˆ˜ì¹˜ê¹Œì§€ ëª¨ì´ë©´, ëž­í¬ê°€ ì˜¬ë¼ê°‘ë‹ˆë‹¤. ëž­í¬ê°€ ì˜¬ë¼ê°€ë©´ ìºë¦­í„°ì˜ ëŠ¥ë ¥ì¹˜ê°€ ìƒìŠ¹í•˜ë©° ë” ë†’ì€ ë‹¨ê³„ì˜ ìŠ¤í‚¬ì„ ë°°ìš¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="61"	title_name="ì„±ìž¥"	help_image="axpap_axp"	help_desc="120ë ˆë²¨ ì´ìƒì˜ ìºë¦­í„°ëŠ” ì‚¬ëƒ¥ì´ë‚˜ ë¯¸ì…˜ ì „ìŸì„ í†µí•˜ì—¬ AXPë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤ 10,000,000AXPëŠ” 1APë¡œ ì „í™˜ë˜ì–´ ì†Œìš¸ ì–´ë¹Œë¦¬í‹° í–¥ìƒì— ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="18"	>
-			<content	help_id="62"	title_name="¸í¿¹"	help_image="honor_advantage"	help_desc="¸í¿¹ Á¡¼ö°¡ ÀÏÁ¤Ä¡ ¸ðÀÏ ¶§¸¶´Ù ¸í¿¹ µî±ÞÀÌ ¿Ã¶ó°¡°Ô µÇ¸ç ¸í¿¹ µî±Þ¿¡ µû¶ó ±¸ÀÔÇÒ ¼ö ÀÖ´Â ¾ÆÀÌÅÛÀÌ ´Ã¾î³ª°Å³ª »ç¿ëÀ» ¸øÇÏ´ø ¾ÆÀÌÅÛÀÇ Á¦ÇÑÀÌ Ç®¸®´Â µîÀÇ ÇýÅÃÀ» ¾òÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="63"	title_name="¸í¿¹"	help_image="honor_take"	help_desc="Æ¯Á¤ Äù½ºÆ®¸¦ ¿Ï¼öÇÏ°Å³ª ÀüÀï ¸Ê¿¡¼­ÀÇ »ç³É, ¹Ì¼Ç ´øÀü Å¬¸®¾î, ¹Ì¼Ç ÀüÀï Âü¿© µî ´Ù¾çÇÑ ¹æ¹ýÀ» ÅëÇØ ¸í¿¹ Á¡¼ö¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="62"	title_name="ëª…ì˜ˆ"	help_image="honor_advantage"	help_desc="ëª…ì˜ˆ ì ìˆ˜ê°€ ì¼ì •ì¹˜ ëª¨ì¼ ë•Œë§ˆë‹¤ ëª…ì˜ˆ ë“±ê¸‰ì´ ì˜¬ë¼ê°€ê²Œ ë˜ë©° ëª…ì˜ˆ ë“±ê¸‰ì— ë”°ë¼ êµ¬ìž…í•  ìˆ˜ ìžˆëŠ” ì•„ì´í…œì´ ëŠ˜ì–´ë‚˜ê±°ë‚˜ ì‚¬ìš©ì„ ëª»í•˜ë˜ ì•„ì´í…œì˜ ì œí•œì´ í’€ë¦¬ëŠ” ë“±ì˜ í˜œíƒì„ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="63"	title_name="ëª…ì˜ˆ"	help_image="honor_take"	help_desc="íŠ¹ì • í€˜ìŠ¤íŠ¸ë¥¼ ì™„ìˆ˜í•˜ê±°ë‚˜ ì „ìŸ ë§µì—ì„œì˜ ì‚¬ëƒ¥, ë¯¸ì…˜ ë˜ì „ í´ë¦¬ì–´, ë¯¸ì…˜ ì „ìŸ ì°¸ì—¬ ë“± ë‹¤ì–‘í•œ ë°©ë²•ì„ í†µí•´ ëª…ì˜ˆ ì ìˆ˜ë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="19"	>
-			<content	help_id="64"	title_name="WExp"	help_image="WExp_take"	help_desc="WExp´Â ¹Ì¼Ç ÀüÀï °æÇèÄ¡·Î, ¹Ì¼Ç ÀüÀï¿¡ Âü¿©ÇÏ¿© È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="65"	title_name="WExp"	help_image="WExp_use"	help_desc="È¹µæÇÑ WExp´Â Æ÷Æ® ·è½ºÀÇ ¿ÀÇÇ¼­ ¸ð¸®½¼¿¡°Ô¼­ °æÇèÄ¡, ½ºÅ³ °æÇèÄ¡, ¸í¿¹Á¡¼ö·Î ±³È¯ÇÏ°Å³ª, ¹Ì¼Ç ÀüÀï ·ÎºñÀÇ °øÈÆ°üÀ» ÅëÇÏ¿© ¾ÆÀÌÅÛÀ¸·Î ±³È¯ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="64"	title_name="WExp"	help_image="WExp_take"	help_desc="WExpëŠ” ë¯¸ì…˜ ì „ìŸ ê²½í—˜ì¹˜ë¡œ, ë¯¸ì…˜ ì „ìŸì— ì°¸ì—¬í•˜ì—¬ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="65"	title_name="WExp"	help_image="WExp_use"	help_desc="íšë“í•œ WExpëŠ” í¬íŠ¸ ë£©ìŠ¤ì˜ ì˜¤í”¼ì„œ ëª¨ë¦¬ìŠ¨ì—ê²Œì„œ ê²½í—˜ì¹˜, ìŠ¤í‚¬ ê²½í—˜ì¹˜, ëª…ì˜ˆì ìˆ˜ë¡œ êµí™˜í•˜ê±°ë‚˜, ë¯¸ì…˜ ì „ìŸ ë¡œë¹„ì˜ ê³µí›ˆê´€ì„ í†µí•˜ì—¬ ì•„ì´í…œìœ¼ë¡œ êµí™˜í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="20"	>
-			<content	help_id="66"	title_name="È£Äª"	help_image="title_take"	help_desc="Æ¯Á¤ÇÑ Á¶°ÇÀ» ´Þ¼ºÇÒ °æ¿ì È£ÄªÀ» ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. È¹µæÇÑ È£ÄªÀº Ä³¸¯ÅÍ Á¤º¸Ã¢(´ÜÃàÅ° C)ÀÇ È£Äª ÅÇ¿¡¼­ Àû¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="67"	title_name="È£Äª"	help_image="title_apply"	help_desc="Æ¯Á¤ È£ÄªÀº Ãß°¡ÀûÀÎ ¿É¼ÇÀ» °®°í ÀÖ¾î¼­ »óÈ²¿¡ µû¶ó ¿øÇÏ´Â È£ÄªÀ» ¼±ÅÃÇÏ¿© °ÔÀÓ ÁøÇà¿¡ µµ¿òÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="66"	title_name="í˜¸ì¹­"	help_image="title_take"	help_desc="íŠ¹ì •í•œ ì¡°ê±´ì„ ë‹¬ì„±í•  ê²½ìš° í˜¸ì¹­ì„ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. íšë“í•œ í˜¸ì¹­ì€ ìºë¦­í„° ì •ë³´ì°½(ë‹¨ì¶•í‚¤ C)ì˜ í˜¸ì¹­ íƒ­ì—ì„œ ì ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="67"	title_name="í˜¸ì¹­"	help_image="title_apply"	help_desc="íŠ¹ì • í˜¸ì¹­ì€ ì¶”ê°€ì ì¸ ì˜µì…˜ì„ ê°–ê³  ìžˆì–´ì„œ ìƒí™©ì— ë”°ë¼ ì›í•˜ëŠ” í˜¸ì¹­ì„ ì„ íƒí•˜ì—¬ ê²Œìž„ ì§„í–‰ì— ë„ì›€ì„ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="21"	>
-			<content	help_id="68"	title_name="¿ëº´"	help_image="mercenary_basic"	help_desc="´øÀü¿¡¼­´Â ¿ëº´À» ¼ÒÈ¯ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¿ëº´Àº ÆÄÆ¼¿ø 1¸íÀ¸·Î Ã³¸®µÇ¸ç, À¯ÀúÀÇ Á÷Á¢ÀûÀÎ ÄÁÆ®·ÑÀº ºÒ°¡´ÉÇÏÁö¸¸ ´øÀüÀ» Å¬¸®¾îÇÏ´Âµ¥ µµ¿òÀ» ÁÝ´Ï´Ù."	/>
-			<content	help_id="69"	title_name="¿ëº´"	help_image="mercenary_ui"	help_desc="¿ëº´Àº °è¾à, ½Å·Ú, ÇöÈ¤ 3Á¾·ù·Î ±¸ºÐµÇ¸ç, °¢ ¿ëº´¸¶´Ù ³ë¸Ö, ·¹¾î, ¿¡ÇÈ, À¯´ÏÅ©·Î µî±ÞÀÌ ±¸ºÐµË´Ï´Ù."	/>
+			<content	help_id="68"	title_name="ìš©ë³‘"	help_image="mercenary_basic"	help_desc="ë˜ì „ì—ì„œëŠ” ìš©ë³‘ì„ ì†Œí™˜í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìš©ë³‘ì€ íŒŒí‹°ì› 1ëª…ìœ¼ë¡œ ì²˜ë¦¬ë˜ë©°, ìœ ì €ì˜ ì§ì ‘ì ì¸ ì»¨íŠ¸ë¡¤ì€ ë¶ˆê°€ëŠ¥í•˜ì§€ë§Œ ë˜ì „ì„ í´ë¦¬ì–´í•˜ëŠ”ë° ë„ì›€ì„ ì¤ë‹ˆë‹¤."	/>
+			<content	help_id="69"	title_name="ìš©ë³‘"	help_image="mercenary_ui"	help_desc="ìš©ë³‘ì€ ê³„ì•½, ì‹ ë¢°, í˜„í˜¹ 3ì¢…ë¥˜ë¡œ êµ¬ë¶„ë˜ë©°, ê° ìš©ë³‘ë§ˆë‹¤ ë…¸ë©€, ë ˆì–´, ì—í”½, ìœ ë‹ˆí¬ë¡œ ë“±ê¸‰ì´ êµ¬ë¶„ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="22"	>
-			<content	help_id="70"	title_name="ÀüÅõÀÇ ±âÃÊ"	help_image="battlebasic_basic"	help_desc="ÀüÅõ¸¦ ÇÏ±â À§ÇØ¼­´Â ¸ÕÀú ¸ó½ºÅÍ¸¦ ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ¿© ¼±ÅÃÇØ¾ß ÇÕ´Ï´Ù. ±×¸®°í Äü½½·ÔÀÇ °ø°Ý ½ºÅ³ ¾ÆÀÌÄÜÀ» ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª ´ÜÃàÅ°¸¦ ´©¸£¸é, Àû¿¡°Ô °ø°ÝÀ» ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="71"	title_name="ÀüÅõÀÇ ±âÃÊ"	help_image="battlebasic_auto"	help_desc="¿É¼Ç Ã¢ÀÇ '°ÔÀÓ' ÅÇ¿¡¼­ 'ÀÚµ¿ °ø°Ý' Ç×¸ñÀ» Ã¼Å©ÇÏ¸é, À¯ÀúÀÇ Ãß°¡ÀûÀÎ Á¶ÀÛ¾øÀÌ ÇÑ ¹øÀÇ °ø°Ý ½ÇÇàÀ¸·Îµµ °è¼Ó °ø°ÝÀÌ °¡´ÉÇÕ´Ï´Ù."	/>
+			<content	help_id="70"	title_name="ì „íˆ¬ì˜ ê¸°ì´ˆ"	help_image="battlebasic_basic"	help_desc="ì „íˆ¬ë¥¼ í•˜ê¸° ìœ„í•´ì„œëŠ” ë¨¼ì € ëª¬ìŠ¤í„°ë¥¼ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ì—¬ ì„ íƒí•´ì•¼ í•©ë‹ˆë‹¤. ê·¸ë¦¬ê³  í€µìŠ¬ë¡¯ì˜ ê³µê²© ìŠ¤í‚¬ ì•„ì´ì½˜ì„ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜ ë‹¨ì¶•í‚¤ë¥¼ ëˆ„ë¥´ë©´, ì ì—ê²Œ ê³µê²©ì„ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="71"	title_name="ì „íˆ¬ì˜ ê¸°ì´ˆ"	help_image="battlebasic_auto"	help_desc="ì˜µì…˜ ì°½ì˜ 'ê²Œìž„' íƒ­ì—ì„œ 'ìžë™ ê³µê²©' í•­ëª©ì„ ì²´í¬í•˜ë©´, ìœ ì €ì˜ ì¶”ê°€ì ì¸ ì¡°ìž‘ì—†ì´ í•œ ë²ˆì˜ ê³µê²© ì‹¤í–‰ìœ¼ë¡œë„ ê³„ì† ê³µê²©ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="23"	>
-			<content	help_id="72"	title_name="SP"	help_image="sp_take"	help_desc="Å¬·¡½º µî±Þ 2 ÀÌ»óºÎÅÍ´Â SP¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù. SP´Â ÀûÀ» °ø°ÝÇÏ°Å³ª ¼Ò¼È ¾×¼ÇÀÇ ´í½º, ¶Ç´Â Ç»¸® Æ÷¼ÇÀ» »ç¿ëÇÒ °æ¿ì Áõ°¡µÇ¸ç 5000ÀÌ»ó ¸ðÀÏ °æ¿ì SP ·¥ÇÁ¿¡ ºÒÀÌ µé¾î¿À°Ô µË´Ï´Ù."	/>
-			<content	help_id="73"	title_name="SP"	help_image="sp_use"	help_desc="SP´Â ÄÞº¸, ¹èÆ² ¿À·¯, ¹èÆ² ¸ðµå¸¦ »ç¿ëÇÒ ¶§ ¼Ò¸ðµË´Ï´Ù."	/>
+			<content	help_id="72"	title_name="SP"	help_image="sp_take"	help_desc="í´ëž˜ìŠ¤ ë“±ê¸‰ 2 ì´ìƒë¶€í„°ëŠ” SPë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. SPëŠ” ì ì„ ê³µê²©í•˜ê±°ë‚˜ ì†Œì…œ ì•¡ì…˜ì˜ ëŒ„ìŠ¤, ë˜ëŠ” í“¨ë¦¬ í¬ì…˜ì„ ì‚¬ìš©í•  ê²½ìš° ì¦ê°€ë˜ë©° 5000ì´ìƒ ëª¨ì¼ ê²½ìš° SP ëž¨í”„ì— ë¶ˆì´ ë“¤ì–´ì˜¤ê²Œ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="73"	title_name="SP"	help_image="sp_use"	help_desc="SPëŠ” ì½¤ë³´, ë°°í‹€ ì˜¤ëŸ¬, ë°°í‹€ ëª¨ë“œë¥¼ ì‚¬ìš©í•  ë•Œ ì†Œëª¨ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="24"	>
-			<content	help_id="74"	title_name="¿À·¯ ¸ðµå"	help_image="auramode"	help_desc="¹èÆ² ¿À·¯´Â ½Â±Þ Äù½ºÆ®¸¦ ÅëÇØ Å¬·¡½º µî±Þ 2°¡ µÇ¸é °­·ÂÇÑ ÈûÀ» ºÎ¿©ÇÏ´Â [¾î½º ¿À·¯]¸¦ º¸»óÀ¸·Î È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù. ½ºÅ³°ú °°ÀÌ Äü½½·Ô¿¡ µî·ÏÇÏ¿© »ç¿ë°¡´ÉÇÏ¸ç, SP ·¥ÇÁ 1°³(5000)¸¦ ¼ÒºñÇÕ´Ï´Ù. 200·¹º§À» ´Þ¼ºÇÒ °æ¿ì °¢ »óÈ²¿¡ Æ¯È­µÈ ¹èÆ²¿À·¯¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="74"	title_name="ì˜¤ëŸ¬ ëª¨ë“œ"	help_image="auramode"	help_desc="ë°°í‹€ ì˜¤ëŸ¬ëŠ” ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë¥¼ í†µí•´ í´ëž˜ìŠ¤ ë“±ê¸‰ 2ê°€ ë˜ë©´ ê°•ë ¥í•œ íž˜ì„ ë¶€ì—¬í•˜ëŠ” [ì–´ìŠ¤ ì˜¤ëŸ¬]ë¥¼ ë³´ìƒìœ¼ë¡œ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¤í‚¬ê³¼ ê°™ì´ í€µìŠ¬ë¡¯ì— ë“±ë¡í•˜ì—¬ ì‚¬ìš©ê°€ëŠ¥í•˜ë©°, SP ëž¨í”„ 1ê°œ(5000)ë¥¼ ì†Œë¹„í•©ë‹ˆë‹¤. 200ë ˆë²¨ì„ ë‹¬ì„±í•  ê²½ìš° ê° ìƒí™©ì— íŠ¹í™”ëœ ë°°í‹€ì˜¤ëŸ¬ë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="25"	>
-			<content	help_id="75"	title_name="¹èÆ² ¸ðµå"	help_image="battlemode_1"	help_desc="¹èÆ² ¸ðµå´Â °¢ ¹èÆ² ½ºÅ¸ÀÏº°·Î 2Á¾·ù°¡ Á¸ÀçÇÕ´Ï´Ù. ¹èÆ² ¸ðµå 1Àº ½Â±Þ Äù½ºÆ®¸¦ ÅëÇØ Å¬·¡½º µî±Þ 3ÀÌ µÇ¸é È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù. SP ·¥ÇÁ 1°³(SP 5000)¸¦ ¼ÒºñÇÏ¿© »ç¿ëÀÌ °¡´ÉÇÏ¸ç Áö¼Ó ½Ã°£ µ¿¾È °¢Á¾ ´É·ÂÄ¡°¡ Å©°Ô Çâ»óµË´Ï´Ù."	/>
-			<content	help_id="76"	title_name="¹èÆ² ¸ðµå"	help_image="battlemode_2"	help_desc="¹èÆ² ¸ðµå2´Â Å¬·¡½º µî±Þ 6ÀÌ µÇ¸é È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù. ´Ù¸¥ ¸ðµå¿Í ´Þ¸® Àü¿ë °ø°Ý ½ºÅ³À» °¡Áö°í ÀÖÀ¸¸ç ±× ¾î¶² °ø°Ý ½ºÅ³º¸´Ùµµ °­·ÂÇÑ À§·ÂÀ» °¡Áö°í ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="75"	title_name="ë°°í‹€ ëª¨ë“œ"	help_image="battlemode_1"	help_desc="ë°°í‹€ ëª¨ë“œëŠ” ê° ë°°í‹€ ìŠ¤íƒ€ì¼ë³„ë¡œ 2ì¢…ë¥˜ê°€ ì¡´ìž¬í•©ë‹ˆë‹¤. ë°°í‹€ ëª¨ë“œ 1ì€ ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë¥¼ í†µí•´ í´ëž˜ìŠ¤ ë“±ê¸‰ 3ì´ ë˜ë©´ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. SP ëž¨í”„ 1ê°œ(SP 5000)ë¥¼ ì†Œë¹„í•˜ì—¬ ì‚¬ìš©ì´ ê°€ëŠ¥í•˜ë©° ì§€ì† ì‹œê°„ ë™ì•ˆ ê°ì¢… ëŠ¥ë ¥ì¹˜ê°€ í¬ê²Œ í–¥ìƒë©ë‹ˆë‹¤."	/>
+			<content	help_id="76"	title_name="ë°°í‹€ ëª¨ë“œ"	help_image="battlemode_2"	help_desc="ë°°í‹€ ëª¨ë“œ2ëŠ” í´ëž˜ìŠ¤ ë“±ê¸‰ 6ì´ ë˜ë©´ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë‹¤ë¥¸ ëª¨ë“œì™€ ë‹¬ë¦¬ ì „ìš© ê³µê²© ìŠ¤í‚¬ì„ ê°€ì§€ê³  ìžˆìœ¼ë©° ê·¸ ì–´ë–¤ ê³µê²© ìŠ¤í‚¬ë³´ë‹¤ë„ ê°•ë ¥í•œ ìœ„ë ¥ì„ ê°€ì§€ê³  ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="26"	>
-			<content	help_id="77"	title_name="À¯Àú °£ ÀüÅõ"	help_image="pvp_try"	help_desc="Ä³¸¯ÅÍ ¸Þ´º¸¦ ÅëÇØ ´Ù¸¥ À¯Àú¿¡°Ô PvP¸¦ ½ÅÃ»ÇÏ°Å³ª '/°áÅõ' ¸í·É¾î¸¦ ÀÔ·ÂÇÏ¿© »ó´ë¹æÀÌ ¼ö¶ôÇÑ °æ¿ì PvP¸¦ ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="78"	title_name="À¯Àú °£ ÀüÅõ"	help_image="pvp_guild"	help_desc="±æµå¿øÀÇ ÃÊ´ë ¶Ç´Â Ãß¹æ±ÇÇÑÀ» °¡Áö°í ÀÖ´Â ±æµå¿øÀÌ '/±æµåÀü »ó´ëÄ³¸¯ÅÍ¸í Á¾·áÅ³¼ö'·Î ±æµåÀüÀ» ½ÅÃ»ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¼ö¶ôÀº ´ë»ó ±æµå ¸¶½ºÅÍ¸¸ÀÌ °¡´ÉÇÕ´Ï´Ù."	/>
+			<content	help_id="77"	title_name="ìœ ì € ê°„ ì „íˆ¬"	help_image="pvp_try"	help_desc="ìºë¦­í„° ë©”ë‰´ë¥¼ í†µí•´ ë‹¤ë¥¸ ìœ ì €ì—ê²Œ PvPë¥¼ ì‹ ì²­í•˜ê±°ë‚˜ '/ê²°íˆ¬' ëª…ë ¹ì–´ë¥¼ ìž…ë ¥í•˜ì—¬ ìƒëŒ€ë°©ì´ ìˆ˜ë½í•œ ê²½ìš° PvPë¥¼ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="78"	title_name="ìœ ì € ê°„ ì „íˆ¬"	help_image="pvp_guild"	help_desc="ê¸¸ë“œì›ì˜ ì´ˆëŒ€ ë˜ëŠ” ì¶”ë°©ê¶Œí•œì„ ê°€ì§€ê³  ìžˆëŠ” ê¸¸ë“œì›ì´ '/ê¸¸ë“œì „ ìƒëŒ€ìºë¦­í„°ëª… ì¢…ë£Œí‚¬ìˆ˜'ë¡œ ê¸¸ë“œì „ì„ ì‹ ì²­í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìˆ˜ë½ì€ ëŒ€ìƒ ê¸¸ë“œ ë§ˆìŠ¤í„°ë§Œì´ ê°€ëŠ¥í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="27"	>
-			<content	help_id="79"	title_name="½ºÅ³ Á¾·ù"	help_image="skillkind_kind"	help_desc="½ºÅ³Àº Æ¯¼º¿¡ µû¶ó ¼Òµå ½ºÅ³, ¸ÅÁ÷ ½ºÅ³, ¾÷±×·¹ÀÌµå ½ºÅ³, ½ºÆä¼È ½ºÅ³ÀÇ 4Á¾·ù·Î ±¸ºÐµË´Ï´Ù."	/>
-			<content	help_id="80"	title_name="½ºÅ³ Á¾·ù"	help_image="skillkind_sm"	help_desc="¼Òµå ½ºÅ³/¸ÅÁ÷ ½ºÅ³Àº »ç¿ëÇØ¾ß È¿°ú°¡ ¹ßÈÖµÇ´Â ¾×Æ¼ºêÇü ½ºÅ³ÀÔ´Ï´Ù. "	/>
-			<content	help_id="81"	title_name="½ºÅ³ Á¾·ù"	help_image="skillkind_upskill"	help_desc="¾÷±×·¹ÀÌµå ½ºÅ³Àº ´É·ÂÄ¡ÀÇ Çâ»ó¿¡ ¿µÇâÀ» ÁÝ´Ï´Ù. ¹è¿î ÈÄ Ç×»ó È¿°ú°¡ Áö¼ÓµÇ´Â ÆÐ½Ãºê ÇüÀÔ´Ï´Ù. "	/>
-			<content	help_id="82"	title_name="½ºÅ³ Á¾·ù"	help_image="skillkind_special"	help_desc="½ºÆä¼È ½ºÅ³Àº ¾Æ½ºÆ®¶ö ¿þÆù, ¿À·¯ ¸ðµå, ¹èÆ² ¸ðµå, ¾Æ½ºÆ®¶ö ¹ÙÀÌÅ©, ÄÞº¸ µîÀÇ Æ¯¼öÇÑ ½ºÅ³µéÀÔ´Ï´Ù. ´Ù¸¥ ½ºÅ³°ú ´Þ¸® ½Â±Þ Äù½ºÆ®³ª Æ¯Á¤ Äù½ºÆ®ÀÇ ¿Ï·á¸¦ ÅëÇØ ½ÀµæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="79"	title_name="ìŠ¤í‚¬ ì¢…ë¥˜"	help_image="skillkind_kind"	help_desc="ìŠ¤í‚¬ì€ íŠ¹ì„±ì— ë”°ë¼ ì†Œë“œ ìŠ¤í‚¬, ë§¤ì§ ìŠ¤í‚¬, ì—…ê·¸ë ˆì´ë“œ ìŠ¤í‚¬, ìŠ¤íŽ˜ì…œ ìŠ¤í‚¬ì˜ 4ì¢…ë¥˜ë¡œ êµ¬ë¶„ë©ë‹ˆë‹¤."	/>
+			<content	help_id="80"	title_name="ìŠ¤í‚¬ ì¢…ë¥˜"	help_image="skillkind_sm"	help_desc="ì†Œë“œ ìŠ¤í‚¬/ë§¤ì§ ìŠ¤í‚¬ì€ ì‚¬ìš©í•´ì•¼ íš¨ê³¼ê°€ ë°œíœ˜ë˜ëŠ” ì•¡í‹°ë¸Œí˜• ìŠ¤í‚¬ìž…ë‹ˆë‹¤. "	/>
+			<content	help_id="81"	title_name="ìŠ¤í‚¬ ì¢…ë¥˜"	help_image="skillkind_upskill"	help_desc="ì—…ê·¸ë ˆì´ë“œ ìŠ¤í‚¬ì€ ëŠ¥ë ¥ì¹˜ì˜ í–¥ìƒì— ì˜í–¥ì„ ì¤ë‹ˆë‹¤. ë°°ìš´ í›„ í•­ìƒ íš¨ê³¼ê°€ ì§€ì†ë˜ëŠ” íŒ¨ì‹œë¸Œ í˜•ìž…ë‹ˆë‹¤. "	/>
+			<content	help_id="82"	title_name="ìŠ¤í‚¬ ì¢…ë¥˜"	help_image="skillkind_special"	help_desc="ìŠ¤íŽ˜ì…œ ìŠ¤í‚¬ì€ ì•„ìŠ¤íŠ¸ëž„ ì›¨í°, ì˜¤ëŸ¬ ëª¨ë“œ, ë°°í‹€ ëª¨ë“œ, ì•„ìŠ¤íŠ¸ëž„ ë°”ì´í¬, ì½¤ë³´ ë“±ì˜ íŠ¹ìˆ˜í•œ ìŠ¤í‚¬ë“¤ìž…ë‹ˆë‹¤. ë‹¤ë¥¸ ìŠ¤í‚¬ê³¼ ë‹¬ë¦¬ ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë‚˜ íŠ¹ì • í€˜ìŠ¤íŠ¸ì˜ ì™„ë£Œë¥¼ í†µí•´ ìŠµë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="28"	>
-			<content	help_id="83"	title_name="½ºÅ³ Æ®·¹ÀÌ´×"	help_image="skilltraining_learn"	help_desc="½ºÅ³Àº ½ºÅ³ºÏÀ» ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ¹è¿ï ¼ö ÀÖ½À´Ï´Ù. ½ºÅ³ºÏÀº ºí·¯µð ¾ÆÀÌ½º, µ¥ÀúÆ® ½ºÅ©¸², ±×¸° µð½ºÆÄÀÌ¾î, Æ÷Æ®·è½ºÀÇ ÀÎ½ºÆ®·°ÅÍ¿¡°Ô¼­ °øÅëÀûÀ¸·Î ±¸¸ÅÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="84"	title_name="½ºÅ³ Æ®·¹ÀÌ´×"	help_image="skilltraining_updown"	help_desc="½ÀµæÇÑ ½ºÅ³Àº ·¹º§¾÷ Á¶°ÇÀ» ¸¸Á·½ÃÅ³ ¶§ + ¹öÆ°À» ´©¸£¸é ·¹º§¾÷ÇÒ ¼ö ÀÖ½À´Ï´Ù. -¹öÆ°À» ´©¸£¸é ·¹º§À» ³·Ãâ ¼ö ÀÖÀ¸¸ç, Alz°¡ ¼Ò¸ðµË´Ï´Ù. 1·¹º§ÀÇ ½ºÅ³¿¡ - ¹öÆ°À» ´©¸£¸é ½ºÅ³À» »èÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="83"	title_name="ìŠ¤í‚¬ íŠ¸ë ˆì´ë‹"	help_image="skilltraining_learn"	help_desc="ìŠ¤í‚¬ì€ ìŠ¤í‚¬ë¶ì„ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ë°°ìš¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¤í‚¬ë¶ì€ ë¸”ëŸ¬ë”” ì•„ì´ìŠ¤, ë°ì €íŠ¸ ìŠ¤í¬ë¦¼, ê·¸ë¦° ë””ìŠ¤íŒŒì´ì–´, í¬íŠ¸ë£©ìŠ¤ì˜ ì¸ìŠ¤íŠ¸ëŸ­í„°ì—ê²Œì„œ ê³µí†µì ìœ¼ë¡œ êµ¬ë§¤í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="84"	title_name="ìŠ¤í‚¬ íŠ¸ë ˆì´ë‹"	help_image="skilltraining_updown"	help_desc="ìŠµë“í•œ ìŠ¤í‚¬ì€ ë ˆë²¨ì—… ì¡°ê±´ì„ ë§Œì¡±ì‹œí‚¬ ë•Œ + ë²„íŠ¼ì„ ëˆ„ë¥´ë©´ ë ˆë²¨ì—…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. -ë²„íŠ¼ì„ ëˆ„ë¥´ë©´ ë ˆë²¨ì„ ë‚®ì¶œ ìˆ˜ ìžˆìœ¼ë©°, Alzê°€ ì†Œëª¨ë©ë‹ˆë‹¤. 1ë ˆë²¨ì˜ ìŠ¤í‚¬ì— - ë²„íŠ¼ì„ ëˆ„ë¥´ë©´ ìŠ¤í‚¬ì„ ì‚­ì œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="29"	>
-			<content	help_id="85"	title_name="½ºÅ³ ·©Å©"	help_image="skillrank_basic"	help_desc="½ºÅ³ °æÇèÄ¡°¡ ÁöÁ¤µÈ ¾ç¸¸Å­ ¸ðÀÌ¸é ·©Å© Æ÷ÀÎÆ®°¡ ¿À¸£°í ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù. ·©Å© Æ÷ÀÎÆ®°¡ ·©Å© ¾÷ Á¶°ÇÀ» ÃæÁ·ÇÏ¸é ½ºÅ³ ·©Å©°¡ ¿Ã¶ó°¡°Ô µË´Ï´Ù."	/>
-			<content	help_id="86"	title_name="½ºÅ³ ·©Å©"	help_image="skillrank_bonus"	help_desc="½ºÅ³ ·©Å©°¡ ¿Ã¶ó°¡°Ô µÇ¸é »õ·Î¿î »óÀ§ ½ºÅ³À» ¹è¿ï ¼ö ÀÖÀ¸¸ç Ãß°¡·Î ´É·ÂÄ¡ º¸³Ê½º¸¦ ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ »õ·Î¿î ½ºÅ³À» ¹è¿ï ¼ö ÀÖ´Â ½ºÅ³ ½½·Ôµµ ´Ã¾î³³´Ï´Ù."	/>
-			<content	help_id="87"	title_name="½ºÅ³ ·©Å©"	help_image="skillrank_limit01"	help_desc="Å¬·¡½º µî±Þ¿¡ µû¶ó ÃÖ´ë·Î ¿Ã¸± ¼ö ÀÖ´Â ½ºÅ³ ·©Å©¿¡ Á¦ÇÑÀÌ ÀÖ½À´Ï´Ù. Å¬·¡½º µî±ÞÀÌ 2µî±ÞÀÏ °æ¿ì ½ºÅ³ ·©Å©´Â ÃÊº¸ÀÚ±îÁö ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.\2µî±Þ = ÃÊº¸ÀÚ   3µî±Þ = °ß½À"	/>
-			<content	help_id="88"	title_name="½ºÅ³ ·©Å©"	help_image="skillrank_limit01"	help_desc="4µî±Þ = ·¹±Ö·¯ \5µî±Þ = ÀÍ½ºÆÛÆ® \6µî±Þ = A. ÀÍ½ºÆÛÆ® \7µî±Þ = ¸¶½ºÅÍ"	/>
-			<content	help_id="89"	title_name="½ºÅ³ ·©Å©"	help_image="skillrank_limit01"	help_desc="8µî±Þ = A. ¸¶½ºÅÍ \9µî±Þ = ±×·£µå ¸¶½ºÅÍ \10µî±Þ = ÄÄÇÃ¸®ÅÍ \11µî±Þ = Æ®·£¼¾´õ"	/>
+			<content	help_id="85"	title_name="ìŠ¤í‚¬ ëž­í¬"	help_image="skillrank_basic"	help_desc="ìŠ¤í‚¬ ê²½í—˜ì¹˜ê°€ ì§€ì •ëœ ì–‘ë§Œí¼ ëª¨ì´ë©´ ëž­í¬ í¬ì¸íŠ¸ê°€ ì˜¤ë¥´ê³  ìŠ¤í‚¬ í¬ì¸íŠ¸ë¥¼ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ëž­í¬ í¬ì¸íŠ¸ê°€ ëž­í¬ ì—… ì¡°ê±´ì„ ì¶©ì¡±í•˜ë©´ ìŠ¤í‚¬ ëž­í¬ê°€ ì˜¬ë¼ê°€ê²Œ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="86"	title_name="ìŠ¤í‚¬ ëž­í¬"	help_image="skillrank_bonus"	help_desc="ìŠ¤í‚¬ ëž­í¬ê°€ ì˜¬ë¼ê°€ê²Œ ë˜ë©´ ìƒˆë¡œìš´ ìƒìœ„ ìŠ¤í‚¬ì„ ë°°ìš¸ ìˆ˜ ìžˆìœ¼ë©° ì¶”ê°€ë¡œ ëŠ¥ë ¥ì¹˜ ë³´ë„ˆìŠ¤ë¥¼ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë˜í•œ ìƒˆë¡œìš´ ìŠ¤í‚¬ì„ ë°°ìš¸ ìˆ˜ ìžˆëŠ” ìŠ¤í‚¬ ìŠ¬ë¡¯ë„ ëŠ˜ì–´ë‚©ë‹ˆë‹¤."	/>
+			<content	help_id="87"	title_name="ìŠ¤í‚¬ ëž­í¬"	help_image="skillrank_limit01"	help_desc="í´ëž˜ìŠ¤ ë“±ê¸‰ì— ë”°ë¼ ìµœëŒ€ë¡œ ì˜¬ë¦´ ìˆ˜ ìžˆëŠ” ìŠ¤í‚¬ ëž­í¬ì— ì œí•œì´ ìžˆìŠµë‹ˆë‹¤. í´ëž˜ìŠ¤ ë“±ê¸‰ì´ 2ë“±ê¸‰ì¼ ê²½ìš° ìŠ¤í‚¬ ëž­í¬ëŠ” ì´ˆë³´ìžê¹Œì§€ ì˜¬ë¦´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.\2ë“±ê¸‰ = ì´ˆë³´ìž   3ë“±ê¸‰ = ê²¬ìŠµ"	/>
+			<content	help_id="88"	title_name="ìŠ¤í‚¬ ëž­í¬"	help_image="skillrank_limit01"	help_desc="4ë“±ê¸‰ = ë ˆê·¤ëŸ¬ \5ë“±ê¸‰ = ìµìŠ¤í¼íŠ¸ \6ë“±ê¸‰ = A. ìµìŠ¤í¼íŠ¸ \7ë“±ê¸‰ = ë§ˆìŠ¤í„°"	/>
+			<content	help_id="89"	title_name="ìŠ¤í‚¬ ëž­í¬"	help_image="skillrank_limit01"	help_desc="8ë“±ê¸‰ = A. ë§ˆìŠ¤í„° \9ë“±ê¸‰ = ê·¸ëžœë“œ ë§ˆìŠ¤í„° \10ë“±ê¸‰ = ì»´í”Œë¦¬í„° \11ë“±ê¸‰ = íŠ¸ëžœì„¼ë”"	/>
 		</help>
 		<help	title_id="30"	>
-			<content	help_id="90"	title_name="ÄÞº¸"	help_image="combo_basic"	help_desc="Å¬·¡½º µî±Þ 4°¡ µÇ¸é ÄÞº¸ ½ºÅ¸Æ® ½ºÅ³À» ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. ÄÞº¸¸¦ »ç¿ëÇÏ±â À§ÇØ¼­´Â SP°¡ 450 ÀÌ»ó ÇÊ¿äÇÕ´Ï´Ù."	/>
-			<content	help_id="91"	title_name="ÄÞº¸"	help_image="combo_use01"	help_desc="ÄÞº¸ ½ºÅ¸Æ® ½ºÅ³À» »ç¿ëÇÏ¸é È­¸é¿¡ ÄÞº¸ ½ºÅ¸Æ® ¸Þ½ÃÁö¿Í ÇÔ²² ÄÞº¸ °ÔÀÌÁö°¡ Ç¥½ÃµË´Ï´Ù. ÄÞº¸ °ÔÀÌÁö°¡ ÄÞº¸ Æ÷ÀÎÆ®¿¡ °¡±î¿öÁú ¶§, Å¸ÀÌ¹ÖÀ» ¸ÂÃß¾î °ø°Ý ½ºÅ³À» »ç¿ëÇÏ¸é ¿¬¼ÓÀ¸·Î ½ºÅ³ÀÌ »ç¿ëÇÕ´Ï´Ù."	/>
-			<content	help_id="92"	title_name="ÄÞº¸"	help_image="combo_use02"	help_desc="ÄÞº¸¸¦ »ç¿ë ÁßÀÏ ¶§, ÄÞº¸ ½ºÅ¸Æ® ½ºÅ³À» Å¸ÀÌ¹Ö¿¡ ¸ÂÃç ¿¬¼ÓÀ¸·Î ´©¸£¸é Äü½½·Ô¿¡ µî·ÏµÈ °ø°Ý ½ºÅ³ Áß »ç¿ë °¡´ÉÇÑ ½ºÅ³ÀÌ ÀÚµ¿À¸·Î »ç¿ëµË´Ï´Ù."	/>
-			<content	help_id="93"	title_name="ÄÞº¸"	help_image="combo_continue"	help_desc="Àû ¸ó½ºÅÍ°¡ Á×±â Àü¿¡ ´Ù¸¥ ¸ó½ºÅÍ·Î Å¸°ÙÆÃÀ» ¹Ù²ã°¡¸é¼­ ÄÞº¸¸¦ »ç¿ëÇÏ¸é ÄÞº¸¸¦ °è¼ÓÇØ¼­ ÀÌ¾î³ª°¥ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="90"	title_name="ì½¤ë³´"	help_image="combo_basic"	help_desc="í´ëž˜ìŠ¤ ë“±ê¸‰ 4ê°€ ë˜ë©´ ì½¤ë³´ ìŠ¤íƒ€íŠ¸ ìŠ¤í‚¬ì„ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì½¤ë³´ë¥¼ ì‚¬ìš©í•˜ê¸° ìœ„í•´ì„œëŠ” SPê°€ 450 ì´ìƒ í•„ìš”í•©ë‹ˆë‹¤."	/>
+			<content	help_id="91"	title_name="ì½¤ë³´"	help_image="combo_use01"	help_desc="ì½¤ë³´ ìŠ¤íƒ€íŠ¸ ìŠ¤í‚¬ì„ ì‚¬ìš©í•˜ë©´ í™”ë©´ì— ì½¤ë³´ ìŠ¤íƒ€íŠ¸ ë©”ì‹œì§€ì™€ í•¨ê»˜ ì½¤ë³´ ê²Œì´ì§€ê°€ í‘œì‹œë©ë‹ˆë‹¤. ì½¤ë³´ ê²Œì´ì§€ê°€ ì½¤ë³´ í¬ì¸íŠ¸ì— ê°€ê¹Œì›Œì§ˆ ë•Œ, íƒ€ì´ë°ì„ ë§žì¶”ì–´ ê³µê²© ìŠ¤í‚¬ì„ ì‚¬ìš©í•˜ë©´ ì—°ì†ìœ¼ë¡œ ìŠ¤í‚¬ì´ ì‚¬ìš©í•©ë‹ˆë‹¤."	/>
+			<content	help_id="92"	title_name="ì½¤ë³´"	help_image="combo_use02"	help_desc="ì½¤ë³´ë¥¼ ì‚¬ìš© ì¤‘ì¼ ë•Œ, ì½¤ë³´ ìŠ¤íƒ€íŠ¸ ìŠ¤í‚¬ì„ íƒ€ì´ë°ì— ë§žì¶° ì—°ì†ìœ¼ë¡œ ëˆ„ë¥´ë©´ í€µìŠ¬ë¡¯ì— ë“±ë¡ëœ ê³µê²© ìŠ¤í‚¬ ì¤‘ ì‚¬ìš© ê°€ëŠ¥í•œ ìŠ¤í‚¬ì´ ìžë™ìœ¼ë¡œ ì‚¬ìš©ë©ë‹ˆë‹¤."	/>
+			<content	help_id="93"	title_name="ì½¤ë³´"	help_image="combo_continue"	help_desc="ì  ëª¬ìŠ¤í„°ê°€ ì£½ê¸° ì „ì— ë‹¤ë¥¸ ëª¬ìŠ¤í„°ë¡œ íƒ€ê²ŸíŒ…ì„ ë°”ê¿”ê°€ë©´ì„œ ì½¤ë³´ë¥¼ ì‚¬ìš©í•˜ë©´ ì½¤ë³´ë¥¼ ê³„ì†í•´ì„œ ì´ì–´ë‚˜ê°ˆ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="31"	>
-			<content	help_id="94"	title_name="´õ¹Ì"	help_image="dummy"	help_desc="´õ¹Ì¿¡ ½ºÅ³À» »ç¿ëÇÏ¸é ½ºÅ³ °æÇèÄ¡¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. ´õ¹Ì´Â ºí·¯µð ¾ÆÀÌ½º/µ¥ÀúÆ® ½ºÅ©¸²/±×¸° µð½ºÆÄÀÌ¾î ¼¼ ¸¶À» ºÎ±ÙÀÇ »ç³ÉÅÍ¿¡ ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="94"	title_name="ë”ë¯¸"	help_image="dummy"	help_desc="ë”ë¯¸ì— ìŠ¤í‚¬ì„ ì‚¬ìš©í•˜ë©´ ìŠ¤í‚¬ ê²½í—˜ì¹˜ë¥¼ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë”ë¯¸ëŠ” ë¸”ëŸ¬ë”” ì•„ì´ìŠ¤/ë°ì €íŠ¸ ìŠ¤í¬ë¦¼/ê·¸ë¦° ë””ìŠ¤íŒŒì´ì–´ ì„¸ ë§ˆì„ ë¶€ê·¼ì˜ ì‚¬ëƒ¥í„°ì— ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="32"	>
-			<content	help_id="95"	title_name="¾ÆÀÌÅÛ Á¾·ù"	help_image="itemkind_use"	help_desc="ÇÑ ¹ø ¶Ç´Â ÀÏÁ¤ È½¼ö ÀÌ»ó »ç¿ëÇÏ¸é »ç¶óÁö´Â ¾ÆÀÌÅÛÀ» ¼Ò¸ð ¾ÆÀÌÅÛÀÌ¶ó°í ÇÕ´Ï´Ù. ´ëÇ¥ÀûÀÎ ¼Ò¸ð ¾ÆÀÌÅÛÀ¸·Î´Â Æ÷¼ÇÀÌ ÀÖÀ¸¸ç ÀÎº¥Åä¸®¿¡ ÀÖ´Â ¾ÆÀÌÅÛÀ» ¿À¸¥ÂÊ Å¬¸¯ÇÏ°Å³ª Äü½½·Ô¿¡ ÇØ´ç ´ÜÃàÅ°¸¦ ´­·¯ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="96"	title_name="¾ÆÀÌÅÛ Á¾·ù"	help_image="itemkind_equip"	help_desc="¹«±â³ª °©¿Ê µî Ä³¸¯ÅÍ¿¡°Ô Àåºñ½ÃÄÑ¾ß È¿°ú¸¦ º¼ ¼ö ÀÖ´Â ¾ÆÀÌÅÛµéÀ» Âø¿ë ¾ÆÀÌÅÛ È¤Àº Àåºñ ¾ÆÀÌÅÛÀÌ¶ó°í ÇÕ´Ï´Ù. ÇØ´ç ¾ÆÀÌÅÛÀ» ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª, ¿ÞÂÊ ¹öÆ°À» Å¬¸¯ÇÏ¿© ¾ÆÀÌÅÛÀ» µé°í ¿øÇÏ´Â ºÎÀ§¿¡ ´Ù½Ã ¿ÞÅ¬¸¯ÇÏ¸é Âø¿ëµÈ Àåºñ¸¦ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="97"	title_name="¾ÆÀÌÅÛ Á¾·ù"	help_image="itemkind_itemlv"	help_desc="Âø¿ë ¾ÆÀÌÅÛÀº µî±Þ ¹× ¾÷±×·¹ÀÌµå Á¤µµ·Î ±× ´É·ÂÄ¡°¡ ´Þ¶óÁý´Ï´Ù. ¾ÆÀÌÅÛÀÇ ¾÷±×·¹ÀÌµå ·¹º§Àº Àåºñ ÀÌ¸§ µÚ¿¡ ºÙ´Â ¼ýÀÚ·Î Ç¥½ÃµË´Ï´Ù."	/>
+			<content	help_id="95"	title_name="ì•„ì´í…œ ì¢…ë¥˜"	help_image="itemkind_use"	help_desc="í•œ ë²ˆ ë˜ëŠ” ì¼ì • íšŸìˆ˜ ì´ìƒ ì‚¬ìš©í•˜ë©´ ì‚¬ë¼ì§€ëŠ” ì•„ì´í…œì„ ì†Œëª¨ ì•„ì´í…œì´ë¼ê³  í•©ë‹ˆë‹¤. ëŒ€í‘œì ì¸ ì†Œëª¨ ì•„ì´í…œìœ¼ë¡œëŠ” í¬ì…˜ì´ ìžˆìœ¼ë©° ì¸ë²¤í† ë¦¬ì— ìžˆëŠ” ì•„ì´í…œì„ ì˜¤ë¥¸ìª½ í´ë¦­í•˜ê±°ë‚˜ í€µìŠ¬ë¡¯ì— í•´ë‹¹ ë‹¨ì¶•í‚¤ë¥¼ ëˆŒëŸ¬ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="96"	title_name="ì•„ì´í…œ ì¢…ë¥˜"	help_image="itemkind_equip"	help_desc="ë¬´ê¸°ë‚˜ ê°‘ì˜· ë“± ìºë¦­í„°ì—ê²Œ ìž¥ë¹„ì‹œì¼œì•¼ íš¨ê³¼ë¥¼ ë³¼ ìˆ˜ ìžˆëŠ” ì•„ì´í…œë“¤ì„ ì°©ìš© ì•„ì´í…œ í˜¹ì€ ìž¥ë¹„ ì•„ì´í…œì´ë¼ê³  í•©ë‹ˆë‹¤. í•´ë‹¹ ì•„ì´í…œì„ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜, ì™¼ìª½ ë²„íŠ¼ì„ í´ë¦­í•˜ì—¬ ì•„ì´í…œì„ ë“¤ê³  ì›í•˜ëŠ” ë¶€ìœ„ì— ë‹¤ì‹œ ì™¼í´ë¦­í•˜ë©´ ì°©ìš©ëœ ìž¥ë¹„ë¥¼ ë³€ê²½í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="97"	title_name="ì•„ì´í…œ ì¢…ë¥˜"	help_image="itemkind_itemlv"	help_desc="ì°©ìš© ì•„ì´í…œì€ ë“±ê¸‰ ë° ì—…ê·¸ë ˆì´ë“œ ì •ë„ë¡œ ê·¸ ëŠ¥ë ¥ì¹˜ê°€ ë‹¬ë¼ì§‘ë‹ˆë‹¤. ì•„ì´í…œì˜ ì—…ê·¸ë ˆì´ë“œ ë ˆë²¨ì€ ìž¥ë¹„ ì´ë¦„ ë’¤ì— ë¶™ëŠ” ìˆ«ìžë¡œ í‘œì‹œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="33"	>
-			<content	help_id="98"	title_name="¾ÆÀÌÅÛ °­È­"	help_image="itemup_upcore"	help_desc="¾÷±×·¹ÀÌµå ÄÚ¾î¸¦ »ç¿ëÇÏ¿© ¹«±â¿Í ¹æ¾î±¸¸¦ °­È­ÇÒ ¼ö ÀÖ½À´Ï´Ù. °­È­µÈ Àåºñ´Â ¼º´ÉÀÌ Çâ»óµÇÁö¸¸, Àåºñ Âø¿ë¿¡ ¿ä±¸µÇ´Â ´É·ÂÄ¡ ¶ÇÇÑ ¿Ã¶ó°¡°Ô µË´Ï´Ù."	/>
-			<content	help_id="99"	title_name="¾ÆÀÌÅÛ °­È­"	help_image="itemup_target"	help_desc="¾÷±×·¹ÀÌµå ÄÚ¾î´Â ÀåºñÀÇ µî±Þ¿¡ ¸ÂÃç »ç¿ëÀÌ °¡´ÉÇÕ´Ï´Ù. ¾÷±×·¹ÀÌµå ÄÚ¾î¸¦ »ç¿ëÇÒ ¼ö ÀÖ´Â ÀåºñÀÇ µî±ÞÀº ÅøÆÁÀ» ÅëÇØ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="100"	title_name="¾ÆÀÌÅÛ °­È­"	help_image="itemup_use"	help_desc="¾÷±×·¹ÀÌµå ÄÚ¾î¸¦ ¿À¸¥ÂÊ Å¬¸¯ÇÏ°Å³ª, ÀÎº¥Åä¸® ÁÂÃø ÇÏ´ÜÀÇ °­È­ ¹öÆ°À» ´©¸£¸é, Àåºñ¸¦ ¾÷±×·¹ÀÌµåÇÒ ¼ö ÀÖ½À´Ï´Ù. Ä«¹ß ¸Þ´ºÀÇ '¾ÆÀÌÅÛ °­È­' ¸Þ´º¸¦ ÅëÇØ¼­µµ ¾ÆÀÌÅÛ °­È­ UI¸¦ ¿­ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="101"	title_name="¾ÆÀÌÅÛ °­È­"	help_image="itemup_auto"	help_desc="¾ÆÀÌÅÛ °­È­Ã¢¿¡ ¾ÆÀÌÅÛÀ» µî·ÏÇÏ¸é ÇÊ¿äÇÑ ¾÷±×·¹ÀÌµå ÄÚ¾î °³¼ö°¡ Ç¥½ÃµË´Ï´Ù. ÀÚµ¿µî·ÏÀ» ½ÇÇàÇÏ¸é ¾ÆÀÌÅÛ µî±Þ¿¡ ¸ÂÃç, ÇÊ¿äÇÑ °³¼ö¸¸Å­ ¾÷±×·¹ÀÌµå ÄÚ¾î°¡ ÀÚµ¿À¸·Î µî·ÏµË´Ï´Ù."	/>
-			<content	help_id="102"	title_name="¾ÆÀÌÅÛ °­È­"	help_image="itemup_fail"	help_desc="¾ÆÀÌÅÛ °­È­´Â ÀÏÁ¤ È®·ü·Î ½ÇÆÐÇÒ ¼ö ÀÖ½À´Ï´Ù. ¾ÆÀÌÅÛÀÇ µî±ÞÀÌ ³ôÀ» ¼ö·Ï ¾÷±×·¹ÀÌµå ¼º°ø·üÀº ´õ¿í ³·¾ÆÁö°Ô µË´Ï´Ù. +2 ÀÌ»óÀÇ Àåºñ¿¡ ¾÷±×·¹ÀÌµå¸¦ ½ÃµµÇÏ¿© ½ÇÆÐÇÏ°Ô µÉ °æ¿ì ¾ÆÀÌÅÛÀÇ µî±ÞÀÌ ³·¾ÆÁö°Å³ª, º¯È­ÇÏÁö ¾Ê´Â Æä³ÎÆ¼¸¦ ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="98"	title_name="ì•„ì´í…œ ê°•í™”"	help_image="itemup_upcore"	help_desc="ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ë¥¼ ì‚¬ìš©í•˜ì—¬ ë¬´ê¸°ì™€ ë°©ì–´êµ¬ë¥¼ ê°•í™”í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê°•í™”ëœ ìž¥ë¹„ëŠ” ì„±ëŠ¥ì´ í–¥ìƒë˜ì§€ë§Œ, ìž¥ë¹„ ì°©ìš©ì— ìš”êµ¬ë˜ëŠ” ëŠ¥ë ¥ì¹˜ ë˜í•œ ì˜¬ë¼ê°€ê²Œ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="99"	title_name="ì•„ì´í…œ ê°•í™”"	help_image="itemup_target"	help_desc="ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ëŠ” ìž¥ë¹„ì˜ ë“±ê¸‰ì— ë§žì¶° ì‚¬ìš©ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤. ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” ìž¥ë¹„ì˜ ë“±ê¸‰ì€ íˆ´íŒì„ í†µí•´ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="100"	title_name="ì•„ì´í…œ ê°•í™”"	help_image="itemup_use"	help_desc="ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ë¥¼ ì˜¤ë¥¸ìª½ í´ë¦­í•˜ê±°ë‚˜, ì¸ë²¤í† ë¦¬ ì¢Œì¸¡ í•˜ë‹¨ì˜ ê°•í™” ë²„íŠ¼ì„ ëˆ„ë¥´ë©´, ìž¥ë¹„ë¥¼ ì—…ê·¸ë ˆì´ë“œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¹´ë°œ ë©”ë‰´ì˜ 'ì•„ì´í…œ ê°•í™”' ë©”ë‰´ë¥¼ í†µí•´ì„œë„ ì•„ì´í…œ ê°•í™” UIë¥¼ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="101"	title_name="ì•„ì´í…œ ê°•í™”"	help_image="itemup_auto"	help_desc="ì•„ì´í…œ ê°•í™”ì°½ì— ì•„ì´í…œì„ ë“±ë¡í•˜ë©´ í•„ìš”í•œ ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ ê°œìˆ˜ê°€ í‘œì‹œë©ë‹ˆë‹¤. ìžë™ë“±ë¡ì„ ì‹¤í–‰í•˜ë©´ ì•„ì´í…œ ë“±ê¸‰ì— ë§žì¶°, í•„ìš”í•œ ê°œìˆ˜ë§Œí¼ ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ê°€ ìžë™ìœ¼ë¡œ ë“±ë¡ë©ë‹ˆë‹¤."	/>
+			<content	help_id="102"	title_name="ì•„ì´í…œ ê°•í™”"	help_image="itemup_fail"	help_desc="ì•„ì´í…œ ê°•í™”ëŠ” ì¼ì • í™•ë¥ ë¡œ ì‹¤íŒ¨í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì•„ì´í…œì˜ ë“±ê¸‰ì´ ë†’ì„ ìˆ˜ë¡ ì—…ê·¸ë ˆì´ë“œ ì„±ê³µë¥ ì€ ë”ìš± ë‚®ì•„ì§€ê²Œ ë©ë‹ˆë‹¤. +2 ì´ìƒì˜ ìž¥ë¹„ì— ì—…ê·¸ë ˆì´ë“œë¥¼ ì‹œë„í•˜ì—¬ ì‹¤íŒ¨í•˜ê²Œ ë  ê²½ìš° ì•„ì´í…œì˜ ë“±ê¸‰ì´ ë‚®ì•„ì§€ê±°ë‚˜, ë³€í™”í•˜ì§€ ì•ŠëŠ” íŽ˜ë„í‹°ë¥¼ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="34"	>
-			<content	help_id="103"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	help_image="itemopt_basic"	help_desc="ºó ½½·ÔÀÌ ÀÖ´Â ¾ÆÀÌÅÛ¿¡ Æ÷½º ÄÚ¾î¿Í ¼Ó¼ºÁÖ¹®¼­¸¦ »ç¿ëÇÏ¿© ¼Ó¼ºÀ» ºÎ¿©ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©´Â °¢ ¸¶À»ÀÇ ¸¶¹ý »óÀÎ NPC¸¦ ÅëÇØ °¡´ÉÇÕ´Ï´Ù."	/>
-			<content	help_id="104"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	help_image="itemopt_take"	help_desc="Æ÷½º ÄÚ¾î´Â ¸ó½ºÅÍ¿¡°Ô¼­ µå·ÓµÇ¸ç, ¼Ó¼ºÁÖ¹®¼­´Â ½½·ÔÀÌ ÀÖ´Â Àåºñ ¾ÆÀÌÅÛÀ» ÃßÃâÇÏ¸é È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù. ÃßÃâÀ» ÇÏ±â À§ÇØ¼­´Â Æ®·£½º¹ÂÅÍ°¡ ÇÊ¿äÇÕ´Ï´Ù."	/>
-			<content	help_id="105"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	help_image="itemopt_target"	help_desc="¼Ó¼ºÁÖ¹®¼­¿Í Æ÷½º ÄÚ¾î´Â ¾÷±×·¹ÀÌµå ÄÚ¾î¿Í µ¿ÀÏÇÏ°Ô ¾ÆÀÌÅÛ µî±Þ¿¡ ¸ÂÃç »ç¿ëÇØ¾ß ÇÕ´Ï´Ù. °¢ ¾ÆÀÌÅÛÀÇ ÅøÆÁ¿¡¼­ »ç¿ëÇÒ ¼ö ÀÖ´Â ¾ÆÀÌÅÛÀ» È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="106"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	help_image="itemopt_requirement"	help_desc="¸¶¹ý »óÀÎ°ú ´ëÈ­ÇÏ¿© ¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©Ã¢À» ¶ç¿ï ¼ö ÀÖ½À´Ï´Ù. ¿©±â¿¡ ¾ÆÀÌÅÛÀ» µî·ÏÇÑ ÈÄ ¼Ó¼ºÁÖ¹®¼­¿Í Æ÷½º ÄÚ¾î¸¦ ÀåÂøÇÏ¸é ¼Ó¼ºÀ» ºÎ¿©ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¼Ó¼ºÁÖ¹®¼­´Â È®Á¤ ¼Ó¼ºÁÖ¹®¼­¿Í ·£´ý ¼Ó¼ºÁÖ¹®¼­ 2°¡Áö Áß 1°¡Áö¸¸ µî·ÏÇÏ¿©µµ ¼Ó¼ºÀ» ºÎ¿©ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="107"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	help_image="itemopt_2"	help_desc="È®Á¤ ¼Ó¼ºÁÖ¹®¼­¿Í ·£´ý ¼Ó¼ºÁÖ¹®¼­¸¦ ¸ðµÎ ÀåÂøÇÏ°Ô µÇ¸é, 1°¡Áö¸¸ µî·ÏÇßÀ» ¶§¿Í ´Ù¸¥ ¹æ½ÄÀ¸·Î ¼Ó¼ºÀÌ °áÁ¤µË´Ï´Ù."	/>
-			<content	help_id="108"	title_name="¾ÆÀÌÅÛ ¼Ó¼º ºÎ¿©"	help_image="itemopt_fail"	help_desc="3¹øÂ° ½½·ÔÀÇ ¼Ó¼º ºÎ¿©¿¡ ½ÇÆÐÇÏ¸é, 2¹øÂ° ºÎ¿©µÈ ¼Ó¼ºÀÌ »ç¶óÁö°Ô µË´Ï´Ù."	/>
+			<content	help_id="103"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	help_image="itemopt_basic"	help_desc="ë¹ˆ ìŠ¬ë¡¯ì´ ìžˆëŠ” ì•„ì´í…œì— í¬ìŠ¤ ì½”ì–´ì™€ ì†ì„±ì£¼ë¬¸ì„œë¥¼ ì‚¬ìš©í•˜ì—¬ ì†ì„±ì„ ë¶€ì—¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì•„ì´í…œ ì†ì„± ë¶€ì—¬ëŠ” ê° ë§ˆì„ì˜ ë§ˆë²• ìƒì¸ NPCë¥¼ í†µí•´ ê°€ëŠ¥í•©ë‹ˆë‹¤."	/>
+			<content	help_id="104"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	help_image="itemopt_take"	help_desc="í¬ìŠ¤ ì½”ì–´ëŠ” ëª¬ìŠ¤í„°ì—ê²Œì„œ ë“œë¡­ë˜ë©°, ì†ì„±ì£¼ë¬¸ì„œëŠ” ìŠ¬ë¡¯ì´ ìžˆëŠ” ìž¥ë¹„ ì•„ì´í…œì„ ì¶”ì¶œí•˜ë©´ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¶”ì¶œì„ í•˜ê¸° ìœ„í•´ì„œëŠ” íŠ¸ëžœìŠ¤ë®¤í„°ê°€ í•„ìš”í•©ë‹ˆë‹¤."	/>
+			<content	help_id="105"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	help_image="itemopt_target"	help_desc="ì†ì„±ì£¼ë¬¸ì„œì™€ í¬ìŠ¤ ì½”ì–´ëŠ” ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ì™€ ë™ì¼í•˜ê²Œ ì•„ì´í…œ ë“±ê¸‰ì— ë§žì¶° ì‚¬ìš©í•´ì•¼ í•©ë‹ˆë‹¤. ê° ì•„ì´í…œì˜ íˆ´íŒì—ì„œ ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” ì•„ì´í…œì„ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="106"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	help_image="itemopt_requirement"	help_desc="ë§ˆë²• ìƒì¸ê³¼ ëŒ€í™”í•˜ì—¬ ì•„ì´í…œ ì†ì„± ë¶€ì—¬ì°½ì„ ë„ìš¸ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì—¬ê¸°ì— ì•„ì´í…œì„ ë“±ë¡í•œ í›„ ì†ì„±ì£¼ë¬¸ì„œì™€ í¬ìŠ¤ ì½”ì–´ë¥¼ ìž¥ì°©í•˜ë©´ ì†ì„±ì„ ë¶€ì—¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì†ì„±ì£¼ë¬¸ì„œëŠ” í™•ì • ì†ì„±ì£¼ë¬¸ì„œì™€ ëžœë¤ ì†ì„±ì£¼ë¬¸ì„œ 2ê°€ì§€ ì¤‘ 1ê°€ì§€ë§Œ ë“±ë¡í•˜ì—¬ë„ ì†ì„±ì„ ë¶€ì—¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="107"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	help_image="itemopt_2"	help_desc="í™•ì • ì†ì„±ì£¼ë¬¸ì„œì™€ ëžœë¤ ì†ì„±ì£¼ë¬¸ì„œë¥¼ ëª¨ë‘ ìž¥ì°©í•˜ê²Œ ë˜ë©´, 1ê°€ì§€ë§Œ ë“±ë¡í–ˆì„ ë•Œì™€ ë‹¤ë¥¸ ë°©ì‹ìœ¼ë¡œ ì†ì„±ì´ ê²°ì •ë©ë‹ˆë‹¤."	/>
+			<content	help_id="108"	title_name="ì•„ì´í…œ ì†ì„± ë¶€ì—¬"	help_image="itemopt_fail"	help_desc="3ë²ˆì§¸ ìŠ¬ë¡¯ì˜ ì†ì„± ë¶€ì—¬ì— ì‹¤íŒ¨í•˜ë©´, 2ë²ˆì§¸ ë¶€ì—¬ëœ ì†ì„±ì´ ì‚¬ë¼ì§€ê²Œ ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="35"	>
-			<content	help_id="109"	title_name="¾ÆÀÌÅÛ ¿ÜÇü º¯°æ"	help_image="itemlook_basic"	help_desc="°¢ ¸¶À»ÀÇ ¸¶¹ý »óÀÎÀ» ÅëÇØ¼­ ¾ÆÀÌÅÛÀÇ ¿ÜÇüÀ» º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="110"	title_name="¾ÆÀÌÅÛ ¿ÜÇü º¯°æ"	help_image="itemlook_item"	help_desc="¿ÞÂÊ¿¡´Â º¯°æµÈ ¿ÜÇüÀ» Àû¿ëÇÒ ¾ÆÀÌÅÛ, ¿À¸¥ÂÊ¿¡´Â º¯°æÇÒ ¿ÜÇüÀ¸·Î »ç¿ëÇÒ ¾ÆÀÌÅÛÀ» µî·ÏÇÕ´Ï´Ù. º¯°æ ¿Ï·á ÈÄ¿¡´Â ¿ÜÇü »ç¿ë ¾ÆÀÌÅÛÀº ¼Ò¸ðµÇ¸ç, Àû¿ë ´ë»ó ¾ÆÀÌÅÛÀº ¿ÜÇüÀÌ º¯°æµÈ ±â°£ µ¿¾È¿¡´Â Ä³¸¯ÅÍ¿¡ ±Í¼ÓµË´Ï´Ù."	/>
-			<content	help_id="111"	title_name="¾ÆÀÌÅÛ ¿ÜÇü º¯°æ"	help_image="itemlook_duration"	help_desc="¿ÜÇüÀ» º¯°æÇÒ ¶§ ±â°£À» ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¼±ÅÃÇÑ ±â°£¿¡ µû¶ó ¼Ò¸ðµÇ´Â AlzÀÇ ºñ¿ëÀÌ ´Þ¶óÁý´Ï´Ù."	/>
-			<content	help_id="112"	title_name="¾ÆÀÌÅÛ ¿ÜÇü º¯°æ"	help_image="itemlook_tooltip"	help_desc="¿ÜÇü º¯°æÀÌ ¿Ï·áµÈ ¾ÆÀÌÅÛÀº À§¿Í °°ÀÌ ¿ÜÇüÀÌ º¯°æµÈ ¾ÆÀÌÅÛÀÌ¶ó´Â ³»¿ëÀÌ Ç¥½ÃµË´Ï´Ù. ¿ÜÇü º¹¿øÀÏÀÌ µÇ¸é, º¯°æµÈ ¿ÜÇüÀÌ »ç¶óÁö°Ô µË´Ï´Ù."	/>
-			<content	help_id="113"	title_name="¾ÆÀÌÅÛ ¿ÜÇü º¯°æ"	help_image="itemlook_restore"	help_desc="¿ÜÇüÀÌ º¯°æµÈ ¾ÆÀÌÅÛÀ» ¿ø·¡ÀÇ ¿ÜÇüÀ¸·Î µÇµ¹¸± ¼ö ÀÖ½À´Ï´Ù. ÇØ´ç ¾ÆÀÌÅÛÀ» Àû¿ë ´ë»ó ½½·Ô¿¡ µî·ÏÇÏ¿© ¿ÜÇü º¹¿ø ¹öÆ°À» ½ÇÇàÇÏ¸é ¿ø·¡ÀÇ ¿ÜÇüÀ¸·Î µ¹¾Æ°¡°Ô µË´Ï´Ù."	/>
+			<content	help_id="109"	title_name="ì•„ì´í…œ ì™¸í˜• ë³€ê²½"	help_image="itemlook_basic"	help_desc="ê° ë§ˆì„ì˜ ë§ˆë²• ìƒì¸ì„ í†µí•´ì„œ ì•„ì´í…œì˜ ì™¸í˜•ì„ ë³€ê²½í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="110"	title_name="ì•„ì´í…œ ì™¸í˜• ë³€ê²½"	help_image="itemlook_item"	help_desc="ì™¼ìª½ì—ëŠ” ë³€ê²½ëœ ì™¸í˜•ì„ ì ìš©í•  ì•„ì´í…œ, ì˜¤ë¥¸ìª½ì—ëŠ” ë³€ê²½í•  ì™¸í˜•ìœ¼ë¡œ ì‚¬ìš©í•  ì•„ì´í…œì„ ë“±ë¡í•©ë‹ˆë‹¤. ë³€ê²½ ì™„ë£Œ í›„ì—ëŠ” ì™¸í˜• ì‚¬ìš© ì•„ì´í…œì€ ì†Œëª¨ë˜ë©°, ì ìš© ëŒ€ìƒ ì•„ì´í…œì€ ì™¸í˜•ì´ ë³€ê²½ëœ ê¸°ê°„ ë™ì•ˆì—ëŠ” ìºë¦­í„°ì— ê·€ì†ë©ë‹ˆë‹¤."	/>
+			<content	help_id="111"	title_name="ì•„ì´í…œ ì™¸í˜• ë³€ê²½"	help_image="itemlook_duration"	help_desc="ì™¸í˜•ì„ ë³€ê²½í•  ë•Œ ê¸°ê°„ì„ ì„¤ì •í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì„ íƒí•œ ê¸°ê°„ì— ë”°ë¼ ì†Œëª¨ë˜ëŠ” Alzì˜ ë¹„ìš©ì´ ë‹¬ë¼ì§‘ë‹ˆë‹¤."	/>
+			<content	help_id="112"	title_name="ì•„ì´í…œ ì™¸í˜• ë³€ê²½"	help_image="itemlook_tooltip"	help_desc="ì™¸í˜• ë³€ê²½ì´ ì™„ë£Œëœ ì•„ì´í…œì€ ìœ„ì™€ ê°™ì´ ì™¸í˜•ì´ ë³€ê²½ëœ ì•„ì´í…œì´ë¼ëŠ” ë‚´ìš©ì´ í‘œì‹œë©ë‹ˆë‹¤. ì™¸í˜• ë³µì›ì¼ì´ ë˜ë©´, ë³€ê²½ëœ ì™¸í˜•ì´ ì‚¬ë¼ì§€ê²Œ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="113"	title_name="ì•„ì´í…œ ì™¸í˜• ë³€ê²½"	help_image="itemlook_restore"	help_desc="ì™¸í˜•ì´ ë³€ê²½ëœ ì•„ì´í…œì„ ì›ëž˜ì˜ ì™¸í˜•ìœ¼ë¡œ ë˜ëŒë¦´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í•´ë‹¹ ì•„ì´í…œì„ ì ìš© ëŒ€ìƒ ìŠ¬ë¡¯ì— ë“±ë¡í•˜ì—¬ ì™¸í˜• ë³µì› ë²„íŠ¼ì„ ì‹¤í–‰í•˜ë©´ ì›ëž˜ì˜ ì™¸í˜•ìœ¼ë¡œ ëŒì•„ê°€ê²Œ ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="36"	>
-			<content	help_id="114"	title_name="±âÅ¸ ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛ"	help_image="etcup_slotext01"	help_desc="½½·Ô ÀÍ½ºÅÙ´õ¸¦ »ç¿ëÇÏ¿© Âø¿ë ¾ÆÀÌÅÛ¿¡ ½½·ÔÀ» Ãß°¡ÇÒ ¼ö ÀÖ½À´Ï´Ù. ½½·Ô ÀÍ½ºÅÙ´õ¸¦ »ç¿ëÇÑ ¾ÆÀÌÅÛÀÇ ¸¶Áö¸· ½½·Ô¿¡´Â +±âÈ£°¡ Ç¥±âµË´Ï´Ù."	/>
-			<content	help_id="115"	title_name="±âÅ¸ ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛ"	help_image="etcup_slotext02"	help_desc="½½·Ô ÀÍ½ºÅÙ´õ¸¦ »ç¿ëÇÏ¿© ½½·ÔÀ» È®ÀåÇÑ ¾ÆÀÌÅÛÀº ÇØ´ç °èÁ¤¿¡ ±Í¼ÓµÇ¸ç, ´õ ÀÌ»ó ½½·ÔÀ» È®ÀåÇÒ ¼ö ¾ø½À´Ï´Ù."	/>
-			<content	help_id="116"	title_name="±âÅ¸ ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛ"	help_image="etcup_bike"	help_desc="¾Æ½ºÆ®¶ö ¹ÙÀÌÅ©¸¦ ¾÷±×·¹ÀÌµåÇÒ ¼ö ÀÖ½À´Ï´Ù. °­È­µÈ ¾Æ½ºÆ®¶ö ¹ÙÀÌÅ©´Â ´É·ÂÄ¡¿Í »ö»óÀÌ º¯È­ÇÕ´Ï´Ù. ¾÷±×·¹ÀÌµå ÄÚ¾î¿Í ¸¶Âù°¡Áö·Î +3ÀÌ»óÀÇ ¹ÙÀÌÅ©´Â ¾÷±×·¹ÀÌµå¸¦ ½ÇÆÐÇÒ °æ¿ì ·¹º§ÀÌ ³·¾ÆÁú ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="117"	title_name="±âÅ¸ ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛ"	help_image="etcup_enhancer"	help_desc="ÄÚ¾î ÀÎÇÚ¼­´Â ¾÷±×·¹ÀÌµå ÄÚ¾î ÀÚÃ¼¿¡ Àû¿ëµÇ´Â ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛÀÔ´Ï´Ù. ÄÚ¾î ÀÎÇÚ¼­¸¦ »ç¿ëÇÑ ¾÷±×·¹ÀÌµå ÄÚ¾î´Â ÀÎÇÚ½ºµå ÄÚ¾î¶ó´Â ÀÌ¸§À¸·Î ¹Ù²î¸ç ¾ÆÀÌÅÛ ¾÷±×·¹ÀÌµå ½Ã ¼º°ø È®·üÀÌ ÀÏ¹Ý ¾÷±×·¹ÀÌµå ÄÚ¾îº¸´Ù ³ô½À´Ï´Ù."	/>
+			<content	help_id="114"	title_name="ê¸°íƒ€ ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œ"	help_image="etcup_slotext01"	help_desc="ìŠ¬ë¡¯ ìµìŠ¤í…ë”ë¥¼ ì‚¬ìš©í•˜ì—¬ ì°©ìš© ì•„ì´í…œì— ìŠ¬ë¡¯ì„ ì¶”ê°€í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¬ë¡¯ ìµìŠ¤í…ë”ë¥¼ ì‚¬ìš©í•œ ì•„ì´í…œì˜ ë§ˆì§€ë§‰ ìŠ¬ë¡¯ì—ëŠ” +ê¸°í˜¸ê°€ í‘œê¸°ë©ë‹ˆë‹¤."	/>
+			<content	help_id="115"	title_name="ê¸°íƒ€ ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œ"	help_image="etcup_slotext02"	help_desc="ìŠ¬ë¡¯ ìµìŠ¤í…ë”ë¥¼ ì‚¬ìš©í•˜ì—¬ ìŠ¬ë¡¯ì„ í™•ìž¥í•œ ì•„ì´í…œì€ í•´ë‹¹ ê³„ì •ì— ê·€ì†ë˜ë©°, ë” ì´ìƒ ìŠ¬ë¡¯ì„ í™•ìž¥í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."	/>
+			<content	help_id="116"	title_name="ê¸°íƒ€ ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œ"	help_image="etcup_bike"	help_desc="ì•„ìŠ¤íŠ¸ëž„ ë°”ì´í¬ë¥¼ ì—…ê·¸ë ˆì´ë“œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê°•í™”ëœ ì•„ìŠ¤íŠ¸ëž„ ë°”ì´í¬ëŠ” ëŠ¥ë ¥ì¹˜ì™€ ìƒ‰ìƒì´ ë³€í™”í•©ë‹ˆë‹¤. ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ì™€ ë§ˆì°¬ê°€ì§€ë¡œ +3ì´ìƒì˜ ë°”ì´í¬ëŠ” ì—…ê·¸ë ˆì´ë“œë¥¼ ì‹¤íŒ¨í•  ê²½ìš° ë ˆë²¨ì´ ë‚®ì•„ì§ˆ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="117"	title_name="ê¸°íƒ€ ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œ"	help_image="etcup_enhancer"	help_desc="ì½”ì–´ ì¸í•¸ì„œëŠ” ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ ìžì²´ì— ì ìš©ë˜ëŠ” ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œìž…ë‹ˆë‹¤. ì½”ì–´ ì¸í•¸ì„œë¥¼ ì‚¬ìš©í•œ ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ëŠ” ì¸í•¸ìŠ¤ë“œ ì½”ì–´ë¼ëŠ” ì´ë¦„ìœ¼ë¡œ ë°”ë€Œë©° ì•„ì´í…œ ì—…ê·¸ë ˆì´ë“œ ì‹œ ì„±ê³µ í™•ë¥ ì´ ì¼ë°˜ ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ë³´ë‹¤ ë†’ìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="37"	>
-			<content	help_id="118"	title_name="Á¦Á¶ÀÇ ±âÃÊ"	help_image="basicsmith_transmuter"	help_desc="ÄÚ¾î ¾ËÄÉ¹Í Æ®·£½º¹ÂÅÍ(C.A. Æ®·£½º¹ÂÅÍ)¸¦ ÀÌ¿ëÇÏ¸é ¾ÆÀÌÅÛÀ» Á¦Á¶ÇÏ°Å³ª ÆÄ±«ÇÒ ¼ö ÀÖ½À´Ï´Ù. C.A. Æ®·£½º¹ÂÅÍ´Â 50·¹º§ Äù½ºÆ®ÀÎ 'ÄÚ¾î ¾ËÄÉ¹Í Æ®·£½º¹ÂÅÍ'¸¦ ¿Ï·áÇÏ¸é º¸»óÀ¸·Î ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="119"	title_name="Á¦Á¶ÀÇ ±âÃÊ"	help_image="bascismith_up"	help_desc="Àü¹®Á¦Á¶³ª ÀÏ¹ÝÁ¦Á¶¸¦ ÇÏ¸é ÇØ´ç Á¦Á¶ °æÇèÄ¡¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. Á¦Á¶ °æÇèÄ¡°¡ ÀÏÁ¤·® ¸ðÀÌ¸é 'Áõ¸í ¾ÆÀÌÅÛ'À» Á¦Á¶ÇÏ¿© ´ÙÀ½ ´Ü°èÀÇ Á¦Á¶ ·¹º§·Î ¿Ã¶ó°¥ ¼ö ÀÖ´Â 'Å©·¡ÇÁÆ® ¶óÀÌ¼¾½º' Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="118"	title_name="ì œì¡°ì˜ ê¸°ì´ˆ"	help_image="basicsmith_transmuter"	help_desc="ì½”ì–´ ì•Œì¼€ë¯¹ íŠ¸ëžœìŠ¤ë®¤í„°(C.A. íŠ¸ëžœìŠ¤ë®¤í„°)ë¥¼ ì´ìš©í•˜ë©´ ì•„ì´í…œì„ ì œì¡°í•˜ê±°ë‚˜ íŒŒê´´í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. C.A. íŠ¸ëžœìŠ¤ë®¤í„°ëŠ” 50ë ˆë²¨ í€˜ìŠ¤íŠ¸ì¸ 'ì½”ì–´ ì•Œì¼€ë¯¹ íŠ¸ëžœìŠ¤ë®¤í„°'ë¥¼ ì™„ë£Œí•˜ë©´ ë³´ìƒìœ¼ë¡œ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="119"	title_name="ì œì¡°ì˜ ê¸°ì´ˆ"	help_image="bascismith_up"	help_desc="ì „ë¬¸ì œì¡°ë‚˜ ì¼ë°˜ì œì¡°ë¥¼ í•˜ë©´ í•´ë‹¹ ì œì¡° ê²½í—˜ì¹˜ë¥¼ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì œì¡° ê²½í—˜ì¹˜ê°€ ì¼ì •ëŸ‰ ëª¨ì´ë©´ 'ì¦ëª… ì•„ì´í…œ'ì„ ì œì¡°í•˜ì—¬ ë‹¤ìŒ ë‹¨ê³„ì˜ ì œì¡° ë ˆë²¨ë¡œ ì˜¬ë¼ê°ˆ ìˆ˜ ìžˆëŠ” 'í¬ëž˜í”„íŠ¸ ë¼ì´ì„¼ìŠ¤' í€˜ìŠ¤íŠ¸ë¥¼ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="38"	>
-			<content	help_id="120"	title_name="ÀÏ¹Ý Á¦Á¶"	help_image="Nsmith_requirement"	help_desc="ÀÏ¹Ý Á¦Á¶·Î °¢Á¾ ¼Ò¸ð¼º ¾ÆÀÌÅÛ ¹× ¾÷±×·¹ÀÌµå ¾ÆÀÌÅÛ µîÀ» ¸¸µé¾î³¾ ¼ö ÀÖ½À´Ï´Ù. ÀÏ¹Ý Á¦Á¶¸¦ ÇÏ±â À§ÇØ¼­´Â ¸ÕÀú ¸¸µé°íÀÚ ÇÏ´Â ¾ÆÀÌÅÛÀÇ Æ÷¹Ä·¯ Ä«µå¸¦ ½ÀµæÇÏ¿© µî·ÏÇÏ¿©¾ß ÇÕ´Ï´Ù. Æ÷¹Ä·¯ Ä«µå¸¦ ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¸é ÀÏ¹Ý Á¦Á¶¿¡ µî·ÏµË´Ï´Ù."	/>
-			<content	help_id="121"	title_name="ÀÏ¹Ý Á¦Á¶"	help_image="Nsmith_register"	help_desc="Æ÷¹Ä·¯ Ä«µå´Â ´Ù¾çÇÑ ¹æ¹ýÀ¸·Î ½ÀµæÇÒ ¼ö ÀÖÀ¸¸ç Æ÷¹Ä·¯ Ä«µå¸¦ »ç¿ëÇÏ¸é ÇØ´ç ³»¿ëÀÌ µî·ÏµË´Ï´Ù. µî·ÏµÇ¾î ÀÖÁö ¾Ê´Â ¾ÆÀÌÅÛÀº '?'·Î Ç¥½ÃµË´Ï´Ù."	/>
+			<content	help_id="120"	title_name="ì¼ë°˜ ì œì¡°"	help_image="Nsmith_requirement"	help_desc="ì¼ë°˜ ì œì¡°ë¡œ ê°ì¢… ì†Œëª¨ì„± ì•„ì´í…œ ë° ì—…ê·¸ë ˆì´ë“œ ì•„ì´í…œ ë“±ì„ ë§Œë“¤ì–´ë‚¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¼ë°˜ ì œì¡°ë¥¼ í•˜ê¸° ìœ„í•´ì„œëŠ” ë¨¼ì € ë§Œë“¤ê³ ìž í•˜ëŠ” ì•„ì´í…œì˜ í¬ë®¬ëŸ¬ ì¹´ë“œë¥¼ ìŠµë“í•˜ì—¬ ë“±ë¡í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤. í¬ë®¬ëŸ¬ ì¹´ë“œë¥¼ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ë©´ ì¼ë°˜ ì œì¡°ì— ë“±ë¡ë©ë‹ˆë‹¤."	/>
+			<content	help_id="121"	title_name="ì¼ë°˜ ì œì¡°"	help_image="Nsmith_register"	help_desc="í¬ë®¬ëŸ¬ ì¹´ë“œëŠ” ë‹¤ì–‘í•œ ë°©ë²•ìœ¼ë¡œ ìŠµë“í•  ìˆ˜ ìžˆìœ¼ë©° í¬ë®¬ëŸ¬ ì¹´ë“œë¥¼ ì‚¬ìš©í•˜ë©´ í•´ë‹¹ ë‚´ìš©ì´ ë“±ë¡ë©ë‹ˆë‹¤. ë“±ë¡ë˜ì–´ ìžˆì§€ ì•ŠëŠ” ì•„ì´í…œì€ '?'ë¡œ í‘œì‹œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="39"	>
-			<content	help_id="122"	title_name="Àü¹® Á¦Á¶"	help_image="Ssmith_basic"	help_desc="Àü¹® Á¦Á¶¸¦ ÅëÇØ Âø¿ë ¾ÆÀÌÅÛÀ» ¸¸µé¾î³¾ ¼ö ÀÖ½À´Ï´Ù. °¡Áö°í ÀÖ´Â C.A. Æ®·£½º¹ÂÅÍÀÇ Å¸ÀÔ¿¡ µû¶ó Á¦Á¶ ÇÒ ¼ö ÀÖ´Â ¾ÆÀÌÅÛÀÇ Á¾·ù°¡ ´Ù¸¨´Ï´Ù."	/>
+			<content	help_id="122"	title_name="ì „ë¬¸ ì œì¡°"	help_image="Ssmith_basic"	help_desc="ì „ë¬¸ ì œì¡°ë¥¼ í†µí•´ ì°©ìš© ì•„ì´í…œì„ ë§Œë“¤ì–´ë‚¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê°€ì§€ê³  ìžˆëŠ” C.A. íŠ¸ëžœìŠ¤ë®¤í„°ì˜ íƒ€ìž…ì— ë”°ë¼ ì œì¡° í•  ìˆ˜ ìžˆëŠ” ì•„ì´í…œì˜ ì¢…ë¥˜ê°€ ë‹¤ë¦…ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="40"	>
-			<content	help_id="123"	title_name="¾ÆÀÌÅÛ ÃßÃâ"	help_image="extract_basic"	help_desc="C.A. Æ®·£½º¹ÂÅÍ¸¦ ÀÌ¿ëÇÏ¸é ¾ÆÀÌÅÛÀ» ÃßÃâÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀÎº¥Åä¸® ¾ÈÀÇ Æ®·£½º¹ÂÅÍ¸¦ ¿À¸¥ÂÊ Å¬¸¯ÇÏ¿© Ä¿¼­ÀÇ ¸ð¾çÀÌ º¯ÇÑ »óÅÂ¿¡¼­ ÆÄ±«ÇÒ ¾ÆÀÌÅÛÀ» Å¬¸¯ÇÏ¸é ¾ÆÀÌÅÛÀÌ ÃßÃâµË´Ï´Ù."	/>
-			<content	help_id="124"	title_name="¾ÆÀÌÅÛ ÃßÃâ"	help_image="extract_result"	help_desc="¾ÆÀÌÅÛÀ» ÃßÃâÇÏ¸é Àç·á ¾ÆÀÌÅÛÀÌ³ª ¼Ó¼ºÁÖ¹®¼­¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. Àç·á ¾ÆÀÌÅÛÀº ´Ù¸¥ ¾ÆÀÌÅÛÀ» Á¦Á¶ÇÒ ¶§ ¾²ÀÌ¸ç ¿ÀÁ÷ ÃßÃâ·Î¸¸ ¾òÀ» ¼ö ÀÖ´Â Àç·á ¾ÆÀÌÅÛµµ Á¸ÀçÇÕ´Ï´Ù."	/>
+			<content	help_id="123"	title_name="ì•„ì´í…œ ì¶”ì¶œ"	help_image="extract_basic"	help_desc="C.A. íŠ¸ëžœìŠ¤ë®¤í„°ë¥¼ ì´ìš©í•˜ë©´ ì•„ì´í…œì„ ì¶”ì¶œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì¸ë²¤í† ë¦¬ ì•ˆì˜ íŠ¸ëžœìŠ¤ë®¤í„°ë¥¼ ì˜¤ë¥¸ìª½ í´ë¦­í•˜ì—¬ ì»¤ì„œì˜ ëª¨ì–‘ì´ ë³€í•œ ìƒíƒœì—ì„œ íŒŒê´´í•  ì•„ì´í…œì„ í´ë¦­í•˜ë©´ ì•„ì´í…œì´ ì¶”ì¶œë©ë‹ˆë‹¤."	/>
+			<content	help_id="124"	title_name="ì•„ì´í…œ ì¶”ì¶œ"	help_image="extract_result"	help_desc="ì•„ì´í…œì„ ì¶”ì¶œí•˜ë©´ ìž¬ë£Œ ì•„ì´í…œì´ë‚˜ ì†ì„±ì£¼ë¬¸ì„œë¥¼ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìž¬ë£Œ ì•„ì´í…œì€ ë‹¤ë¥¸ ì•„ì´í…œì„ ì œì¡°í•  ë•Œ ì“°ì´ë©° ì˜¤ì§ ì¶”ì¶œë¡œë§Œ ì–»ì„ ìˆ˜ ìžˆëŠ” ìž¬ë£Œ ì•„ì´í…œë„ ì¡´ìž¬í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="41"	>
-			<content	help_id="125"	title_name="NPC »óÁ¡"	help_image="NPCstore_control01"	help_desc="¾ÆÀÌÅÛÀ» ÆÇ¸ÅÇÏ´Â NPC¸¦ ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¿© ´ëÈ­ÇÏ¸é, »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù. »óÁ¡À» ¿­°í ¿øÇÏ´Â ¾ÆÀÌÅÛÀ» ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¸é ±¸¸Å°¡ ÀÌ·ç¾îÁý´Ï´Ù."	/>
-			<content	help_id="126"	title_name="NPC »óÁ¡"	help_image="NPCstore_control02"	help_desc="»óÁ¡À» ¿¬ »óÅÂ¿¡¼­, ÀÎº¥Åä¸®ÀÇ ¾ÆÀÌÅÛÀ» Control + ¸¶¿ì½º ¿ÞÂÊ ¹öÆ° Å¬¸¯ ÇÏ°Å³ª, ¾ÆÀÌÅÛÀ» µé°í »óÁ¡Ã¢¿¡ ³õÀ¸¸é ÆÇ¸ÅÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="127"	title_name="NPC »óÁ¡"	help_image="NPCstore_control03"	help_desc="»óÁ¡À» ¿¬ »óÅÂ¿¡¼­, ¾ÆÀÌÅÛÀ» Alt + ¸¶¿ì½º ¿ÞÂÊ ¹öÆ° Å¬¸¯ ÇÏ¸é, ¿©·¯ °³ÀÇ ¾ÆÀÌÅÛÀ» ÇÑ ¹ø¿¡ »ç°Å³ª ÆÈ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="125"	title_name="NPC ìƒì "	help_image="NPCstore_control01"	help_desc="ì•„ì´í…œì„ íŒë§¤í•˜ëŠ” NPCë¥¼ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ì—¬ ëŒ€í™”í•˜ë©´, ìƒì ì„ ì—´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìƒì ì„ ì—´ê³  ì›í•˜ëŠ” ì•„ì´í…œì„ ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ë©´ êµ¬ë§¤ê°€ ì´ë£¨ì–´ì§‘ë‹ˆë‹¤."	/>
+			<content	help_id="126"	title_name="NPC ìƒì "	help_image="NPCstore_control02"	help_desc="ìƒì ì„ ì—° ìƒíƒœì—ì„œ, ì¸ë²¤í† ë¦¬ì˜ ì•„ì´í…œì„ Control + ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ í´ë¦­ í•˜ê±°ë‚˜, ì•„ì´í…œì„ ë“¤ê³  ìƒì ì°½ì— ë†“ìœ¼ë©´ íŒë§¤í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="127"	title_name="NPC ìƒì "	help_image="NPCstore_control03"	help_desc="ìƒì ì„ ì—° ìƒíƒœì—ì„œ, ì•„ì´í…œì„ Alt + ë§ˆìš°ìŠ¤ ì™¼ìª½ ë²„íŠ¼ í´ë¦­ í•˜ë©´, ì—¬ëŸ¬ ê°œì˜ ì•„ì´í…œì„ í•œ ë²ˆì— ì‚¬ê±°ë‚˜ íŒ” ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="42"	>
-			<content	help_id="128"	title_name="°³ÀÎ »óÁ¡"	help_image="userstore_open"	help_desc="°³ÀÎ »óÁ¡Àº Ã¤ÆÃÃ¢¿¡ ¸í·É¾î '/»óÁ¡', '/ÆÇ¸Å', '/Àå»ç'¸¦ ÀÔ·ÂÇÏ°Å³ª ÀÚ½ÅÀÇ Ä³¸¯ÅÍ ¸Þ´º¿¡¼­ °³ÀÎ »óÁ¡À» ¼±ÅÃÇÏ¿© °³¼³ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="129"	title_name="°³ÀÎ »óÁ¡"	help_image="userstore_register"	help_desc="ÆÇ¸Å ¹°Ç°Àº ÃÖ´ë 8°³±îÁö µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù. µ¿ÀÏÇÑ ¹°Ç°À» ¿©·¯ °³ ÆÈ°íÀÚ ÇÒ ¶§¿¡´Â ÇØ´ç ¾ÆÀÌÅÛ ¿· ÀÚµ¿ µî·ÏÀ» Ã¼Å©ÇÏ¸é ÇÏ³ª¸¸ µî·ÏÇÏ¿©µµ ÀÎº¥Åä¸® ³»ÀÇ µ¿ÀÏÇÑ ¾ÆÀÌÅÛÀÌ °°Àº °¡°ÝÀ¸·Î °è¼Ó ÆÇ¸ÅµË´Ï´Ù."	/>
-			<content	help_id="130"	title_name="°³ÀÎ »óÁ¡"	help_image="userstore_filter"	help_desc="»óÁ¡ ÇÊÅÍ¸¦ ÀÌ¿ëÇÏ¿© °³ÀÎ»óÁ¡ Á¦¸ñÀ» °Ë»öÇÒ ¼ö ÀÖ½À´Ï´Ù. '/Àå»çÇÊÅÍ', '/»óÁ¡ÇÊÅÍ', '/ÆÇ¸ÅÇÊÅÍ', '/¸»Ç³¼±' ¸í·É¾î µÚ¿¡ °Ë»öÇÏ°íÀÚ ÇÏ´Â Å°¿öµå¸¦ ÀÔ·ÂÇÏ¸é ÇØ´ç Å°¿öµå°¡ µé¾î°£ °³ÀÎ »óÁ¡¸¸ Á¦¸ñÀÌ Ç¥½ÃµË´Ï´Ù."	/>
+			<content	help_id="128"	title_name="ê°œì¸ ìƒì "	help_image="userstore_open"	help_desc="ê°œì¸ ìƒì ì€ ì±„íŒ…ì°½ì— ëª…ë ¹ì–´ '/ìƒì ', '/íŒë§¤', '/ìž¥ì‚¬'ë¥¼ ìž…ë ¥í•˜ê±°ë‚˜ ìžì‹ ì˜ ìºë¦­í„° ë©”ë‰´ì—ì„œ ê°œì¸ ìƒì ì„ ì„ íƒí•˜ì—¬ ê°œì„¤í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="129"	title_name="ê°œì¸ ìƒì "	help_image="userstore_register"	help_desc="íŒë§¤ ë¬¼í’ˆì€ ìµœëŒ€ 8ê°œê¹Œì§€ ë“±ë¡í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë™ì¼í•œ ë¬¼í’ˆì„ ì—¬ëŸ¬ ê°œ íŒ”ê³ ìž í•  ë•Œì—ëŠ” í•´ë‹¹ ì•„ì´í…œ ì˜† ìžë™ ë“±ë¡ì„ ì²´í¬í•˜ë©´ í•˜ë‚˜ë§Œ ë“±ë¡í•˜ì—¬ë„ ì¸ë²¤í† ë¦¬ ë‚´ì˜ ë™ì¼í•œ ì•„ì´í…œì´ ê°™ì€ ê°€ê²©ìœ¼ë¡œ ê³„ì† íŒë§¤ë©ë‹ˆë‹¤."	/>
+			<content	help_id="130"	title_name="ê°œì¸ ìƒì "	help_image="userstore_filter"	help_desc="ìƒì  í•„í„°ë¥¼ ì´ìš©í•˜ì—¬ ê°œì¸ìƒì  ì œëª©ì„ ê²€ìƒ‰í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. '/ìž¥ì‚¬í•„í„°', '/ìƒì í•„í„°', '/íŒë§¤í•„í„°', '/ë§í’ì„ ' ëª…ë ¹ì–´ ë’¤ì— ê²€ìƒ‰í•˜ê³ ìž í•˜ëŠ” í‚¤ì›Œë“œë¥¼ ìž…ë ¥í•˜ë©´ í•´ë‹¹ í‚¤ì›Œë“œê°€ ë“¤ì–´ê°„ ê°œì¸ ìƒì ë§Œ ì œëª©ì´ í‘œì‹œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="43"	>
-			<content	help_id="131"	title_name="À§Å¹ »óÁ¡"	help_image="agentshop_location"	help_desc="ºí·¯µð ¾ÆÀÌ½ºÀÇ À§Å¹»óÀÎ ·¹ÀÌµð ¿¹Ä«Å×¸®³ª¸¦ ÅëÇÏ¿© À¯Àú °£¿¡ ¾ÆÀÌÅÛÀ» »ç°í ÆÈ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="132"	title_name="À§Å¹ »óÁ¡"	help_image="agentshop_search"	help_desc="¾ÆÀÌÅÛÀ» ¼¼ºÎ Ä«Å×°í¸® º°·Î °Ë»öÇÏ¿© ±¸¸ÅÇÒ ¼ö ÀÖ½À´Ï´Ù. ¸ÕÀú À§Å¹»óÁ¡ Ã¢ ¿ÞÂÊÀÇ ¾ÆÀÌÅÛ ºÐ·ù¸¦ ¼±ÅÃÇÏ¸é, À§ÂÊÀÇ ¼¼ºÎ Ä«Å×°í¸®°¡ È°¼ºÈ­µË´Ï´Ù. ¿©±â¼­ ¿øÇÏ´Â ºÐ·ù¸¦ ¼±ÅÃÇÏ°í °Ë»öÀ» ½ÇÇàÇÏ¸é °á°ú°¡ Ç¥½ÃµË´Ï´Ù."	/>
-			<content	help_id="133"	title_name="À§Å¹ »óÁ¡"	help_image="agentshop_info"	help_desc="¿øÇÏ´Â ¾ÆÀÌÅÛ¿¡ ¸¶¿ì½º¸¦ ¿Ã¸®¸é, ¾ÆÀÌÅÛ ¼³¸í ¹× ÆÇ¸Å Á¤º¸¸¦ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù. ¿øÇÏ´Â ¾ÆÀÌÅÛÀ» ´õºí Å¬¸¯ÇÏ¸é, °°Àº Á¾·ùÀÇ ¾ÆÀÌÅÛ¸¸ º¼ ¼ö ÀÖ½À´Ï´Ù. ±¸ÀÔÇÏ±â ¹öÆ°À» ´©¸£¸é ¼ö·® ¹× °¡°ÝÀ» È®ÀÎÇÑ ÈÄ ±¸ÀÔÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="134"	title_name="À§Å¹ »óÁ¡"	help_image="agentshop_favorite"	help_desc="À§Å¹ »óÁ¡ ÇÏ´ÜÀÇ Áñ°ÜÃ£±â¿¡ ¿øÇÏ´Â ¾ÆÀÌÅÛÀ» µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù. ¾ÆÀÌÅÛÀ» °Ë»öÇÑ ÈÄ Áñ°ÜÃ£±â ¾ÆÀÌÄÜÀ» Å¬¸¯ÇÏ¸é, ¿øÇÏ´Â ÀÌ¸§À¸·Î ÇØ´ç ¾ÆÀÌÅÛÀ» Áñ°ÜÃ£±â¿¡ µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="135"	title_name="À§Å¹ »óÁ¡"	help_image="agentshop_register"	help_desc="¾ÆÀÌÅÛÀ» ÆÇ¸ÅÇÏ±â À§ÇØ¼­´Â ¿ì¼± µî·ÏÀ» ÇØ¾ß ÇÕ´Ï´Ù. ¿øÇÏ´Â ¾ÆÀÌÅÛÀ» Å¬¸¯ÇÏ¿© µî·Ï ½½·Ô¿¡¼­ ´Ù½Ã Å¬¸¯ÇÏ°Å³ª, Control + ¿ÞÂÊ ¹öÆ° Å¬¸¯ÇÏ¿© µî·Ï ½½·Ô¿¡ ¾ÆÀÌÅÛÀ» ¿Ã¸° ÈÄ, °¡°Ý, ¼ö·®À» Á¤ÇÏ¿© µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù. "	/>
-			<content	help_id="136"	title_name="À§Å¹ »óÁ¡"	help_image="agentshop_average"	help_desc="¾ÆÀÌÅÛÀ» µî·Ï ½½·Ô¿¡ µî·ÏÇÏ¸é, ÆÇ¸Å °¡°Ý¿¡, µî·ÏÇÑ ¾ÆÀÌÅÛÀÇ Áö³­ ÀÏÁÖÀÏ °£ Æò±Õ °Å·¡ °¡°ÝÀÌ Ç¥½ÃµË´Ï´Ù. Áö³­ ÀÏÁÖÀÏ °£ °Å·¡°¡ ¾ø¾ú´ø ¹°Ç°Àº Æò±Õ °Å·¡ °¡°ÝÀÌ Ç¥½ÃµÇÁö ¾Ê½À´Ï´Ù."	/>
+			<content	help_id="131"	title_name="ìœ„íƒ ìƒì "	help_image="agentshop_location"	help_desc="ë¸”ëŸ¬ë”” ì•„ì´ìŠ¤ì˜ ìœ„íƒìƒì¸ ë ˆì´ë”” ì˜ˆì¹´í…Œë¦¬ë‚˜ë¥¼ í†µí•˜ì—¬ ìœ ì € ê°„ì— ì•„ì´í…œì„ ì‚¬ê³  íŒ” ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="132"	title_name="ìœ„íƒ ìƒì "	help_image="agentshop_search"	help_desc="ì•„ì´í…œì„ ì„¸ë¶€ ì¹´í…Œê³ ë¦¬ ë³„ë¡œ ê²€ìƒ‰í•˜ì—¬ êµ¬ë§¤í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë¨¼ì € ìœ„íƒìƒì  ì°½ ì™¼ìª½ì˜ ì•„ì´í…œ ë¶„ë¥˜ë¥¼ ì„ íƒí•˜ë©´, ìœ„ìª½ì˜ ì„¸ë¶€ ì¹´í…Œê³ ë¦¬ê°€ í™œì„±í™”ë©ë‹ˆë‹¤. ì—¬ê¸°ì„œ ì›í•˜ëŠ” ë¶„ë¥˜ë¥¼ ì„ íƒí•˜ê³  ê²€ìƒ‰ì„ ì‹¤í–‰í•˜ë©´ ê²°ê³¼ê°€ í‘œì‹œë©ë‹ˆë‹¤."	/>
+			<content	help_id="133"	title_name="ìœ„íƒ ìƒì "	help_image="agentshop_info"	help_desc="ì›í•˜ëŠ” ì•„ì´í…œì— ë§ˆìš°ìŠ¤ë¥¼ ì˜¬ë¦¬ë©´, ì•„ì´í…œ ì„¤ëª… ë° íŒë§¤ ì •ë³´ë¥¼ í™•ì¸í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì›í•˜ëŠ” ì•„ì´í…œì„ ë”ë¸” í´ë¦­í•˜ë©´, ê°™ì€ ì¢…ë¥˜ì˜ ì•„ì´í…œë§Œ ë³¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. êµ¬ìž…í•˜ê¸° ë²„íŠ¼ì„ ëˆ„ë¥´ë©´ ìˆ˜ëŸ‰ ë° ê°€ê²©ì„ í™•ì¸í•œ í›„ êµ¬ìž…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="134"	title_name="ìœ„íƒ ìƒì "	help_image="agentshop_favorite"	help_desc="ìœ„íƒ ìƒì  í•˜ë‹¨ì˜ ì¦ê²¨ì°¾ê¸°ì— ì›í•˜ëŠ” ì•„ì´í…œì„ ë“±ë¡í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì•„ì´í…œì„ ê²€ìƒ‰í•œ í›„ ì¦ê²¨ì°¾ê¸° ì•„ì´ì½˜ì„ í´ë¦­í•˜ë©´, ì›í•˜ëŠ” ì´ë¦„ìœ¼ë¡œ í•´ë‹¹ ì•„ì´í…œì„ ì¦ê²¨ì°¾ê¸°ì— ë“±ë¡í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="135"	title_name="ìœ„íƒ ìƒì "	help_image="agentshop_register"	help_desc="ì•„ì´í…œì„ íŒë§¤í•˜ê¸° ìœ„í•´ì„œëŠ” ìš°ì„  ë“±ë¡ì„ í•´ì•¼ í•©ë‹ˆë‹¤. ì›í•˜ëŠ” ì•„ì´í…œì„ í´ë¦­í•˜ì—¬ ë“±ë¡ ìŠ¬ë¡¯ì—ì„œ ë‹¤ì‹œ í´ë¦­í•˜ê±°ë‚˜, Control + ì™¼ìª½ ë²„íŠ¼ í´ë¦­í•˜ì—¬ ë“±ë¡ ìŠ¬ë¡¯ì— ì•„ì´í…œì„ ì˜¬ë¦° í›„, ê°€ê²©, ìˆ˜ëŸ‰ì„ ì •í•˜ì—¬ ë“±ë¡í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. "	/>
+			<content	help_id="136"	title_name="ìœ„íƒ ìƒì "	help_image="agentshop_average"	help_desc="ì•„ì´í…œì„ ë“±ë¡ ìŠ¬ë¡¯ì— ë“±ë¡í•˜ë©´, íŒë§¤ ê°€ê²©ì—, ë“±ë¡í•œ ì•„ì´í…œì˜ ì§€ë‚œ ì¼ì£¼ì¼ ê°„ í‰ê·  ê±°ëž˜ ê°€ê²©ì´ í‘œì‹œë©ë‹ˆë‹¤. ì§€ë‚œ ì¼ì£¼ì¼ ê°„ ê±°ëž˜ê°€ ì—†ì—ˆë˜ ë¬¼í’ˆì€ í‰ê·  ê±°ëž˜ ê°€ê²©ì´ í‘œì‹œë˜ì§€ ì•ŠìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="44"	>
-			<content	help_id="137"	title_name="°³ÀÎ °Å·¡"	help_image="usertrade_request"	help_desc="°Å·¡¸¦ ÇÏ°íÀÚ ÇÏ´Â »ó´ë¹æ Ä³¸¯ÅÍÀÇ Ä³¸¯ÅÍ ¸Þ´º¿¡¼­ °Å·¡ ½ÅÃ»À» ¼±ÅÃÇÏ°Å³ª ¸í·É¾î '/°Å·¡'¸¦ ÀÔ·ÂÇÏ¸é °Å·¡¸¦ ½ÅÃ»ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ý´ë·Î »ó´ë¹æÀÌ °Å·¡ ½ÅÃ»À» ÇÑ °æ¿ì ¼ö¶ô ¹öÆ°À» ´­·¯ °Å·¡¸¦ ½ÃÀÛÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="138"	title_name="°³ÀÎ °Å·¡"	help_image="usertrade_complete"	help_desc="°Å·¡°¡ ½ÃÀÛµÇ¸é °Å·¡Ã¢¿¡ °Å·¡¸¦ ¿øÇÏ´Â ¾ÆÀÌÅÛÀ» ¿Ã¸®°Å³ª Alz ¾×¼ö¸¦ ÀÔ·ÂÇÕ´Ï´Ù. °Å·¡¸¦ ÇÏ´Â ½Ö¹æÀÌ ¸ðµÎ 'È®ÀÎ' ¹öÆ°À» ´­·¯¾ß °Å·¡°¡ ¿Ï·áµË´Ï´Ù."	/>
+			<content	help_id="137"	title_name="ê°œì¸ ê±°ëž˜"	help_image="usertrade_request"	help_desc="ê±°ëž˜ë¥¼ í•˜ê³ ìž í•˜ëŠ” ìƒëŒ€ë°© ìºë¦­í„°ì˜ ìºë¦­í„° ë©”ë‰´ì—ì„œ ê±°ëž˜ ì‹ ì²­ì„ ì„ íƒí•˜ê±°ë‚˜ ëª…ë ¹ì–´ '/ê±°ëž˜'ë¥¼ ìž…ë ¥í•˜ë©´ ê±°ëž˜ë¥¼ ì‹ ì²­í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë°˜ëŒ€ë¡œ ìƒëŒ€ë°©ì´ ê±°ëž˜ ì‹ ì²­ì„ í•œ ê²½ìš° ìˆ˜ë½ ë²„íŠ¼ì„ ëˆŒëŸ¬ ê±°ëž˜ë¥¼ ì‹œìž‘í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="138"	title_name="ê°œì¸ ê±°ëž˜"	help_image="usertrade_complete"	help_desc="ê±°ëž˜ê°€ ì‹œìž‘ë˜ë©´ ê±°ëž˜ì°½ì— ê±°ëž˜ë¥¼ ì›í•˜ëŠ” ì•„ì´í…œì„ ì˜¬ë¦¬ê±°ë‚˜ Alz ì•¡ìˆ˜ë¥¼ ìž…ë ¥í•©ë‹ˆë‹¤. ê±°ëž˜ë¥¼ í•˜ëŠ” ìŒë°©ì´ ëª¨ë‘ 'í™•ì¸' ë²„íŠ¼ì„ ëˆŒëŸ¬ì•¼ ê±°ëž˜ê°€ ì™„ë£Œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="45"	>
-			<content	help_id="139"	title_name="Ã¢°í"	help_image="warehouse"	help_desc="°¢ ¸¶À»¿¡ ÀÖ´Â Ã¢°í°¡µå NPC¿Í ´ëÈ­ÇÏ¸é º¸°üÃ¢°í¸¦ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. Ã¢°í¸¦ ¿­°í, ÀÎº¥Åä¸®ÀÇ ¾ÆÀÌÅÛÀ» Control + ¿ÞÂÊ ¹öÆ° Å¬¸¯ÇÏ°Å³ª ¿ÞÂÊ¹öÆ°À¸·Î µé°í ³õ±âÇÏ¸é Ã¢°í¿¡ º¸°üµË´Ï´Ù. µ¿ÀÏÇÑ ¹æ¹ýÀ¸·Î Ã¢°íÀÇ ¾ÆÀÌÅÛÀ» ÀÎº¥Åä¸®·Î ÀÌµ¿½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="139"	title_name="ì°½ê³ "	help_image="warehouse"	help_desc="ê° ë§ˆì„ì— ìžˆëŠ” ì°½ê³ ê°€ë“œ NPCì™€ ëŒ€í™”í•˜ë©´ ë³´ê´€ì°½ê³ ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì°½ê³ ë¥¼ ì—´ê³ , ì¸ë²¤í† ë¦¬ì˜ ì•„ì´í…œì„ Control + ì™¼ìª½ ë²„íŠ¼ í´ë¦­í•˜ê±°ë‚˜ ì™¼ìª½ë²„íŠ¼ìœ¼ë¡œ ë“¤ê³  ë†“ê¸°í•˜ë©´ ì°½ê³ ì— ë³´ê´€ë©ë‹ˆë‹¤. ë™ì¼í•œ ë°©ë²•ìœ¼ë¡œ ì°½ê³ ì˜ ì•„ì´í…œì„ ì¸ë²¤í† ë¦¬ë¡œ ì´ë™ì‹œí‚¬ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="46"	>
-			<content	help_id="140"	title_name="Æê"	help_image="pet_basic"	help_desc="ÆêÀº ¾ÆÀÌÅÛ ¼¥¿¡¼­ ±¸ÀÔÇÒ ¼ö ÀÖ½À´Ï´Ù. ¸ðµç ÆêÀº °èÁ¤ ±Í¼ÓÀÌ¸ç Å¸ Ä³¸¯ÅÍ¿Í °Å·¡¸¦ ÇÏ±â À§ÇØ¼­´Â Æê ½½¸®ÇÎ Å°Æ®¸¦ ÀÌ¿ëÇØ ÆêÀ» ºÀÀÎÇÏ¿©¾ß ÇÕ´Ï´Ù. ÆêÀÇ ·¹º§¿¡ µû¶ó »ç¿ëÇÒ ¼ö ÀÖ´Â Æê ½½¸®ÇÎ Å°Æ®ÀÇ ·¹º§µµ ´Þ¶óÁý´Ï´Ù."	/>
-			<content	help_id="141"	title_name="Æê"	help_image="pet_equip"	help_desc="ÆêÀº ÀÎº¥Åä¸®¿¡ ÀÖ´Â Æê ¾ÆÀÌÅÛÀ» ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ°Å³ª ÆêÀ» ¿ÞÂÊ ¹öÆ°À¸·Î µé°í Æê Ã¢¿¡ ´Ù½Ã ¿ÞÂÊ ¹öÆ°À¸·Î ³õÀ¸¸é ÀåºñÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀåºñµÈ ÆêÀº Ä³¸¯ÅÍ ¿·¿¡ ¼ÒÈ¯µÇ¸ç Æê¿¡ Æ®·¹ÀÌ´×µÈ ¿É¼Çµµ ¹Ù·Î Àû¿ë µË´Ï´Ù."	/>
+			<content	help_id="140"	title_name="íŽ«"	help_image="pet_basic"	help_desc="íŽ«ì€ ì•„ì´í…œ ìƒµì—ì„œ êµ¬ìž…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ëª¨ë“  íŽ«ì€ ê³„ì • ê·€ì†ì´ë©° íƒ€ ìºë¦­í„°ì™€ ê±°ëž˜ë¥¼ í•˜ê¸° ìœ„í•´ì„œëŠ” íŽ« ìŠ¬ë¦¬í•‘ í‚¤íŠ¸ë¥¼ ì´ìš©í•´ íŽ«ì„ ë´‰ì¸í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤. íŽ«ì˜ ë ˆë²¨ì— ë”°ë¼ ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” íŽ« ìŠ¬ë¦¬í•‘ í‚¤íŠ¸ì˜ ë ˆë²¨ë„ ë‹¬ë¼ì§‘ë‹ˆë‹¤."	/>
+			<content	help_id="141"	title_name="íŽ«"	help_image="pet_equip"	help_desc="íŽ«ì€ ì¸ë²¤í† ë¦¬ì— ìžˆëŠ” íŽ« ì•„ì´í…œì„ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ê±°ë‚˜ íŽ«ì„ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ ë“¤ê³  íŽ« ì°½ì— ë‹¤ì‹œ ì™¼ìª½ ë²„íŠ¼ìœ¼ë¡œ ë†“ìœ¼ë©´ ìž¥ë¹„í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìž¥ë¹„ëœ íŽ«ì€ ìºë¦­í„° ì˜†ì— ì†Œí™˜ë˜ë©° íŽ«ì— íŠ¸ë ˆì´ë‹ëœ ì˜µì…˜ë„ ë°”ë¡œ ì ìš© ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="47"	>
-			<content	help_id="142"	title_name="Æê ¼ºÀå"	help_image="petup_lvup"	help_desc="Ä³¸¯ÅÍ°¡ ½ºÅ³À» »ç¿ëÇØ ½ºÅ³ °æÇèÄ¡¸¦ ¾òÀ» ¶§¸¶´Ù ÀåÂø ÁßÀÎ Æêµµ °æÇèÄ¡¸¦ ¾ò°Ô µË´Ï´Ù. °æÇèÄ¡°¡ ÀÏÁ¤ ÀÌ»ó ½×ÀÌ¸é ·¹º§ ¾÷À» ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="143"	title_name="Æê ¼ºÀå"	help_image="petup_etc"	help_desc="Ä³¸¯ÅÍÀÇ ½ºÅ³ ·©Å©°¡ Æ®·£¼¾´õ°¡ µÇ¾îµµ ÆêÀº °æÇèÄ¡¸¦ ¾ò½À´Ï´Ù. ±×·¯³ª Ä³¸¯ÅÍ°¡ ´õ¹Ì¸¦ °ø°ÝÇÒ °æ¿ì¿¡´Â ÆêÀÌ °æÇèÄ¡¸¦ ¾òÁö ¸ø ÇÕ´Ï´Ù."	/>
+			<content	help_id="142"	title_name="íŽ« ì„±ìž¥"	help_image="petup_lvup"	help_desc="ìºë¦­í„°ê°€ ìŠ¤í‚¬ì„ ì‚¬ìš©í•´ ìŠ¤í‚¬ ê²½í—˜ì¹˜ë¥¼ ì–»ì„ ë•Œë§ˆë‹¤ ìž¥ì°© ì¤‘ì¸ íŽ«ë„ ê²½í—˜ì¹˜ë¥¼ ì–»ê²Œ ë©ë‹ˆë‹¤. ê²½í—˜ì¹˜ê°€ ì¼ì • ì´ìƒ ìŒ“ì´ë©´ ë ˆë²¨ ì—…ì„ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="143"	title_name="íŽ« ì„±ìž¥"	help_image="petup_etc"	help_desc="ìºë¦­í„°ì˜ ìŠ¤í‚¬ ëž­í¬ê°€ íŠ¸ëžœì„¼ë”ê°€ ë˜ì–´ë„ íŽ«ì€ ê²½í—˜ì¹˜ë¥¼ ì–»ìŠµë‹ˆë‹¤. ê·¸ëŸ¬ë‚˜ ìºë¦­í„°ê°€ ë”ë¯¸ë¥¼ ê³µê²©í•  ê²½ìš°ì—ëŠ” íŽ«ì´ ê²½í—˜ì¹˜ë¥¼ ì–»ì§€ ëª» í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="48"	>
-			<content	help_id="144"	title_name="Æê Æ®·¹ÀÌ´×"	help_image="pettraining_slot"	help_desc="Æê¿¡´Â Âø¿ë ¾ÆÀÌÅÛÃ³·³ ½½·ÔÀÌ Á¸ÀçÇÕ´Ï´Ù. ÆêÀÇ ·¹º§ÀÌ ¿À¸¦¼ö·Ï ½½·ÔÀÌ Áõ°¡ÇÏ¿©, ÃÖ´ë 10°³±îÁö Áõ°¡ÇÕ´Ï´Ù. ºó ½½·Ô¿¡´Â Æê Æ®·¹ÀÌ´×À» ÅëÇÏ¿© ±â´ÉÀ» ºÎ¿©ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="145"	title_name="Æê Æ®·¹ÀÌ´×"	help_image="pettraining_howto"	help_desc="Æê Æ®·¹ÀÌ´×Àº °¢ ¸¶À»¿¡ ÀÖ´Â ¸¶¹ý »óÁ¡ NPC¿¡°Ô¼­ ÇÒ ¼ö ÀÖ½À´Ï´Ù. Æê Æ®·¹ÀÌ´×À» À§ÇØ¼­´Â ÃÖ»ó±Þ Æ÷½º ÄÚ¾î 1°³°¡ ÇÊ¿äÇÏ¸ç 30¿© °¡ÁöÀÇ ±â´É Áß ÇÑ°¡Áö°¡ ¹«ÀÛÀ§·Î ÁöÁ¤µË´Ï´Ù."	/>
+			<content	help_id="144"	title_name="íŽ« íŠ¸ë ˆì´ë‹"	help_image="pettraining_slot"	help_desc="íŽ«ì—ëŠ” ì°©ìš© ì•„ì´í…œì²˜ëŸ¼ ìŠ¬ë¡¯ì´ ì¡´ìž¬í•©ë‹ˆë‹¤. íŽ«ì˜ ë ˆë²¨ì´ ì˜¤ë¥¼ìˆ˜ë¡ ìŠ¬ë¡¯ì´ ì¦ê°€í•˜ì—¬, ìµœëŒ€ 10ê°œê¹Œì§€ ì¦ê°€í•©ë‹ˆë‹¤. ë¹ˆ ìŠ¬ë¡¯ì—ëŠ” íŽ« íŠ¸ë ˆì´ë‹ì„ í†µí•˜ì—¬ ê¸°ëŠ¥ì„ ë¶€ì—¬í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="145"	title_name="íŽ« íŠ¸ë ˆì´ë‹"	help_image="pettraining_howto"	help_desc="íŽ« íŠ¸ë ˆì´ë‹ì€ ê° ë§ˆì„ì— ìžˆëŠ” ë§ˆë²• ìƒì  NPCì—ê²Œì„œ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. íŽ« íŠ¸ë ˆì´ë‹ì„ ìœ„í•´ì„œëŠ” ìµœìƒê¸‰ í¬ìŠ¤ ì½”ì–´ 1ê°œê°€ í•„ìš”í•˜ë©° 30ì—¬ ê°€ì§€ì˜ ê¸°ëŠ¥ ì¤‘ í•œê°€ì§€ê°€ ë¬´ìž‘ìœ„ë¡œ ì§€ì •ë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="49"	>
-			<content	help_id="146"	title_name="ÆÄÆ¼ ÃÊ´ë"	help_image="partyinvite_01"	help_desc="´ÙÀ½ÀÇ ¹æ¹ýÀ¸·Î ÆÄÆ¼¸¦ ¸ÎÀ» ¼ö ÀÖ½À´Ï´Ù. \¨ç'/ÃÊ´ë' ¸í·É¾î µÚ¿¡ Ä³¸¯ÅÍ ÀÌ¸§À» Àû½À´Ï´Ù. \¨èÃ¤ÆÃÃ¢ÀÇ Ä³¸¯ÅÍ ÀÌ¸§À» Å¬¸¯ÇÏ¿© ÃÊ´ëÇÕ´Ï´Ù. \¨éÄ³¸¯ÅÍ¸¦ Å¸°ÙÆÃÇÏ¿© Ä³¸¯ÅÍ ¸Þ´º¸¦ ÅëÇØ ÃÊ´ëÇÕ´Ï´Ù."	/>
-			<content	help_id="147"	title_name="ÆÄÆ¼ ÃÊ´ë"	help_image="partyinvite_02"	help_desc="¨êÆÄÆ¼¿ø ¿ìÅ¬¸¯ ½Ã ³ª¿À´Â ¸Þ´º¿¡¼­ ÆÄÆ¼¿ø ÃÊ´ë ¹öÆ°À» ´©¸¥ µÚ Ä³¸¯ÅÍ ÀÌ¸§À» ÀÔ·ÂÇÕ´Ï´Ù. \¨ë¹öµðÃ¢¿¡ Á¢¼ÓÁßÀÎ Ä£±¸ÀÇ Ä³¸¯ÅÍ¸íÀ» ¿ìÅ¬¸¯ÇÏ¿© ÃÊ´ëÇÕ´Ï´Ù."	/>
+			<content	help_id="146"	title_name="íŒŒí‹° ì´ˆëŒ€"	help_image="partyinvite_01"	help_desc="ë‹¤ìŒì˜ ë°©ë²•ìœ¼ë¡œ íŒŒí‹°ë¥¼ ë§ºì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. \â‘ '/ì´ˆëŒ€' ëª…ë ¹ì–´ ë’¤ì— ìºë¦­í„° ì´ë¦„ì„ ì ìŠµë‹ˆë‹¤. \â‘¡ì±„íŒ…ì°½ì˜ ìºë¦­í„° ì´ë¦„ì„ í´ë¦­í•˜ì—¬ ì´ˆëŒ€í•©ë‹ˆë‹¤. \â‘¢ìºë¦­í„°ë¥¼ íƒ€ê²ŸíŒ…í•˜ì—¬ ìºë¦­í„° ë©”ë‰´ë¥¼ í†µí•´ ì´ˆëŒ€í•©ë‹ˆë‹¤."	/>
+			<content	help_id="147"	title_name="íŒŒí‹° ì´ˆëŒ€"	help_image="partyinvite_02"	help_desc="â‘£íŒŒí‹°ì› ìš°í´ë¦­ ì‹œ ë‚˜ì˜¤ëŠ” ë©”ë‰´ì—ì„œ íŒŒí‹°ì› ì´ˆëŒ€ ë²„íŠ¼ì„ ëˆ„ë¥¸ ë’¤ ìºë¦­í„° ì´ë¦„ì„ ìž…ë ¥í•©ë‹ˆë‹¤. \â‘¤ë²„ë””ì°½ì— ì ‘ì†ì¤‘ì¸ ì¹œêµ¬ì˜ ìºë¦­í„°ëª…ì„ ìš°í´ë¦­í•˜ì—¬ ì´ˆëŒ€í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="50"	>
-			<content	help_id="148"	title_name="ÆÄÆ¼ ¿É¼Ç"	help_image="partyoption"	help_desc="ÆÄÆ¼ÀåÀº ¾ÆÀÌÅÛ È¹µæ ¹æ½Ä ¹× ÆÄÆ¼¿ø °ü¸®, ÆÄÆ¼Àå À§ÀÓ µîÀÇ ³»¿ëÀ» ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀÌ·¯ÇÑ ±â´ÉµéÀº ÆÄÆ¼Ã¢¿¡¼­ ÆÄÆ¼¿øÀ» ¿ìÅ¬¸¯ÇßÀ» ¶§ ³ªÅ¸³ª´Â ¸Þ´º¿¡¼­ ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="148"	title_name="íŒŒí‹° ì˜µì…˜"	help_image="partyoption"	help_desc="íŒŒí‹°ìž¥ì€ ì•„ì´í…œ íšë“ ë°©ì‹ ë° íŒŒí‹°ì› ê´€ë¦¬, íŒŒí‹°ìž¥ ìœ„ìž„ ë“±ì˜ ë‚´ìš©ì„ ì„¤ì •í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì´ëŸ¬í•œ ê¸°ëŠ¥ë“¤ì€ íŒŒí‹°ì°½ì—ì„œ íŒŒí‹°ì›ì„ ìš°í´ë¦­í–ˆì„ ë•Œ ë‚˜íƒ€ë‚˜ëŠ” ë©”ë‰´ì—ì„œ ì„¤ì •í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="51"	>
-			<content	help_id="149"	title_name="ÆÄÆ¼ Å»Åð"	help_image="partyleave_leave"	help_desc="ÆÄÆ¼¸¦ Å»ÅðÇÏ°íÀÚ ÇÒ ¶§´Â Ã¤ÆÃ ÀÔ·ÂÃ¢¿¡ ¸í·É¾î '/ÆÄÆ¼Å»Åð'¸¦ Ä¡°Å³ª ÆÄÆ¼Ã¢ UI¿¡¼­ ÆÄÆ¼¿øÀ» ¿ìÅ¬¸¯ÇÏ¿© 'ÆÄÆ¼ Å»Åð'¸Þ´º¸¦ ¼±ÅÃÇÏ¸é °¡´ÉÇÕ´Ï´Ù."	/>
-			<content	help_id="150"	title_name="ÆÄÆ¼ Å»Åð"	help_image="partyleave_dungeon"	help_desc="ÆÄÆ¼ »óÅÂ·Î ´øÀü¿¡ ÁøÀÔÇÑ °æ¿ì, ÆÄÆ¼°¡ ÇØÃ¼µÇ¸é ÀÚµ¿À¸·Î ´øÀüµµ Á¾·áµË´Ï´Ù."	/>
+			<content	help_id="149"	title_name="íŒŒí‹° íƒˆí‡´"	help_image="partyleave_leave"	help_desc="íŒŒí‹°ë¥¼ íƒˆí‡´í•˜ê³ ìž í•  ë•ŒëŠ” ì±„íŒ… ìž…ë ¥ì°½ì— ëª…ë ¹ì–´ '/íŒŒí‹°íƒˆí‡´'ë¥¼ ì¹˜ê±°ë‚˜ íŒŒí‹°ì°½ UIì—ì„œ íŒŒí‹°ì›ì„ ìš°í´ë¦­í•˜ì—¬ 'íŒŒí‹° íƒˆí‡´'ë©”ë‰´ë¥¼ ì„ íƒí•˜ë©´ ê°€ëŠ¥í•©ë‹ˆë‹¤."	/>
+			<content	help_id="150"	title_name="íŒŒí‹° íƒˆí‡´"	help_image="partyleave_dungeon"	help_desc="íŒŒí‹° ìƒíƒœë¡œ ë˜ì „ì— ì§„ìž…í•œ ê²½ìš°, íŒŒí‹°ê°€ í•´ì²´ë˜ë©´ ìžë™ìœ¼ë¡œ ë˜ì „ë„ ì¢…ë£Œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="52"	>
-			<content	help_id="151"	title_name="¹öµð"	help_image="buddy_add"	help_desc="¹öµð Ã¢(´ÜÃàÅ° B) ÇÏ´ÜÀÇ Ä£±¸ Ãß°¡ ¹öÆ° ¶Ç´Â ¸í·É¾î '/Ä£±¸Ãß°¡ Ä³¸¯ÅÍ¸í', Ä³¸¯ÅÍ ¸Þ´º µîÀ» ÀÌ¿ëÇÏ¿© Ä£±¸ ½ÅÃ»À» ÇÒ ¼ö ÀÖÀ¸¸ç, »ó´ë¹æÀÌ Ä£±¸ ½ÅÃ»À» ¼ö¶ôÇÏ¸é Ä£±¸ Ãß°¡°¡ ¿Ï·áµË´Ï´Ù."	/>
-			<content	help_id="152"	title_name="¹öµð"	help_image="buddy_block"	help_desc="Â÷´Ü »ó´ë Ãß°¡'¸¦ ÅëÇÏ¿© Æ¯Á¤ À¯Àú¸¦ Â÷´ÜÇÒ ¼ö ÀÖ½À´Ï´Ù. Â÷´Ü ¸ñ·Ï¿¡ µî·ÏµÈ À¯ÀúÀÇ ¸ðµç ¸Þ½ÃÁö´Â Ã¤ÆÃÃ¢¿¡ Ç¥½ÃµÇÁö ¾ÊÀ¸¸ç, Â÷´ÜµÈ À¯Àú°¡ º¸³½ ÆíÁö ¶ÇÇÑ ¹ÞÀ» ¼ö ¾ø½À´Ï´Ù."	/>
+			<content	help_id="151"	title_name="ë²„ë””"	help_image="buddy_add"	help_desc="ë²„ë”” ì°½(ë‹¨ì¶•í‚¤ B) í•˜ë‹¨ì˜ ì¹œêµ¬ ì¶”ê°€ ë²„íŠ¼ ë˜ëŠ” ëª…ë ¹ì–´ '/ì¹œêµ¬ì¶”ê°€ ìºë¦­í„°ëª…', ìºë¦­í„° ë©”ë‰´ ë“±ì„ ì´ìš©í•˜ì—¬ ì¹œêµ¬ ì‹ ì²­ì„ í•  ìˆ˜ ìžˆìœ¼ë©°, ìƒëŒ€ë°©ì´ ì¹œêµ¬ ì‹ ì²­ì„ ìˆ˜ë½í•˜ë©´ ì¹œêµ¬ ì¶”ê°€ê°€ ì™„ë£Œë©ë‹ˆë‹¤."	/>
+			<content	help_id="152"	title_name="ë²„ë””"	help_image="buddy_block"	help_desc="ì°¨ë‹¨ ìƒëŒ€ ì¶”ê°€'ë¥¼ í†µí•˜ì—¬ íŠ¹ì • ìœ ì €ë¥¼ ì°¨ë‹¨í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì°¨ë‹¨ ëª©ë¡ì— ë“±ë¡ëœ ìœ ì €ì˜ ëª¨ë“  ë©”ì‹œì§€ëŠ” ì±„íŒ…ì°½ì— í‘œì‹œë˜ì§€ ì•Šìœ¼ë©°, ì°¨ë‹¨ëœ ìœ ì €ê°€ ë³´ë‚¸ íŽ¸ì§€ ë˜í•œ ë°›ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="53"	>
-			<content	help_id="153"	title_name="±æµå"	help_image="guild_requirement"	help_desc="40 ·¹º§ÀÇ ½Â±Þ Äù½ºÆ®¸¦ ¿Ï·áÇÒ °æ¿ì ±æµå¸¦ »ý¼ºÇÒ ¼ö ÀÖ½À´Ï´Ù. ±æµå »ý¼ºÀº °¢ ¸¶À»ÀÇ ¿ÀÇÇ¼­¸¦ ÅëÇØ ÇÒ ¼ö ÀÖ½À´Ï´Ù. ÇÑ±Û 8ÀÚ/¿µ¹®16ÀÚ ÀÌ³»¿¡¼­ ±æµå ÀÌ¸§À» ÀÔ·ÂÇÑ ÈÄ 1000¸¸ Alz¸¦ ÁöºÒÇÏ¸é ±æµå°¡ »ý¼ºµË´Ï´Ù."	/>
-			<content	help_id="154"	title_name="±æµå"	help_image="guild_invite"	help_desc="±æµå ÃÊ´ë´Â ±æµåÀåÀÌ³ª ÃÊ´ë ±ÇÇÑÀ» °¡Áø ±æµå¿ø¸¸ÀÌ °¡´ÉÇÕ´Ï´Ù. ÇØ´ç À¯Àú°¡ ±æµå Á¤º¸Ã¢ÀÇ ±æµå ¸Þ´º¿¡¼­ ±æµå¿ø ÃÊ´ë¸¦ ¼±ÅÃÇÏ°í °¡ÀÔÀ» ¿øÇÏ´Â À¯ÀúÀÇ Ä³¸¯ÅÍ¸íÀ» ÀÔ·ÂÇÏ¸é ±æµå ÃÊ´ë°¡ ÀÌ·ïÁý´Ï´Ù."	/>
-			<content	help_id="155"	title_name="±æµå"	help_image="guild_lvup"	help_desc="±æµå´Â Ã¢¼³½Ã 1·¹º§ÀÌ µÇ¸ç, 5·¹º§±îÁö ·¹º§¾÷ÀÌ °¡´ÉÇÕ´Ï´Ù. ±æµå¿øÀÌ È¹µæÇÏ´Â °æÇèÄ¡¿¡ µû¶ó ±æµå Á¡¼ö°¡ ¸ðÀÌ¸ç, ·¹º§¾÷¿¡ ÇÊ¿äÇÑ ±æµå Á¡¼ö°¡ µÇ¸é ÀÚµ¿À¸·Î ±æµå ·¹º§¾÷ÀÌ µË´Ï´Ù."	/>
-			<content	help_id="156"	title_name="±æµå"	help_image="guild_warehouse"	help_desc="±æµå ·¹º§ 2ÀÌ»óÀÎ ±æµå´Â °¢ ¸¶À»ÀÇ Ã¢°í°¡µå NPC¸¦ ÅëÇØ ±æµå Ã¢°í¸¦ ÀÌ¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. ±æµå Ã¢°í´Â ¸ðµç ±æµå¿øÀÇ ¹°°Ç º¸°ü°ú Alz ÀÔ±ÝÀÌ °¡´ÉÇÕ´Ï´Ù. ¹°°ÇÀ» Ã£°Å³ª Alz¸¦ Ãâ±ÝÇÏ´Â ÀÏÀº ±ÇÇÑÀÌ ÀÖ´Â ±æµå¿ø¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="153"	title_name="ê¸¸ë“œ"	help_image="guild_requirement"	help_desc="40 ë ˆë²¨ì˜ ìŠ¹ê¸‰ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•  ê²½ìš° ê¸¸ë“œë¥¼ ìƒì„±í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê¸¸ë“œ ìƒì„±ì€ ê° ë§ˆì„ì˜ ì˜¤í”¼ì„œë¥¼ í†µí•´ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. í•œê¸€ 8ìž/ì˜ë¬¸16ìž ì´ë‚´ì—ì„œ ê¸¸ë“œ ì´ë¦„ì„ ìž…ë ¥í•œ í›„ 1000ë§Œ Alzë¥¼ ì§€ë¶ˆí•˜ë©´ ê¸¸ë“œê°€ ìƒì„±ë©ë‹ˆë‹¤."	/>
+			<content	help_id="154"	title_name="ê¸¸ë“œ"	help_image="guild_invite"	help_desc="ê¸¸ë“œ ì´ˆëŒ€ëŠ” ê¸¸ë“œìž¥ì´ë‚˜ ì´ˆëŒ€ ê¶Œí•œì„ ê°€ì§„ ê¸¸ë“œì›ë§Œì´ ê°€ëŠ¥í•©ë‹ˆë‹¤. í•´ë‹¹ ìœ ì €ê°€ ê¸¸ë“œ ì •ë³´ì°½ì˜ ê¸¸ë“œ ë©”ë‰´ì—ì„œ ê¸¸ë“œì› ì´ˆëŒ€ë¥¼ ì„ íƒí•˜ê³  ê°€ìž…ì„ ì›í•˜ëŠ” ìœ ì €ì˜ ìºë¦­í„°ëª…ì„ ìž…ë ¥í•˜ë©´ ê¸¸ë“œ ì´ˆëŒ€ê°€ ì´ë¤„ì§‘ë‹ˆë‹¤."	/>
+			<content	help_id="155"	title_name="ê¸¸ë“œ"	help_image="guild_lvup"	help_desc="ê¸¸ë“œëŠ” ì°½ì„¤ì‹œ 1ë ˆë²¨ì´ ë˜ë©°, 5ë ˆë²¨ê¹Œì§€ ë ˆë²¨ì—…ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤. ê¸¸ë“œì›ì´ íšë“í•˜ëŠ” ê²½í—˜ì¹˜ì— ë”°ë¼ ê¸¸ë“œ ì ìˆ˜ê°€ ëª¨ì´ë©°, ë ˆë²¨ì—…ì— í•„ìš”í•œ ê¸¸ë“œ ì ìˆ˜ê°€ ë˜ë©´ ìžë™ìœ¼ë¡œ ê¸¸ë“œ ë ˆë²¨ì—…ì´ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="156"	title_name="ê¸¸ë“œ"	help_image="guild_warehouse"	help_desc="ê¸¸ë“œ ë ˆë²¨ 2ì´ìƒì¸ ê¸¸ë“œëŠ” ê° ë§ˆì„ì˜ ì°½ê³ ê°€ë“œ NPCë¥¼ í†µí•´ ê¸¸ë“œ ì°½ê³ ë¥¼ ì´ìš©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê¸¸ë“œ ì°½ê³ ëŠ” ëª¨ë“  ê¸¸ë“œì›ì˜ ë¬¼ê±´ ë³´ê´€ê³¼ Alz ìž…ê¸ˆì´ ê°€ëŠ¥í•©ë‹ˆë‹¤. ë¬¼ê±´ì„ ì°¾ê±°ë‚˜ Alzë¥¼ ì¶œê¸ˆí•˜ëŠ” ì¼ì€ ê¶Œí•œì´ ìžˆëŠ” ê¸¸ë“œì›ë§Œ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="54"	>
-			<content	help_id="157"	title_name="±¹°¡"	help_image="nation_choice01"	help_desc="Ä³¸¯ÅÍ°¡ 52 ·¹º§ ÀÌ»ó, Å¬·¡½º µî±Þ 6ÀÌ»óÀÏ ¶§, ½Ã³ª¸®¿À Äù½ºÆ® ±×·ì '¼­¸·'ÀÇ '¹«¾ùÀ» À§ÇØ ½Î¿ì°í ÀÖ´Â°¡' Äù½ºÆ®¸¦ ÅëÇØ ÁöÁö ±¹°¡¸¦ ¼±ÅÃÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="158"	title_name="±¹°¡"	help_image="nation_choice02"	help_desc="95·¹º§ ÀÌ»ó, Å¬·¡½º µî±Þ 10ÀÌ»óÀÌ¸é ½Ã³ª¸®¿À Äù½ºÆ® ±×·ì 'Àü¿î'À» ÅëÇØ ¼Ò¼Ó ±¹°¡¸¦ °áÁ¤ÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀÌ¶§, ÁöÁöÇß´ø ±¹°¡¿Í ´Ù¸¥ ±¹°¡¸¦ ¼±ÅÃÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="159"	title_name="±¹°¡"	help_image="nation_othernation"	help_desc="±¹°¡¸¦ ¼±ÅÃÇÑ ÈÄ¿¡´Â ÀüÀï Ã¤³Î ¹× ÀüÀï ¸Ê¿¡¼­ Å¸ ±¹°¡ ¼Ò¼Ó Ä³¸¯ÅÍ³ª ±¹°¡ ¹Ì¼±ÅÃ Ä³¸¯ÅÍ¿Í Ã¤ÆÃ ¹× Ä³¸¯ÅÍ¸í, ±æµå¸í µîÀÇ Á¤º¸ È®ÀÎÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù."	/>
-			<content	help_id="160"	title_name="±¹°¡"	help_image="nation_blacktransmuter"	help_desc="ºí·¢ Æ®·£½º¹ÂÅÍ¸¦ ¼ÒÁöÇÏ°í ÀÖÀ» °æ¿ì Æ÷Æ® ·è½ºÀÇ ¿ÀÇÇ¼­¿¡°Ô '¾îµÒ ¼Ó¿¡¼­ ¹æÈ²ÇÏ´Â ÀÚ'Äù½ºÆ®¸¦ ¹ÞÀ» ¼ö ÀÖÀ¸¸ç ÇØ´ç Äù½ºÆ®¸¦ ¿Ï·áÇÏ¸é ¼Ò¼Ó ±¹°¡¸¦ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù. ºí·¢ Æ®·£½º¹ÂÅÍ´Â ¾ÆÀÌÅÛ¼¥¿¡¼­ ±¸ÀÔÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="157"	title_name="êµ­ê°€"	help_image="nation_choice01"	help_desc="ìºë¦­í„°ê°€ 52 ë ˆë²¨ ì´ìƒ, í´ëž˜ìŠ¤ ë“±ê¸‰ 6ì´ìƒì¼ ë•Œ, ì‹œë‚˜ë¦¬ì˜¤ í€˜ìŠ¤íŠ¸ ê·¸ë£¹ 'ì„œë§‰'ì˜ 'ë¬´ì—‡ì„ ìœ„í•´ ì‹¸ìš°ê³  ìžˆëŠ”ê°€' í€˜ìŠ¤íŠ¸ë¥¼ í†µí•´ ì§€ì§€ êµ­ê°€ë¥¼ ì„ íƒí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="158"	title_name="êµ­ê°€"	help_image="nation_choice02"	help_desc="95ë ˆë²¨ ì´ìƒ, í´ëž˜ìŠ¤ ë“±ê¸‰ 10ì´ìƒì´ë©´ ì‹œë‚˜ë¦¬ì˜¤ í€˜ìŠ¤íŠ¸ ê·¸ë£¹ 'ì „ìš´'ì„ í†µí•´ ì†Œì† êµ­ê°€ë¥¼ ê²°ì •í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì´ë•Œ, ì§€ì§€í–ˆë˜ êµ­ê°€ì™€ ë‹¤ë¥¸ êµ­ê°€ë¥¼ ì„ íƒí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="159"	title_name="êµ­ê°€"	help_image="nation_othernation"	help_desc="êµ­ê°€ë¥¼ ì„ íƒí•œ í›„ì—ëŠ” ì „ìŸ ì±„ë„ ë° ì „ìŸ ë§µì—ì„œ íƒ€ êµ­ê°€ ì†Œì† ìºë¦­í„°ë‚˜ êµ­ê°€ ë¯¸ì„ íƒ ìºë¦­í„°ì™€ ì±„íŒ… ë° ìºë¦­í„°ëª…, ê¸¸ë“œëª… ë“±ì˜ ì •ë³´ í™•ì¸ì´ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤."	/>
+			<content	help_id="160"	title_name="êµ­ê°€"	help_image="nation_blacktransmuter"	help_desc="ë¸”ëž™ íŠ¸ëžœìŠ¤ë®¤í„°ë¥¼ ì†Œì§€í•˜ê³  ìžˆì„ ê²½ìš° í¬íŠ¸ ë£©ìŠ¤ì˜ ì˜¤í”¼ì„œì—ê²Œ 'ì–´ë‘  ì†ì—ì„œ ë°©í™©í•˜ëŠ” ìž'í€˜ìŠ¤íŠ¸ë¥¼ ë°›ì„ ìˆ˜ ìžˆìœ¼ë©° í•´ë‹¹ í€˜ìŠ¤íŠ¸ë¥¼ ì™„ë£Œí•˜ë©´ ì†Œì† êµ­ê°€ë¥¼ ë³€ê²½í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë¸”ëž™ íŠ¸ëžœìŠ¤ë®¤í„°ëŠ” ì•„ì´í…œìƒµì—ì„œ êµ¬ìž…í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="55"	>
-			<content	help_id="161"	title_name="¹Ì¼ÇÀüÀï Ã¤³Î ÁøÀÔ"	help_image="war_go"	help_desc="¹Ì¼ÇÀüÀï Ã¤³Î¿¡´Â Á¤ÇØÁø ½Ã°£¿¡ ±¹°¡¸¦ ¼±ÅÃÇÑ Ä³¸¯ÅÍ¸¸ÀÌ ÁøÀÔÀÌ °¡´ÉÇÕ´Ï´Ù. ÁøÀÔ ÈÄ¿¡´Â ÇØ´ç ±¹°¡ Àü¿ë ·Îºñ¿¡ µé¾î°¡°Ô µË´Ï´Ù. ¹Ì¼Ç ÀüÀï ·Îºñ¿¡´Â ½ÃÀÛ Àü 10ºÐ, Á¾·á ÈÄ 30ºÐµ¿¾È ÁøÀÔÇØ ÀÖÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="162"	title_name="¹Ì¼ÇÀüÀï Ã¤³Î ÁøÀÔ"	help_image="war_go"	help_desc="[¹Ì¼Ç ÀüÀï Ã¤³Î ¿ÀÇÂ ½Ã°£] 1ÀÏ 5È¸ \ÆòÀÏ [01½Ã / 10½Ã / 14½Ã / 19½Ã / 22½Ã] \ÁÖ¸» [01½Ã / 10½Ã / 14½Ã / 18½Ã / 22½Ã]"	/>
+			<content	help_id="161"	title_name="ë¯¸ì…˜ì „ìŸ ì±„ë„ ì§„ìž…"	help_image="war_go"	help_desc="ë¯¸ì…˜ì „ìŸ ì±„ë„ì—ëŠ” ì •í•´ì§„ ì‹œê°„ì— êµ­ê°€ë¥¼ ì„ íƒí•œ ìºë¦­í„°ë§Œì´ ì§„ìž…ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤. ì§„ìž… í›„ì—ëŠ” í•´ë‹¹ êµ­ê°€ ì „ìš© ë¡œë¹„ì— ë“¤ì–´ê°€ê²Œ ë©ë‹ˆë‹¤. ë¯¸ì…˜ ì „ìŸ ë¡œë¹„ì—ëŠ” ì‹œìž‘ ì „ 10ë¶„, ì¢…ë£Œ í›„ 30ë¶„ë™ì•ˆ ì§„ìž…í•´ ìžˆì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="162"	title_name="ë¯¸ì…˜ì „ìŸ ì±„ë„ ì§„ìž…"	help_image="war_go"	help_desc="[ë¯¸ì…˜ ì „ìŸ ì±„ë„ ì˜¤í”ˆ ì‹œê°„] 1ì¼ 5íšŒ \í‰ì¼ [01ì‹œ / 10ì‹œ / 14ì‹œ / 19ì‹œ / 22ì‹œ] \ì£¼ë§ [01ì‹œ / 10ì‹œ / 14ì‹œ / 18ì‹œ / 22ì‹œ]"	/>
 		</help>
 		<help	title_id="56"	>
-			<content	help_id="163"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	help_image="warhowto_basic"	help_desc="ÀüÀå¿¡ ÁøÀÔÇÑ Ä³¸¯ÅÍ´Â ¼Ò¼Ó ±¹°¡ÀÇ '±âÁö'¿¡ À§Ä¡ÇÏ°Ô µË´Ï´Ù. ±âÁö´Â °¢ ±¹°¡º° ÇÑ °÷¸¸ÀÌ Á¸ÀçÇÏ¸ç Áß¾ÓÀÇ '¼¼ÀÌÁö½º ¿£»çÀÎ'ÀÌ ÆÄ±«´çÇÏ¸é ±âÁö°¡ Á¡·É´çÇÕ´Ï´Ù."	/>
-			<content	help_id="164"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	help_image="warhowto_base"	help_desc="ÀüÀå °÷°÷¿¡´Â '°ÅÁ¡'ÀÌ¶ó´Â Àå¼Ò°¡ Á¸ÀçÇÕ´Ï´Ù. °ÅÁ¡Àº ±âº»ÀûÀ¸·Î Áß¸³»óÅÂÁö¸¸ Áß¾Ó¿¡ ÀÖ´Â ·¹°Å½Ã ÄÚ¾î¸¦ Å¬¸¯ÇÏ¸é Á¡·ÉÇÒ ¼ö ÀÖ½À´Ï´Ù. ·¹°Å½Ã ÄÚ¾î¸¦ Å¬¸¯ÇÏ±â À§ÇØ¼­´Â ¸ÕÀú ÄÚ¾î¸¦ µÑ·¯½Î°í ÀÖ´Â ·¹°Å½Ã ¹è¸®¾î¸¦ ÆÄ±«ÇØ¾ß ÇÕ´Ï´Ù."	/>
-			<content	help_id="165"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	help_image="warhowto_guardian"	help_desc="·¹°Å½Ã °¡µð¾ðÀº °ÅÁ¡À» ¼öÈ£ÇÏ´Â ¸ó½ºÅÍ·Î °ÅÁ¡ÀÇ ±Ô¸ð¿¡ µû¶ó ´Ù¸¥ ´É·ÂÄ¡¸¦ Áö´Ï°í ÀÖ½À´Ï´Ù. ·¹°Å½Ã °¡µð¾ðÀ» ÆÄ±«ÇÏ¸é µ¿½Ã¿¡ ÇØ´ç °ÅÁ¡ÀÇ ¹è¸®¾î°¡ ÀÚµ¿À¸·Î ÆÄ±«µË´Ï´Ù."	/>
-			<content	help_id="166"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	help_image="warhowto_legacy"	help_desc="°ÅÁ¡À» Á¡·ÉÇÒ °æ¿ì ·¹°Å½Ã ¿þÆùÀÌ¶ó´Â Æ¯¼öÇÑ ¹«±â¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. ÀÌ ¹«±â´Â ¿À·ÎÁö ÀüÀå¿¡¼­¸¸ »ç¿ëÀÌ °¡´ÉÇÏ¸ç ¼ÒÁöÀÚÀÇ ¹èÆ² ½ºÅ¸ÀÏ¿¡ µû¶ó ÀÚµ¿À¸·Î Á¾·ù ¹× ¿ÜÇü, ´É·ÂÄ¡°¡ º¯È­ÇÕ´Ï´Ù."	/>
-			<content	help_id="167"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	help_image="warhowto_forcetower01"	help_desc="Æ÷½º Å¸¿ö´Â ¹Ì¼Ç ÀüÀïÀÇ ÀüÀå¿¡¼­¸¸ °Ç¼³ÇÒ ¼ö ÀÖ´Â ´Ù¸ñÀû °Ç¹°ÀÔ´Ï´Ù. Æ÷½º Å¸¿ö¸¦ ¼³Ä¡ÇÒ ¶§¿¡´Â ÀÏÁ¤·®ÀÇ Alz³ª ÀüÀï Æ÷ÀÎÆ®¸¦ ¼ÒºñÇÏ°Ô µË´Ï´Ù."	/>
-			<content	help_id="168"	title_name="¹Ì¼ÇÀüÀï ÁøÇà"	help_image="warhowto_forcetower02"	help_desc="Æ÷½º Å¸¿ö´Â À§Ä¡¿¡ Á¦ÇÑÀ» ¹ÞÁö ¾Ê°í ÀÚÀ¯·Ó°Ô ¼³Ä¡ÇÒ ¼ö ÀÖ´Â ÀÚÀ¯¼³Ä¡Çü°ú ±âÁö/°ÅÁ¡ ÁÖº¯ÀÇ FTÆÐ³Î¿¡¼­¸¸ ¼³Ä¡ÇÒ ¼ö ÀÖ´Â °íÁ¤¼³Ä¡ÇüÀÇ µÎ Á¾·ù°¡ Á¸ÀçÇÕ´Ï´Ù."	/>
+			<content	help_id="163"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	help_image="warhowto_basic"	help_desc="ì „ìž¥ì— ì§„ìž…í•œ ìºë¦­í„°ëŠ” ì†Œì† êµ­ê°€ì˜ 'ê¸°ì§€'ì— ìœ„ì¹˜í•˜ê²Œ ë©ë‹ˆë‹¤. ê¸°ì§€ëŠ” ê° êµ­ê°€ë³„ í•œ ê³³ë§Œì´ ì¡´ìž¬í•˜ë©° ì¤‘ì•™ì˜ 'ì„¸ì´ì§€ìŠ¤ ì—”ì‚¬ì¸'ì´ íŒŒê´´ë‹¹í•˜ë©´ ê¸°ì§€ê°€ ì ë ¹ë‹¹í•©ë‹ˆë‹¤."	/>
+			<content	help_id="164"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	help_image="warhowto_base"	help_desc="ì „ìž¥ ê³³ê³³ì—ëŠ” 'ê±°ì 'ì´ë¼ëŠ” ìž¥ì†Œê°€ ì¡´ìž¬í•©ë‹ˆë‹¤. ê±°ì ì€ ê¸°ë³¸ì ìœ¼ë¡œ ì¤‘ë¦½ìƒíƒœì§€ë§Œ ì¤‘ì•™ì— ìžˆëŠ” ë ˆê±°ì‹œ ì½”ì–´ë¥¼ í´ë¦­í•˜ë©´ ì ë ¹í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ë ˆê±°ì‹œ ì½”ì–´ë¥¼ í´ë¦­í•˜ê¸° ìœ„í•´ì„œëŠ” ë¨¼ì € ì½”ì–´ë¥¼ ë‘˜ëŸ¬ì‹¸ê³  ìžˆëŠ” ë ˆê±°ì‹œ ë°°ë¦¬ì–´ë¥¼ íŒŒê´´í•´ì•¼ í•©ë‹ˆë‹¤."	/>
+			<content	help_id="165"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	help_image="warhowto_guardian"	help_desc="ë ˆê±°ì‹œ ê°€ë””ì–¸ì€ ê±°ì ì„ ìˆ˜í˜¸í•˜ëŠ” ëª¬ìŠ¤í„°ë¡œ ê±°ì ì˜ ê·œëª¨ì— ë”°ë¼ ë‹¤ë¥¸ ëŠ¥ë ¥ì¹˜ë¥¼ ì§€ë‹ˆê³  ìžˆìŠµë‹ˆë‹¤. ë ˆê±°ì‹œ ê°€ë””ì–¸ì„ íŒŒê´´í•˜ë©´ ë™ì‹œì— í•´ë‹¹ ê±°ì ì˜ ë°°ë¦¬ì–´ê°€ ìžë™ìœ¼ë¡œ íŒŒê´´ë©ë‹ˆë‹¤."	/>
+			<content	help_id="166"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	help_image="warhowto_legacy"	help_desc="ê±°ì ì„ ì ë ¹í•  ê²½ìš° ë ˆê±°ì‹œ ì›¨í°ì´ë¼ëŠ” íŠ¹ìˆ˜í•œ ë¬´ê¸°ë¥¼ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì´ ë¬´ê¸°ëŠ” ì˜¤ë¡œì§€ ì „ìž¥ì—ì„œë§Œ ì‚¬ìš©ì´ ê°€ëŠ¥í•˜ë©° ì†Œì§€ìžì˜ ë°°í‹€ ìŠ¤íƒ€ì¼ì— ë”°ë¼ ìžë™ìœ¼ë¡œ ì¢…ë¥˜ ë° ì™¸í˜•, ëŠ¥ë ¥ì¹˜ê°€ ë³€í™”í•©ë‹ˆë‹¤."	/>
+			<content	help_id="167"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	help_image="warhowto_forcetower01"	help_desc="í¬ìŠ¤ íƒ€ì›ŒëŠ” ë¯¸ì…˜ ì „ìŸì˜ ì „ìž¥ì—ì„œë§Œ ê±´ì„¤í•  ìˆ˜ ìžˆëŠ” ë‹¤ëª©ì  ê±´ë¬¼ìž…ë‹ˆë‹¤. í¬ìŠ¤ íƒ€ì›Œë¥¼ ì„¤ì¹˜í•  ë•Œì—ëŠ” ì¼ì •ëŸ‰ì˜ Alzë‚˜ ì „ìŸ í¬ì¸íŠ¸ë¥¼ ì†Œë¹„í•˜ê²Œ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="168"	title_name="ë¯¸ì…˜ì „ìŸ ì§„í–‰"	help_image="warhowto_forcetower02"	help_desc="í¬ìŠ¤ íƒ€ì›ŒëŠ” ìœ„ì¹˜ì— ì œí•œì„ ë°›ì§€ ì•Šê³  ìžìœ ë¡­ê²Œ ì„¤ì¹˜í•  ìˆ˜ ìžˆëŠ” ìžìœ ì„¤ì¹˜í˜•ê³¼ ê¸°ì§€/ê±°ì  ì£¼ë³€ì˜ FTíŒ¨ë„ì—ì„œë§Œ ì„¤ì¹˜í•  ìˆ˜ ìžˆëŠ” ê³ ì •ì„¤ì¹˜í˜•ì˜ ë‘ ì¢…ë¥˜ê°€ ì¡´ìž¬í•©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="57"	>
-			<content	help_id="169"	title_name="¹Ì¼ÇÀüÀï Á¾·á"	help_image="warend_score"	help_desc="¹Ì¼Ç ÀüÀï ÁøÇà Áß¿¡´Â ¾Æ±ºÀÇ Çàµ¿¿¡ ÀÇÇØ ½ºÄÚ¾î°¡ ½×ÀÌ°Ô µË´Ï´Ù. ÀüÀï ½Ã°£ÀÌ ¸ðµÎ Áö³ª¸é ÀÌ ½ºÄÚ¾î¿¡ µû¶ó ¹Ì¼Ç ÀüÀïÀÇ ½ÂÆÐ°¡ °¥¸®°Ô µË´Ï´Ù."	/>
-			<content	help_id="170"	title_name="¹Ì¼ÇÀüÀï Á¾·á"	help_image="warend_calledgame"	help_desc="³²Àº ½Ã°£°ú °ü°è¾øÀÌ ÄÝµå °ÔÀÓÀ¸·Î ½ÂÆÐ°¡ °¥¸± ¼ö ÀÖ½À´Ï´Ù. 'ÇÑ ±¹°¡ÀÇ ±âÁö¿Í °ÅÁ¡ÀÌ ¸ðµÎ Á¡·É'´çÇÏ°Å³ª 'ÇÑ ±¹°¡ÀÇ ½ºÄÚ¾î°¡ ÃÖ°íÄ¡¿¡ ´Ù´Ù¸¥ °æ¿ì'ÀÇ µÎ Á¶°Ç Áß ÇÏ³ª¸¦ ¸¸Á·ÇÏ¸é ÄÝµå °ÔÀÓÀ¸·Î ÀüÀïÀÌ Á¾·áµË´Ï´Ù."	/>
+			<content	help_id="169"	title_name="ë¯¸ì…˜ì „ìŸ ì¢…ë£Œ"	help_image="warend_score"	help_desc="ë¯¸ì…˜ ì „ìŸ ì§„í–‰ ì¤‘ì—ëŠ” ì•„êµ°ì˜ í–‰ë™ì— ì˜í•´ ìŠ¤ì½”ì–´ê°€ ìŒ“ì´ê²Œ ë©ë‹ˆë‹¤. ì „ìŸ ì‹œê°„ì´ ëª¨ë‘ ì§€ë‚˜ë©´ ì´ ìŠ¤ì½”ì–´ì— ë”°ë¼ ë¯¸ì…˜ ì „ìŸì˜ ìŠ¹íŒ¨ê°€ ê°ˆë¦¬ê²Œ ë©ë‹ˆë‹¤."	/>
+			<content	help_id="170"	title_name="ë¯¸ì…˜ì „ìŸ ì¢…ë£Œ"	help_image="warend_calledgame"	help_desc="ë‚¨ì€ ì‹œê°„ê³¼ ê´€ê³„ì—†ì´ ì½œë“œ ê²Œìž„ìœ¼ë¡œ ìŠ¹íŒ¨ê°€ ê°ˆë¦´ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. 'í•œ êµ­ê°€ì˜ ê¸°ì§€ì™€ ê±°ì ì´ ëª¨ë‘ ì ë ¹'ë‹¹í•˜ê±°ë‚˜ 'í•œ êµ­ê°€ì˜ ìŠ¤ì½”ì–´ê°€ ìµœê³ ì¹˜ì— ë‹¤ë‹¤ë¥¸ ê²½ìš°'ì˜ ë‘ ì¡°ê±´ ì¤‘ í•˜ë‚˜ë¥¼ ë§Œì¡±í•˜ë©´ ì½œë“œ ê²Œìž„ìœ¼ë¡œ ì „ìŸì´ ì¢…ë£Œë©ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="58"	>
-			<content	help_id="171"	title_name="¹Ì¼ÇÀüÀï º¸»ó"	help_image="warreward_person"	help_desc="°³ÀÎÀÇ È°¾à Á¤µµ¿¡ µû¶ó ´Ù¸¥ º¸»óÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù. ½ÂÀü ¹è´ç±Ý°ú ÄÚ¾î Å¥ºê°¡ Áö±ÞµÇ¸ç ÇØ´ç º¸»óÀº ¸ÞÀÏÀ» ÅëÇØ °³°³ÀÎ¿¡°Ô Àü´ÞµË´Ï´Ù."	/>
-			<content	help_id="172"	title_name="¹Ì¼ÇÀüÀï º¸»ó"	help_image="warreward_etc"	help_desc="WExpµµ È¹µæÇÒ ¼ö ÀÖÀ¸¸ç, 120·¹º§ ÀÌ»óÀÇ Ä³¸¯ÅÍ´Â ½ºÄÚ¾î 1Á¡´ç 10¸¸AP¸¦ È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="173"	title_name="¹Ì¼ÇÀüÀï º¸»ó"	help_image="warreward_nation"	help_desc="±¹°¡ º¸»óÀº ¸ÅÁÖ ÀÏ¿äÀÏ 22 ½Ã¿¡ ¹ú¾îÁö´Â ÀüÀïÀÇ ½ÂÀü±¹¿¡¸¸ ÁÖ¾îÁö´Â º¸»óÀÔ´Ï´Ù. ÀüÀï Âü¿© ¿©ºÎ¿¡ °ü°è¾øÀÌ ½ÂÀü±¹¿¡ ¼Ò¼ÓµÈ ¸ðµç À¯Àú°¡ µ¿ÀÏÇÏ°Ô ÇýÅÃÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="174"	title_name="¹Ì¼ÇÀüÀï º¸»ó"	help_image="warreward_nation"	help_desc="±¹°¡ º¸»óÀÇ ³»¿ëÀº ¾Æ·¡¿Í °°½À´Ï´Ù. \- ¸ðµç ¿ùµåÀÇ °æÇèÄ¡ / ½ºÅ³ °æÇèÄ¡ / ¾ÆÀÌÅÜ µå·Ó·ü / AXP È¹µæ·® 10% Áõ°¡ \- ±¹°¡ º¸»ó ¿öÇÁ Æ÷ÀÎÆ®¸¦ ÀÚÀ¯·Ó°Ô »ç¿ë °¡´É(ÇÁ¸®¹Ì¾ö À¯Àú)"	/>
+			<content	help_id="171"	title_name="ë¯¸ì…˜ì „ìŸ ë³´ìƒ"	help_image="warreward_person"	help_desc="ê°œì¸ì˜ í™œì•½ ì •ë„ì— ë”°ë¼ ë‹¤ë¥¸ ë³´ìƒì„ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ìŠ¹ì „ ë°°ë‹¹ê¸ˆê³¼ ì½”ì–´ íë¸Œê°€ ì§€ê¸‰ë˜ë©° í•´ë‹¹ ë³´ìƒì€ ë©”ì¼ì„ í†µí•´ ê°œê°œì¸ì—ê²Œ ì „ë‹¬ë©ë‹ˆë‹¤."	/>
+			<content	help_id="172"	title_name="ë¯¸ì…˜ì „ìŸ ë³´ìƒ"	help_image="warreward_etc"	help_desc="WExpë„ íšë“í•  ìˆ˜ ìžˆìœ¼ë©°, 120ë ˆë²¨ ì´ìƒì˜ ìºë¦­í„°ëŠ” ìŠ¤ì½”ì–´ 1ì ë‹¹ 10ë§ŒAPë¥¼ íšë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="173"	title_name="ë¯¸ì…˜ì „ìŸ ë³´ìƒ"	help_image="warreward_nation"	help_desc="êµ­ê°€ ë³´ìƒì€ ë§¤ì£¼ ì¼ìš”ì¼ 22 ì‹œì— ë²Œì–´ì§€ëŠ” ì „ìŸì˜ ìŠ¹ì „êµ­ì—ë§Œ ì£¼ì–´ì§€ëŠ” ë³´ìƒìž…ë‹ˆë‹¤. ì „ìŸ ì°¸ì—¬ ì—¬ë¶€ì— ê´€ê³„ì—†ì´ ìŠ¹ì „êµ­ì— ì†Œì†ëœ ëª¨ë“  ìœ ì €ê°€ ë™ì¼í•˜ê²Œ í˜œíƒì„ ë°›ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="174"	title_name="ë¯¸ì…˜ì „ìŸ ë³´ìƒ"	help_image="warreward_nation"	help_desc="êµ­ê°€ ë³´ìƒì˜ ë‚´ìš©ì€ ì•„ëž˜ì™€ ê°™ìŠµë‹ˆë‹¤. \- ëª¨ë“  ì›”ë“œì˜ ê²½í—˜ì¹˜ / ìŠ¤í‚¬ ê²½í—˜ì¹˜ / ì•„ì´í… ë“œë¡­ë¥  / AXP íšë“ëŸ‰ 10% ì¦ê°€ \- êµ­ê°€ ë³´ìƒ ì›Œí”„ í¬ì¸íŠ¸ë¥¼ ìžìœ ë¡­ê²Œ ì‚¬ìš© ê°€ëŠ¥(í”„ë¦¬ë¯¸ì—„ ìœ ì €)"	/>
 		</help>
 		<help	title_id="59"	>
-			<content	help_id="175"	title_name="AXP/AP"	help_image="axpap_axp"	help_desc="AXP´Â ¼Ò¿ï ¾îºô¸®Æ¼ ±â´ÉÀ» »ç¿ëÇÏ±â À§ÇÑ °æÇèÄ¡ÀÔ´Ï´Ù. 120·¹º§ ÀÌ»óÀÇ Ä³¸¯ÅÍ¸¸ ¾òÀ» ¼ö ÀÖÀ¸¸ç, »ç³É, Äù½ºÆ®, ¹Ì¼Ç ÀüÀïÀ» ÅëÇØ ½ÀµæÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="176"	title_name="AXP/AP"	help_image="axpap_ap"	help_desc="1000¸¸ AXP¸¦ È¹µæÇÏ¸é 1¾îºô¸®Æ¼ Æ÷ÀÎÆ®(AP)¸¦ ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. AP´Â ¿¡¼¾½º ·é°ú ºí·»µðµå ·éÀÇ ÀåÂø ¶Ç´Â ·¹º§¾÷À¸·Î ¼Ò¸ðÇÏ¸ç, 700AP°¡ ´©ÀûµÇ¸é ´õÀÌ»ó AXP¸¦ È¹µæÇÒ ¼ö ¾ø½À´Ï´Ù."	/>
+			<content	help_id="175"	title_name="AXP/AP"	help_image="axpap_axp"	help_desc="AXPëŠ” ì†Œìš¸ ì–´ë¹Œë¦¬í‹° ê¸°ëŠ¥ì„ ì‚¬ìš©í•˜ê¸° ìœ„í•œ ê²½í—˜ì¹˜ìž…ë‹ˆë‹¤. 120ë ˆë²¨ ì´ìƒì˜ ìºë¦­í„°ë§Œ ì–»ì„ ìˆ˜ ìžˆìœ¼ë©°, ì‚¬ëƒ¥, í€˜ìŠ¤íŠ¸, ë¯¸ì…˜ ì „ìŸì„ í†µí•´ ìŠµë“í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="176"	title_name="AXP/AP"	help_image="axpap_ap"	help_desc="1000ë§Œ AXPë¥¼ íšë“í•˜ë©´ 1ì–´ë¹Œë¦¬í‹° í¬ì¸íŠ¸(AP)ë¥¼ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. APëŠ” ì—ì„¼ìŠ¤ ë£¬ê³¼ ë¸”ë Œë””ë“œ ë£¬ì˜ ìž¥ì°© ë˜ëŠ” ë ˆë²¨ì—…ìœ¼ë¡œ ì†Œëª¨í•˜ë©°, 700APê°€ ëˆ„ì ë˜ë©´ ë”ì´ìƒ AXPë¥¼ íšë“í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="60"	>
-			<content	help_id="177"	title_name="¿¡¼¾½º ·é"	help_image="essencerune_equip"	help_desc="¿¡¼¾½º¸¦ ÀåÂøÇÏ±â À§ÇØ¼­´Â ¿¡¼¾½º ·éÀÌ ÇÊ¿äÇÕ´Ï´Ù. ¿¡¼¾½º ·éÀ» È¹µæÇÏ¿© ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¸é, ¿¡¼¾½º°¡ ÀåÂøµË´Ï´Ù. ¿¡¼¾½º ÀåÂø¿¡´Â AP°¡ ¼Ò¸ðµË´Ï´Ù."	/>
-			<content	help_id="178"	title_name="¿¡¼¾½º ·é"	help_image="essencerune_del"	help_desc="ÀåÂøµÈ ¿¡¼¾½º ¿ìÃøÀÇ X ¹öÆ°À» Å¬¸¯ÇÏ¸é ÇØ´ç ¿¡¼¾½º¸¦ »èÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="179"	title_name="¿¡¼¾½º ·é"	help_image="essencerune_requirement"	help_desc="¿¡¼¾½º¸¦ ·¹º§¾÷½ÃÅ°±â À§ÇØ¼­´Â AP¿Í ÄÚ¾î°¡ ÇÊ¿äÇÕ´Ï´Ù. ÇÊ¿ä ÄÚ¾î´Â Æ÷½º ÄÚ¾î(»ó±Þ)¿¡¼­ ºÎÅÍ ¾÷±×·¹ÀÌµå ÄÚ¾î(ÃÖ»ó±Þ)±îÁö Á¸ÀçÇÏ¸ç, ¿¡¼¾½ºÀÇ Á¾·ù¿Í ·¹º§¿¡ µû¶ó ÇÊ¿ä °³¼ö°¡ ´Þ¶óÁý´Ï´Ù."	/>
+			<content	help_id="177"	title_name="ì—ì„¼ìŠ¤ ë£¬"	help_image="essencerune_equip"	help_desc="ì—ì„¼ìŠ¤ë¥¼ ìž¥ì°©í•˜ê¸° ìœ„í•´ì„œëŠ” ì—ì„¼ìŠ¤ ë£¬ì´ í•„ìš”í•©ë‹ˆë‹¤. ì—ì„¼ìŠ¤ ë£¬ì„ íšë“í•˜ì—¬ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ë©´, ì—ì„¼ìŠ¤ê°€ ìž¥ì°©ë©ë‹ˆë‹¤. ì—ì„¼ìŠ¤ ìž¥ì°©ì—ëŠ” APê°€ ì†Œëª¨ë©ë‹ˆë‹¤."	/>
+			<content	help_id="178"	title_name="ì—ì„¼ìŠ¤ ë£¬"	help_image="essencerune_del"	help_desc="ìž¥ì°©ëœ ì—ì„¼ìŠ¤ ìš°ì¸¡ì˜ X ë²„íŠ¼ì„ í´ë¦­í•˜ë©´ í•´ë‹¹ ì—ì„¼ìŠ¤ë¥¼ ì‚­ì œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="179"	title_name="ì—ì„¼ìŠ¤ ë£¬"	help_image="essencerune_requirement"	help_desc="ì—ì„¼ìŠ¤ë¥¼ ë ˆë²¨ì—…ì‹œí‚¤ê¸° ìœ„í•´ì„œëŠ” APì™€ ì½”ì–´ê°€ í•„ìš”í•©ë‹ˆë‹¤. í•„ìš” ì½”ì–´ëŠ” í¬ìŠ¤ ì½”ì–´(ìƒê¸‰)ì—ì„œ ë¶€í„° ì—…ê·¸ë ˆì´ë“œ ì½”ì–´(ìµœìƒê¸‰)ê¹Œì§€ ì¡´ìž¬í•˜ë©°, ì—ì„¼ìŠ¤ì˜ ì¢…ë¥˜ì™€ ë ˆë²¨ì— ë”°ë¼ í•„ìš” ê°œìˆ˜ê°€ ë‹¬ë¼ì§‘ë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="61"	>
-			<content	help_id="180"	title_name="ºí·»µðµå ·é"	help_image="blendedrune_basic"	help_desc="ºí·»µðµå ·éÀº ¿¡¼¾½º ·é°ú ¾÷±×·¹ÀÌµå ÄÚ¾îÀÇ Á¶ÇÕÀ¸·Î Á¦Á¶µÇ´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù. ºí·»µðµå ·éÀÇ Á¦Á¶´Â ºí·¯µð ¾ÆÀÌ½ºÀÇ NPC ·é ¿¡ÀÌÀüÆ® ÇÃ¶ó»þ¸¦ ÅëÇØ ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="181"	title_name="ºí·»µðµå ·é"	help_image="blendedrune_equip"	help_desc="ºí·»µðµå ·é ¾ÆÀÌÅÛÀ» ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¸é ÀåÂøÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="182"	title_name="ºí·»µðµå ·é"	help_image="blendedrune_apply"	help_desc="ÀåÂøµÈ ºí·»µðµå¸¦ ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇÏ¸é ¼±ÅÃÇÒ ¼ö ÀÖ½À´Ï´Ù. ¼±ÅÃÇÑ ºí·»µðµåÀÇ ¹ßµ¿È®·ü¿¡ µû¶ó ´ë»ó¿¡°Ô È¿°ú°¡ Àû¿ëµË´Ï´Ù."	/>
-			<content	help_id="183"	title_name="ºí·»µðµå ·é"	help_image="blendedrune_del"	help_desc="ÀåÂøµÈ ºí·»µðµå ¿ìÃøÀÇ X ¹öÆ°À» Å¬¸¯ÇÏ¸é ÇØ´ç ºí·»µðµå¸¦ »èÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="180"	title_name="ë¸”ë Œë””ë“œ ë£¬"	help_image="blendedrune_basic"	help_desc="ë¸”ë Œë””ë“œ ë£¬ì€ ì—ì„¼ìŠ¤ ë£¬ê³¼ ì—…ê·¸ë ˆì´ë“œ ì½”ì–´ì˜ ì¡°í•©ìœ¼ë¡œ ì œì¡°ë˜ëŠ” ì•„ì´í…œìž…ë‹ˆë‹¤. ë¸”ë Œë””ë“œ ë£¬ì˜ ì œì¡°ëŠ” ë¸”ëŸ¬ë”” ì•„ì´ìŠ¤ì˜ NPC ë£¬ ì—ì´ì „íŠ¸ í”Œë¼ìƒ¤ë¥¼ í†µí•´ í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="181"	title_name="ë¸”ë Œë””ë“œ ë£¬"	help_image="blendedrune_equip"	help_desc="ë¸”ë Œë””ë“œ ë£¬ ì•„ì´í…œì„ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ë©´ ìž¥ì°©í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="182"	title_name="ë¸”ë Œë””ë“œ ë£¬"	help_image="blendedrune_apply"	help_desc="ìž¥ì°©ëœ ë¸”ë Œë””ë“œë¥¼ ë§ˆìš°ìŠ¤ ì˜¤ë¥¸ìª½ ë²„íŠ¼ìœ¼ë¡œ í´ë¦­í•˜ë©´ ì„ íƒí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì„ íƒí•œ ë¸”ë Œë””ë“œì˜ ë°œë™í™•ë¥ ì— ë”°ë¼ ëŒ€ìƒì—ê²Œ íš¨ê³¼ê°€ ì ìš©ë©ë‹ˆë‹¤."	/>
+			<content	help_id="183"	title_name="ë¸”ë Œë””ë“œ ë£¬"	help_image="blendedrune_del"	help_desc="ìž¥ì°©ëœ ë¸”ë Œë””ë“œ ìš°ì¸¡ì˜ X ë²„íŠ¼ì„ í´ë¦­í•˜ë©´ í•´ë‹¹ ë¸”ë Œë””ë“œë¥¼ ì‚­ì œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 		<help	title_id="62"	>
-			<content	help_id="184"	title_name="¼­ºêÆÐ½º¿öµå"	help_image="subpassword_basic"	help_desc="¼­ºêÆÐ½º¿öµå´Â °èÁ¤ µµ¿ë ¹æÁö¸¦ À§ÇÏ¿© Ä³¸¯ÅÍ, ÀÎº¥Åä¸®, Ã¢°í¿¡ ¼³Á¤ÇÒ ¼ö ÀÖ´Â ÆÐ½º¿öµåÀÔ´Ï´Ù. Ä³¸¯ÅÍ, ÀÎº¥Åä¸®, Ã¢°íÀÇ ÆÐ½º¿öµå´Â ¸ðµÎ ´Ù¸£°Ô ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
-			<content	help_id="185"	title_name="¼­ºêÆÐ½º¿öµå"	help_image="subpassword_reset"	help_desc="¼­ºêÆÐ½º¿öµå¿Í Áú¹®/´äº¯À» ºÐ½ÇÇßÀ» ¶§´Â È¨ÆäÀÌÁöÀÇ ¸¶ÀÌÆäÀÌÁö, °³ÀÎÁ¤º¸ º¯°æ¿¡ µé¾î°¡¼­ ¼­ºêÆÐ½º¿öµå ÃÊ±âÈ­ ¹öÆ°À» ÀÌ¿ëÇÏ¿© ¼­ºêÆÐ½º¿öµå¸¦ »èÁ¦ÇÒ ¼ö ÀÖ½À´Ï´Ù."	/>
+			<content	help_id="184"	title_name="ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œ"	help_image="subpassword_basic"	help_desc="ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œëŠ” ê³„ì • ë„ìš© ë°©ì§€ë¥¼ ìœ„í•˜ì—¬ ìºë¦­í„°, ì¸ë²¤í† ë¦¬, ì°½ê³ ì— ì„¤ì •í•  ìˆ˜ ìžˆëŠ” íŒ¨ìŠ¤ì›Œë“œìž…ë‹ˆë‹¤. ìºë¦­í„°, ì¸ë²¤í† ë¦¬, ì°½ê³ ì˜ íŒ¨ìŠ¤ì›Œë“œëŠ” ëª¨ë‘ ë‹¤ë¥´ê²Œ ì„¤ì •í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
+			<content	help_id="185"	title_name="ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œ"	help_image="subpassword_reset"	help_desc="ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œì™€ ì§ˆë¬¸/ë‹µë³€ì„ ë¶„ì‹¤í–ˆì„ ë•ŒëŠ” í™ˆíŽ˜ì´ì§€ì˜ ë§ˆì´íŽ˜ì´ì§€, ê°œì¸ì •ë³´ ë³€ê²½ì— ë“¤ì–´ê°€ì„œ ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œ ì´ˆê¸°í™” ë²„íŠ¼ì„ ì´ìš©í•˜ì—¬ ì„œë¸ŒíŒ¨ìŠ¤ì›Œë“œë¥¼ ì‚­ì œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."	/>
 		</help>
 	</helpcontent>
 	<helpcondition>

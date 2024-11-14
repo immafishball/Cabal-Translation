@@ -1,94 +1,94 @@
 
 <NPCShop_message>
 		<Shop	Pool_ID="45"	>
-			<msg	id="0"	name="¹ßµÎ½º"	tooltip="¹ßµÎ½ºÀÇ ÅäÅ«"	/>
+			<msg	id="0"	name="ë°œë‘ìŠ¤"	tooltip="ë°œë‘ìŠ¤ì˜ í† í°"	/>
 		</Shop>
 		<Shop	Pool_ID="46"	>
-			<msg	id="0"	name="ÄÚ¾î"	tooltip="¾Ç¸¶ÀÇ ÁõÇ¥ (»ó±Þ)"	/>
-			<msg	id="1"	name="Àç·á"	tooltip="¾Ç¸¶ÀÇ ÁõÇ¥ (»ó±Þ)"	/>
+			<msg	id="0"	name="ì½”ì–´"	tooltip="ì•…ë§ˆì˜ ì¦í‘œ (ìƒê¸‰)"	/>
+			<msg	id="1"	name="ìž¬ë£Œ"	tooltip="ì•…ë§ˆì˜ ì¦í‘œ (ìƒê¸‰)"	/>
 		</Shop>
 		<Shop	Pool_ID="47"	>
-			<msg	id="0"	name="ÄÚ¾î"	tooltip="¾Ç¸¶ÀÇ ÁõÇ¥ (ÃÖ»ó±Þ)"	/>
-			<msg	id="1"	name="Àç·á"	tooltip="¾Ç¸¶ÀÇ ÁõÇ¥ (ÃÖ»ó±Þ)"	/>
+			<msg	id="0"	name="ì½”ì–´"	tooltip="ì•…ë§ˆì˜ ì¦í‘œ (ìµœìƒê¸‰)"	/>
+			<msg	id="1"	name="ìž¬ë£Œ"	tooltip="ì•…ë§ˆì˜ ì¦í‘œ (ìµœìƒê¸‰)"	/>
 		</Shop>
 		<Shop	Pool_ID="50"	>
-			<msg	id="0"	name="ÀÔÀå±Ç"	tooltip="½ºÆä¼È ±³È¯±Ç"	/>
-			<msg	id="1"	name="¸í¿¹"	tooltip="½ºÆä¼È ±³È¯±Ç"	/>
-			<msg	id="2"	name="½ÅÈ­"	tooltip="½ºÆä¼È ±³È¯±Ç"	/>
-			<msg	id="3"	name="ÃÊ¿ù"	tooltip="½ºÆä¼È ±³È¯±Ç"	/>
-			<msg	id="4"	name="´Ü·Ã"	tooltip="½ºÆä¼È ±³È¯±Ç"	/>
-			<msg	id="5"	name="±âÅ¸"	tooltip="½ºÆä¼È ±³È¯±Ç"	/>
+			<msg	id="0"	name="ìž…ìž¥ê¶Œ"	tooltip="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ"	/>
+			<msg	id="1"	name="ëª…ì˜ˆ"	tooltip="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ"	/>
+			<msg	id="2"	name="ì‹ í™”"	tooltip="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ"	/>
+			<msg	id="3"	name="ì´ˆì›”"	tooltip="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ"	/>
+			<msg	id="4"	name="ë‹¨ë ¨"	tooltip="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ"	/>
+			<msg	id="5"	name="ê¸°íƒ€"	tooltip="ìŠ¤íŽ˜ì…œ êµí™˜ê¶Œ"	/>
 		</Shop>
 		<Shop	Pool_ID="53"	>
-			<msg	id="0"	name="½Ã·Ã"	tooltip="½Ã·ÃÀÇ ÁõÇ¥"	/>
+			<msg	id="0"	name="ì‹œë ¨"	tooltip="ì‹œë ¨ì˜ ì¦í‘œ"	/>
 		</Shop>
 		<npc_name>
-			<msg	id="npc00-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc01-0004"	cont="ÇÁ·òÆ®"	/>
-			<msg	id="npc01-0005"	cont="»çÀÌ¸Õ"	/>
-			<msg	id="npc01-0006"	cont="ÄÌ·¯"	/>
-			<msg	id="npc01-0007"	cont="µ¥ÀÌÆ°"	/>
-			<msg	id="npc01-0044"	cont="¼¼ºñ¾î½º"	/>
-			<msg	id="npc01-0045"	cont="°í´ëÀÇ À¯·É"	/>
-			<msg	id="npc01-0046"	cont="À¯³í"	/>
-			<msg	id="npc01-0081"	cont="±³È¯¸Ó½Å"	/>
-			<msg	id="npc01-0083"	cont="È÷·Î±Û¸®"	/>
-			<msg	id="npc01-0035"	cont="ÇÃ¶ó»þ"	/>
-			<msg	id="npc01-0084"	cont="ÀÚº£¸¥"	/>
-			<msg	id="npc02-0004"	cont="¸ÞÄ¡¾Æ½º"	/>
-			<msg	id="npc02-0005"	cont="µð¿Â"	/>
-			<msg	id="npc02-0006"	cont="¼³¸®¹Ý"	/>
-			<msg	id="npc02-0007"	cont="¿¡ÀÏ·» ³²¸Å"	/>
-			<msg	id="npc02-0078"	cont="¶ó»þ"	/>
-			<msg	id="npc03-0004"	cont="¹ÌÆ®·ÎÇÁ"	/>
-			<msg	id="npc03-0005"	cont="ÄÝ¸°Áî"	/>
-			<msg	id="npc03-0006"	cont="³ë´ÙÄ«"	/>
-			<msg	id="npc03-0007"	cont="¸®º£Æ®"	/>
-			<msg	id="npc03-0078"	cont="¾ÆÀÌµ¥¸¥"	/>
-			<msg	id="npc04-0004"	cont="¿¡ÀÌÆ®"	/>
-			<msg	id="npc04-0005"	cont="¾Æ±×¸®½º"	/>
-			<msg	id="npc04-0006"	cont="¿¹¸£Æ®"	/>
-			<msg	id="npc04-0007"	cont="ÇÜÇÁ¸¯"	/>
-			<msg	id="npc04-0013"	cont="ÆäÆ¼»þ"	/>
-			<msg	id="npc04-0014"	cont="Å¬·ÎÀÌ"	/>
-			<msg	id="npc05-0004"	cont="³ªÀÚ¹Ù"	/>
-			<msg	id="npc05-0005"	cont="·É"	/>
-			<msg	id="npc05-0006"	cont="¼Ò¿µ"	/>
-			<msg	id="npc05-0007"	cont="»ø¸®"	/>
-			<msg	id="npc09-0007"	cont="»óÁ¡"	/>
-			<msg	id="npc15-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc15-0149"	cont="»ý»êÆ÷½ºÅ¸¿ö"	/>
-			<msg	id="npc15-0150"	cont="»ý»êÆ÷½ºÅ¸¿ö"	/>
-			<msg	id="npc16-0002"	cont="¿¤¸°"	/>
-			<msg	id="npc16-0003"	cont="ÄÉÀÌÆ®"	/>
-			<msg	id="npc16-0017"	cont="¿Ã¸®ºñ¾Æ"	/>
-			<msg	id="npc16-0018"	cont="Ä«ÀÏ"	/>
-			<msg	id="npc16-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc23-0007"	cont="¹ÂÅÏÆ®"	/>
-			<msg	id="npc00-0051"	cont="¿ø°Ý Ä³½¬ ¼¥"	/>
-			<msg	id="npc00-0182"	cont="±æµå»óÁ¡"	/>
-			<msg	id="npc110-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc109-0002"	cont="¿¤¸°"	/>
-			<msg	id="npc109-0003"	cont="ÄÉÀÌÆ®"	/>
-			<msg	id="npc109-0017"	cont="¿Ã¸®ºñ¾Æ"	/>
-			<msg	id="npc109-0018"	cont="Ä«ÀÏ"	/>
-			<msg	id="npc109-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc22-0003"	cont="¸®µÎ¼Û"	/>
-			<msg	id="npc22-0004"	cont="ÇÃ¸®¿¡"	/>
-			<msg	id="npc22-0005"	cont="¸®ÇÃµð"	/>
-			<msg	id="npc22-0006"	cont="½ºÅ×ÆÄ´Ï"	/>
-			<msg	id="npc22-0012"	cont="ÈÄÅ¸"	/>
-			<msg	id="npc22-0013"	cont="¾Ë·ÕÁ¦"	/>
-			<msg	id="npc22-0014"	cont="ÆÄ³ªÅ°"	/>
-			<msg	id="npc22-0015"	cont="¾ÆºÎ¶÷"	/>
-			<msg	id="npc11-0018"	cont="¾Ç¸¶ »óÀÎ ÀÎÅ¥º¸"	/>
-			<msg	id="npc11-0019"	cont="¾Ç¸¶ »óÀÎ ¼­Å¥º¸"	/>
-			<msg	id="npc158-0002"	cont="¿¤¸°"	/>
-			<msg	id="npc158-0003"	cont="ÄÉÀÌÆ®"	/>
-			<msg	id="npc158-0017"	cont="¿Ã¸®ºñ¾Æ"	/>
-			<msg	id="npc158-0018"	cont="Ä«ÀÏ"	/>
-			<msg	id="npc158-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc159-0050"	cont="¸®¸ðÆ®¼¥"	/>
-			<msg	id="npc00-0183"	cont="PVP»óÁ¡"	/>
+			<msg	id="npc00-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc01-0004"	cont="í”„ë¤¼íŠ¸"	/>
+			<msg	id="npc01-0005"	cont="ì‚¬ì´ë¨¼"	/>
+			<msg	id="npc01-0006"	cont="ì¼ˆëŸ¬"	/>
+			<msg	id="npc01-0007"	cont="ë°ì´íŠ¼"	/>
+			<msg	id="npc01-0044"	cont="ì„¸ë¹„ì–´ìŠ¤"	/>
+			<msg	id="npc01-0045"	cont="ê³ ëŒ€ì˜ ìœ ë ¹"	/>
+			<msg	id="npc01-0046"	cont="ìœ ë…¼"	/>
+			<msg	id="npc01-0081"	cont="êµí™˜ë¨¸ì‹ "	/>
+			<msg	id="npc01-0083"	cont="ížˆë¡œê¸€ë¦¬"	/>
+			<msg	id="npc01-0035"	cont="í”Œë¼ìƒ¤"	/>
+			<msg	id="npc01-0084"	cont="ìžë² ë¥¸"	/>
+			<msg	id="npc02-0004"	cont="ë©”ì¹˜ì•„ìŠ¤"	/>
+			<msg	id="npc02-0005"	cont="ë””ì˜¨"	/>
+			<msg	id="npc02-0006"	cont="ì„¤ë¦¬ë°˜"	/>
+			<msg	id="npc02-0007"	cont="ì—ì¼ë Œ ë‚¨ë§¤"	/>
+			<msg	id="npc02-0078"	cont="ë¼ìƒ¤"	/>
+			<msg	id="npc03-0004"	cont="ë¯¸íŠ¸ë¡œí”„"	/>
+			<msg	id="npc03-0005"	cont="ì½œë¦°ì¦ˆ"	/>
+			<msg	id="npc03-0006"	cont="ë…¸ë‹¤ì¹´"	/>
+			<msg	id="npc03-0007"	cont="ë¦¬ë² íŠ¸"	/>
+			<msg	id="npc03-0078"	cont="ì•„ì´ë°ë¥¸"	/>
+			<msg	id="npc04-0004"	cont="ì—ì´íŠ¸"	/>
+			<msg	id="npc04-0005"	cont="ì•„ê·¸ë¦¬ìŠ¤"	/>
+			<msg	id="npc04-0006"	cont="ì˜ˆë¥´íŠ¸"	/>
+			<msg	id="npc04-0007"	cont="í–„í”„ë¦­"	/>
+			<msg	id="npc04-0013"	cont="íŽ˜í‹°ìƒ¤"	/>
+			<msg	id="npc04-0014"	cont="í´ë¡œì´"	/>
+			<msg	id="npc05-0004"	cont="ë‚˜ìžë°”"	/>
+			<msg	id="npc05-0005"	cont="ë ¹"	/>
+			<msg	id="npc05-0006"	cont="ì†Œì˜"	/>
+			<msg	id="npc05-0007"	cont="ìƒë¦¬"	/>
+			<msg	id="npc09-0007"	cont="ìƒì "	/>
+			<msg	id="npc15-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc15-0149"	cont="ìƒì‚°í¬ìŠ¤íƒ€ì›Œ"	/>
+			<msg	id="npc15-0150"	cont="ìƒì‚°í¬ìŠ¤íƒ€ì›Œ"	/>
+			<msg	id="npc16-0002"	cont="ì—˜ë¦°"	/>
+			<msg	id="npc16-0003"	cont="ì¼€ì´íŠ¸"	/>
+			<msg	id="npc16-0017"	cont="ì˜¬ë¦¬ë¹„ì•„"	/>
+			<msg	id="npc16-0018"	cont="ì¹´ì¼"	/>
+			<msg	id="npc16-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc23-0007"	cont="ë®¤í„´íŠ¸"	/>
+			<msg	id="npc00-0051"	cont="ì›ê²© ìºì‰¬ ìƒµ"	/>
+			<msg	id="npc00-0182"	cont="ê¸¸ë“œìƒì "	/>
+			<msg	id="npc110-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc109-0002"	cont="ì—˜ë¦°"	/>
+			<msg	id="npc109-0003"	cont="ì¼€ì´íŠ¸"	/>
+			<msg	id="npc109-0017"	cont="ì˜¬ë¦¬ë¹„ì•„"	/>
+			<msg	id="npc109-0018"	cont="ì¹´ì¼"	/>
+			<msg	id="npc109-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc22-0003"	cont="ë¦¬ë‘ì†¡"	/>
+			<msg	id="npc22-0004"	cont="í”Œë¦¬ì—"	/>
+			<msg	id="npc22-0005"	cont="ë¦¬í”Œë””"	/>
+			<msg	id="npc22-0006"	cont="ìŠ¤í…ŒíŒŒë‹ˆ"	/>
+			<msg	id="npc22-0012"	cont="í›„íƒ€"	/>
+			<msg	id="npc22-0013"	cont="ì•Œë¡±ì œ"	/>
+			<msg	id="npc22-0014"	cont="íŒŒë‚˜í‚¤"	/>
+			<msg	id="npc22-0015"	cont="ì•„ë¶€ëžŒ"	/>
+			<msg	id="npc11-0018"	cont="ì•…ë§ˆ ìƒì¸ ì¸íë³´"	/>
+			<msg	id="npc11-0019"	cont="ì•…ë§ˆ ìƒì¸ ì„œíë³´"	/>
+			<msg	id="npc158-0002"	cont="ì—˜ë¦°"	/>
+			<msg	id="npc158-0003"	cont="ì¼€ì´íŠ¸"	/>
+			<msg	id="npc158-0017"	cont="ì˜¬ë¦¬ë¹„ì•„"	/>
+			<msg	id="npc158-0018"	cont="ì¹´ì¼"	/>
+			<msg	id="npc158-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc159-0050"	cont="ë¦¬ëª¨íŠ¸ìƒµ"	/>
+			<msg	id="npc00-0183"	cont="PVPìƒì "	/>
 		</npc_name>
 </NPCShop_message>

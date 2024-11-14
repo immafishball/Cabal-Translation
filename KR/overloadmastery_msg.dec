@@ -1,62 +1,62 @@
 <overloadmastery_message>
 	<overloadmastery_name_msg>
-		<msg	id="Overloadmastery_0001"	cont="¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="Overloadmastery_0002"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="Overloadmastery_0003"	cont="°ø°Ý·ü I"	/>
-		<msg	id="Overloadmastery_0004"	cont="Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="Overloadmastery_0005"	cont="¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="Overloadmastery_0006"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II"	/>
-		<msg	id="Overloadmastery_0007"	cont="ÀûÁß I"	/>
-		<msg	id="Overloadmastery_0008"	cont="Å©¸®Æ¼ÄÃ È®·ü ÀúÇ× ¹«½Ã"	/>
-		<msg	id="Overloadmastery_0009"	cont="°ø°Ý·ü II"	/>
-		<msg	id="Overloadmastery_0010"	cont="°üÅë I"	/>
-		<msg	id="Overloadmastery_0011"	cont="¸ðµç °ø°Ý·Â III"	/>
-		<msg	id="Overloadmastery_0012"	cont="ÀûÁß II"	/>
-		<msg	id="Overloadmastery_0013"	cont="Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="Overloadmastery_0014"	cont="°üÅë II"	/>
-		<msg	id="Overloadmastery_0015"	cont="¹æ¾î·Â I"	/>
-		<msg	id="Overloadmastery_0016"	cont="HP Áõ°¡ I"	/>
-		<msg	id="Overloadmastery_0017"	cont="³Ë¹é ÀúÇ×"	/>
-		<msg	id="Overloadmastery_0018"	cont="ÀûÁß ¹«½Ã I"	/>
-		<msg	id="Overloadmastery_0019"	cont="ÇÇÇØ °¨¼Ò"	/>
-		<msg	id="Overloadmastery_0020"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×"	/>
-		<msg	id="Overloadmastery_0021"	cont="´Ù¿î ÀúÇ×"	/>
-		<msg	id="Overloadmastery_0022"	cont="HP Áõ°¡ II"	/>
-		<msg	id="Overloadmastery_0023"	cont="½ºÅÏ ÀúÇ×"	/>
-		<msg	id="Overloadmastery_0024"	cont="°üÅë ¹«½Ã I"	/>
-		<msg	id="Overloadmastery_0025"	cont="¹æ¾î·Â II"	/>
-		<msg	id="Overloadmastery_0026"	cont="½ºÅ³ ÁõÆø ÀúÇ×"	/>
-		<msg	id="Overloadmastery_0027"	cont="ÀûÁß ¹«½Ã II"	/>
-		<msg	id="Overloadmastery_0028"	cont="°üÅë ¹«½Ã II"	/>
+		<msg	id="Overloadmastery_0001"	cont="ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="Overloadmastery_0002"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="Overloadmastery_0003"	cont="ê³µê²©ë¥  I"	/>
+		<msg	id="Overloadmastery_0004"	cont="ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="Overloadmastery_0005"	cont="ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="Overloadmastery_0006"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II"	/>
+		<msg	id="Overloadmastery_0007"	cont="ì ì¤‘ I"	/>
+		<msg	id="Overloadmastery_0008"	cont="í¬ë¦¬í‹°ì»¬ í™•ë¥  ì €í•­ ë¬´ì‹œ"	/>
+		<msg	id="Overloadmastery_0009"	cont="ê³µê²©ë¥  II"	/>
+		<msg	id="Overloadmastery_0010"	cont="ê´€í†µ I"	/>
+		<msg	id="Overloadmastery_0011"	cont="ëª¨ë“  ê³µê²©ë ¥ III"	/>
+		<msg	id="Overloadmastery_0012"	cont="ì ì¤‘ II"	/>
+		<msg	id="Overloadmastery_0013"	cont="ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="Overloadmastery_0014"	cont="ê´€í†µ II"	/>
+		<msg	id="Overloadmastery_0015"	cont="ë°©ì–´ë ¥ I"	/>
+		<msg	id="Overloadmastery_0016"	cont="HP ì¦ê°€ I"	/>
+		<msg	id="Overloadmastery_0017"	cont="ë„‰ë°± ì €í•­"	/>
+		<msg	id="Overloadmastery_0018"	cont="ì ì¤‘ ë¬´ì‹œ I"	/>
+		<msg	id="Overloadmastery_0019"	cont="í”¼í•´ ê°ì†Œ"	/>
+		<msg	id="Overloadmastery_0020"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­"	/>
+		<msg	id="Overloadmastery_0021"	cont="ë‹¤ìš´ ì €í•­"	/>
+		<msg	id="Overloadmastery_0022"	cont="HP ì¦ê°€ II"	/>
+		<msg	id="Overloadmastery_0023"	cont="ìŠ¤í„´ ì €í•­"	/>
+		<msg	id="Overloadmastery_0024"	cont="ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="Overloadmastery_0025"	cont="ë°©ì–´ë ¥ II"	/>
+		<msg	id="Overloadmastery_0026"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­"	/>
+		<msg	id="Overloadmastery_0027"	cont="ì ì¤‘ ë¬´ì‹œ II"	/>
+		<msg	id="Overloadmastery_0028"	cont="ê´€í†µ ë¬´ì‹œ II"	/>
 	</overloadmastery_name_msg>
 	<overloaddesc_msg>
-		<msg	id="Overloadmasterydesc_0001"	cont="Ä³¸¯ÅÍÀÇ $33#¸ðµç °ø°Ý·Â$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0002"	cont="Ä³¸¯ÅÍÀÇ $33#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0003"	cont="Ä³¸¯ÅÍÀÇ $33#°ø°Ý·ü$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0004"	cont="Ä³¸¯ÅÍÀÇ $33#Ãß°¡µ¥¹ÌÁö$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0005"	cont="Ä³¸¯ÅÍÀÇ $33#¸ðµç °ø°Ý·Â$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0006"	cont="Ä³¸¯ÅÍÀÇ $33#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0007"	cont="Ä³¸¯ÅÍÀÇ $33#ÀûÁß$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0008"	cont="Ä³¸¯ÅÍÀÇ $33#Å©¸®Æ¼ÄÃ È®·ü ÀúÇ× ¹«½Ã$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0009"	cont="Ä³¸¯ÅÍÀÇ $33#°ø°Ý·ü$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0010"	cont="Ä³¸¯ÅÍÀÇ $33#°üÅë$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0011"	cont="Ä³¸¯ÅÍÀÇ $33#¸ðµç °ø°Ý·Â$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0012"	cont="Ä³¸¯ÅÍÀÇ $33#ÀûÁß$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0013"	cont="Ä³¸¯ÅÍÀÇ $33#Ãß°¡µ¥¹ÌÁö$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0014"	cont="Ä³¸¯ÅÍÀÇ $33#°üÅë$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0015"	cont="Ä³¸¯ÅÍÀÇ $33#¹æ¾î·Â$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0016"	cont="Ä³¸¯ÅÍÀÇ $33#ÃÖ´ë HP$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0017"	cont="Ä³¸¯ÅÍÀÇ $33#³Ë¹é ÀúÇ×$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0018"	cont="Ä³¸¯ÅÍÀÇ $33#ÀûÁß ¹«½Ã$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0019"	cont="Ä³¸¯ÅÍÀÇ $33#ÇÇÇØ °¨¼Ò$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0020"	cont="Ä³¸¯ÅÍÀÇ $33#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0021"	cont="Ä³¸¯ÅÍÀÇ $33#´Ù¿î ÀúÇ×$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0022"	cont="Ä³¸¯ÅÍÀÇ $33#ÃÖ´ë HP$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0023"	cont="Ä³¸¯ÅÍÀÇ $33#½ºÅÏ ÀúÇ×$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0024"	cont="Ä³¸¯ÅÍÀÇ $33#°üÅë ¹«½Ã$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0025"	cont="Ä³¸¯ÅÍÀÇ $33#¹æ¾î·Â$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0026"	cont="Ä³¸¯ÅÍÀÇ $33#½ºÅ³ ÁõÆø ÀúÇ×$À» $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0027"	cont="Ä³¸¯ÅÍÀÇ $33#ÀûÁß ¹«½Ã$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="Overloadmasterydesc_0028"	cont="Ä³¸¯ÅÍÀÇ $33#°üÅë ¹«½Ã$¸¦ $33#%s$¸¸Å­ »ó½Â½ÃÅµ´Ï´Ù._"	/>
+		<msg	id="Overloadmasterydesc_0001"	cont="ìºë¦­í„°ì˜ $33#ëª¨ë“  ê³µê²©ë ¥$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0002"	cont="ìºë¦­í„°ì˜ $33#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0003"	cont="ìºë¦­í„°ì˜ $33#ê³µê²©ë¥ $ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0004"	cont="ìºë¦­í„°ì˜ $33#ì¶”ê°€ë°ë¯¸ì§€$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0005"	cont="ìºë¦­í„°ì˜ $33#ëª¨ë“  ê³µê²©ë ¥$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0006"	cont="ìºë¦­í„°ì˜ $33#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0007"	cont="ìºë¦­í„°ì˜ $33#ì ì¤‘$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0008"	cont="ìºë¦­í„°ì˜ $33#í¬ë¦¬í‹°ì»¬ í™•ë¥  ì €í•­ ë¬´ì‹œ$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0009"	cont="ìºë¦­í„°ì˜ $33#ê³µê²©ë¥ $ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0010"	cont="ìºë¦­í„°ì˜ $33#ê´€í†µ$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0011"	cont="ìºë¦­í„°ì˜ $33#ëª¨ë“  ê³µê²©ë ¥$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0012"	cont="ìºë¦­í„°ì˜ $33#ì ì¤‘$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0013"	cont="ìºë¦­í„°ì˜ $33#ì¶”ê°€ë°ë¯¸ì§€$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0014"	cont="ìºë¦­í„°ì˜ $33#ê´€í†µ$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0015"	cont="ìºë¦­í„°ì˜ $33#ë°©ì–´ë ¥$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0016"	cont="ìºë¦­í„°ì˜ $33#ìµœëŒ€ HP$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0017"	cont="ìºë¦­í„°ì˜ $33#ë„‰ë°± ì €í•­$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0018"	cont="ìºë¦­í„°ì˜ $33#ì ì¤‘ ë¬´ì‹œ$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0019"	cont="ìºë¦­í„°ì˜ $33#í”¼í•´ ê°ì†Œ$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0020"	cont="ìºë¦­í„°ì˜ $33#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0021"	cont="ìºë¦­í„°ì˜ $33#ë‹¤ìš´ ì €í•­$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0022"	cont="ìºë¦­í„°ì˜ $33#ìµœëŒ€ HP$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0023"	cont="ìºë¦­í„°ì˜ $33#ìŠ¤í„´ ì €í•­$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0024"	cont="ìºë¦­í„°ì˜ $33#ê´€í†µ ë¬´ì‹œ$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0025"	cont="ìºë¦­í„°ì˜ $33#ë°©ì–´ë ¥$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0026"	cont="ìºë¦­í„°ì˜ $33#ìŠ¤í‚¬ ì¦í­ ì €í•­$ì„ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0027"	cont="ìºë¦­í„°ì˜ $33#ì ì¤‘ ë¬´ì‹œ$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="Overloadmasterydesc_0028"	cont="ìºë¦­í„°ì˜ $33#ê´€í†µ ë¬´ì‹œ$ë¥¼ $33#%s$ë§Œí¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
 	</overloaddesc_msg>
 </overloadmastery_message>

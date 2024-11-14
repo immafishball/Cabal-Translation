@@ -1,185 +1,185 @@
 <cabal_message>
 	<version	index="1"	/>
 	<extra_obj_msg>
-		<msg	id="extra_npc_000"	cont="Æ÷ÀÎÆ® »óÁ¡"	/>
-		<msg	id="extra_npc_001"	cont="À§Å¹»óÀÎ ·¹ÀÌµð ¿¹Ä«Å×¸®³ª"	/>
-		<msg	id="extra_npc_002"	cont="ÀÌº¥Æ® ¿¡ÀÌÀüÆ® À²"	/>
-		<msg	id="extra_npc_003"	cont="·é ¿¡ÀÌÀüÆ® ÇÃ¶ó»þ"	/>
-		<msg	id="extra_npc_004"	cont="¿ÀÇÇ¼­ ÇîÄÚÇÁ"	/>
-		<msg	id="extra_npc_005"	cont="ÀÎ½ºÆ®·°ÅÍ ¿ÀÄÚ³Ê"	/>
-		<msg	id="extra_npc_006"	cont="Ã¢°í°¡µå ÇÇ¼Å"	/>
-		<msg	id="extra_npc_007"	cont="¹«±â»óÀÎ ÇÁ·òÆ®"	/>
-		<msg	id="extra_npc_008"	cont="¹æ¾î±¸»óÀÎ »çÀÌ¸Õ"	/>
-		<msg	id="extra_npc_009"	cont="¸¶¹ý»óÀÎ ÄÌ·¯"	/>
-		<msg	id="extra_npc_0010"	cont="ÀâÈ­»óÀÎ µ¥ÀÌÆ°"	/>
-		<msg	id="extra_npc_0011"	cont="¸¶ÀÏÁî"	/>
-		<msg	id="extra_npc_0012"	cont="¿¡¸¯"	/>
-		<msg	id="extra_npc_0013"	cont="º¸µð°¡µå Çãµµ¸£"	/>
-		<msg	id="extra_npc_0014"	cont="º¸µð°¡µå Çã¸£¼­ÇÁ"	/>
-		<msg	id="extra_npc_0015"	cont="¿ÀÇÇ¼­ ´øÇÏÀÌÅ©"	/>
-		<msg	id="extra_npc_0016"	cont="ÀÎ½ºÆ®·°ÅÍ °ÔÆ®"	/>
-		<msg	id="extra_npc_0017"	cont="Ã¢°í°¡µå ÄÛ½º"	/>
-		<msg	id="extra_npc_0018"	cont="¹«±â»óÀÎ ¸ÞÄ¡¾Æ½º"	/>
-		<msg	id="extra_npc_0019"	cont="¹æ¾î±¸»óÀÎ µð¿Â"	/>
-		<msg	id="extra_npc_0020"	cont="¸¶¹ý»óÀÎ ¼³¸®¹Ý"	/>
-		<msg	id="extra_npc_0021"	cont="ÀâÈ­»óÀÎ ¿¡ÀÏ·» ³²¸Å"	/>
-		<msg	id="extra_npc_0022"	cont="¸¶Ä¿½º"	/>
-		<msg	id="extra_npc_0023"	cont="µðÇÃ·¯½º"	/>
-		<msg	id="extra_npc_0024"	cont="¾¾Åä"	/>
-		<msg	id="extra_npc_0025"	cont="¶¼³¢"	/>
-		<msg	id="extra_npc_0026"	cont="¿ÀÇÇ¼­ ½´ÅÍ¹öÅ©"	/>
-		<msg	id="extra_npc_0027"	cont="ÀÎ½ºÆ®·°ÅÍ Ä®·ç¾Æ"	/>
-		<msg	id="extra_npc_0028"	cont="Ã¢°í°¡µå ³×ÀÌµé·¯"	/>
-		<msg	id="extra_npc_0029"	cont="¹«±â»óÀÎ ¹ÌÆ®·ÎÇÁ"	/>
-		<msg	id="extra_npc_0030"	cont="¹æ¾î±¸»óÀÎ ÄÝ¸°Áî"	/>
-		<msg	id="extra_npc_0031"	cont="¸¶¹ý»óÀÎ ³ë´ÙÄ«"	/>
-		<msg	id="extra_npc_0032"	cont="ÀâÈ­»óÀÎ ¸®º£Æ®"	/>
-		<msg	id="extra_npc_0033"	cont="¼ð"	/>
-		<msg	id="extra_npc_0034"	cont="Çî´õ½¼"	/>
-		<msg	id="extra_npc_0035"	cont="Ç×±¸ °ü¸®ÀÎ Ä«ÅÍ"	/>
-		<msg	id="extra_npc_0036"	cont="¿ÀÇÇ¼­ ¸ð¸®½¼"	/>
-		<msg	id="extra_npc_0037"	cont="ÀÎ½ºÆ®·°ÅÍ ÇÏÆÛ"	/>
-		<msg	id="extra_npc_0038"	cont="Ã¢°í°¡µå ½¶¶õ½ºÅ°"	/>
-		<msg	id="extra_npc_0039"	cont="¹«±â»óÀÎ ¿¡ÀÌÆ®"	/>
-		<msg	id="extra_npc_0040"	cont="¹æ¾î±¸»óÀÎ ¾Æ±×¸®½º"	/>
-		<msg	id="extra_npc_0041"	cont="¸¶¹ý»óÀÎ ¿¹¸£Æ®"	/>
-		<msg	id="extra_npc_0042"	cont="ÀâÈ­»óÀÎ ÇÜÇÁ¸¯"	/>
-		<msg	id="extra_npc_0043"	cont="·¹ÀÌ½¼"	/>
-		<msg	id="extra_npc_0044"	cont="·¹¹ø½¼"	/>
-		<msg	id="extra_npc_0045"	cont="Æ÷·¯½º"	/>
-		<msg	id="extra_npc_0046"	cont="Ç×±¸ °ü¸®ÀÎ Æ÷ÅÍ"	/>
-		<msg	id="extra_npc_0047"	cont="Ã¢°í°¡µå Å©¶ó¿ìÆÛ"	/>
-		<msg	id="extra_npc_0048"	cont="¹«±â»óÀÎ ³ªÀÚ¹Ù"	/>
-		<msg	id="extra_npc_0049"	cont="¹æ¾î±¸»óÀÎ ·É"	/>
-		<msg	id="extra_npc_0050"	cont="¸¶¹ý»óÀÎ ¼Ò¿µ"	/>
-		<msg	id="extra_npc_0051"	cont="ÀâÈ­»óÀÎ »ø¸®"	/>
-		<msg	id="extra_npc_0052"	cont="¾ÆÀÎ½ºÅæ"	/>
-		<msg	id="extra_npc_0053"	cont="¾ÆÀÌ¹êÅ©"	/>
-		<msg	id="extra_npc_0054"	cont="¾Ö´Ï¾ÆÅ©"	/>
-		<msg	id="extra_npc_0055"	cont="·¹µÎÁø"	/>
-		<msg	id="extra_npc_0056"	cont="½ºÆ®º£¸®"	/>
-		<msg	id="extra_npc_0057"	cont="¿ÀÆØ"	/>
-		<msg	id="extra_npc_0058"	cont="È÷µ¥"	/>
-		<msg	id="extra_npc_0059"	cont="¼Ö¸Þ"	/>
-		<msg	id="extra_npc_0060"	cont="³ªÀÎ"	/>
-		<msg	id="extra_npc_0061"	cont="³¸¼± ³ëÀÎ"	/>
-		<msg	id="extra_npc_0062"	cont="»ç¿ë¾ÈÇÔ"	/>
-		<msg	id="extra_npc_0063"	cont="¸°"	/>
-		<msg	id="extra_npc_0064"	cont="º£¶óµå¸¯½º"	/>
-		<msg	id="extra_npc_0065"	cont="»ç±³µµ"	/>
-		<msg	id="extra_npc_0066"	cont="»ø¸® µ¿»ý ·¹ÇÁ"	/>
-		<msg	id="extra_npc_0067"	cont="½Ç¹ö¿ìµå"	/>
-		<msg	id="extra_npc_0068"	cont="¾Æ¸®¿À³Ú"	/>
-		<msg	id="extra_npc_0069"	cont="¾ÆÀÌÅ©"	/>
-		<msg	id="extra_npc_0070"	cont="À¯¾È"	/>
-		<msg	id="extra_npc_0071"	cont="Ä¸Æ¾ ¸¶Å©"	/>
-		<msg	id="extra_npc_0072"	cont="º¥"	/>
-		<msg	id="extra_npc_0073"	cont="ÆäÀÌÆ®·±"	/>
-		<msg	id="extra_npc_0074"	cont="ÇÁ¸®µå"	/>
-		<msg	id="extra_npc_0075"	cont="°¢¼ºÇÑ ÆäÀÌÆ®·±"	/>
-		<msg	id="extra_npc_0076"	cont="ÇìÀÏ"	/>
-		<msg	id="extra_npc_0077"	cont="ÇöÀÚ ¸®°Ö"	/>
-		<msg	id="extra_npc_0078"	cont="ºí·¢ ¹Ùµå"	/>
-		<msg	id="extra_npc_0079"	cont="Á¶±³ ¶óÀÌ¿£"	/>
-		<msg	id="extra_npc_0080"	cont="Á¶±³ ÈÄ¹ö"	/>
-		<msg	id="extra_npc_0081"	cont="Á¶±³ ÄÚÇÃ·£µå"	/>
-		<msg	id="extra_npc_0082"	cont="¹Ì½ºÆ½ ºí·¹ÀÌµå"	/>
-		<msg	id="extra_npc_0083"	cont="Å×½ºÅ°"	/>
-		<msg	id="extra_npc_0084"	cont="¾Ëµ¥¹Ù¶õ"	/>
-		<msg	id="extra_npc_0085"	cont="º£ÀÎ"	/>
-		<msg	id="extra_npc_0086"	cont="´ÙÅ© Å¬·£ Æ÷·Î"	/>
-		<msg	id="extra_npc_0087"	cont="DP ±³È¯»óÀÎ ÆäÆ¼»þ"	/>
-		<msg	id="extra_npc_0088"	cont="ºû³ª´Â Ä«µå"	/>
-		<msg	id="extra_npc_0089"	cont="¸¶¹ý»ç"	/>
-		<msg	id="extra_npc_0090"	cont="Ã¹ ¹øÂ° Á¦´Ü"	/>
-		<msg	id="extra_npc_0091"	cont="µÎ ¹øÂ° Á¦´Ü"	/>
-		<msg	id="extra_npc_0092"	cont="Ä«µå"	/>
-		<msg	id="extra_npc_0093"	cont="Âõ¾îÁø ¿ÏÀå"	/>
-		<msg	id="extra_npc_0094"	cont="³ªÀÎÀÇ ¸Þ¸ð"	/>
-		<msg	id="extra_npc_0095"	cont="¾óÀ½ ¹ÝÁö"	/>
-		<msg	id="extra_npc_0096"	cont="ÀºÆóµÈ Áöµµ"	/>
-		<msg	id="extra_npc_0097"	cont="¼¼¹øÂ° ¹¬½Ã·ÏÀÇ Ä«µå"	/>
-		<msg	id="extra_npc_0098"	cont="¼¼ ¹øÂ° Á¦´Ü"	/>
-		<msg	id="extra_npc_0099"	cont="¼öÇ® ´õ¹Ì"	/>
-		<msg	id="extra_npc_0100"	cont="È£¼ö ¹ÙÀ§"	/>
-		<msg	id="extra_npc_0101"	cont="Èæ¾ÏÃÊ"	/>
-		<msg	id="extra_npc_0102"	cont="È­·Î"	/>
-		<msg	id="extra_npc_0103"	cont="¹ß±¤¼®"	/>
-		<msg	id="extra_npc_0104"	cont="ÀüÀÚ ¸®´õ±â"	/>
-		<msg	id="extra_npc_0105"	cont="Á¦Á¶»óÀÎ Å¬·ÎÀÌ"	/>
-		<msg	id="extra_npc_0106"	cont="ºê·»"	/>
-		<msg	id="extra_npc_0107"	cont="Å´"	/>
-		<msg	id="extra_npc_0108"	cont="AÆÀ ¹öÇÁ»óÁ¡"	/>
-		<msg	id="extra_npc_0109"	cont="BÆÀ ¹öÇÁ»óÁ¡"	/>
-		<msg	id="extra_npc_0110"	cont="ÆÄ°ß °øÈÆ°ü ¶ó»þ"	/>
-		<msg	id="extra_npc_0111"	cont="ÆÄ°ß °øÈÆ°ü ¾ÆÀÌµ¥¸¥"	/>
-		<msg	id="extra_npc_0112"	cont="Ã¢°í°¡µå Ä¸Æ¾µàÅ©"	/>
-		<msg	id="extra_npc_0113"	cont="ÀâÈ­»óÀÎ ¿¤¸°"	/>
-		<msg	id="extra_npc_0114"	cont="ÀâÈ­»óÀÎ ÄÉÀÌÆ®"	/>
-		<msg	id="extra_npc_0115"	cont="Ã¢°í°¡µå ¸¶´ãµ¨¸®¾Æ"	/>
-		<msg	id="extra_npc_0116"	cont="ÀüÀï °øÈÆ°ü ¿Ã¸®ºñ¾Æ"	/>
-		<msg	id="extra_npc_0117"	cont="ÀüÀï °øÈÆ°ü Ä«ÀÏ"	/>
-		<msg	id="extra_npc_0118"	cont="½ºÄ«ÀÏµå"	/>
-		<msg	id="extra_npc_0119"	cont="¹ÙÀÌÅ©Åº ½ºÄ«ÀÏµå"	/>
-		<msg	id="extra_npc_0120"	cont="Èñ¹ÌÇÑ ±Û±ÍÀÇ ºñ¼®"	/>
-		<msg	id="extra_npc_0121"	cont="¼®ÆÇ"	/>
-		<msg	id="extra_npc_0122"	cont="°¡µå ¼¼ºñ¾î½º"	/>
-		<msg	id="extra_npc_0123"	cont="È£¼ö ³ª¹«"	/>
-		<msg	id="extra_npc_0124"	cont="Çª¸¥ ²É"	/>
-		<msg	id="extra_npc_0125"	cont="¸®µð"	/>
-		<msg	id="extra_npc_0126"	cont="Ä«Æç¶ó"	/>
-		<msg	id="extra_npc_0127"	cont="ÇÁ·ÎÅ°¿Â"	/>
-		<msg	id="extra_npc_0128"	cont="ÅÍ³Ê"	/>
-		<msg	id="extra_npc_0129"	cont="¾ÆÀÌÀÜ"	/>
-		<msg	id="extra_npc_0130"	cont="¿¤·¹³ª"	/>
-		<msg	id="extra_npc_0131"	cont="½ºÄ«ÀÏµåµÞ¸ð½À"	/>
-		<msg	id="extra_npc_0132"	cont="¹«´ý ºñ¼®"	/>
-		<msg	id="extra_npc_0133"	cont="ºû³ª´Â ±¤¹°"	/>
-		<msg	id="extra_npc_0134"	cont="½ºÄ«ÀÏµåÀÇ º®³­·Î"	/>
-		<msg	id="extra_npc_0135"	cont="½ºÄ«ÀÏµåÀÇ Ä§´ë"	/>
-		<msg	id="extra_npc_0136"	cont="Á¤Ã¼ ºÒ¸íÀÇ ¹°¾à"	/>
-		<msg	id="extra_npc_0137"	cont="°¡µå ¸¶ÀÏÁî"	/>
-		<msg	id="extra_npc_0138"	cont="³­¹Î ´ëÀå"	/>
-		<msg	id="extra_npc_0139"	cont="¾²·¯Áø ¸®µð"	/>
-		<msg	id="extra_npc_0140"	cont="ºÎ¼­Áø ºñ¼®"	/>
-		<msg	id="extra_npc_0141"	cont="ÇöÀÚ Ä«Æç¶ó"	/>
-		<msg	id="extra_npc_0142"	cont="ÇöÀÚ ÇÁ·ÎÅ°¿Â"	/>
-		<msg	id="extra_npc_0143"	cont="Ä«Æç¶ó Ã¢°í°¡µå Çã½Ã"	/>
-		<msg	id="extra_npc_0144"	cont="Ä«Æç¶ó ÀâÈ­»óÀÎ ½ºÅ×ÆÄ´Ï"	/>
-		<msg	id="extra_npc_0145"	cont="Ä«Æç¶ó ¹«±â»óÀÎ ¸®µÎ¼Û"	/>
-		<msg	id="extra_npc_0146"	cont="Ä«Æç¶ó ¸¶¹ý»óÀÎ ¸®ÇÃµð"	/>
-		<msg	id="extra_npc_0147"	cont="Ä«Æç¶ó ¹æ¾î±¸»óÀÎ ÇÃ¸®¿¡"	/>
-		<msg	id="extra_npc_0148"	cont="Ä«Æç¶ó Ç×±¸°ü¸®ÀÎ µµ¹Ì´Ð"	/>
-		<msg	id="extra_npc_0149"	cont="Ä«Æç¶ó °¡µå Ä­µ¹"	/>
-		<msg	id="extra_npc_0150"	cont="Ä«Æç¶ó °¡µå ¿©¼Û"	/>
-		<msg	id="extra_npc_0151"	cont="ÇÁ·ÎÅ°¿Â Ã¢°í°¡µå ºñ´Ï¿ä"	/>
-		<msg	id="extra_npc_0152"	cont="ÇÁ·ÎÅ°¿Â ÀâÈ­»óÀÎ ¾ÆºÎ¶÷"	/>
-		<msg	id="extra_npc_0153"	cont="ÇÁ·ÎÅ°¿Â ¹«±â»óÀÎ ÈÄÅ¸"	/>
-		<msg	id="extra_npc_0154"	cont="ÇÁ·ÎÅ°¿Â ¸¶¹ý»óÀÎ ÆÄ³ªÅ°"	/>
-		<msg	id="extra_npc_0155"	cont="ÇÁ·ÎÅ°¿Â ¹æ¾î±¸»óÀÎ ¾Ë·ÕÁ¦"	/>
-		<msg	id="extra_npc_0156"	cont="ÇÁ·ÎÅ°¿Â Ç×±¸°ü¸®ÀÎ º£·Î´×"	/>
-		<msg	id="extra_npc_0157"	cont="ÇÁ·ÎÅ°¿Â °¡µå ºí¸®Ã³"	/>
-		<msg	id="extra_npc_0158"	cont="ÇÁ·ÎÅ°¿Â °¡µå Å¬·Îºñ½º"	/>
-		<msg	id="extra_npc_0159"	cont="¼öÈ£ÀÚ"	/>
-		<msg	id="extra_npc_0160"	cont="¶³¾îÁø ºÎÀû"	/>
-		<msg	id="extra_npc_0161"	cont="¸¶ÀÏÁîÀÇ µ¿»ý"	/>
-		<msg	id="extra_npc_0162"	cont="º¯ÀÌµÈ ½Ä¹°"	/>
-		<msg	id="extra_npc_0163"	cont="º¯ÀÌµÈ ²É"	/>
-		<msg	id="extra_npc_0164"	cont="ºû³ª´Â ³ª¹«"	/>
-		<msg	id="extra_npc_0165"	cont="¿À·¡µÈ ¼®Å¾"	/>
-		<msg	id="extra_npc_0166"	cont="Ã¹ ¹øÂ° ´ë¸®¼®"	/>
-		<msg	id="extra_npc_0167"	cont="µÎ ¹øÂ° ´ë¸®¼®"	/>
-		<msg	id="extra_npc_0168"	cont="¼¼ ¹øÂ° ´ë¸®¼®"	/>
-		<msg	id="extra_npc_0169"	cont="³× ¹øÂ° ´ë¸®¼®"	/>
-		<msg	id="extra_npc_0170"	cont="´Ù¼¸ ¹øÂ° ´ë¸®¼®"	/>
-		<msg	id="extra_npc_0171"	cont="°¢¼ºÇÑ ¾ÆÀÌÀÜ"	/>
-		<msg	id="extra_npc_0172"	cont="°¢¼ºÇÑ ¿¤·¹³ª"	/>
-		<msg	id="extra_npc_0173"	cont="º¸ºÎ»ó À¯³í"	/>
-		<msg	id="extra_npc_0174"	cont="½ºÆä¼È ±³È¯¸Ó½Å"	/>
-		<msg	id="extra_npc_0175"	cont="Å×¸¥"	/>
-		<msg	id="extra_npc_0176"	cont="·û"	/>
-		<msg	id="extra_npc_0177"	cont="È÷·Î±Û¸®"	/>
-		<msg	id="extra_npc_0178"	cont="¼¼ÀÎÃ÷ Æ÷½ºÄ®¸®¹ö"	/>
-		<msg	id="extra_npc_0179"	cont="°¨µ¶°ü ÀÚº£¸¥"	/>
+		<msg	id="extra_npc_000"	cont="í¬ì¸íŠ¸ ìƒì "	/>
+		<msg	id="extra_npc_001"	cont="ìœ„íƒìƒì¸ ë ˆì´ë”” ì˜ˆì¹´í…Œë¦¬ë‚˜"	/>
+		<msg	id="extra_npc_002"	cont="ì´ë²¤íŠ¸ ì—ì´ì „íŠ¸ ìœ¨"	/>
+		<msg	id="extra_npc_003"	cont="ë£¬ ì—ì´ì „íŠ¸ í”Œë¼ìƒ¤"	/>
+		<msg	id="extra_npc_004"	cont="ì˜¤í”¼ì„œ í—¨ì½”í”„"	/>
+		<msg	id="extra_npc_005"	cont="ì¸ìŠ¤íŠ¸ëŸ­í„° ì˜¤ì½”ë„ˆ"	/>
+		<msg	id="extra_npc_006"	cont="ì°½ê³ ê°€ë“œ í”¼ì…”"	/>
+		<msg	id="extra_npc_007"	cont="ë¬´ê¸°ìƒì¸ í”„ë¤¼íŠ¸"	/>
+		<msg	id="extra_npc_008"	cont="ë°©ì–´êµ¬ìƒì¸ ì‚¬ì´ë¨¼"	/>
+		<msg	id="extra_npc_009"	cont="ë§ˆë²•ìƒì¸ ì¼ˆëŸ¬"	/>
+		<msg	id="extra_npc_0010"	cont="ìž¡í™”ìƒì¸ ë°ì´íŠ¼"	/>
+		<msg	id="extra_npc_0011"	cont="ë§ˆì¼ì¦ˆ"	/>
+		<msg	id="extra_npc_0012"	cont="ì—ë¦­"	/>
+		<msg	id="extra_npc_0013"	cont="ë³´ë””ê°€ë“œ í—ˆë„ë¥´"	/>
+		<msg	id="extra_npc_0014"	cont="ë³´ë””ê°€ë“œ í—ˆë¥´ì„œí”„"	/>
+		<msg	id="extra_npc_0015"	cont="ì˜¤í”¼ì„œ ë˜í•˜ì´í¬"	/>
+		<msg	id="extra_npc_0016"	cont="ì¸ìŠ¤íŠ¸ëŸ­í„° ê²ŒíŠ¸"	/>
+		<msg	id="extra_npc_0017"	cont="ì°½ê³ ê°€ë“œ ì½•ìŠ¤"	/>
+		<msg	id="extra_npc_0018"	cont="ë¬´ê¸°ìƒì¸ ë©”ì¹˜ì•„ìŠ¤"	/>
+		<msg	id="extra_npc_0019"	cont="ë°©ì–´êµ¬ìƒì¸ ë””ì˜¨"	/>
+		<msg	id="extra_npc_0020"	cont="ë§ˆë²•ìƒì¸ ì„¤ë¦¬ë°˜"	/>
+		<msg	id="extra_npc_0021"	cont="ìž¡í™”ìƒì¸ ì—ì¼ë Œ ë‚¨ë§¤"	/>
+		<msg	id="extra_npc_0022"	cont="ë§ˆì»¤ìŠ¤"	/>
+		<msg	id="extra_npc_0023"	cont="ë””í”ŒëŸ¬ìŠ¤"	/>
+		<msg	id="extra_npc_0024"	cont="ì”¨í† "	/>
+		<msg	id="extra_npc_0025"	cont="ë–¼ë¼"	/>
+		<msg	id="extra_npc_0026"	cont="ì˜¤í”¼ì„œ ìŠˆí„°ë²„í¬"	/>
+		<msg	id="extra_npc_0027"	cont="ì¸ìŠ¤íŠ¸ëŸ­í„° ì¹¼ë£¨ì•„"	/>
+		<msg	id="extra_npc_0028"	cont="ì°½ê³ ê°€ë“œ ë„¤ì´ë“¤ëŸ¬"	/>
+		<msg	id="extra_npc_0029"	cont="ë¬´ê¸°ìƒì¸ ë¯¸íŠ¸ë¡œí”„"	/>
+		<msg	id="extra_npc_0030"	cont="ë°©ì–´êµ¬ìƒì¸ ì½œë¦°ì¦ˆ"	/>
+		<msg	id="extra_npc_0031"	cont="ë§ˆë²•ìƒì¸ ë…¸ë‹¤ì¹´"	/>
+		<msg	id="extra_npc_0032"	cont="ìž¡í™”ìƒì¸ ë¦¬ë² íŠ¸"	/>
+		<msg	id="extra_npc_0033"	cont="ìˆ€"	/>
+		<msg	id="extra_npc_0034"	cont="í—¨ë”ìŠ¨"	/>
+		<msg	id="extra_npc_0035"	cont="í•­êµ¬ ê´€ë¦¬ì¸ ì¹´í„°"	/>
+		<msg	id="extra_npc_0036"	cont="ì˜¤í”¼ì„œ ëª¨ë¦¬ìŠ¨"	/>
+		<msg	id="extra_npc_0037"	cont="ì¸ìŠ¤íŠ¸ëŸ­í„° í•˜í¼"	/>
+		<msg	id="extra_npc_0038"	cont="ì°½ê³ ê°€ë“œ ìŠëž€ìŠ¤í‚¤"	/>
+		<msg	id="extra_npc_0039"	cont="ë¬´ê¸°ìƒì¸ ì—ì´íŠ¸"	/>
+		<msg	id="extra_npc_0040"	cont="ë°©ì–´êµ¬ìƒì¸ ì•„ê·¸ë¦¬ìŠ¤"	/>
+		<msg	id="extra_npc_0041"	cont="ë§ˆë²•ìƒì¸ ì˜ˆë¥´íŠ¸"	/>
+		<msg	id="extra_npc_0042"	cont="ìž¡í™”ìƒì¸ í–„í”„ë¦­"	/>
+		<msg	id="extra_npc_0043"	cont="ë ˆì´ìŠ¨"	/>
+		<msg	id="extra_npc_0044"	cont="ë ˆë²ˆìŠ¨"	/>
+		<msg	id="extra_npc_0045"	cont="í¬ëŸ¬ìŠ¤"	/>
+		<msg	id="extra_npc_0046"	cont="í•­êµ¬ ê´€ë¦¬ì¸ í¬í„°"	/>
+		<msg	id="extra_npc_0047"	cont="ì°½ê³ ê°€ë“œ í¬ë¼ìš°í¼"	/>
+		<msg	id="extra_npc_0048"	cont="ë¬´ê¸°ìƒì¸ ë‚˜ìžë°”"	/>
+		<msg	id="extra_npc_0049"	cont="ë°©ì–´êµ¬ìƒì¸ ë ¹"	/>
+		<msg	id="extra_npc_0050"	cont="ë§ˆë²•ìƒì¸ ì†Œì˜"	/>
+		<msg	id="extra_npc_0051"	cont="ìž¡í™”ìƒì¸ ìƒë¦¬"	/>
+		<msg	id="extra_npc_0052"	cont="ì•„ì¸ìŠ¤í†¤"	/>
+		<msg	id="extra_npc_0053"	cont="ì•„ì´ë°´í¬"	/>
+		<msg	id="extra_npc_0054"	cont="ì• ë‹ˆì•„í¬"	/>
+		<msg	id="extra_npc_0055"	cont="ë ˆë‘ì§„"	/>
+		<msg	id="extra_npc_0056"	cont="ìŠ¤íŠ¸ë² ë¦¬"	/>
+		<msg	id="extra_npc_0057"	cont="ì˜¤íŒ½"	/>
+		<msg	id="extra_npc_0058"	cont="ížˆë°"	/>
+		<msg	id="extra_npc_0059"	cont="ì†”ë©”"	/>
+		<msg	id="extra_npc_0060"	cont="ë‚˜ì¸"	/>
+		<msg	id="extra_npc_0061"	cont="ë‚¯ì„  ë…¸ì¸"	/>
+		<msg	id="extra_npc_0062"	cont="ì‚¬ìš©ì•ˆí•¨"	/>
+		<msg	id="extra_npc_0063"	cont="ë¦°"	/>
+		<msg	id="extra_npc_0064"	cont="ë² ë¼ë“œë¦­ìŠ¤"	/>
+		<msg	id="extra_npc_0065"	cont="ì‚¬êµë„"	/>
+		<msg	id="extra_npc_0066"	cont="ìƒë¦¬ ë™ìƒ ë ˆí”„"	/>
+		<msg	id="extra_npc_0067"	cont="ì‹¤ë²„ìš°ë“œ"	/>
+		<msg	id="extra_npc_0068"	cont="ì•„ë¦¬ì˜¤ë„¬"	/>
+		<msg	id="extra_npc_0069"	cont="ì•„ì´í¬"	/>
+		<msg	id="extra_npc_0070"	cont="ìœ ì•ˆ"	/>
+		<msg	id="extra_npc_0071"	cont="ìº¡í‹´ ë§ˆí¬"	/>
+		<msg	id="extra_npc_0072"	cont="ë²¤"	/>
+		<msg	id="extra_npc_0073"	cont="íŽ˜ì´íŠ¸ëŸ°"	/>
+		<msg	id="extra_npc_0074"	cont="í”„ë¦¬ë“œ"	/>
+		<msg	id="extra_npc_0075"	cont="ê°ì„±í•œ íŽ˜ì´íŠ¸ëŸ°"	/>
+		<msg	id="extra_npc_0076"	cont="í—¤ì¼"	/>
+		<msg	id="extra_npc_0077"	cont="í˜„ìž ë¦¬ê²”"	/>
+		<msg	id="extra_npc_0078"	cont="ë¸”ëž™ ë°”ë“œ"	/>
+		<msg	id="extra_npc_0079"	cont="ì¡°êµ ë¼ì´ì—”"	/>
+		<msg	id="extra_npc_0080"	cont="ì¡°êµ í›„ë²„"	/>
+		<msg	id="extra_npc_0081"	cont="ì¡°êµ ì½”í”Œëžœë“œ"	/>
+		<msg	id="extra_npc_0082"	cont="ë¯¸ìŠ¤í‹± ë¸”ë ˆì´ë“œ"	/>
+		<msg	id="extra_npc_0083"	cont="í…ŒìŠ¤í‚¤"	/>
+		<msg	id="extra_npc_0084"	cont="ì•Œë°ë°”ëž€"	/>
+		<msg	id="extra_npc_0085"	cont="ë² ì¸"	/>
+		<msg	id="extra_npc_0086"	cont="ë‹¤í¬ í´ëžœ í¬ë¡œ"	/>
+		<msg	id="extra_npc_0087"	cont="DP êµí™˜ìƒì¸ íŽ˜í‹°ìƒ¤"	/>
+		<msg	id="extra_npc_0088"	cont="ë¹›ë‚˜ëŠ” ì¹´ë“œ"	/>
+		<msg	id="extra_npc_0089"	cont="ë§ˆë²•ì‚¬"	/>
+		<msg	id="extra_npc_0090"	cont="ì²« ë²ˆì§¸ ì œë‹¨"	/>
+		<msg	id="extra_npc_0091"	cont="ë‘ ë²ˆì§¸ ì œë‹¨"	/>
+		<msg	id="extra_npc_0092"	cont="ì¹´ë“œ"	/>
+		<msg	id="extra_npc_0093"	cont="ì°¢ì–´ì§„ ì™„ìž¥"	/>
+		<msg	id="extra_npc_0094"	cont="ë‚˜ì¸ì˜ ë©”ëª¨"	/>
+		<msg	id="extra_npc_0095"	cont="ì–¼ìŒ ë°˜ì§€"	/>
+		<msg	id="extra_npc_0096"	cont="ì€íëœ ì§€ë„"	/>
+		<msg	id="extra_npc_0097"	cont="ì„¸ë²ˆì§¸ ë¬µì‹œë¡ì˜ ì¹´ë“œ"	/>
+		<msg	id="extra_npc_0098"	cont="ì„¸ ë²ˆì§¸ ì œë‹¨"	/>
+		<msg	id="extra_npc_0099"	cont="ìˆ˜í’€ ë”ë¯¸"	/>
+		<msg	id="extra_npc_0100"	cont="í˜¸ìˆ˜ ë°”ìœ„"	/>
+		<msg	id="extra_npc_0101"	cont="í‘ì•”ì´ˆ"	/>
+		<msg	id="extra_npc_0102"	cont="í™”ë¡œ"	/>
+		<msg	id="extra_npc_0103"	cont="ë°œê´‘ì„"	/>
+		<msg	id="extra_npc_0104"	cont="ì „ìž ë¦¬ë”ê¸°"	/>
+		<msg	id="extra_npc_0105"	cont="ì œì¡°ìƒì¸ í´ë¡œì´"	/>
+		<msg	id="extra_npc_0106"	cont="ë¸Œë Œ"	/>
+		<msg	id="extra_npc_0107"	cont="í‚´"	/>
+		<msg	id="extra_npc_0108"	cont="AíŒ€ ë²„í”„ìƒì "	/>
+		<msg	id="extra_npc_0109"	cont="BíŒ€ ë²„í”„ìƒì "	/>
+		<msg	id="extra_npc_0110"	cont="íŒŒê²¬ ê³µí›ˆê´€ ë¼ìƒ¤"	/>
+		<msg	id="extra_npc_0111"	cont="íŒŒê²¬ ê³µí›ˆê´€ ì•„ì´ë°ë¥¸"	/>
+		<msg	id="extra_npc_0112"	cont="ì°½ê³ ê°€ë“œ ìº¡í‹´ë“€í¬"	/>
+		<msg	id="extra_npc_0113"	cont="ìž¡í™”ìƒì¸ ì—˜ë¦°"	/>
+		<msg	id="extra_npc_0114"	cont="ìž¡í™”ìƒì¸ ì¼€ì´íŠ¸"	/>
+		<msg	id="extra_npc_0115"	cont="ì°½ê³ ê°€ë“œ ë§ˆë‹´ë¸ë¦¬ì•„"	/>
+		<msg	id="extra_npc_0116"	cont="ì „ìŸ ê³µí›ˆê´€ ì˜¬ë¦¬ë¹„ì•„"	/>
+		<msg	id="extra_npc_0117"	cont="ì „ìŸ ê³µí›ˆê´€ ì¹´ì¼"	/>
+		<msg	id="extra_npc_0118"	cont="ìŠ¤ì¹´ì¼ë“œ"	/>
+		<msg	id="extra_npc_0119"	cont="ë°”ì´í¬íƒ„ ìŠ¤ì¹´ì¼ë“œ"	/>
+		<msg	id="extra_npc_0120"	cont="í¬ë¯¸í•œ ê¸€ê·€ì˜ ë¹„ì„"	/>
+		<msg	id="extra_npc_0121"	cont="ì„íŒ"	/>
+		<msg	id="extra_npc_0122"	cont="ê°€ë“œ ì„¸ë¹„ì–´ìŠ¤"	/>
+		<msg	id="extra_npc_0123"	cont="í˜¸ìˆ˜ ë‚˜ë¬´"	/>
+		<msg	id="extra_npc_0124"	cont="í‘¸ë¥¸ ê½ƒ"	/>
+		<msg	id="extra_npc_0125"	cont="ë¦¬ë””"	/>
+		<msg	id="extra_npc_0126"	cont="ì¹´íŽ ë¼"	/>
+		<msg	id="extra_npc_0127"	cont="í”„ë¡œí‚¤ì˜¨"	/>
+		<msg	id="extra_npc_0128"	cont="í„°ë„ˆ"	/>
+		<msg	id="extra_npc_0129"	cont="ì•„ì´ìž”"	/>
+		<msg	id="extra_npc_0130"	cont="ì—˜ë ˆë‚˜"	/>
+		<msg	id="extra_npc_0131"	cont="ìŠ¤ì¹´ì¼ë“œë’·ëª¨ìŠµ"	/>
+		<msg	id="extra_npc_0132"	cont="ë¬´ë¤ ë¹„ì„"	/>
+		<msg	id="extra_npc_0133"	cont="ë¹›ë‚˜ëŠ” ê´‘ë¬¼"	/>
+		<msg	id="extra_npc_0134"	cont="ìŠ¤ì¹´ì¼ë“œì˜ ë²½ë‚œë¡œ"	/>
+		<msg	id="extra_npc_0135"	cont="ìŠ¤ì¹´ì¼ë“œì˜ ì¹¨ëŒ€"	/>
+		<msg	id="extra_npc_0136"	cont="ì •ì²´ ë¶ˆëª…ì˜ ë¬¼ì•½"	/>
+		<msg	id="extra_npc_0137"	cont="ê°€ë“œ ë§ˆì¼ì¦ˆ"	/>
+		<msg	id="extra_npc_0138"	cont="ë‚œë¯¼ ëŒ€ìž¥"	/>
+		<msg	id="extra_npc_0139"	cont="ì“°ëŸ¬ì§„ ë¦¬ë””"	/>
+		<msg	id="extra_npc_0140"	cont="ë¶€ì„œì§„ ë¹„ì„"	/>
+		<msg	id="extra_npc_0141"	cont="í˜„ìž ì¹´íŽ ë¼"	/>
+		<msg	id="extra_npc_0142"	cont="í˜„ìž í”„ë¡œí‚¤ì˜¨"	/>
+		<msg	id="extra_npc_0143"	cont="ì¹´íŽ ë¼ ì°½ê³ ê°€ë“œ í—ˆì‹œ"	/>
+		<msg	id="extra_npc_0144"	cont="ì¹´íŽ ë¼ ìž¡í™”ìƒì¸ ìŠ¤í…ŒíŒŒë‹ˆ"	/>
+		<msg	id="extra_npc_0145"	cont="ì¹´íŽ ë¼ ë¬´ê¸°ìƒì¸ ë¦¬ë‘ì†¡"	/>
+		<msg	id="extra_npc_0146"	cont="ì¹´íŽ ë¼ ë§ˆë²•ìƒì¸ ë¦¬í”Œë””"	/>
+		<msg	id="extra_npc_0147"	cont="ì¹´íŽ ë¼ ë°©ì–´êµ¬ìƒì¸ í”Œë¦¬ì—"	/>
+		<msg	id="extra_npc_0148"	cont="ì¹´íŽ ë¼ í•­êµ¬ê´€ë¦¬ì¸ ë„ë¯¸ë‹‰"	/>
+		<msg	id="extra_npc_0149"	cont="ì¹´íŽ ë¼ ê°€ë“œ ì¹¸ëŒ"	/>
+		<msg	id="extra_npc_0150"	cont="ì¹´íŽ ë¼ ê°€ë“œ ì—¬ì†¡"	/>
+		<msg	id="extra_npc_0151"	cont="í”„ë¡œí‚¤ì˜¨ ì°½ê³ ê°€ë“œ ë¹„ë‹ˆìš”"	/>
+		<msg	id="extra_npc_0152"	cont="í”„ë¡œí‚¤ì˜¨ ìž¡í™”ìƒì¸ ì•„ë¶€ëžŒ"	/>
+		<msg	id="extra_npc_0153"	cont="í”„ë¡œí‚¤ì˜¨ ë¬´ê¸°ìƒì¸ í›„íƒ€"	/>
+		<msg	id="extra_npc_0154"	cont="í”„ë¡œí‚¤ì˜¨ ë§ˆë²•ìƒì¸ íŒŒë‚˜í‚¤"	/>
+		<msg	id="extra_npc_0155"	cont="í”„ë¡œí‚¤ì˜¨ ë°©ì–´êµ¬ìƒì¸ ì•Œë¡±ì œ"	/>
+		<msg	id="extra_npc_0156"	cont="í”„ë¡œí‚¤ì˜¨ í•­êµ¬ê´€ë¦¬ì¸ ë² ë¡œë‹"	/>
+		<msg	id="extra_npc_0157"	cont="í”„ë¡œí‚¤ì˜¨ ê°€ë“œ ë¸”ë¦¬ì²˜"	/>
+		<msg	id="extra_npc_0158"	cont="í”„ë¡œí‚¤ì˜¨ ê°€ë“œ í´ë¡œë¹„ìŠ¤"	/>
+		<msg	id="extra_npc_0159"	cont="ìˆ˜í˜¸ìž"	/>
+		<msg	id="extra_npc_0160"	cont="ë–¨ì–´ì§„ ë¶€ì "	/>
+		<msg	id="extra_npc_0161"	cont="ë§ˆì¼ì¦ˆì˜ ë™ìƒ"	/>
+		<msg	id="extra_npc_0162"	cont="ë³€ì´ëœ ì‹ë¬¼"	/>
+		<msg	id="extra_npc_0163"	cont="ë³€ì´ëœ ê½ƒ"	/>
+		<msg	id="extra_npc_0164"	cont="ë¹›ë‚˜ëŠ” ë‚˜ë¬´"	/>
+		<msg	id="extra_npc_0165"	cont="ì˜¤ëž˜ëœ ì„íƒ‘"	/>
+		<msg	id="extra_npc_0166"	cont="ì²« ë²ˆì§¸ ëŒ€ë¦¬ì„"	/>
+		<msg	id="extra_npc_0167"	cont="ë‘ ë²ˆì§¸ ëŒ€ë¦¬ì„"	/>
+		<msg	id="extra_npc_0168"	cont="ì„¸ ë²ˆì§¸ ëŒ€ë¦¬ì„"	/>
+		<msg	id="extra_npc_0169"	cont="ë„¤ ë²ˆì§¸ ëŒ€ë¦¬ì„"	/>
+		<msg	id="extra_npc_0170"	cont="ë‹¤ì„¯ ë²ˆì§¸ ëŒ€ë¦¬ì„"	/>
+		<msg	id="extra_npc_0171"	cont="ê°ì„±í•œ ì•„ì´ìž”"	/>
+		<msg	id="extra_npc_0172"	cont="ê°ì„±í•œ ì—˜ë ˆë‚˜"	/>
+		<msg	id="extra_npc_0173"	cont="ë³´ë¶€ìƒ ìœ ë…¼"	/>
+		<msg	id="extra_npc_0174"	cont="ìŠ¤íŽ˜ì…œ êµí™˜ë¨¸ì‹ "	/>
+		<msg	id="extra_npc_0175"	cont="í…Œë¥¸"	/>
+		<msg	id="extra_npc_0176"	cont="ë¥œ"	/>
+		<msg	id="extra_npc_0177"	cont="ížˆë¡œê¸€ë¦¬"	/>
+		<msg	id="extra_npc_0178"	cont="ì„¸ì¸ì¸  í¬ìŠ¤ì¹¼ë¦¬ë²„"	/>
+		<msg	id="extra_npc_0179"	cont="ê°ë…ê´€ ìžë² ë¥¸"	/>
 	</extra_obj_msg>
 </cabal_message>

@@ -1,16 +1,16 @@
 <RaidBoss_Msg>
 	<RaidBoss_Info_msg>
-		<BossInfo_name	WorldIdx="4"	BossIdx="3420"	Nickname="È­»êÀÇ ½ÉÀå"	BossName="¸¶¸£°í³ë½º"	/>
-		<BossInfo_name	WorldIdx="5"	BossIdx="3421"	Nickname="½À°ÝÀÚ"	BossName="¶ó±×³ë"	/>
-		<BossInfo_name	WorldIdx="7"	BossIdx="3422"	Nickname="Á×À½ÀÇ »Ô"	BossName="¿ì¸£È¥"	/>
-		<BossInfo_name	WorldIdx="8"	BossIdx="3423"	Nickname="¹æÈ²ÇÏ´Â ¿µ±¤"	BossName="¼¼Æ®"	/>
-		<BossInfo_name	WorldIdx="6"	BossIdx="3424"	Nickname="ÆÄ±«ÀÇ Ç¥½Ä"	BossName="·¹ÀÓ½º"	/>
-		<BossInfo_name	WorldIdx="9"	BossIdx="3425"	Nickname="Á¦´ÜÀÇ ¼öÈ£ÀÚ"	BossName="ÀÚÄË"	/>
-		<BossInfo_name	WorldIdx="10"	BossIdx="3426"	Nickname="¹Ì·¡º´±â"	BossName="±¸½ºÅ¸ÇÁ_Zg"	/>
-		<BossInfo_name	WorldIdx="11"	BossIdx="3427"	Nickname="ºÒ²ÉÀÇ Â¡¹úÀÚ"	BossName="Çï¶óÀÌ´õ"	/>
-		<BossInfo_name	WorldIdx="12"	BossIdx="3428"	Nickname="ºÐ³ëÀÇ"	BossName="¾ÆÄÉÀÎ °ñ·½"	/>
-		<BossInfo_name	WorldIdx="22"	BossIdx="3429"	Nickname="°í´ëÀÇ ÆÄ±«ÀÚ"	BossName="ÄÌ·Î¼ö½º"	/>
-		<BossInfo_name	WorldIdx="22"	BossIdx="3430"	Nickname="°í´ëÀÇ ¼±ºÀÀå"	BossName="Ä«¸£°í½º"	/>
+		<BossInfo_name	WorldIdx="4"	BossIdx="3420"	Nickname="í™”ì‚°ì˜ ì‹¬ìž¥"	BossName="ë§ˆë¥´ê³ ë…¸ìŠ¤"	/>
+		<BossInfo_name	WorldIdx="5"	BossIdx="3421"	Nickname="ìŠµê²©ìž"	BossName="ë¼ê·¸ë…¸"	/>
+		<BossInfo_name	WorldIdx="7"	BossIdx="3422"	Nickname="ì£½ìŒì˜ ë¿”"	BossName="ìš°ë¥´í˜¼"	/>
+		<BossInfo_name	WorldIdx="8"	BossIdx="3423"	Nickname="ë°©í™©í•˜ëŠ” ì˜ê´‘"	BossName="ì„¸íŠ¸"	/>
+		<BossInfo_name	WorldIdx="6"	BossIdx="3424"	Nickname="íŒŒê´´ì˜ í‘œì‹"	BossName="ë ˆìž„ìŠ¤"	/>
+		<BossInfo_name	WorldIdx="9"	BossIdx="3425"	Nickname="ì œë‹¨ì˜ ìˆ˜í˜¸ìž"	BossName="ìžì¼„"	/>
+		<BossInfo_name	WorldIdx="10"	BossIdx="3426"	Nickname="ë¯¸ëž˜ë³‘ê¸°"	BossName="êµ¬ìŠ¤íƒ€í”„_Zg"	/>
+		<BossInfo_name	WorldIdx="11"	BossIdx="3427"	Nickname="ë¶ˆê½ƒì˜ ì§•ë²Œìž"	BossName="í—¬ë¼ì´ë”"	/>
+		<BossInfo_name	WorldIdx="12"	BossIdx="3428"	Nickname="ë¶„ë…¸ì˜"	BossName="ì•„ì¼€ì¸ ê³¨ë ˜"	/>
+		<BossInfo_name	WorldIdx="22"	BossIdx="3429"	Nickname="ê³ ëŒ€ì˜ íŒŒê´´ìž"	BossName="ì¼ˆë¡œìˆ˜ìŠ¤"	/>
+		<BossInfo_name	WorldIdx="22"	BossIdx="3430"	Nickname="ê³ ëŒ€ì˜ ì„ ë´‰ìž¥"	BossName="ì¹´ë¥´ê³ ìŠ¤"	/>
 	</RaidBoss_Info_msg>
 	<RewardList_Msg>
 		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="2842"	/>

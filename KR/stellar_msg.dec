@@ -1,63 +1,63 @@
 <stellar_message>
 	<set_msg>
-		<msg	line="1"	grade="1"	desc="°¥¸ÁÀÇ ´ÙÀÌ´Þ·Î½º"	/>
-		<msg	line="1"	grade="2"	desc="ºñÅºÀÇ ´ÙÀÌ´Þ·Î½º"	/>
-		<msg	line="1"	grade="3"	desc="°Ý³ëÀÇ ´ÙÀÌ´Þ·Î½º"	/>
-		<msg	line="1"	grade="4"	desc="¸Á°¢ÀÇ ´ÙÀÌ´Þ·Î½º"	/>
-		<msg	line="1"	grade="5"	desc="°øÇãÀÇ ´ÙÀÌ´Þ·Î½º"	/>
-		<msg	line="2"	grade="1"	desc="°¥¸ÁÀÇ ÀÌÄ«·ç½º"	/>
-		<msg	line="2"	grade="2"	desc="ºñÅºÀÇ ÀÌÄ«·ç½º"	/>
-		<msg	line="2"	grade="3"	desc="°Ý³ëÀÇ ÀÌÄ«·ç½º"	/>
-		<msg	line="2"	grade="4"	desc="¸Á°¢ÀÇ ÀÌÄ«·ç½º"	/>
-		<msg	line="2"	grade="5"	desc="°øÇãÀÇ ÀÌÄ«·ç½º"	/>
-		<msg	line="3"	grade="1"	desc="°¥¸ÁÀÇ ºÒÄ«³ë½º"	/>
-		<msg	line="3"	grade="2"	desc="ºñÅºÀÇ ºÒÄ«³ë½º"	/>
-		<msg	line="3"	grade="3"	desc="°Ý³ëÀÇ ºÒÄ«³ë½º"	/>
-		<msg	line="3"	grade="4"	desc="¸Á°¢ÀÇ ºÒÄ«³ë½º"	/>
-		<msg	line="3"	grade="5"	desc="°øÇãÀÇ ºÒÄ«³ë½º"	/>
-		<msg	line="4"	grade="1"	desc="°¥¸ÁÀÇ ¹Ì³×¸£¹Ù"	/>
-		<msg	line="4"	grade="2"	desc="ºñÅºÀÇ ¹Ì³×¸£¹Ù"	/>
-		<msg	line="4"	grade="3"	desc="°Ý³ëÀÇ ¹Ì³×¸£¹Ù"	/>
-		<msg	line="4"	grade="4"	desc="¸Á°¢ÀÇ ¹Ì³×¸£¹Ù"	/>
-		<msg	line="4"	grade="5"	desc="°øÇãÀÇ ¹Ì³×¸£¹Ù"	/>
-		<msg	line="5"	grade="1"	desc="°¥¸ÁÀÇ ÇÃ·ÎÅä"	/>
-		<msg	line="5"	grade="2"	desc="ºñÅºÀÇ ÇÃ·ÎÅä"	/>
-		<msg	line="5"	grade="3"	desc="°Ý³ëÀÇ ÇÃ·ÎÅä"	/>
-		<msg	line="5"	grade="4"	desc="¸Á°¢ÀÇ ÇÃ·ÎÅä"	/>
-		<msg	line="5"	grade="5"	desc="°øÇãÀÇ ÇÃ·ÎÅä"	/>
+		<msg	line="1"	grade="1"	desc="ê°ˆë§ì˜ ë‹¤ì´ë‹¬ë¡œìŠ¤"	/>
+		<msg	line="1"	grade="2"	desc="ë¹„íƒ„ì˜ ë‹¤ì´ë‹¬ë¡œìŠ¤"	/>
+		<msg	line="1"	grade="3"	desc="ê²©ë…¸ì˜ ë‹¤ì´ë‹¬ë¡œìŠ¤"	/>
+		<msg	line="1"	grade="4"	desc="ë§ê°ì˜ ë‹¤ì´ë‹¬ë¡œìŠ¤"	/>
+		<msg	line="1"	grade="5"	desc="ê³µí—ˆì˜ ë‹¤ì´ë‹¬ë¡œìŠ¤"	/>
+		<msg	line="2"	grade="1"	desc="ê°ˆë§ì˜ ì´ì¹´ë£¨ìŠ¤"	/>
+		<msg	line="2"	grade="2"	desc="ë¹„íƒ„ì˜ ì´ì¹´ë£¨ìŠ¤"	/>
+		<msg	line="2"	grade="3"	desc="ê²©ë…¸ì˜ ì´ì¹´ë£¨ìŠ¤"	/>
+		<msg	line="2"	grade="4"	desc="ë§ê°ì˜ ì´ì¹´ë£¨ìŠ¤"	/>
+		<msg	line="2"	grade="5"	desc="ê³µí—ˆì˜ ì´ì¹´ë£¨ìŠ¤"	/>
+		<msg	line="3"	grade="1"	desc="ê°ˆë§ì˜ ë¶ˆì¹´ë…¸ìŠ¤"	/>
+		<msg	line="3"	grade="2"	desc="ë¹„íƒ„ì˜ ë¶ˆì¹´ë…¸ìŠ¤"	/>
+		<msg	line="3"	grade="3"	desc="ê²©ë…¸ì˜ ë¶ˆì¹´ë…¸ìŠ¤"	/>
+		<msg	line="3"	grade="4"	desc="ë§ê°ì˜ ë¶ˆì¹´ë…¸ìŠ¤"	/>
+		<msg	line="3"	grade="5"	desc="ê³µí—ˆì˜ ë¶ˆì¹´ë…¸ìŠ¤"	/>
+		<msg	line="4"	grade="1"	desc="ê°ˆë§ì˜ ë¯¸ë„¤ë¥´ë°”"	/>
+		<msg	line="4"	grade="2"	desc="ë¹„íƒ„ì˜ ë¯¸ë„¤ë¥´ë°”"	/>
+		<msg	line="4"	grade="3"	desc="ê²©ë…¸ì˜ ë¯¸ë„¤ë¥´ë°”"	/>
+		<msg	line="4"	grade="4"	desc="ë§ê°ì˜ ë¯¸ë„¤ë¥´ë°”"	/>
+		<msg	line="4"	grade="5"	desc="ê³µí—ˆì˜ ë¯¸ë„¤ë¥´ë°”"	/>
+		<msg	line="5"	grade="1"	desc="ê°ˆë§ì˜ í”Œë¡œí† "	/>
+		<msg	line="5"	grade="2"	desc="ë¹„íƒ„ì˜ í”Œë¡œí† "	/>
+		<msg	line="5"	grade="3"	desc="ê²©ë…¸ì˜ í”Œë¡œí† "	/>
+		<msg	line="5"	grade="4"	desc="ë§ê°ì˜ í”Œë¡œí† "	/>
+		<msg	line="5"	grade="5"	desc="ê³µí—ˆì˜ í”Œë¡œí† "	/>
 	</set_msg>
 	<grade_msg>
-		<msg	id="1"	desc="°¥¸Á"	/>
-		<msg	id="2"	desc="ºñÅº"	/>
-		<msg	id="3"	desc="°Ý³ë"	/>
-		<msg	id="4"	desc="¸Á°¢"	/>
-		<msg	id="5"	desc="°øÇã"	/>
+		<msg	id="1"	desc="ê°ˆë§"	/>
+		<msg	id="2"	desc="ë¹„íƒ„"	/>
+		<msg	id="3"	desc="ê²©ë…¸"	/>
+		<msg	id="4"	desc="ë§ê°"	/>
+		<msg	id="5"	desc="ê³µí—ˆ"	/>
 	</grade_msg>
 	<graderange_msg>
-		<msg	id="101"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="102"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="103"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="104"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="105"	desc="ºñÅº ~ °øÇã"	/>
-		<msg	id="101"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="102"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="103"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="104"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="105"	desc="ºñÅº ~ °øÇã"	/>
-		<msg	id="101"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="102"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="103"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="104"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="105"	desc="ºñÅº ~ °øÇã"	/>
-		<msg	id="101"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="102"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="103"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="104"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="105"	desc="ºñÅº ~ °øÇã"	/>
-		<msg	id="101"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="102"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="103"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="104"	desc="°¥¸Á ~ °øÇã"	/>
-		<msg	id="105"	desc="ºñÅº ~ °øÇã"	/>
+		<msg	id="101"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="102"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="103"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="104"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="105"	desc="ë¹„íƒ„ ~ ê³µí—ˆ"	/>
+		<msg	id="101"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="102"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="103"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="104"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="105"	desc="ë¹„íƒ„ ~ ê³µí—ˆ"	/>
+		<msg	id="101"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="102"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="103"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="104"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="105"	desc="ë¹„íƒ„ ~ ê³µí—ˆ"	/>
+		<msg	id="101"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="102"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="103"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="104"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="105"	desc="ë¹„íƒ„ ~ ê³µí—ˆ"	/>
+		<msg	id="101"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="102"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="103"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="104"	desc="ê°ˆë§ ~ ê³µí—ˆ"	/>
+		<msg	id="105"	desc="ë¹„íƒ„ ~ ê³µí—ˆ"	/>
 	</graderange_msg>
 </stellar_message>

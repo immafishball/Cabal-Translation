@@ -2,128 +2,128 @@
 <cabal_message>
 	<version	index="1"	/>
 	<caz_msg>
-		<msg	id="freeuser_svc_00"	cont="¹«·á ÀÌ¿ëÀÚ"	/>
-		<msg	id="duration_svc_00"	cont="ÇÁ¸®¹Ì¾ö PC¹æ"	/>
-		<msg	id="duration_svc_01"	cont="ÇÃ·¡Æ¼³Ñ ¾ÆÀÌÅÛ"	/>
-		<msg	id="duration_svc_02"	cont="¾ÆÄ«µ¥¹Ì Å°Æ® ¾ÆÀÌÅÛ"	/>
-		<msg	id="duration_svc_03"	cont="ÀåÀÎ Å°Æ® ¾ÆÀÌÅÛ"	/>
-		<msg	id="duration_svc_04"	cont="¸ðÇè°¡ Å°Æ® ¾ÆÀÌÅÛ"	/>
-		<msg	id="duration_svc_05"	cont="°í±Þ ÇÃ·¡Æ¼³Ñ ¾ÆÀÌÅÛ"	/>
-		<msg	id="duration_svc_06"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ1)"	/>
-		<msg	id="duration_svc_07"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ2)"	/>
-		<msg	id="duration_svc_08"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ3)"	/>
-		<msg	id="duration_svc_09"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ4)"	/>
-		<msg	id="duration_svc_10"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ5)"	/>
-		<msg	id="duration_svc_11"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ6)"	/>
-		<msg	id="duration_svc_12"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ7)"	/>
-		<msg	id="duration_svc_13"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ8)"	/>
-		<msg	id="duration_svc_14"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ9)"	/>
-		<msg	id="duration_svc_15"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ10)"	/>
-		<msg	id="duration_svc_16"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ11)"	/>
-		<msg	id="duration_svc_17"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ12)"	/>
-		<msg	id="duration_svc_18"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ13)"	/>
-		<msg	id="duration_svc_19"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ14)"	/>
-		<msg	id="duration_svc_20"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ15)"	/>
-		<msg	id="duration_svc_21"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ16)"	/>
-		<msg	id="duration_svc_22"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ17)"	/>
-		<msg	id="duration_svc_23"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ18)"	/>
-		<msg	id="duration_svc_24"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ19)"	/>
-		<msg	id="duration_svc_25"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ20)"	/>
-		<msg	id="duration_svc_26"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ21)"	/>
-		<msg	id="duration_svc_27"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ22)"	/>
-		<msg	id="duration_svc_28"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ23)"	/>
-		<msg	id="duration_svc_29"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ24)"	/>
-		<msg	id="duration_svc_30"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ25)"	/>
-		<msg	id="duration_svc_31"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ26)"	/>
-		<msg	id="duration_svc_32"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ27)"	/>
-		<msg	id="duration_svc_33"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ28)"	/>
-		<msg	id="duration_svc_34"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ29)"	/>
-		<msg	id="duration_svc_35"	cont="ÇÁ¸®¹Ì¾ö ¾ÆÀÌÅÛ (´õ¹Ìµ¥ÀÌÅÍ30)"	/>
-		<msg	id="blessingbead_svc_01"	cont="ºí·¹½Ì ºñµå - Ã¢°í Áõ°¡ (4¹ø)"	/>
-		<msg	id="blessingbead_svc_02"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(10%)"	/>
-		<msg	id="blessingbead_svc_03"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(25%)"	/>
-		<msg	id="blessingbead_svc_04"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(10%)"	/>
-		<msg	id="blessingbead_svc_05"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(25%)"	/>
-		<msg	id="blessingbead_svc_06"	cont="ºí·¹½Ì ºñµå - µå·Ó·ü Áõ°¡(50%)"	/>
-		<msg	id="blessingbead_svc_07"	cont="ºí·¹½Ì ºñµå - µå·Ó·ü Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_08"	cont="ºí·¹½Ì ºñµå - ÇÃ·¯½º"	/>
-		<msg	id="blessingbead_svc_09"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(25%)"	/>
-		<msg	id="blessingbead_svc_10"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(50%)"	/>
-		<msg	id="blessingbead_svc_11"	cont="ºí·¹½Ì ºñµå - Æê °æÇèÄ¡ Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_12"	cont="¿¹Ä«Å×¸®³ª VIP ¸â¹ö½±"	/>
-		<msg	id="blessingbead_svc_13"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(25%)"	/>
-		<msg	id="blessingbead_svc_14"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(30%)"	/>
-		<msg	id="blessingbead_svc_15"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_16"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(50%)"	/>
-		<msg	id="blessingbead_svc_17"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(40%)"	/>
-		<msg	id="blessingbead_svc_18"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(40%)"	/>
-		<msg	id="blessingbead_svc_19"	cont="ºí·¹½Ì ºñµå - ´õ¹Ì"	/>
-		<msg	id="blessingbead_svc_20"	cont="ºí·¹½Ì ºñµå - Æ÷ÀÎÆ® Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_21"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(10%)"	/>
-		<msg	id="blessingbead_svc_22"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(50%)"	/>
-		<msg	id="blessingbead_svc_23"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_24"	cont="ºí·¹½Ì ºñµå - Á¦ÀÛ ÀÇ·Ú ½½·Ô Áõ°¡(8°³)"	/>
-		<msg	id="blessingbead_svc_25"	cont="ºí·¹½Ì ºñµå - ÆøÅº Alz È®·ü Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_26"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(80%)"	/>
-		<msg	id="blessingbead_svc_27"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(40%)"	/>
-		<msg	id="blessingbead_svc_28"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(80%)"	/>
-		<msg	id="blessingbead_svc_29"	cont="ºí·¹½Ì ºñµå - ½ºÅ³°æÇèÄ¡ Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_30"	cont="ºí·¹½Ì ºñµå - ÇÃ·¯½º (ÀÏº»¿ë)"	/>
-		<msg	id="blessingbead_svc_31"	cont="¿¹Ä«Å×¸®³ª °ñµå ¸â¹ö½±"	/>
-		<msg	id="blessingbead_svc_32"	cont="ºí·¹½Ì ºñµå - ¾àÈ­µÈ ¸ÁÀÚÀÇ Å¾ B1F"	/>
-		<msg	id="blessingbead_svc_33"	cont="Æê ½½·Ô ÀÍ½ºÅÙ´õ"	/>
-		<msg	id="blessingbead_svc_34"	cont="´õ¹Ì µ¥ÀÌÅÍ 1"	/>
-		<msg	id="blessingbead_svc_35"	cont="´õ¹Ì µ¥ÀÌÅÍ 2"	/>
-		<msg	id="blessingbead_svc_36"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(150%)"	/>
-		<msg	id="blessingbead_svc_37"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_38"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(150%)"	/>
-		<msg	id="blessingbead_svc_39"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(75%)"	/>
-		<msg	id="blessingbead_svc_40"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_41"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_42"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_43"	cont="ºí·¹½Ì ºñµå - Æê °æÇèÄ¡ Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_44"	cont="ºí·¹½Ì ºñµå - Æê °æÇèÄ¡ Áõ°¡(300%)"	/>
-		<msg	id="blessingbead_svc_45"	cont="ºí·¹½Ì ºñµå - ÇÃ·¯½º (ÇØ¿Ü¿ë)"	/>
-		<msg	id="blessingbead_svc_46"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(10%)"	/>
-		<msg	id="blessingbead_svc_47"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(50%)"	/>
-		<msg	id="blessingbead_svc_48"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(75%)"	/>
-		<msg	id="blessingbead_svc_49"	cont="ºí·¹½Ì ºñµå - GPS ¿öÇÁ"	/>
-		<msg	id="blessingbead_svc_50"	cont="¿¹Ä«Å×¸®³ª ¸â¹ö½±"	/>
-		<msg	id="blessingbead_svc_51"	cont="ºí·¹½Ì ºñµå - Ã¢°í Áõ°¡ (5¹ø)"	/>
-		<msg	id="blessingbead_svc_52"	cont="ºí·¹½Ì ºñµå - Ã¢°í Áõ°¡ (6¹ø)"	/>
-		<msg	id="blessingbead_svc_53"	cont="ºí·¹½Ì ºñµå - Ã¢°í Áõ°¡ (7¹ø)"	/>
-		<msg	id="blessingbead_svc_54"	cont="ºí·¹½Ì ºñµå - Ã¢°í Áõ°¡ (8¹ø)"	/>
-		<msg	id="blessingbead_svc_55"	cont="ºí·¹½Ì ºñµå - ½´ÇÁ¸²"	/>
-		<msg	id="blessingbead_svc_56"	cont="ºí·¹½Ì ºñµå - ¿ïÆ¼¹Ô"	/>
-		<msg	id="blessingbead_svc_57"	cont="´õ¹Ì µ¥ÀÌÅÍ 5"	/>
-		<msg	id="blessingbead_svc_58"	cont="´õ¹Ì µ¥ÀÌÅÍ 6"	/>
-		<msg	id="blessingbead_svc_59"	cont="´õ¹Ì µ¥ÀÌÅÍ 7"	/>
-		<msg	id="blessingbead_svc_60"	cont="ºí·¹½Ì ºñµå - ½ºÆä¼È ÀÎº¥Åä¸®"	/>
-		<msg	id="blessingbead_svc_61"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_62"	cont="ºí·¹½Ì ºñµå - ¹Ú½º µå·Ó·ü Áõ°¡(100%)"	/>
-		<msg	id="blessingbead_svc_63"	cont="ºí·¹½Ì ºñµå - ¹Ú½º µå·Ó·ü Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_64"	cont="ºí·¹½Ì ºñµå - ¹Ú½º µå·Ó·ü Áõ°¡(300%)"	/>
-		<msg	id="blessingbead_svc_65"	cont="ºí·¹½Ì ºñµå - ½´Æä¸®¾î"	/>
-		<msg	id="blessingbead_svc_66"	cont="ºí·¹½Ì ºñµå - Æê °æÇèÄ¡ Áõ°¡(1000%)"	/>
-		<msg	id="blessingbead_svc_67"	cont="¿¹Ä«Å×¸®³ª ·¹µå ¸â¹ö½±"	/>
-		<msg	id="blessingbead_svc_68"	cont="ºí·¹½Ì ºñµå - ÄÚ½ºÆ¬ Ã¢°í Áõ°¡ (2¹ø)"	/>
-		<msg	id="blessingbead_svc_69"	cont="ºí·¹½Ì ºñµå - ÄÚ½ºÆ¬ Ã¢°í Áõ°¡ (3¹ø)"	/>
-		<msg	id="blessingbead_svc_70"	cont="ºí·¹½Ì ºñµå - ÄÚ½ºÆ¬ Ã¢°í Áõ°¡ (4¹ø)"	/>
-		<msg	id="blessingbead_svc_71"	cont="ºí·¹½Ì ºñµå - ÄÚ½ºÆ¬ Ã¢°í"	/>
-		<msg	id="blessingbead_svc_72"	cont="¿¹Ä«Å×¸®³ª ½ºÆä¼È ¸â¹ö½±"	/>
-		<msg	id="blessingbead_svc_73"	cont="ºí·¹½Ì ºñµå - Æ÷½º À® °æÇèÄ¡ Áõ°¡(200%)"	/>
-		<msg	id="blessingbead_svc_74"	cont="ºí·¹½Ì ºñµå - Æ÷½º À® °æÇèÄ¡ Áõ°¡(1000%)"	/>
-		<msg	id="blessingbead_svc_75"	cont="ºí·¹½Ì ºñµå - °æÇèÄ¡ Áõ°¡(1000%)"	/>
-		<msg	id="blessingbead_svc_76"	cont="ºí·¹½Ì ºñµå - ½ºÅ³ °æÇèÄ¡ Áõ°¡(1000%)"	/>
-		<msg	id="blessingbead_svc_77"	cont="ºí·¹½Ì ºñµå - WExp Áõ°¡(1000%)"	/>
-		<msg	id="blessingbead_svc_78"	cont="ºí·¹½Ì ºñµå - AXP Áõ°¡(1000%)"	/>
-		<msg	id="blessingbead_svc_79"	cont="ºí·¹½Ì ºñµå - ¹Ú½º Ãß°¡ µå¶øÀ²(1000%)"	/>
-		<msg	id="groupmsg-01"	cont="°æÇèÄ¡"	/>
-		<msg	id="groupmsg-02"	cont="µå·Ó·ü"	/>
-		<msg	id="groupmsg-03"	cont="À§Å¹»óÁ¡"	/>
-		<msg	id="groupmsg-04"	cont="ÀÎº¥Åä¸®/Ã¢°í"	/>
-		<msg	id="groupmsg-05"	cont="¿öÇÁ"	/>
-		<msg	id="groupmsg-06"	cont="Á¦Á¶"	/>
-		<msg	id="groupmsg-07"	cont="±âÅ¸"	/>
+		<msg	id="freeuser_svc_00"	cont="ë¬´ë£Œ ì´ìš©ìž"	/>
+		<msg	id="duration_svc_00"	cont="í”„ë¦¬ë¯¸ì—„ PCë°©"	/>
+		<msg	id="duration_svc_01"	cont="í”Œëž˜í‹°ë„˜ ì•„ì´í…œ"	/>
+		<msg	id="duration_svc_02"	cont="ì•„ì¹´ë°ë¯¸ í‚¤íŠ¸ ì•„ì´í…œ"	/>
+		<msg	id="duration_svc_03"	cont="ìž¥ì¸ í‚¤íŠ¸ ì•„ì´í…œ"	/>
+		<msg	id="duration_svc_04"	cont="ëª¨í—˜ê°€ í‚¤íŠ¸ ì•„ì´í…œ"	/>
+		<msg	id="duration_svc_05"	cont="ê³ ê¸‰ í”Œëž˜í‹°ë„˜ ì•„ì´í…œ"	/>
+		<msg	id="duration_svc_06"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°1)"	/>
+		<msg	id="duration_svc_07"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°2)"	/>
+		<msg	id="duration_svc_08"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°3)"	/>
+		<msg	id="duration_svc_09"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°4)"	/>
+		<msg	id="duration_svc_10"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°5)"	/>
+		<msg	id="duration_svc_11"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°6)"	/>
+		<msg	id="duration_svc_12"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°7)"	/>
+		<msg	id="duration_svc_13"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°8)"	/>
+		<msg	id="duration_svc_14"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°9)"	/>
+		<msg	id="duration_svc_15"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°10)"	/>
+		<msg	id="duration_svc_16"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°11)"	/>
+		<msg	id="duration_svc_17"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°12)"	/>
+		<msg	id="duration_svc_18"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°13)"	/>
+		<msg	id="duration_svc_19"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°14)"	/>
+		<msg	id="duration_svc_20"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°15)"	/>
+		<msg	id="duration_svc_21"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°16)"	/>
+		<msg	id="duration_svc_22"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°17)"	/>
+		<msg	id="duration_svc_23"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°18)"	/>
+		<msg	id="duration_svc_24"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°19)"	/>
+		<msg	id="duration_svc_25"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°20)"	/>
+		<msg	id="duration_svc_26"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°21)"	/>
+		<msg	id="duration_svc_27"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°22)"	/>
+		<msg	id="duration_svc_28"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°23)"	/>
+		<msg	id="duration_svc_29"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°24)"	/>
+		<msg	id="duration_svc_30"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°25)"	/>
+		<msg	id="duration_svc_31"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°26)"	/>
+		<msg	id="duration_svc_32"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°27)"	/>
+		<msg	id="duration_svc_33"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°28)"	/>
+		<msg	id="duration_svc_34"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°29)"	/>
+		<msg	id="duration_svc_35"	cont="í”„ë¦¬ë¯¸ì—„ ì•„ì´í…œ (ë”ë¯¸ë°ì´í„°30)"	/>
+		<msg	id="blessingbead_svc_01"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì°½ê³  ì¦ê°€ (4ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_02"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(10%)"	/>
+		<msg	id="blessingbead_svc_03"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(25%)"	/>
+		<msg	id="blessingbead_svc_04"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(10%)"	/>
+		<msg	id="blessingbead_svc_05"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(25%)"	/>
+		<msg	id="blessingbead_svc_06"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë“œë¡­ë¥  ì¦ê°€(50%)"	/>
+		<msg	id="blessingbead_svc_07"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë“œë¡­ë¥  ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_08"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í”ŒëŸ¬ìŠ¤"	/>
+		<msg	id="blessingbead_svc_09"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(25%)"	/>
+		<msg	id="blessingbead_svc_10"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(50%)"	/>
+		<msg	id="blessingbead_svc_11"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - íŽ« ê²½í—˜ì¹˜ ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_12"	cont="ì˜ˆì¹´í…Œë¦¬ë‚˜ VIP ë©¤ë²„ì‰½"	/>
+		<msg	id="blessingbead_svc_13"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(25%)"	/>
+		<msg	id="blessingbead_svc_14"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(30%)"	/>
+		<msg	id="blessingbead_svc_15"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_16"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(50%)"	/>
+		<msg	id="blessingbead_svc_17"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(40%)"	/>
+		<msg	id="blessingbead_svc_18"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(40%)"	/>
+		<msg	id="blessingbead_svc_19"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë”ë¯¸"	/>
+		<msg	id="blessingbead_svc_20"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í¬ì¸íŠ¸ ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_21"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(10%)"	/>
+		<msg	id="blessingbead_svc_22"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(50%)"	/>
+		<msg	id="blessingbead_svc_23"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_24"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì œìž‘ ì˜ë¢° ìŠ¬ë¡¯ ì¦ê°€(8ê°œ)"	/>
+		<msg	id="blessingbead_svc_25"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í­íƒ„ Alz í™•ë¥  ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_26"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(80%)"	/>
+		<msg	id="blessingbead_svc_27"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(40%)"	/>
+		<msg	id="blessingbead_svc_28"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(80%)"	/>
+		<msg	id="blessingbead_svc_29"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ê²½í—˜ì¹˜ ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_30"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í”ŒëŸ¬ìŠ¤ (ì¼ë³¸ìš©)"	/>
+		<msg	id="blessingbead_svc_31"	cont="ì˜ˆì¹´í…Œë¦¬ë‚˜ ê³¨ë“œ ë©¤ë²„ì‰½"	/>
+		<msg	id="blessingbead_svc_32"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì•½í™”ëœ ë§ìžì˜ íƒ‘ B1F"	/>
+		<msg	id="blessingbead_svc_33"	cont="íŽ« ìŠ¬ë¡¯ ìµìŠ¤í…ë”"	/>
+		<msg	id="blessingbead_svc_34"	cont="ë”ë¯¸ ë°ì´í„° 1"	/>
+		<msg	id="blessingbead_svc_35"	cont="ë”ë¯¸ ë°ì´í„° 2"	/>
+		<msg	id="blessingbead_svc_36"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(150%)"	/>
+		<msg	id="blessingbead_svc_37"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_38"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(150%)"	/>
+		<msg	id="blessingbead_svc_39"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(75%)"	/>
+		<msg	id="blessingbead_svc_40"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_41"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_42"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_43"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - íŽ« ê²½í—˜ì¹˜ ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_44"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - íŽ« ê²½í—˜ì¹˜ ì¦ê°€(300%)"	/>
+		<msg	id="blessingbead_svc_45"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í”ŒëŸ¬ìŠ¤ (í•´ì™¸ìš©)"	/>
+		<msg	id="blessingbead_svc_46"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(10%)"	/>
+		<msg	id="blessingbead_svc_47"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(50%)"	/>
+		<msg	id="blessingbead_svc_48"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(75%)"	/>
+		<msg	id="blessingbead_svc_49"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - GPS ì›Œí”„"	/>
+		<msg	id="blessingbead_svc_50"	cont="ì˜ˆì¹´í…Œë¦¬ë‚˜ ë©¤ë²„ì‰½"	/>
+		<msg	id="blessingbead_svc_51"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì°½ê³  ì¦ê°€ (5ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_52"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì°½ê³  ì¦ê°€ (6ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_53"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì°½ê³  ì¦ê°€ (7ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_54"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì°½ê³  ì¦ê°€ (8ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_55"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠˆí”„ë¦¼"	/>
+		<msg	id="blessingbead_svc_56"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìš¸í‹°ë°‹"	/>
+		<msg	id="blessingbead_svc_57"	cont="ë”ë¯¸ ë°ì´í„° 5"	/>
+		<msg	id="blessingbead_svc_58"	cont="ë”ë¯¸ ë°ì´í„° 6"	/>
+		<msg	id="blessingbead_svc_59"	cont="ë”ë¯¸ ë°ì´í„° 7"	/>
+		<msg	id="blessingbead_svc_60"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤íŽ˜ì…œ ì¸ë²¤í† ë¦¬"	/>
+		<msg	id="blessingbead_svc_61"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_62"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë°•ìŠ¤ ë“œë¡­ë¥  ì¦ê°€(100%)"	/>
+		<msg	id="blessingbead_svc_63"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë°•ìŠ¤ ë“œë¡­ë¥  ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_64"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë°•ìŠ¤ ë“œë¡­ë¥  ì¦ê°€(300%)"	/>
+		<msg	id="blessingbead_svc_65"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠˆíŽ˜ë¦¬ì–´"	/>
+		<msg	id="blessingbead_svc_66"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - íŽ« ê²½í—˜ì¹˜ ì¦ê°€(1000%)"	/>
+		<msg	id="blessingbead_svc_67"	cont="ì˜ˆì¹´í…Œë¦¬ë‚˜ ë ˆë“œ ë©¤ë²„ì‰½"	/>
+		<msg	id="blessingbead_svc_68"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì½”ìŠ¤íŠ¬ ì°½ê³  ì¦ê°€ (2ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_69"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì½”ìŠ¤íŠ¬ ì°½ê³  ì¦ê°€ (3ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_70"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì½”ìŠ¤íŠ¬ ì°½ê³  ì¦ê°€ (4ë²ˆ)"	/>
+		<msg	id="blessingbead_svc_71"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ì½”ìŠ¤íŠ¬ ì°½ê³ "	/>
+		<msg	id="blessingbead_svc_72"	cont="ì˜ˆì¹´í…Œë¦¬ë‚˜ ìŠ¤íŽ˜ì…œ ë©¤ë²„ì‰½"	/>
+		<msg	id="blessingbead_svc_73"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í¬ìŠ¤ ìœ™ ê²½í—˜ì¹˜ ì¦ê°€(200%)"	/>
+		<msg	id="blessingbead_svc_74"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - í¬ìŠ¤ ìœ™ ê²½í—˜ì¹˜ ì¦ê°€(1000%)"	/>
+		<msg	id="blessingbead_svc_75"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ê²½í—˜ì¹˜ ì¦ê°€(1000%)"	/>
+		<msg	id="blessingbead_svc_76"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ìŠ¤í‚¬ ê²½í—˜ì¹˜ ì¦ê°€(1000%)"	/>
+		<msg	id="blessingbead_svc_77"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - WExp ì¦ê°€(1000%)"	/>
+		<msg	id="blessingbead_svc_78"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - AXP ì¦ê°€(1000%)"	/>
+		<msg	id="blessingbead_svc_79"	cont="ë¸”ë ˆì‹± ë¹„ë“œ - ë°•ìŠ¤ ì¶”ê°€ ë“œëžìœ¨(1000%)"	/>
+		<msg	id="groupmsg-01"	cont="ê²½í—˜ì¹˜"	/>
+		<msg	id="groupmsg-02"	cont="ë“œë¡­ë¥ "	/>
+		<msg	id="groupmsg-03"	cont="ìœ„íƒìƒì "	/>
+		<msg	id="groupmsg-04"	cont="ì¸ë²¤í† ë¦¬/ì°½ê³ "	/>
+		<msg	id="groupmsg-05"	cont="ì›Œí”„"	/>
+		<msg	id="groupmsg-06"	cont="ì œì¡°"	/>
+		<msg	id="groupmsg-07"	cont="ê¸°íƒ€"	/>
 	</caz_msg>
 </cabal_message>

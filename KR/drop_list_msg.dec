@@ -1,95 +1,95 @@
 
 <cabal_drop_list_message>
 	<category_num>
-		<name	category="1"	msg="¹«±â"	/>
-		<name	category="2"	msg="¹æ¾î±¸"	/>
-		<name	category="3"	msg="¿¡ÆÞ¸´"	/>
-		<name	category="4"	msg="¹ÙÀÌÅ©"	/>
-		<name	category="5"	msg="ÀÍ½ºÅÙ´õ"	/>
-		<name	category="6"	msg="¾×¼¼¼­¸®"	/>
-		<name	category="7"	msg="Àç·á"	/>
-		<name	category="8"	msg="¿ëº´ Ä«µå Á¶°¢"	/>
-		<name	category="9"	msg="·é"	/>
-		<name	category="10"	msg="±Í¼Ó ÇØÁ¦¼®"	/>
-		<name	category="11"	msg="Çï¸ä"	/>
-		<name	category="12"	msg="±Û·¯ºê"	/>
-		<name	category="13"	msg="ºÎÃ÷"	/>
-		<name	category="14"	msg="½´Æ®"	/>
-		<name	category="15"	msg="Á¶°¢"	/>
-		<name	category="16"	msg="º¸µå"	/>
-		<name	category="17"	msg="ÀåÀÎ ¹«±â"	/>
-		<name	category="18"	msg="ÀåÀÎ ¹æ¾î±¸"	/>
-		<name	category="19"	msg="ÀçÈ­"	/>
-		<name	category="20"	msg="ÁÖ¹®¼­"	/>
-		<name	category="21"	msg="±âÅ¸"	/>
-		<name	category="22"	msg="Âü"	/>
-		<name	category="23"	msg="¾ÆÆ¼ÆÑÆ®"	/>
+		<name	category="1"	msg="ë¬´ê¸°"	/>
+		<name	category="2"	msg="ë°©ì–´êµ¬"	/>
+		<name	category="3"	msg="ì—íŽ„ë¦¿"	/>
+		<name	category="4"	msg="ë°”ì´í¬"	/>
+		<name	category="5"	msg="ìµìŠ¤í…ë”"	/>
+		<name	category="6"	msg="ì•¡ì„¸ì„œë¦¬"	/>
+		<name	category="7"	msg="ìž¬ë£Œ"	/>
+		<name	category="8"	msg="ìš©ë³‘ ì¹´ë“œ ì¡°ê°"	/>
+		<name	category="9"	msg="ë£¬"	/>
+		<name	category="10"	msg="ê·€ì† í•´ì œì„"	/>
+		<name	category="11"	msg="í—¬ë©§"	/>
+		<name	category="12"	msg="ê¸€ëŸ¬ë¸Œ"	/>
+		<name	category="13"	msg="ë¶€ì¸ "	/>
+		<name	category="14"	msg="ìŠˆíŠ¸"	/>
+		<name	category="15"	msg="ì¡°ê°"	/>
+		<name	category="16"	msg="ë³´ë“œ"	/>
+		<name	category="17"	msg="ìž¥ì¸ ë¬´ê¸°"	/>
+		<name	category="18"	msg="ìž¥ì¸ ë°©ì–´êµ¬"	/>
+		<name	category="19"	msg="ìž¬í™”"	/>
+		<name	category="20"	msg="ì£¼ë¬¸ì„œ"	/>
+		<name	category="21"	msg="ê¸°íƒ€"	/>
+		<name	category="22"	msg="ì°¸"	/>
+		<name	category="23"	msg="ì•„í‹°íŒ©íŠ¸"	/>
 	</category_num>
 	<grade_num>
-		<grade	category="1"	num="4"	msg="½ÃÆ®¸° / ¼¨µµ¿ì ½ºÆ¿"	/>
-		<grade	category="1"	num="5"	msg="ºí·ç½ºÆ¾"	/>
-		<grade	category="1"	num="6"	msg="Æä¸®½ºÆ¾ / Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="1"	num="7"	msg="¾ÆÄí¾Æ / ¼¨µµ¿ì Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="1"	num="8"	msg="¶óÇÇ½º / ¿À½º¹Ì¿ò"	/>
-		<grade	category="1"	num="9"	msg="ÅäÆÄÁî / ·¹µå ¿À½º¹Ì¿ò"	/>
-		<grade	category="1"	num="10"	msg="½Ã±×¸ÞÅ»"	/>
-		<grade	category="1"	num="11"	msg="¹Ì½º¸±"	/>
-		<grade	category="1"	num="2001"	msg="¶óÀÌÄ«´©½º"	/>
-		<grade	category="1"	num="12"	msg="¾ÆÅ©¸®µð¿ò"	/>
-		<grade	category="1"	num="13"	msg="ÆÈ¶óµð¿ò"	/>
-		<grade	category="1"	num="14"	msg="µ¥¸ð³ªÀÌÆ®"	/>
-		<grade	category="1"	num="15"	msg="µå·¡°í´½"	/>
-		<grade	category="2"	num="4"	msg="¼¨µµ¿ì ½ºÆ¿ / ¾Æ¶ó¹Ìµå"	/>
-		<grade	category="2"	num="5"	msg="ºí·ç½ºÆ¾"	/>
-		<grade	category="2"	num="6"	msg="Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="2"	num="7"	msg="¼¨µµ¿ì Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="2"	num="8"	msg="¿À½º¹Ì¿ò"	/>
-		<grade	category="2"	num="9"	msg="»þÀÎ°¡µå / ¹Ì½ºÆ½ / Å×¶ó±×·¹ÀÌ½º"	/>
-		<grade	category="2"	num="10"	msg="½Ã±×¸ÞÅ»"	/>
-		<grade	category="2"	num="11"	msg="¹Ì½º¸±"	/>
-		<grade	category="2"	num="2002"	msg="µå¶óÀÌ ÇÁ¶ó¸Þ"	/>
-		<grade	category="2"	num="12"	msg="¾ÆÅ©¸®µð¿ò"	/>
-		<grade	category="2"	num="13"	msg="ÆÈ¶óµð¿ò"	/>
-		<grade	category="2"	num="14"	msg="µ¥¸ð³ªÀÌÆ®"	/>
-		<grade	category="2"	num="15"	msg="µå·¡°í´½"	/>
-		<grade	category="3"	num="4"	msg="¼¨µµ¿ì ¾Æ¶ó¹Ìµå"	/>
-		<grade	category="3"	num="5"	msg="ºí·ç½ºÆ¾"	/>
-		<grade	category="3"	num="7"	msg="¼¨µµ¿ì"	/>
-		<grade	category="3"	num="6"	msg="Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="3"	num="8"	msg="¿À½º¹Ì¿ò"	/>
-		<grade	category="3"	num="9"	msg="·¹¾î"	/>
-		<grade	category="3"	num="10"	msg="½Ã±×¸ÞÅ»"	/>
-		<grade	category="3"	num="11"	msg="¹Ì½º¸±"	/>
-		<grade	category="3"	num="2002"	msg="µå¶óÀÌ ÇÁ¶ó¸Þ"	/>
-		<grade	category="3"	num="12"	msg="¾ÆÅ©¸®µð¿ò"	/>
-		<grade	category="3"	num="13"	msg="ÆÈ¶óµð¿ò"	/>
-		<grade	category="3"	num="14"	msg="µ¥¸ð³ªÀÌÆ®"	/>
-		<grade	category="3"	num="15"	msg="µå·¡°í´½"	/>
-		<grade	category="17"	num="4"	msg="½ÃÆ®¸° / ¼¨µµ¿ì ½ºÆ¿"	/>
-		<grade	category="17"	num="5"	msg="ºí·ç½ºÆ¾"	/>
-		<grade	category="17"	num="6"	msg="Æä¸®½ºÆ¾ / Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="17"	num="7"	msg="¾ÆÄí¾Æ / ¼¨µµ¿ì Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="17"	num="8"	msg="¶óÇÇ½º / ¿À½º¹Ì¿ò"	/>
-		<grade	category="17"	num="9"	msg="ÅäÆÄÁî / ·¹µå ¿À½º¹Ì¿ò"	/>
-		<grade	category="17"	num="10"	msg="½Ã±×¸ÞÅ»"	/>
-		<grade	category="17"	num="11"	msg="¹Ì½º¸±"	/>
-		<grade	category="17"	num="2001"	msg="¶óÀÌÄ«´©½º"	/>
-		<grade	category="17"	num="12"	msg="¾ÆÅ©¸®µð¿ò"	/>
-		<grade	category="17"	num="13"	msg="ÆÈ¶óµð¿ò"	/>
-		<grade	category="17"	num="14"	msg="µ¥¸ð³ªÀÌÆ®"	/>
-		<grade	category="17"	num="15"	msg="µå·¡°í´½"	/>
-		<grade	category="18"	num="4"	msg="¼¨µµ¿ì ½ºÆ¿ / ¾Æ¶ó¹Ìµå"	/>
-		<grade	category="18"	num="5"	msg="ºí·ç½ºÆ¾"	/>
-		<grade	category="18"	num="6"	msg="Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="18"	num="7"	msg="¼¨µµ¿ì Æ¼Å¸´Ï¿ò"	/>
-		<grade	category="18"	num="8"	msg="¿À½º¹Ì¿ò"	/>
-		<grade	category="18"	num="9"	msg="»þÀÎ°¡µå / ¹Ì½ºÆ½ / Å×¶ó±×·¹ÀÌ½º"	/>
-		<grade	category="18"	num="10"	msg="½Ã±×¸ÞÅ»"	/>
-		<grade	category="18"	num="11"	msg="¹Ì½º¸±"	/>
-		<grade	category="18"	num="2002"	msg="µå¶óÀÌ ÇÁ¶ó¸Þ"	/>
-		<grade	category="18"	num="12"	msg="¾ÆÅ©¸®µð¿ò"	/>
-		<grade	category="18"	num="13"	msg="ÆÈ¶óµð¿ò"	/>
-		<grade	category="18"	num="14"	msg="µ¥¸ð³ªÀÌÆ®"	/>
-		<grade	category="18"	num="15"	msg="µå·¡°í´½"	/>
+		<grade	category="1"	num="4"	msg="ì‹œíŠ¸ë¦° / ì„€ë„ìš° ìŠ¤í‹¸"	/>
+		<grade	category="1"	num="5"	msg="ë¸”ë£¨ìŠ¤í‹´"	/>
+		<grade	category="1"	num="6"	msg="íŽ˜ë¦¬ìŠ¤í‹´ / í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="1"	num="7"	msg="ì•„ì¿ ì•„ / ì„€ë„ìš° í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="1"	num="8"	msg="ë¼í”¼ìŠ¤ / ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="1"	num="9"	msg="í† íŒŒì¦ˆ / ë ˆë“œ ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="1"	num="10"	msg="ì‹œê·¸ë©”íƒˆ"	/>
+		<grade	category="1"	num="11"	msg="ë¯¸ìŠ¤ë¦´"	/>
+		<grade	category="1"	num="2001"	msg="ë¼ì´ì¹´ëˆ„ìŠ¤"	/>
+		<grade	category="1"	num="12"	msg="ì•„í¬ë¦¬ë””ì›€"	/>
+		<grade	category="1"	num="13"	msg="íŒ”ë¼ë””ì›€"	/>
+		<grade	category="1"	num="14"	msg="ë°ëª¨ë‚˜ì´íŠ¸"	/>
+		<grade	category="1"	num="15"	msg="ë“œëž˜ê³ ëŠ„"	/>
+		<grade	category="2"	num="4"	msg="ì„€ë„ìš° ìŠ¤í‹¸ / ì•„ë¼ë¯¸ë“œ"	/>
+		<grade	category="2"	num="5"	msg="ë¸”ë£¨ìŠ¤í‹´"	/>
+		<grade	category="2"	num="6"	msg="í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="2"	num="7"	msg="ì„€ë„ìš° í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="2"	num="8"	msg="ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="2"	num="9"	msg="ìƒ¤ì¸ê°€ë“œ / ë¯¸ìŠ¤í‹± / í…Œë¼ê·¸ë ˆì´ìŠ¤"	/>
+		<grade	category="2"	num="10"	msg="ì‹œê·¸ë©”íƒˆ"	/>
+		<grade	category="2"	num="11"	msg="ë¯¸ìŠ¤ë¦´"	/>
+		<grade	category="2"	num="2002"	msg="ë“œë¼ì´ í”„ë¼ë©”"	/>
+		<grade	category="2"	num="12"	msg="ì•„í¬ë¦¬ë””ì›€"	/>
+		<grade	category="2"	num="13"	msg="íŒ”ë¼ë””ì›€"	/>
+		<grade	category="2"	num="14"	msg="ë°ëª¨ë‚˜ì´íŠ¸"	/>
+		<grade	category="2"	num="15"	msg="ë“œëž˜ê³ ëŠ„"	/>
+		<grade	category="3"	num="4"	msg="ì„€ë„ìš° ì•„ë¼ë¯¸ë“œ"	/>
+		<grade	category="3"	num="5"	msg="ë¸”ë£¨ìŠ¤í‹´"	/>
+		<grade	category="3"	num="7"	msg="ì„€ë„ìš°"	/>
+		<grade	category="3"	num="6"	msg="í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="3"	num="8"	msg="ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="3"	num="9"	msg="ë ˆì–´"	/>
+		<grade	category="3"	num="10"	msg="ì‹œê·¸ë©”íƒˆ"	/>
+		<grade	category="3"	num="11"	msg="ë¯¸ìŠ¤ë¦´"	/>
+		<grade	category="3"	num="2002"	msg="ë“œë¼ì´ í”„ë¼ë©”"	/>
+		<grade	category="3"	num="12"	msg="ì•„í¬ë¦¬ë””ì›€"	/>
+		<grade	category="3"	num="13"	msg="íŒ”ë¼ë””ì›€"	/>
+		<grade	category="3"	num="14"	msg="ë°ëª¨ë‚˜ì´íŠ¸"	/>
+		<grade	category="3"	num="15"	msg="ë“œëž˜ê³ ëŠ„"	/>
+		<grade	category="17"	num="4"	msg="ì‹œíŠ¸ë¦° / ì„€ë„ìš° ìŠ¤í‹¸"	/>
+		<grade	category="17"	num="5"	msg="ë¸”ë£¨ìŠ¤í‹´"	/>
+		<grade	category="17"	num="6"	msg="íŽ˜ë¦¬ìŠ¤í‹´ / í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="17"	num="7"	msg="ì•„ì¿ ì•„ / ì„€ë„ìš° í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="17"	num="8"	msg="ë¼í”¼ìŠ¤ / ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="17"	num="9"	msg="í† íŒŒì¦ˆ / ë ˆë“œ ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="17"	num="10"	msg="ì‹œê·¸ë©”íƒˆ"	/>
+		<grade	category="17"	num="11"	msg="ë¯¸ìŠ¤ë¦´"	/>
+		<grade	category="17"	num="2001"	msg="ë¼ì´ì¹´ëˆ„ìŠ¤"	/>
+		<grade	category="17"	num="12"	msg="ì•„í¬ë¦¬ë””ì›€"	/>
+		<grade	category="17"	num="13"	msg="íŒ”ë¼ë””ì›€"	/>
+		<grade	category="17"	num="14"	msg="ë°ëª¨ë‚˜ì´íŠ¸"	/>
+		<grade	category="17"	num="15"	msg="ë“œëž˜ê³ ëŠ„"	/>
+		<grade	category="18"	num="4"	msg="ì„€ë„ìš° ìŠ¤í‹¸ / ì•„ë¼ë¯¸ë“œ"	/>
+		<grade	category="18"	num="5"	msg="ë¸”ë£¨ìŠ¤í‹´"	/>
+		<grade	category="18"	num="6"	msg="í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="18"	num="7"	msg="ì„€ë„ìš° í‹°íƒ€ë‹ˆì›€"	/>
+		<grade	category="18"	num="8"	msg="ì˜¤ìŠ¤ë¯¸ì›€"	/>
+		<grade	category="18"	num="9"	msg="ìƒ¤ì¸ê°€ë“œ / ë¯¸ìŠ¤í‹± / í…Œë¼ê·¸ë ˆì´ìŠ¤"	/>
+		<grade	category="18"	num="10"	msg="ì‹œê·¸ë©”íƒˆ"	/>
+		<grade	category="18"	num="11"	msg="ë¯¸ìŠ¤ë¦´"	/>
+		<grade	category="18"	num="2002"	msg="ë“œë¼ì´ í”„ë¼ë©”"	/>
+		<grade	category="18"	num="12"	msg="ì•„í¬ë¦¬ë””ì›€"	/>
+		<grade	category="18"	num="13"	msg="íŒ”ë¼ë””ì›€"	/>
+		<grade	category="18"	num="14"	msg="ë°ëª¨ë‚˜ì´íŠ¸"	/>
+		<grade	category="18"	num="15"	msg="ë“œëž˜ê³ ëŠ„"	/>
 	</grade_num>
 </cabal_drop_list_message>

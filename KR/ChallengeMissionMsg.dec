@@ -1,13 +1,13 @@
 <challengemission_message>
 	<mission_msg>
-		<mission	idx="0"	desc="{0} DP È¹µæ"	/>
-		<mission	idx="1"	desc="{0} AP È¹µæ"	/>
-		<mission	idx="2"	desc="°øÈÆÆÐ º¸°í {0}È¸"	/>
-		<mission	idx="3"	desc="±æµåº¸¹° {0}°³ »ý¼º"	/>
-		<mission	idx="4"	desc="Á¦Á¶ ÀÇ·Ú {0}È¸"	/>
-		<mission	idx="5"	desc="¸ó½ºÅÍ {0} ¸¶¸® Ã³Ä¡"	/>
-		<mission	idx="6"	desc="{0}alz ¼Ò¸ð"	/>
-		<mission	idx="7"	desc="{0}Æ÷½ºÁª ¼Ò¸ð"	/>
-		<mission	idx="8"	desc="¹Ì¼ÇÀüÀï Âü¿© {0}È¸"	/>
+		<mission	idx="0"	desc="{0} DP íšë“"	/>
+		<mission	idx="1"	desc="{0} AP íšë“"	/>
+		<mission	idx="2"	desc="ê³µí›ˆíŒ¨ ë³´ê³  {0}íšŒ"	/>
+		<mission	idx="3"	desc="ê¸¸ë“œë³´ë¬¼ {0}ê°œ ìƒì„±"	/>
+		<mission	idx="4"	desc="ì œì¡° ì˜ë¢° {0}íšŒ"	/>
+		<mission	idx="5"	desc="ëª¬ìŠ¤í„° {0} ë§ˆë¦¬ ì²˜ì¹˜"	/>
+		<mission	idx="6"	desc="{0}alz ì†Œëª¨"	/>
+		<mission	idx="7"	desc="{0}í¬ìŠ¤ì ¬ ì†Œëª¨"	/>
+		<mission	idx="8"	desc="ë¯¸ì…˜ì „ìŸ ì°¸ì—¬ {0}íšŒ"	/>
 	</mission_msg>
 </challengemission_message>

@@ -1,7 +1,7 @@
 <pvpbattle_message>
 	<version	index="1"	/>
 	<battle_map_msg>
-		<msg	id="battle_map01"	cont="ÆæÅ¸ ¸óÅ×½º"	/>
+		<msg	id="battle_map01"	cont="íŽœíƒ€ ëª¬í…ŒìŠ¤"	/>
 	</battle_map_msg>
 	<mode_msg>
 		<msg	id="battle_mode01"	cont="2 vs 2"	/>
@@ -10,21 +10,21 @@
 		<msg	id="battle_mode04"	cont="7 vs 7"	/>
 	</mode_msg>
 	<time_msg>
-		<msg	id="battle_time01"	cont="10ºÐ"	/>
-		<msg	id="battle_time02"	cont="15ºÐ"	/>
-		<msg	id="battle_time03"	cont="20ºÐ"	/>
-		<msg	id="battle_time04"	cont="30ºÐ"	/>
+		<msg	id="battle_time01"	cont="10ë¶„"	/>
+		<msg	id="battle_time02"	cont="15ë¶„"	/>
+		<msg	id="battle_time03"	cont="20ë¶„"	/>
+		<msg	id="battle_time04"	cont="30ë¶„"	/>
 	</time_msg>
 	<kill_msg>
-		<msg	id="battle_kill01"	cont="10Å³"	/>
-		<msg	id="battle_kill02"	cont="30Å³"	/>
-		<msg	id="battle_kill03"	cont="50Å³"	/>
+		<msg	id="battle_kill01"	cont="10í‚¬"	/>
+		<msg	id="battle_kill02"	cont="30í‚¬"	/>
+		<msg	id="battle_kill03"	cont="50í‚¬"	/>
 	</kill_msg>
 	<room_name_msg>
-		<msg	id="default_name001"	cont="ÃÊº¸¸¸ ¿À¼¼¿ä~"	/>
-		<msg	id="default_name002"	cont="¸Å³Ê ´ëÀü ÇÏ½ÇºÐ!"	/>
-		<msg	id="default_name003"	cont="µé¾î¿À¸é ¹Ù·Î °í!"	/>
-		<msg	id="default_name004"	cont="ÇÑ¼ö °¡¸£ÃÄ ÁÖ½Ç ºÐ"	/>
+		<msg	id="default_name001"	cont="ì´ˆë³´ë§Œ ì˜¤ì„¸ìš”~"	/>
+		<msg	id="default_name002"	cont="ë§¤ë„ˆ ëŒ€ì „ í•˜ì‹¤ë¶„!"	/>
+		<msg	id="default_name003"	cont="ë“¤ì–´ì˜¤ë©´ ë°”ë¡œ ê³ !"	/>
+		<msg	id="default_name004"	cont="í•œìˆ˜ ê°€ë¥´ì³ ì£¼ì‹¤ ë¶„"	/>
 	</room_name_msg>
 </pvpbattle_message>
 

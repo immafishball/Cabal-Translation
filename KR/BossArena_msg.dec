@@ -1,7 +1,7 @@
 
 <cabal_BossArena_message>
 	<BossArena_msg>
-		<msg	id="name_0000"	cont="¹ßµÎ½º"	/>
-		<msg	id="tooltip_0000"	cont="$32#Á×À½ÀÇ ±â»ç ¹ßµÎ½º$\Æ¯Â¡: °ø°ÝÇü, ¹ú·¹ ÆøÅº »ç¿ë\Á¦ÇÑ ½Ã°£: 2ºÐ"	/>
+		<msg	id="name_0000"	cont="ë°œë‘ìŠ¤"	/>
+		<msg	id="tooltip_0000"	cont="$32#ì£½ìŒì˜ ê¸°ì‚¬ ë°œë‘ìŠ¤$\íŠ¹ì§•: ê³µê²©í˜•, ë²Œë ˆ í­íƒ„ ì‚¬ìš©\ì œí•œ ì‹œê°„: 2ë¶„"	/>
 	</BossArena_msg>
 </cabal_BossArena_message>

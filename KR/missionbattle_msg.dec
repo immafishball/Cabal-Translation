@@ -1,33 +1,33 @@
 <missionbattle_message>
 	<version	index="1"	/>
 	<battle_map_msg>
-		<msg	id="battle_map01"	cont="ÇÁ·ÎÁð ÄÝ·Î¼¼¿ò"	/>
-		<msg	id="battle_map02"	cont="¸ÁÇâÀÇ ½£"	/>
+		<msg	id="battle_map01"	cont="í”„ë¡œì¦Œ ì½œë¡œì„¸ì›€"	/>
+		<msg	id="battle_map02"	cont="ë§í–¥ì˜ ìˆ²"	/>
 	</battle_map_msg>
 	<mode_msg>
-		<msg	id="battle_mode01"	cont="ÀÏ¹Ý"	/>
+		<msg	id="battle_mode01"	cont="ì¼ë°˜"	/>
 	</mode_msg>
 	<buff_shop_msg>
-		<msg	id="buffcode001"	cont="°ø°Ý´É·Â °­È­ 1´Ü°è ±¸ÀÔ"	/>
-		<msg	id="buffcode002"	cont="°ø°Ý´É·Â °­È­ 2´Ü°è ±¸ÀÔ"	/>
-		<msg	id="buffcode003"	cont="°ø°Ý´É·Â °­È­ 3´Ü°è ±¸ÀÔ"	/>
-		<msg	id="buffcode004"	cont="¹æ¾î´É·Â °­È­ 1´Ü°è ±¸ÀÔ"	/>
-		<msg	id="buffcode005"	cont="¹æ¾î´É·Â °­È­ 2´Ü°è ±¸ÀÔ"	/>
-		<msg	id="buffcode006"	cont="¹æ¾î´É·Â °­È­ 3´Ü°è ±¸ÀÔ"	/>
-		<msg	id="buffcode007"	cont="°ø°Ý °­È­ (ÇÏ±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode008"	cont="°ø°Ý °­È­ (»ó±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode009"	cont="¹æ¾î °­È­ (ÇÏ±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode010"	cont="¹æ¾î °­È­ (»ó±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode011"	cont="Ä¡¸í °­È­ (ÇÏ±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode012"	cont="Ä¡¸í °­È­ (»ó±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode013"	cont="ÀúÇ× °­È­ (ÇÏ±Þ) ±¸ÀÔ"	/>
-		<msg	id="buffcode014"	cont="ÀúÇ× °­È­ (»ó±Þ) ±¸ÀÔ"	/>
+		<msg	id="buffcode001"	cont="ê³µê²©ëŠ¥ë ¥ ê°•í™” 1ë‹¨ê³„ êµ¬ìž…"	/>
+		<msg	id="buffcode002"	cont="ê³µê²©ëŠ¥ë ¥ ê°•í™” 2ë‹¨ê³„ êµ¬ìž…"	/>
+		<msg	id="buffcode003"	cont="ê³µê²©ëŠ¥ë ¥ ê°•í™” 3ë‹¨ê³„ êµ¬ìž…"	/>
+		<msg	id="buffcode004"	cont="ë°©ì–´ëŠ¥ë ¥ ê°•í™” 1ë‹¨ê³„ êµ¬ìž…"	/>
+		<msg	id="buffcode005"	cont="ë°©ì–´ëŠ¥ë ¥ ê°•í™” 2ë‹¨ê³„ êµ¬ìž…"	/>
+		<msg	id="buffcode006"	cont="ë°©ì–´ëŠ¥ë ¥ ê°•í™” 3ë‹¨ê³„ êµ¬ìž…"	/>
+		<msg	id="buffcode007"	cont="ê³µê²© ê°•í™” (í•˜ê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode008"	cont="ê³µê²© ê°•í™” (ìƒê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode009"	cont="ë°©ì–´ ê°•í™” (í•˜ê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode010"	cont="ë°©ì–´ ê°•í™” (ìƒê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode011"	cont="ì¹˜ëª… ê°•í™” (í•˜ê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode012"	cont="ì¹˜ëª… ê°•í™” (ìƒê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode013"	cont="ì €í•­ ê°•í™” (í•˜ê¸‰) êµ¬ìž…"	/>
+		<msg	id="buffcode014"	cont="ì €í•­ ê°•í™” (ìƒê¸‰) êµ¬ìž…"	/>
 	</buff_shop_msg>
 	<room_name_msg>
-		<msg	id="default_name001"	cont="ÃÊº¸¸¸ ¿À¼¼¿ä~"	/>
-		<msg	id="default_name002"	cont="¸Å³Ê ´ëÀü ÇÏ½ÇºÐ!"	/>
-		<msg	id="default_name003"	cont="µé¾î¿À¸é ¹Ù·Î °í!"	/>
-		<msg	id="default_name004"	cont="ÇÑ¼ö °¡¸£ÃÄ ÁÖ½Ç ºÐ"	/>
+		<msg	id="default_name001"	cont="ì´ˆë³´ë§Œ ì˜¤ì„¸ìš”~"	/>
+		<msg	id="default_name002"	cont="ë§¤ë„ˆ ëŒ€ì „ í•˜ì‹¤ë¶„!"	/>
+		<msg	id="default_name003"	cont="ë“¤ì–´ì˜¤ë©´ ë°”ë¡œ ê³ !"	/>
+		<msg	id="default_name004"	cont="í•œìˆ˜ ê°€ë¥´ì³ ì£¼ì‹¤ ë¶„"	/>
 	</room_name_msg>
 </missionbattle_message>
 

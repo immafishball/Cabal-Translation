@@ -1,63 +1,63 @@
 
 <forcewing_message>
 	<wing_skill_msg>
-		<msg	slot="0"	cont="Æ÷½º À® : ³ë¸Ö"/>
-		<msg	slot="1"	cont="Æ÷½º À® : ·¹¾î"/>
-		<msg	slot="2"	cont="Æ÷½º À® : À¯´ÏÅ©"/>
-		<msg	slot="3"	cont="Æ÷½º À® : ¿¡ÇÈ"/>
-		<msg	slot="4"	cont="Æ÷½º À® : ¸¶½ºÅÍ"/>
-		<msg	slot="5"	cont="Æ÷½º À® : ·¹Àü´õ¸®"/>
+		<msg	slot="0"	cont="í¬ìŠ¤ ìœ™ : ë…¸ë©€"/>
+		<msg	slot="1"	cont="í¬ìŠ¤ ìœ™ : ë ˆì–´"/>
+		<msg	slot="2"	cont="í¬ìŠ¤ ìœ™ : ìœ ë‹ˆí¬"/>
+		<msg	slot="3"	cont="í¬ìŠ¤ ìœ™ : ì—í”½"/>
+		<msg	slot="4"	cont="í¬ìŠ¤ ìœ™ : ë§ˆìŠ¤í„°"/>
+		<msg	slot="5"	cont="í¬ìŠ¤ ìœ™ : ë ˆì „ë”ë¦¬"/>
 	 </wing_skill_msg > 
 	<wing_training_msg>
-		<msg	t_slot="0"	cont="1¹ø ÈÆ·Ã"/>
-		<msg	t_slot="1"	cont="2¹ø ÈÆ·Ã"/>
-		<msg	t_slot="2"	cont="3¹ø ÈÆ·Ã"/>
-		<msg	t_slot="3"	cont="4¹ø ÈÆ·Ã"/>
-		<msg	t_slot="4"	cont="5¹ø ÈÆ·Ã"/>
-		<msg	t_slot="5"	cont="6¹ø ÈÆ·Ã"/>
-		<msg	t_slot="6"	cont="7¹ø ÈÆ·Ã"/>
-		<msg	t_slot="7"	cont="8¹ø ÈÆ·Ã"/>
-		<msg	t_slot="8"	cont="9¹ø ÈÆ·Ã"/>
-		<msg	t_slot="9"	cont="10¹ø ÈÆ·Ã"/>
-		<msg	t_slot="10"	cont="11¹ø ÈÆ·Ã"/>
-		<msg	t_slot="11"	cont="12¹ø ÈÆ·Ã"/>
+		<msg	t_slot="0"	cont="1ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="1"	cont="2ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="2"	cont="3ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="3"	cont="4ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="4"	cont="5ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="5"	cont="6ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="6"	cont="7ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="7"	cont="8ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="8"	cont="9ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="9"	cont="10ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="10"	cont="11ë²ˆ í›ˆë ¨"/>
+		<msg	t_slot="11"	cont="12ë²ˆ í›ˆë ¨"/>
 	 </wing_training_msg > 
 	<random_grade_msg>
-		<msg	grade="1"	cont="1µî±Þ"/>
-		<msg	grade="2"	cont="2µî±Þ"/>
-		<msg	grade="3"	cont="3µî±Þ"/>
-		<msg	grade="4"	cont="4µî±Þ"/>
-		<msg	grade="5"	cont="5µî±Þ"/>
-		<msg	grade="6"	cont="6µî±Þ"/>
-		<msg	grade="1"	cont="1µî±Þ"/>
-		<msg	grade="2"	cont="2µî±Þ"/>
-		<msg	grade="3"	cont="3µî±Þ"/>
-		<msg	grade="4"	cont="4µî±Þ"/>
-		<msg	grade="5"	cont="5µî±Þ"/>
-		<msg	grade="6"	cont="6µî±Þ"/>
-		<msg	grade="1"	cont="1µî±Þ"/>
-		<msg	grade="2"	cont="2µî±Þ"/>
-		<msg	grade="3"	cont="3µî±Þ"/>
-		<msg	grade="4"	cont="4µî±Þ"/>
-		<msg	grade="5"	cont="5µî±Þ"/>
-		<msg	grade="6"	cont="6µî±Þ"/>
-		<msg	grade="1"	cont="1µî±Þ"/>
-		<msg	grade="2"	cont="2µî±Þ"/>
-		<msg	grade="3"	cont="3µî±Þ"/>
-		<msg	grade="4"	cont="4µî±Þ"/>
-		<msg	grade="5"	cont="5µî±Þ"/>
-		<msg	grade="6"	cont="6µî±Þ"/>
-		<msg	grade="1"	cont="1µî±Þ"/>
-		<msg	grade="2"	cont="2µî±Þ"/>
-		<msg	grade="3"	cont="3µî±Þ"/>
-		<msg	grade="4"	cont="4µî±Þ"/>
-		<msg	grade="5"	cont="5µî±Þ"/>
-		<msg	grade="6"	cont="6µî±Þ"/>
-		<msg	grade="1"	cont="1µî±Þ"/>
-		<msg	grade="2"	cont="2µî±Þ"/>
-		<msg	grade="3"	cont="3µî±Þ"/>
-		<msg	grade="4"	cont="4µî±Þ"/>
-		<msg	grade="5"	cont="5µî±Þ"/>
-		<msg	grade="6"	cont="6µî±Þ"/>
+		<msg	grade="1"	cont="1ë“±ê¸‰"/>
+		<msg	grade="2"	cont="2ë“±ê¸‰"/>
+		<msg	grade="3"	cont="3ë“±ê¸‰"/>
+		<msg	grade="4"	cont="4ë“±ê¸‰"/>
+		<msg	grade="5"	cont="5ë“±ê¸‰"/>
+		<msg	grade="6"	cont="6ë“±ê¸‰"/>
+		<msg	grade="1"	cont="1ë“±ê¸‰"/>
+		<msg	grade="2"	cont="2ë“±ê¸‰"/>
+		<msg	grade="3"	cont="3ë“±ê¸‰"/>
+		<msg	grade="4"	cont="4ë“±ê¸‰"/>
+		<msg	grade="5"	cont="5ë“±ê¸‰"/>
+		<msg	grade="6"	cont="6ë“±ê¸‰"/>
+		<msg	grade="1"	cont="1ë“±ê¸‰"/>
+		<msg	grade="2"	cont="2ë“±ê¸‰"/>
+		<msg	grade="3"	cont="3ë“±ê¸‰"/>
+		<msg	grade="4"	cont="4ë“±ê¸‰"/>
+		<msg	grade="5"	cont="5ë“±ê¸‰"/>
+		<msg	grade="6"	cont="6ë“±ê¸‰"/>
+		<msg	grade="1"	cont="1ë“±ê¸‰"/>
+		<msg	grade="2"	cont="2ë“±ê¸‰"/>
+		<msg	grade="3"	cont="3ë“±ê¸‰"/>
+		<msg	grade="4"	cont="4ë“±ê¸‰"/>
+		<msg	grade="5"	cont="5ë“±ê¸‰"/>
+		<msg	grade="6"	cont="6ë“±ê¸‰"/>
+		<msg	grade="1"	cont="1ë“±ê¸‰"/>
+		<msg	grade="2"	cont="2ë“±ê¸‰"/>
+		<msg	grade="3"	cont="3ë“±ê¸‰"/>
+		<msg	grade="4"	cont="4ë“±ê¸‰"/>
+		<msg	grade="5"	cont="5ë“±ê¸‰"/>
+		<msg	grade="6"	cont="6ë“±ê¸‰"/>
+		<msg	grade="1"	cont="1ë“±ê¸‰"/>
+		<msg	grade="2"	cont="2ë“±ê¸‰"/>
+		<msg	grade="3"	cont="3ë“±ê¸‰"/>
+		<msg	grade="4"	cont="4ë“±ê¸‰"/>
+		<msg	grade="5"	cont="5ë“±ê¸‰"/>
+		<msg	grade="6"	cont="6ë“±ê¸‰"/>
 	 </random_grade_msg > 
 </forcewing_message>

@@ -1,982 +1,982 @@
 <meritsystem_message>
 	<category_name_msg>
-		<msg	id="meritcategory0001"	cont="È¸ÇÇ ¹«½Ã"	/>
-		<msg	id="meritcategory0002"	cont="ÀûÁß ¹«½Ã"	/>
-		<msg	id="meritcategory0003"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã"	/>
-		<msg	id="meritcategory0004"	cont="°üÅë ¹«½Ã"	/>
-		<msg	id="meritcategory0005"	cont="¸Í·ÄÇÑ ±â¼¼"	/>
-		<msg	id="meritcategory0006"	cont="ºÒ±¼ÀÇ ÀÇÁö"	/>
-		<msg	id="meritcategory0007"	cont="ÀüÀåÀÇ ÇÐ»ìÀÚ"	/>
-		<msg	id="meritcategory0008"	cont="ÀüÀåÀÇ ¼öÈ£ÀÚ"	/>
-		<msg	id="meritcategory0009"	cont="¿¹¸®ÇÑ Ä®³¯"	/>
-		<msg	id="meritcategory0010"	cont="³¯·ÆÇÑ È¸ÇÇ"	/>
-		<msg	id="meritcategory0011"	cont="È®°íÇÑ °áÀÇ"	/>
-		<msg	id="meritcategory0012"	cont="°áÀÇ : ÀÏ°Ý"	/>
-		<msg	id="meritcategory0013"	cont="°áÀÇ : ÅõÈ¥"	/>
-		<msg	id="meritcategory0014"	cont="°áÀÇ : ½ÉÆÇ"	/>
-		<msg	id="meritcategory0015"	cont="Ä¡¸íÀû ÀÏ°Ý"	/>
-		<msg	id="meritcategory0016"	cont="ÀÏ°Ý : °áÀÇ"	/>
-		<msg	id="meritcategory0017"	cont="ÀÏ°Ý : ÅõÈ¥"	/>
-		<msg	id="meritcategory0018"	cont="ÀÏ°Ý : ½ÉÆÇ"	/>
-		<msg	id="meritcategory0019"	cont="Áý³äÀÇ ÅõÈ¥"	/>
-		<msg	id="meritcategory0020"	cont="ÅõÈ¥ : °áÀÇ"	/>
-		<msg	id="meritcategory0021"	cont="ÅõÈ¥ : ÀÏ°Ý"	/>
-		<msg	id="meritcategory0022"	cont="ÅõÈ¥ : ½ÉÆÇ"	/>
-		<msg	id="meritcategory0023"	cont="°­·ÂÇÑ ½ÉÆÇ"	/>
-		<msg	id="meritcategory0024"	cont="½ÉÆÇ : °áÀÇ"	/>
-		<msg	id="meritcategory0025"	cont="½ÉÆÇ : ÀÏ°Ý"	/>
-		<msg	id="meritcategory0026"	cont="½ÉÆÇ : ÅõÈ¥"	/>
+		<msg	id="meritcategory0001"	cont="íšŒí”¼ ë¬´ì‹œ"	/>
+		<msg	id="meritcategory0002"	cont="ì ì¤‘ ë¬´ì‹œ"	/>
+		<msg	id="meritcategory0003"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ"	/>
+		<msg	id="meritcategory0004"	cont="ê´€í†µ ë¬´ì‹œ"	/>
+		<msg	id="meritcategory0005"	cont="ë§¹ë ¬í•œ ê¸°ì„¸"	/>
+		<msg	id="meritcategory0006"	cont="ë¶ˆêµ´ì˜ ì˜ì§€"	/>
+		<msg	id="meritcategory0007"	cont="ì „ìž¥ì˜ í•™ì‚´ìž"	/>
+		<msg	id="meritcategory0008"	cont="ì „ìž¥ì˜ ìˆ˜í˜¸ìž"	/>
+		<msg	id="meritcategory0009"	cont="ì˜ˆë¦¬í•œ ì¹¼ë‚ "	/>
+		<msg	id="meritcategory0010"	cont="ë‚ ë µí•œ íšŒí”¼"	/>
+		<msg	id="meritcategory0011"	cont="í™•ê³ í•œ ê²°ì˜"	/>
+		<msg	id="meritcategory0012"	cont="ê²°ì˜ : ì¼ê²©"	/>
+		<msg	id="meritcategory0013"	cont="ê²°ì˜ : íˆ¬í˜¼"	/>
+		<msg	id="meritcategory0014"	cont="ê²°ì˜ : ì‹¬íŒ"	/>
+		<msg	id="meritcategory0015"	cont="ì¹˜ëª…ì  ì¼ê²©"	/>
+		<msg	id="meritcategory0016"	cont="ì¼ê²© : ê²°ì˜"	/>
+		<msg	id="meritcategory0017"	cont="ì¼ê²© : íˆ¬í˜¼"	/>
+		<msg	id="meritcategory0018"	cont="ì¼ê²© : ì‹¬íŒ"	/>
+		<msg	id="meritcategory0019"	cont="ì§‘ë…ì˜ íˆ¬í˜¼"	/>
+		<msg	id="meritcategory0020"	cont="íˆ¬í˜¼ : ê²°ì˜"	/>
+		<msg	id="meritcategory0021"	cont="íˆ¬í˜¼ : ì¼ê²©"	/>
+		<msg	id="meritcategory0022"	cont="íˆ¬í˜¼ : ì‹¬íŒ"	/>
+		<msg	id="meritcategory0023"	cont="ê°•ë ¥í•œ ì‹¬íŒ"	/>
+		<msg	id="meritcategory0024"	cont="ì‹¬íŒ : ê²°ì˜"	/>
+		<msg	id="meritcategory0025"	cont="ì‹¬íŒ : ì¼ê²©"	/>
+		<msg	id="meritcategory0026"	cont="ì‹¬íŒ : íˆ¬í˜¼"	/>
 	</category_name_msg>
 	<mastery_name_msg>
-		<msg	id="meritmastery0001"	cont="ÀûÁß I"	/>
-		<msg	id="meritmastery0002"	cont="°ø°Ý·ü I"	/>
-		<msg	id="meritmastery0003"	cont="È¸ÇÇ ¹«½Ã I"	/>
-		<msg	id="meritmastery0004"	cont="°ø°Ý·ü II"	/>
-		<msg	id="meritmastery0005"	cont="ÀûÁß II"	/>
-		<msg	id="meritmastery0006"	cont="È¸ÇÇ ¹«½Ã II"	/>
-		<msg	id="meritmastery0007"	cont="°ø°Ý·ü III"	/>
-		<msg	id="meritmastery0008"	cont="ÀûÁß III"	/>
-		<msg	id="meritmastery0009"	cont="È¸ÇÇ ¹«½Ã III"	/>
-		<msg	id="meritmastery0010"	cont="°ø°Ý·ü È®Àå I"	/>
-		<msg	id="meritmastery0011"	cont="ÀûÁß È®Àå I"	/>
-		<msg	id="meritmastery0012"	cont="°ø°Ý·ü È®Àå II"	/>
-		<msg	id="meritmastery0013"	cont="ÀûÁß È®Àå II"	/>
-		<msg	id="meritmastery0014"	cont="°ø°Ý·ü È®Àå III"	/>
-		<msg	id="meritmastery0015"	cont="ÀûÁß È®Àå III"	/>
-		<msg	id="meritmastery0016"	cont="È¸ÇÇ I"	/>
-		<msg	id="meritmastery0017"	cont="¹æ¾îÀ² I"	/>
-		<msg	id="meritmastery0018"	cont="ÀûÁß ¹«½Ã I"	/>
-		<msg	id="meritmastery0019"	cont="¹æ¾îÀ² II"	/>
-		<msg	id="meritmastery0020"	cont="È¸ÇÇ II"	/>
-		<msg	id="meritmastery0021"	cont="ÀûÁß ¹«½Ã II"	/>
-		<msg	id="meritmastery0022"	cont="È¸ÇÇ ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0023"	cont="¹æ¾îÀ² III"	/>
-		<msg	id="meritmastery0024"	cont="È¸ÇÇ III"	/>
-		<msg	id="meritmastery0025"	cont="ÀûÁß ¹«½Ã III"	/>
-		<msg	id="meritmastery0026"	cont="È¸ÇÇ ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0027"	cont="¹æ¾îÀ² È®Àå I"	/>
-		<msg	id="meritmastery0028"	cont="È¸ÇÇ È®Àå I"	/>
-		<msg	id="meritmastery0029"	cont="¹æ¾îÀ² È®Àå II"	/>
-		<msg	id="meritmastery0030"	cont="È¸ÇÇ È®Àå II"	/>
-		<msg	id="meritmastery0031"	cont="¹æ¾îÀ² È®Àå III"	/>
-		<msg	id="meritmastery0032"	cont="È¸ÇÇ È®Àå III"	/>
-		<msg	id="meritmastery0033"	cont="°üÅë I"	/>
-		<msg	id="meritmastery0034"	cont="Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0035"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã I"	/>
-		<msg	id="meritmastery0036"	cont="°üÅë II"	/>
-		<msg	id="meritmastery0037"	cont="Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0038"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã II"	/>
-		<msg	id="meritmastery0039"	cont="°üÅë III"	/>
-		<msg	id="meritmastery0040"	cont="Ãß°¡ µ¥¹ÌÁö III"	/>
-		<msg	id="meritmastery0041"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã III"	/>
-		<msg	id="meritmastery0042"	cont="Ãß°¡ µ¥¹ÌÁö È®Àå I"	/>
-		<msg	id="meritmastery0043"	cont="°üÅë È®Àå I"	/>
-		<msg	id="meritmastery0044"	cont="Ãß°¡ µ¥¹ÌÁö È®Àå II"	/>
-		<msg	id="meritmastery0045"	cont="°üÅë È®Àå II"	/>
-		<msg	id="meritmastery0046"	cont="Ãß°¡ µ¥¹ÌÁö È®Àå III"	/>
-		<msg	id="meritmastery0047"	cont="°üÅë È®Àå III"	/>
-		<msg	id="meritmastery0048"	cont="ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0049"	cont="¹æ¾î I"	/>
-		<msg	id="meritmastery0050"	cont="°üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0051"	cont="¹æ¾î II"	/>
-		<msg	id="meritmastery0052"	cont="ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0053"	cont="°üÅë ¹«½Ã II"	/>
-		<msg	id="meritmastery0054"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0055"	cont="¹æ¾î III"	/>
-		<msg	id="meritmastery0056"	cont="ÇÇÇØ°¨¼Ò III"	/>
-		<msg	id="meritmastery0057"	cont="°üÅë ¹«½Ã III"	/>
-		<msg	id="meritmastery0058"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0059"	cont="¹æ¾î È®Àå I"	/>
-		<msg	id="meritmastery0060"	cont="ÇÇÇØ°¨¼Ò È®Àå I"	/>
-		<msg	id="meritmastery0061"	cont="¹æ¾î È®Àå II"	/>
-		<msg	id="meritmastery0062"	cont="ÇÇÇØ°¨¼Ò È®Àå II"	/>
-		<msg	id="meritmastery0063"	cont="¹æ¾î È®Àå III"	/>
-		<msg	id="meritmastery0064"	cont="ÇÇÇØ°¨¼Ò È®Àå III"	/>
-		<msg	id="meritmastery0065"	cont="¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0066"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã I"	/>
-		<msg	id="meritmastery0067"	cont="¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="meritmastery0068"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã II"	/>
-		<msg	id="meritmastery0069"	cont="¸ðµç °ø°Ý·Â III"	/>
-		<msg	id="meritmastery0070"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã III"	/>
-		<msg	id="meritmastery0071"	cont="¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0072"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0073"	cont="°üÅë I"	/>
-		<msg	id="meritmastery0074"	cont="¸ðµç °ø°Ý·Â È®Àå I"	/>
-		<msg	id="meritmastery0075"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã È®Àå I"	/>
-		<msg	id="meritmastery0076"	cont="¸ðµç °ø°Ý·Â È®Àå II"	/>
-		<msg	id="meritmastery0077"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã È®Àå II"	/>
-		<msg	id="meritmastery0078"	cont="¸ðµç °ø°Ý·Â È®Àå III"	/>
-		<msg	id="meritmastery0079"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã È®Àå III"	/>
-		<msg	id="meritmastery0080"	cont="¸ðµç ½ºÅ³ ÁõÆø È®Àå I"	/>
-		<msg	id="meritmastery0081"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå I"	/>
-		<msg	id="meritmastery0082"	cont="°üÅë È®Àå I"	/>
-		<msg	id="meritmastery0083"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
+		<msg	id="meritmastery0001"	cont="ì ì¤‘ I"	/>
+		<msg	id="meritmastery0002"	cont="ê³µê²©ë¥  I"	/>
+		<msg	id="meritmastery0003"	cont="íšŒí”¼ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0004"	cont="ê³µê²©ë¥  II"	/>
+		<msg	id="meritmastery0005"	cont="ì ì¤‘ II"	/>
+		<msg	id="meritmastery0006"	cont="íšŒí”¼ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0007"	cont="ê³µê²©ë¥  III"	/>
+		<msg	id="meritmastery0008"	cont="ì ì¤‘ III"	/>
+		<msg	id="meritmastery0009"	cont="íšŒí”¼ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0010"	cont="ê³µê²©ë¥  í™•ìž¥ I"	/>
+		<msg	id="meritmastery0011"	cont="ì ì¤‘ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0012"	cont="ê³µê²©ë¥  í™•ìž¥ II"	/>
+		<msg	id="meritmastery0013"	cont="ì ì¤‘ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0014"	cont="ê³µê²©ë¥  í™•ìž¥ III"	/>
+		<msg	id="meritmastery0015"	cont="ì ì¤‘ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0016"	cont="íšŒí”¼ I"	/>
+		<msg	id="meritmastery0017"	cont="ë°©ì–´ìœ¨ I"	/>
+		<msg	id="meritmastery0018"	cont="ì ì¤‘ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0019"	cont="ë°©ì–´ìœ¨ II"	/>
+		<msg	id="meritmastery0020"	cont="íšŒí”¼ II"	/>
+		<msg	id="meritmastery0021"	cont="ì ì¤‘ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0022"	cont="íšŒí”¼ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0023"	cont="ë°©ì–´ìœ¨ III"	/>
+		<msg	id="meritmastery0024"	cont="íšŒí”¼ III"	/>
+		<msg	id="meritmastery0025"	cont="ì ì¤‘ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0026"	cont="íšŒí”¼ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0027"	cont="ë°©ì–´ìœ¨ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0028"	cont="íšŒí”¼ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0029"	cont="ë°©ì–´ìœ¨ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0030"	cont="íšŒí”¼ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0031"	cont="ë°©ì–´ìœ¨ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0032"	cont="íšŒí”¼ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0033"	cont="ê´€í†µ I"	/>
+		<msg	id="meritmastery0034"	cont="ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0035"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0036"	cont="ê´€í†µ II"	/>
+		<msg	id="meritmastery0037"	cont="ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0038"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0039"	cont="ê´€í†µ III"	/>
+		<msg	id="meritmastery0040"	cont="ì¶”ê°€ ë°ë¯¸ì§€ III"	/>
+		<msg	id="meritmastery0041"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0042"	cont="ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0043"	cont="ê´€í†µ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0044"	cont="ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0045"	cont="ê´€í†µ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0046"	cont="ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0047"	cont="ê´€í†µ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0048"	cont="í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0049"	cont="ë°©ì–´ I"	/>
+		<msg	id="meritmastery0050"	cont="ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0051"	cont="ë°©ì–´ II"	/>
+		<msg	id="meritmastery0052"	cont="í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0053"	cont="ê´€í†µ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0054"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0055"	cont="ë°©ì–´ III"	/>
+		<msg	id="meritmastery0056"	cont="í”¼í•´ê°ì†Œ III"	/>
+		<msg	id="meritmastery0057"	cont="ê´€í†µ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0058"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0059"	cont="ë°©ì–´ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0060"	cont="í”¼í•´ê°ì†Œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0061"	cont="ë°©ì–´ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0062"	cont="í”¼í•´ê°ì†Œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0063"	cont="ë°©ì–´ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0064"	cont="í”¼í•´ê°ì†Œ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0065"	cont="ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0066"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0067"	cont="ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="meritmastery0068"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0069"	cont="ëª¨ë“  ê³µê²©ë ¥ III"	/>
+		<msg	id="meritmastery0070"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0071"	cont="ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0072"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0073"	cont="ê´€í†µ I"	/>
+		<msg	id="meritmastery0074"	cont="ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0075"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0076"	cont="ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0077"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0078"	cont="ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0079"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0080"	cont="ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0081"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0082"	cont="ê´€í†µ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0083"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
 		<msg	id="meritmastery0084"	cont="HP I"	/>
-		<msg	id="meritmastery0085"	cont="°üÅë ¹«½Ã I"	/>
+		<msg	id="meritmastery0085"	cont="ê´€í†µ ë¬´ì‹œ I"	/>
 		<msg	id="meritmastery0086"	cont="HP II"	/>
-		<msg	id="meritmastery0087"	cont="°üÅë¹«½Ã II"	/>
+		<msg	id="meritmastery0087"	cont="ê´€í†µë¬´ì‹œ II"	/>
 		<msg	id="meritmastery0088"	cont="HP III"	/>
-		<msg	id="meritmastery0089"	cont="°üÅë¹«½Ã III"	/>
-		<msg	id="meritmastery0090"	cont="¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0091"	cont="¹æ¾î·Â II"	/>
-		<msg	id="meritmastery0092"	cont="HP Èí¼ö»óÇÑ I"	/>
-		<msg	id="meritmastery0093"	cont="HP È®Àå I"	/>
-		<msg	id="meritmastery0094"	cont="°üÅë ¹«½Ã È®Àå I"	/>
-		<msg	id="meritmastery0095"	cont="HP È®Àå II"	/>
-		<msg	id="meritmastery0096"	cont="°üÅë ¹«½Ã È®Àå II"	/>
-		<msg	id="meritmastery0097"	cont="HP È®Àå III"	/>
-		<msg	id="meritmastery0098"	cont="°üÅë ¹«½Ã È®Àå III"	/>
-		<msg	id="meritmastery0099"	cont="¹æ¾î·Â È®Àå I"	/>
-		<msg	id="meritmastery0100"	cont="¹æ¾î·Â È®Àå II"	/>
-		<msg	id="meritmastery0101"	cont="HP Èí¼ö»óÇÑ È®Àå I"	/>
-		<msg	id="meritmastery0102"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0103"	cont="°üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0104"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0105"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0106"	cont="°üÅë ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0107"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã II"	/>
-		<msg	id="meritmastery0108"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã II"	/>
-		<msg	id="meritmastery0109"	cont="°üÅë ¹«½Ã »ó¼â III"	/>
-		<msg	id="meritmastery0110"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã III"	/>
-		<msg	id="meritmastery0111"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã III"	/>
-		<msg	id="meritmastery0112"	cont="°üÅë ¹«½Ã »ó¼â È®Àå I"	/>
-		<msg	id="meritmastery0113"	cont="°üÅë ¹«½Ã »ó¼â È®Àå II"	/>
-		<msg	id="meritmastery0114"	cont="°üÅë ¹«½Ã »ó¼â È®Àå III"	/>
-		<msg	id="meritmastery0115"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå I"	/>
-		<msg	id="meritmastery0116"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå II"	/>
-		<msg	id="meritmastery0117"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå I"	/>
-		<msg	id="meritmastery0118"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå II"	/>
-		<msg	id="meritmastery0119"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0120"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0121"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× I"	/>
-		<msg	id="meritmastery0122"	cont="½ºÅ³ ÁõÆøÀúÇ× I"	/>
-		<msg	id="meritmastery0123"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0124"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× II"	/>
-		<msg	id="meritmastery0125"	cont="½ºÅ³ ÁõÆøÀúÇ× II"	/>
-		<msg	id="meritmastery0126"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â III"	/>
-		<msg	id="meritmastery0127"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× III"	/>
-		<msg	id="meritmastery0128"	cont="½ºÅ³ ÁõÆøÀúÇ× III"	/>
-		<msg	id="meritmastery0129"	cont="ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0130"	cont="ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0131"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â È®Àå I"	/>
-		<msg	id="meritmastery0132"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â È®Àå II"	/>
-		<msg	id="meritmastery0133"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â È®Àå III"	/>
-		<msg	id="meritmastery0134"	cont="ÇÇÇØ°¨¼Ò È®Àå I"	/>
-		<msg	id="meritmastery0135"	cont="ÇÇÇØ°¨¼Ò È®Àå II"	/>
-		<msg	id="meritmastery0136"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0137"	cont="È¸ÇÇ ¹«½Ã I"	/>
-		<msg	id="meritmastery0138"	cont="°ø°Ý·ü I"	/>
-		<msg	id="meritmastery0139"	cont="È¸ÇÇ ¹«½Ã II"	/>
-		<msg	id="meritmastery0140"	cont="°ø°Ý·ü II"	/>
-		<msg	id="meritmastery0141"	cont="È¸ÇÇ ¹«½Ã III"	/>
-		<msg	id="meritmastery0142"	cont="È¸ÇÇ ¹«½Ã È®Àå I"	/>
-		<msg	id="meritmastery0143"	cont="È¸ÇÇ ¹«½Ã È®Àå II"	/>
-		<msg	id="meritmastery0144"	cont="È¸ÇÇ ¹«½Ã È®Àå III"	/>
-		<msg	id="meritmastery0145"	cont="°ø°Ý·ü È®Àå I"	/>
-		<msg	id="meritmastery0146"	cont="°ø°Ý·ü È®Àå II"	/>
-		<msg	id="meritmastery0147"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0148"	cont="ÀûÁß ¹«½Ã I"	/>
-		<msg	id="meritmastery0149"	cont="¹æ¾îÀ² I"	/>
-		<msg	id="meritmastery0150"	cont="ÀûÁß ¹«½Ã II"	/>
-		<msg	id="meritmastery0151"	cont="¹æ¾îÀ² II"	/>
-		<msg	id="meritmastery0152"	cont="ÀûÁß ¹«½Ã III"	/>
-		<msg	id="meritmastery0153"	cont="ÀûÁß ¹«½Ã È®Àå I"	/>
-		<msg	id="meritmastery0154"	cont="ÀûÁß ¹«½Ã È®Àå II"	/>
-		<msg	id="meritmastery0155"	cont="ÀûÁß ¹«½Ã È®Àå III"	/>
-		<msg	id="meritmastery0156"	cont="¹æ¾îÀ² È®Àå I"	/>
-		<msg	id="meritmastery0157"	cont="¹æ¾îÀ² È®Àå II"	/>
-		<msg	id="meritmastery0158"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0159"	cont="PvP ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0160"	cont="PvP ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0161"	cont="PvP °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0162"	cont="PvP ¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="meritmastery0163"	cont="PvP ¹æ¾î·Â II"	/>
-		<msg	id="meritmastery0164"	cont="PvP °üÅë ¹«½Ã II"	/>
-		<msg	id="meritmastery0165"	cont="PvP ¸ðµç °ø°Ý·Â III"	/>
-		<msg	id="meritmastery0166"	cont="PvP ¹æ¾î·Â III"	/>
-		<msg	id="meritmastery0167"	cont="PvP °üÅë ¹«½Ã III"	/>
-		<msg	id="meritmastery0168"	cont="PvE ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0169"	cont="PvE ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0170"	cont="PvE °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0171"	cont="PvE ¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="meritmastery0172"	cont="PvE ¹æ¾î·Â II"	/>
-		<msg	id="meritmastery0173"	cont="PvE °üÅë ¹«½Ã II"	/>
-		<msg	id="meritmastery0174"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0175"	cont="°áÀÇ : ÀÏ°Ý È®Àå"	/>
-		<msg	id="meritmastery0176"	cont="°áÀÇ : ÅõÈ¥ È®Àå"	/>
-		<msg	id="meritmastery0177"	cont="°áÀÇ : ½ÉÆÇ È®Àå"	/>
-		<msg	id="meritmastery0178"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0179"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× I"	/>
-		<msg	id="meritmastery0180"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0181"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0182"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× II"	/>
-		<msg	id="meritmastery0183"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II"	/>
-		<msg	id="meritmastery0184"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× III"	/>
-		<msg	id="meritmastery0185"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ III"	/>
-		<msg	id="meritmastery0186"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0187"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0188"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0189"	cont="PvE ¸ðµç °ø°Ý·Â I È®Àå"	/>
-		<msg	id="meritmastery0190"	cont="PvE ¹æ¾î·Â I È®Àå"	/>
-		<msg	id="meritmastery0191"	cont="PvE °üÅë ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0192"	cont="PvE ¸ðµç °ø°Ý·Â II È®Àå"	/>
-		<msg	id="meritmastery0193"	cont="PvE ¹æ¾î·Â II È®Àå"	/>
-		<msg	id="meritmastery0194"	cont="PvE °üÅë ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0195"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0196"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0197"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I È®Àå"	/>
-		<msg	id="meritmastery0198"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0199"	cont="½ºÅ³ ÁõÆø ÀúÇ× I"	/>
-		<msg	id="meritmastery0200"	cont="PvP Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0201"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø II"	/>
-		<msg	id="meritmastery0202"	cont="½ºÅ³ ÁõÆø ÀúÇ× II"	/>
-		<msg	id="meritmastery0203"	cont="PvP Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0204"	cont="½ºÅ³ ÁõÆø ÀúÇ× III"	/>
-		<msg	id="meritmastery0205"	cont="PvP Ãß°¡ µ¥¹ÌÁö III"	/>
-		<msg	id="meritmastery0206"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0207"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0208"	cont="PvE Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0209"	cont="PvE ¸ðµç °ø°Ý·Â I È®Àå"	/>
-		<msg	id="meritmastery0210"	cont="PvE ¹æ¾î·Â I È®Àå"	/>
-		<msg	id="meritmastery0211"	cont="PvE °üÅë ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0212"	cont="PvE ¸ðµç °ø°Ý·Â II È®Àå"	/>
-		<msg	id="meritmastery0213"	cont="PvE ¹æ¾î·Â II È®Àå"	/>
-		<msg	id="meritmastery0214"	cont="PvE °üÅë ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0215"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I È®Àå"	/>
-		<msg	id="meritmastery0216"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0217"	cont="PvE Ãß°¡ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0218"	cont="PvP °üÅë I"	/>
-		<msg	id="meritmastery0219"	cont="PvP ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0220"	cont="PvP °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0221"	cont="PvP °üÅë II"	/>
-		<msg	id="meritmastery0222"	cont="PvP ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0223"	cont="PvP °üÅë ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0224"	cont="PvP ÇÇÇØ°¨¼Ò III"	/>
-		<msg	id="meritmastery0225"	cont="PvP °üÅë ¹«½Ã »ó¼â III"	/>
-		<msg	id="meritmastery0226"	cont="PvE °üÅë I"	/>
-		<msg	id="meritmastery0227"	cont="PvE ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0228"	cont="PvE °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0229"	cont="PvE ¸ðµç °ø°Ý·Â I È®Àå"	/>
-		<msg	id="meritmastery0230"	cont="PvE ¹æ¾î·Â I È®Àå"	/>
-		<msg	id="meritmastery0231"	cont="PvE °üÅë ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0232"	cont="PvE ¸ðµç °ø°Ý·Â II È®Àå"	/>
-		<msg	id="meritmastery0233"	cont="PvE ¹æ¾î·Â II È®Àå"	/>
-		<msg	id="meritmastery0234"	cont="PvE °üÅë ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0235"	cont="PvE °üÅë I È®Àå"	/>
-		<msg	id="meritmastery0236"	cont="PvE ÇÇÇØ°¨¼Ò I È®Àå"	/>
-		<msg	id="meritmastery0237"	cont="PvE °üÅë ¹«½Ã »ó¼â I È®Àå"	/>
-		<msg	id="meritmastery0238"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0239"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× I"	/>
-		<msg	id="meritmastery0240"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0241"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0242"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× II"	/>
-		<msg	id="meritmastery0243"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II"	/>
-		<msg	id="meritmastery0244"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö III"	/>
-		<msg	id="meritmastery0245"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× III"	/>
-		<msg	id="meritmastery0246"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ III"	/>
-		<msg	id="meritmastery0247"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0248"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0249"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0250"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0251"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã II"	/>
-		<msg	id="meritmastery0252"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II"	/>
-		<msg	id="meritmastery0253"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0254"	cont="ÀÏ°Ý : °áÀÇ È®Àå"	/>
-		<msg	id="meritmastery0255"	cont="ÀÏ°Ý : ÅõÈ¥ È®Àå"	/>
-		<msg	id="meritmastery0256"	cont="ÀÏ°Ý : ½ÉÆÇ È®Àå"	/>
-		<msg	id="meritmastery0257"	cont="PvP ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0258"	cont="PvP ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0259"	cont="PvP °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0260"	cont="PvP ¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="meritmastery0261"	cont="PvP ¹æ¾î·Â II"	/>
-		<msg	id="meritmastery0262"	cont="PvP °üÅë ¹«½Ã II"	/>
-		<msg	id="meritmastery0263"	cont="PvP ¹æ¾î·Â III"	/>
-		<msg	id="meritmastery0264"	cont="PvP °üÅë ¹«½Ã III"	/>
-		<msg	id="meritmastery0265"	cont="PvE ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0266"	cont="PvE ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0267"	cont="PvE °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0268"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0269"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0270"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I È®Àå"	/>
-		<msg	id="meritmastery0271"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II È®Àå"	/>
-		<msg	id="meritmastery0272"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0273"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II È®Àå"	/>
-		<msg	id="meritmastery0274"	cont="PvE ¸ðµç °ø°Ý·Â I È®Àå"	/>
-		<msg	id="meritmastery0275"	cont="PvE ¹æ¾î·Â I È®Àå"	/>
-		<msg	id="meritmastery0276"	cont="PvE °üÅë ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0277"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0278"	cont="½ºÅ³ ÁõÆø ÀúÇ× I"	/>
-		<msg	id="meritmastery0279"	cont="PvP Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0280"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø II"	/>
-		<msg	id="meritmastery0281"	cont="½ºÅ³ ÁõÆø ÀúÇ× II"	/>
-		<msg	id="meritmastery0282"	cont="PvP Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0283"	cont="½ºÅ³ ÁõÆø ÀúÇ× III"	/>
-		<msg	id="meritmastery0284"	cont="PvP Ãß°¡ µ¥¹ÌÁö III"	/>
-		<msg	id="meritmastery0285"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0286"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0287"	cont="PvE Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0288"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0289"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0290"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I È®Àå"	/>
-		<msg	id="meritmastery0291"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II È®Àå"	/>
-		<msg	id="meritmastery0292"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0293"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II È®Àå"	/>
-		<msg	id="meritmastery0294"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I È®Àå"	/>
-		<msg	id="meritmastery0295"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0296"	cont="PvE Ãß°¡ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0297"	cont="PvP °üÅë I"	/>
-		<msg	id="meritmastery0298"	cont="PvP ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0299"	cont="PvP °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0300"	cont="PvP °üÅë II"	/>
-		<msg	id="meritmastery0301"	cont="PvP ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0302"	cont="PvP °üÅë ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0303"	cont="PvP ÇÇÇØ°¨¼Ò III"	/>
-		<msg	id="meritmastery0304"	cont="PvP °üÅë ¹«½Ã »ó¼â III"	/>
-		<msg	id="meritmastery0305"	cont="PvE °üÅë I"	/>
-		<msg	id="meritmastery0306"	cont="PvE ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0307"	cont="PvE °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0308"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0309"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0310"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I È®Àå"	/>
-		<msg	id="meritmastery0311"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II È®Àå"	/>
-		<msg	id="meritmastery0312"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0313"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II È®Àå"	/>
-		<msg	id="meritmastery0314"	cont="PvE °üÅë I È®Àå"	/>
-		<msg	id="meritmastery0315"	cont="PvE ÇÇÇØ°¨¼Ò I È®Àå"	/>
-		<msg	id="meritmastery0316"	cont="PvE °üÅë ¹«½Ã »ó¼â I È®Àå"	/>
-		<msg	id="meritmastery0317"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0318"	cont="½ºÅ³ ÁõÆø ÀúÇ× I"	/>
-		<msg	id="meritmastery0319"	cont="PvP Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0320"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø II"	/>
-		<msg	id="meritmastery0321"	cont="½ºÅ³ ÁõÆø ÀúÇ× II"	/>
-		<msg	id="meritmastery0322"	cont="PvP Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0323"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø III"	/>
-		<msg	id="meritmastery0324"	cont="½ºÅ³ ÁõÆø ÀúÇ× III"	/>
-		<msg	id="meritmastery0325"	cont="PvP Ãß°¡ µ¥¹ÌÁö III"	/>
-		<msg	id="meritmastery0326"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0327"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0328"	cont="PvE Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0329"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø II"	/>
-		<msg	id="meritmastery0330"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã II"	/>
-		<msg	id="meritmastery0331"	cont="PvE Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0332"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0333"	cont="ÅõÈ¥ : °áÀÇ È®Àå"	/>
-		<msg	id="meritmastery0334"	cont="ÅõÈ¥ : ÀÏ°Ý È®Àå"	/>
-		<msg	id="meritmastery0335"	cont="ÅõÈ¥ : ½ÉÆÇ È®Àå"	/>
-		<msg	id="meritmastery0336"	cont="PvP ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0337"	cont="PvP ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0338"	cont="PvP °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0339"	cont="PvP ¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="meritmastery0340"	cont="PvP ¹æ¾î·Â II"	/>
-		<msg	id="meritmastery0341"	cont="PvP °üÅë ¹«½Ã II"	/>
-		<msg	id="meritmastery0342"	cont="PvP ¹æ¾î·Â III"	/>
-		<msg	id="meritmastery0343"	cont="PvP °üÅë ¹«½Ã III"	/>
-		<msg	id="meritmastery0344"	cont="PvE ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0345"	cont="PvE ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0346"	cont="PvE °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0347"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I È®Àå"	/>
-		<msg	id="meritmastery0348"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0349"	cont="PvE Ãß°¡ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0350"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø II È®Àå"	/>
-		<msg	id="meritmastery0351"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0352"	cont="PvE Ãß°¡ µ¥¹ÌÁö II È®Àå"	/>
-		<msg	id="meritmastery0353"	cont="PvE ¸ðµç °ø°Ý·Â I È®Àå"	/>
-		<msg	id="meritmastery0354"	cont="PvE ¹æ¾î·Â I È®Àå"	/>
-		<msg	id="meritmastery0355"	cont="PvE °üÅë ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0356"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0357"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× I"	/>
-		<msg	id="meritmastery0358"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0359"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0360"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× II"	/>
-		<msg	id="meritmastery0361"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II"	/>
-		<msg	id="meritmastery0362"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× III"	/>
-		<msg	id="meritmastery0363"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ III"	/>
-		<msg	id="meritmastery0364"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0365"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0366"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0367"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I È®Àå"	/>
-		<msg	id="meritmastery0368"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0369"	cont="PvE Ãß°¡ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0370"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø II È®Àå"	/>
-		<msg	id="meritmastery0371"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0372"	cont="PvE Ãß°¡ µ¥¹ÌÁö II È®Àå"	/>
-		<msg	id="meritmastery0373"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0374"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0375"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I È®Àå"	/>
-		<msg	id="meritmastery0376"	cont="PvP °üÅë I"	/>
-		<msg	id="meritmastery0377"	cont="PvP ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0378"	cont="PvP °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0379"	cont="PvP °üÅë II"	/>
-		<msg	id="meritmastery0380"	cont="PvP ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0381"	cont="PvP °üÅë ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0382"	cont="PvP ÇÇÇØ°¨¼Ò III"	/>
-		<msg	id="meritmastery0383"	cont="PvP °üÅë ¹«½Ã »ó¼â III"	/>
-		<msg	id="meritmastery0384"	cont="PvE °üÅë I"	/>
-		<msg	id="meritmastery0385"	cont="PvE ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0386"	cont="PvE °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0387"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I È®Àå"	/>
-		<msg	id="meritmastery0388"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0389"	cont="PvE Ãß°¡ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0390"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø II È®Àå"	/>
-		<msg	id="meritmastery0391"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã II È®Àå"	/>
-		<msg	id="meritmastery0392"	cont="PvE Ãß°¡ µ¥¹ÌÁö II È®Àå"	/>
-		<msg	id="meritmastery0393"	cont="PvE °üÅë I È®Àå"	/>
-		<msg	id="meritmastery0394"	cont="PvE ÇÇÇØ°¨¼Ò I È®Àå"	/>
-		<msg	id="meritmastery0395"	cont="PvE °üÅë ¹«½Ã »ó¼â I È®Àå"	/>
-		<msg	id="meritmastery0396"	cont="PvP °üÅë I"	/>
-		<msg	id="meritmastery0397"	cont="PvP ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0398"	cont="PvP °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0399"	cont="PvP °üÅë II"	/>
-		<msg	id="meritmastery0400"	cont="PvP ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0401"	cont="PvP °üÅë ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0402"	cont="PvP °üÅë III"	/>
-		<msg	id="meritmastery0403"	cont="PvP ÇÇÇØ°¨¼Ò III"	/>
-		<msg	id="meritmastery0404"	cont="PvP °üÅë ¹«½Ã »ó¼â III"	/>
-		<msg	id="meritmastery0405"	cont="PvE °üÅë I"	/>
-		<msg	id="meritmastery0406"	cont="PvE ÇÇÇØ°¨¼Ò I"	/>
-		<msg	id="meritmastery0407"	cont="PvE °üÅë ¹«½Ã »ó¼â I"	/>
-		<msg	id="meritmastery0408"	cont="PvE °üÅë II"	/>
-		<msg	id="meritmastery0409"	cont="PvE ÇÇÇØ°¨¼Ò II"	/>
-		<msg	id="meritmastery0410"	cont="PvE °üÅë ¹«½Ã »ó¼â II"	/>
-		<msg	id="meritmastery0411"	cont="½ºÆä¼È ¸¶½ºÅÍ¸® È®Àå"	/>
-		<msg	id="meritmastery0412"	cont="½ÉÆÇ : °áÀÇ È®Àå"	/>
-		<msg	id="meritmastery0413"	cont="½ÉÆÇ : ÀÏ°Ý È®Àå"	/>
-		<msg	id="meritmastery0414"	cont="½ÉÆÇ : ÅõÈ¥ È®Àå"	/>
-		<msg	id="meritmastery0415"	cont="PvP ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0416"	cont="PvP ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0417"	cont="PvP °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0418"	cont="PvP ¸ðµç °ø°Ý·Â II"	/>
-		<msg	id="meritmastery0419"	cont="PvP ¹æ¾î·Â II"	/>
-		<msg	id="meritmastery0420"	cont="PvP °üÅë ¹«½Ã II"	/>
-		<msg	id="meritmastery0421"	cont="PvP ¹æ¾î·Â III"	/>
-		<msg	id="meritmastery0422"	cont="PvP °üÅë ¹«½Ã III"	/>
-		<msg	id="meritmastery0423"	cont="PvE ¸ðµç °ø°Ý·Â I"	/>
-		<msg	id="meritmastery0424"	cont="PvE ¹æ¾î·Â I"	/>
-		<msg	id="meritmastery0425"	cont="PvE °üÅë ¹«½Ã I"	/>
-		<msg	id="meritmastery0426"	cont="PvE °üÅë I È®Àå"	/>
-		<msg	id="meritmastery0427"	cont="PvE ÇÇÇØ°¨¼Ò I È®Àå"	/>
-		<msg	id="meritmastery0428"	cont="PvE °üÅë ¹«½Ã »ó¼â I È®Àå"	/>
-		<msg	id="meritmastery0429"	cont="PvE °üÅë II È®Àå"	/>
-		<msg	id="meritmastery0430"	cont="PvE ÇÇÇØ°¨¼Ò II È®Àå"	/>
-		<msg	id="meritmastery0431"	cont="PvE °üÅë ¹«½Ã »ó¼â II È®Àå"	/>
-		<msg	id="meritmastery0432"	cont="PvE ¸ðµç °ø°Ý·Â I È®Àå"	/>
-		<msg	id="meritmastery0433"	cont="PvE ¹æ¾î·Â I È®Àå"	/>
-		<msg	id="meritmastery0434"	cont="PvE °üÅë ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0435"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0436"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× I"	/>
-		<msg	id="meritmastery0437"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0438"	cont="PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0439"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× II"	/>
-		<msg	id="meritmastery0440"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ II"	/>
-		<msg	id="meritmastery0441"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× III"	/>
-		<msg	id="meritmastery0442"	cont="PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ III"	/>
-		<msg	id="meritmastery0443"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0444"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0445"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I"	/>
-		<msg	id="meritmastery0446"	cont="PvE °üÅë I È®Àå"	/>
-		<msg	id="meritmastery0447"	cont="PvE ÇÇÇØ°¨¼Ò I È®Àå"	/>
-		<msg	id="meritmastery0448"	cont="PvE °üÅë ¹«½Ã »ó¼â I È®Àå"	/>
-		<msg	id="meritmastery0449"	cont="PvE °üÅë II È®Àå"	/>
-		<msg	id="meritmastery0450"	cont="PvE ÇÇÇØ°¨¼Ò II È®Àå"	/>
-		<msg	id="meritmastery0451"	cont="PvE °üÅë ¹«½Ã »ó¼â II È®Àå"	/>
-		<msg	id="meritmastery0452"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö I È®Àå"	/>
-		<msg	id="meritmastery0453"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0454"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ I È®Àå"	/>
-		<msg	id="meritmastery0455"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0456"	cont="½ºÅ³ ÁõÆø ÀúÇ× I"	/>
-		<msg	id="meritmastery0457"	cont="PvP Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0458"	cont="PvP ¸ðµç ½ºÅ³ ÁõÆø II"	/>
-		<msg	id="meritmastery0459"	cont="½ºÅ³ ÁõÆø ÀúÇ× II"	/>
-		<msg	id="meritmastery0460"	cont="PvP Ãß°¡ µ¥¹ÌÁö II"	/>
-		<msg	id="meritmastery0461"	cont="½ºÅ³ ÁõÆø ÀúÇ× III"	/>
-		<msg	id="meritmastery0462"	cont="PvP Ãß°¡ µ¥¹ÌÁö III"	/>
-		<msg	id="meritmastery0463"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I"	/>
-		<msg	id="meritmastery0464"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I"	/>
-		<msg	id="meritmastery0465"	cont="PvE Ãß°¡ µ¥¹ÌÁö I"	/>
-		<msg	id="meritmastery0466"	cont="PvE °üÅë I È®Àå"	/>
-		<msg	id="meritmastery0467"	cont="PvE ÇÇÇØ°¨¼Ò I È®Àå"	/>
-		<msg	id="meritmastery0468"	cont="PvE °üÅë ¹«½Ã »ó¼â I È®Àå"	/>
-		<msg	id="meritmastery0469"	cont="PvE °üÅë II È®Àå"	/>
-		<msg	id="meritmastery0470"	cont="PvE ÇÇÇØ°¨¼Ò II È®Àå"	/>
-		<msg	id="meritmastery0471"	cont="PvE °üÅë ¹«½Ã »ó¼â II È®Àå"	/>
-		<msg	id="meritmastery0472"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø I È®Àå"	/>
-		<msg	id="meritmastery0473"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã I È®Àå"	/>
-		<msg	id="meritmastery0474"	cont="PvE Ãß°¡ µ¥¹ÌÁö I È®Àå"	/>
+		<msg	id="meritmastery0089"	cont="ê´€í†µë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0090"	cont="ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0091"	cont="ë°©ì–´ë ¥ II"	/>
+		<msg	id="meritmastery0092"	cont="HP í¡ìˆ˜ìƒí•œ I"	/>
+		<msg	id="meritmastery0093"	cont="HP í™•ìž¥ I"	/>
+		<msg	id="meritmastery0094"	cont="ê´€í†µ ë¬´ì‹œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0095"	cont="HP í™•ìž¥ II"	/>
+		<msg	id="meritmastery0096"	cont="ê´€í†µ ë¬´ì‹œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0097"	cont="HP í™•ìž¥ III"	/>
+		<msg	id="meritmastery0098"	cont="ê´€í†µ ë¬´ì‹œ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0099"	cont="ë°©ì–´ë ¥ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0100"	cont="ë°©ì–´ë ¥ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0101"	cont="HP í¡ìˆ˜ìƒí•œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0102"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0103"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0104"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0105"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0106"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0107"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0108"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0109"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ III"	/>
+		<msg	id="meritmastery0110"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0111"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0112"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0113"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0114"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0115"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0116"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0117"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0118"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0119"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0120"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0121"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ I"	/>
+		<msg	id="meritmastery0122"	cont="ìŠ¤í‚¬ ì¦í­ì €í•­ I"	/>
+		<msg	id="meritmastery0123"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0124"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ II"	/>
+		<msg	id="meritmastery0125"	cont="ìŠ¤í‚¬ ì¦í­ì €í•­ II"	/>
+		<msg	id="meritmastery0126"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ III"	/>
+		<msg	id="meritmastery0127"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ III"	/>
+		<msg	id="meritmastery0128"	cont="ìŠ¤í‚¬ ì¦í­ì €í•­ III"	/>
+		<msg	id="meritmastery0129"	cont="í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0130"	cont="í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0131"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0132"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0133"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0134"	cont="í”¼í•´ê°ì†Œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0135"	cont="í”¼í•´ê°ì†Œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0136"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0137"	cont="íšŒí”¼ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0138"	cont="ê³µê²©ë¥  I"	/>
+		<msg	id="meritmastery0139"	cont="íšŒí”¼ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0140"	cont="ê³µê²©ë¥  II"	/>
+		<msg	id="meritmastery0141"	cont="íšŒí”¼ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0142"	cont="íšŒí”¼ ë¬´ì‹œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0143"	cont="íšŒí”¼ ë¬´ì‹œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0144"	cont="íšŒí”¼ ë¬´ì‹œ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0145"	cont="ê³µê²©ë¥  í™•ìž¥ I"	/>
+		<msg	id="meritmastery0146"	cont="ê³µê²©ë¥  í™•ìž¥ II"	/>
+		<msg	id="meritmastery0147"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0148"	cont="ì ì¤‘ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0149"	cont="ë°©ì–´ìœ¨ I"	/>
+		<msg	id="meritmastery0150"	cont="ì ì¤‘ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0151"	cont="ë°©ì–´ìœ¨ II"	/>
+		<msg	id="meritmastery0152"	cont="ì ì¤‘ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0153"	cont="ì ì¤‘ ë¬´ì‹œ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0154"	cont="ì ì¤‘ ë¬´ì‹œ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0155"	cont="ì ì¤‘ ë¬´ì‹œ í™•ìž¥ III"	/>
+		<msg	id="meritmastery0156"	cont="ë°©ì–´ìœ¨ í™•ìž¥ I"	/>
+		<msg	id="meritmastery0157"	cont="ë°©ì–´ìœ¨ í™•ìž¥ II"	/>
+		<msg	id="meritmastery0158"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0159"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0160"	cont="PvP ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0161"	cont="PvP ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0162"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="meritmastery0163"	cont="PvP ë°©ì–´ë ¥ II"	/>
+		<msg	id="meritmastery0164"	cont="PvP ê´€í†µ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0165"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ III"	/>
+		<msg	id="meritmastery0166"	cont="PvP ë°©ì–´ë ¥ III"	/>
+		<msg	id="meritmastery0167"	cont="PvP ê´€í†µ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0168"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0169"	cont="PvE ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0170"	cont="PvE ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0171"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="meritmastery0172"	cont="PvE ë°©ì–´ë ¥ II"	/>
+		<msg	id="meritmastery0173"	cont="PvE ê´€í†µ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0174"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0175"	cont="ê²°ì˜ : ì¼ê²© í™•ìž¥"	/>
+		<msg	id="meritmastery0176"	cont="ê²°ì˜ : íˆ¬í˜¼ í™•ìž¥"	/>
+		<msg	id="meritmastery0177"	cont="ê²°ì˜ : ì‹¬íŒ í™•ìž¥"	/>
+		<msg	id="meritmastery0178"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0179"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ I"	/>
+		<msg	id="meritmastery0180"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0181"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0182"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ II"	/>
+		<msg	id="meritmastery0183"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II"	/>
+		<msg	id="meritmastery0184"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ III"	/>
+		<msg	id="meritmastery0185"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ III"	/>
+		<msg	id="meritmastery0186"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0187"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0188"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0189"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0190"	cont="PvE ë°©ì–´ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0191"	cont="PvE ê´€í†µ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0192"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ II í™•ìž¥"	/>
+		<msg	id="meritmastery0193"	cont="PvE ë°©ì–´ë ¥ II í™•ìž¥"	/>
+		<msg	id="meritmastery0194"	cont="PvE ê´€í†µ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0195"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0196"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0197"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0198"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0199"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ I"	/>
+		<msg	id="meritmastery0200"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0201"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II"	/>
+		<msg	id="meritmastery0202"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ II"	/>
+		<msg	id="meritmastery0203"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0204"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ III"	/>
+		<msg	id="meritmastery0205"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ III"	/>
+		<msg	id="meritmastery0206"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0207"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0208"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0209"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0210"	cont="PvE ë°©ì–´ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0211"	cont="PvE ê´€í†µ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0212"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ II í™•ìž¥"	/>
+		<msg	id="meritmastery0213"	cont="PvE ë°©ì–´ë ¥ II í™•ìž¥"	/>
+		<msg	id="meritmastery0214"	cont="PvE ê´€í†µ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0215"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I í™•ìž¥"	/>
+		<msg	id="meritmastery0216"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0217"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0218"	cont="PvP ê´€í†µ I"	/>
+		<msg	id="meritmastery0219"	cont="PvP í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0220"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0221"	cont="PvP ê´€í†µ II"	/>
+		<msg	id="meritmastery0222"	cont="PvP í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0223"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0224"	cont="PvP í”¼í•´ê°ì†Œ III"	/>
+		<msg	id="meritmastery0225"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ III"	/>
+		<msg	id="meritmastery0226"	cont="PvE ê´€í†µ I"	/>
+		<msg	id="meritmastery0227"	cont="PvE í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0228"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0229"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0230"	cont="PvE ë°©ì–´ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0231"	cont="PvE ê´€í†µ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0232"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ II í™•ìž¥"	/>
+		<msg	id="meritmastery0233"	cont="PvE ë°©ì–´ë ¥ II í™•ìž¥"	/>
+		<msg	id="meritmastery0234"	cont="PvE ê´€í†µ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0235"	cont="PvE ê´€í†µ I í™•ìž¥"	/>
+		<msg	id="meritmastery0236"	cont="PvE í”¼í•´ê°ì†Œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0237"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I í™•ìž¥"	/>
+		<msg	id="meritmastery0238"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0239"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ I"	/>
+		<msg	id="meritmastery0240"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0241"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0242"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ II"	/>
+		<msg	id="meritmastery0243"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II"	/>
+		<msg	id="meritmastery0244"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ III"	/>
+		<msg	id="meritmastery0245"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ III"	/>
+		<msg	id="meritmastery0246"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ III"	/>
+		<msg	id="meritmastery0247"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0248"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0249"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0250"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0251"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0252"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II"	/>
+		<msg	id="meritmastery0253"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0254"	cont="ì¼ê²© : ê²°ì˜ í™•ìž¥"	/>
+		<msg	id="meritmastery0255"	cont="ì¼ê²© : íˆ¬í˜¼ í™•ìž¥"	/>
+		<msg	id="meritmastery0256"	cont="ì¼ê²© : ì‹¬íŒ í™•ìž¥"	/>
+		<msg	id="meritmastery0257"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0258"	cont="PvP ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0259"	cont="PvP ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0260"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="meritmastery0261"	cont="PvP ë°©ì–´ë ¥ II"	/>
+		<msg	id="meritmastery0262"	cont="PvP ê´€í†µ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0263"	cont="PvP ë°©ì–´ë ¥ III"	/>
+		<msg	id="meritmastery0264"	cont="PvP ê´€í†µ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0265"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0266"	cont="PvE ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0267"	cont="PvE ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0268"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0269"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0270"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0271"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0272"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0273"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0274"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0275"	cont="PvE ë°©ì–´ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0276"	cont="PvE ê´€í†µ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0277"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0278"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ I"	/>
+		<msg	id="meritmastery0279"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0280"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II"	/>
+		<msg	id="meritmastery0281"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ II"	/>
+		<msg	id="meritmastery0282"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0283"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ III"	/>
+		<msg	id="meritmastery0284"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ III"	/>
+		<msg	id="meritmastery0285"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0286"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0287"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0288"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0289"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0290"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0291"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0292"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0293"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0294"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I í™•ìž¥"	/>
+		<msg	id="meritmastery0295"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0296"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0297"	cont="PvP ê´€í†µ I"	/>
+		<msg	id="meritmastery0298"	cont="PvP í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0299"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0300"	cont="PvP ê´€í†µ II"	/>
+		<msg	id="meritmastery0301"	cont="PvP í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0302"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0303"	cont="PvP í”¼í•´ê°ì†Œ III"	/>
+		<msg	id="meritmastery0304"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ III"	/>
+		<msg	id="meritmastery0305"	cont="PvE ê´€í†µ I"	/>
+		<msg	id="meritmastery0306"	cont="PvE í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0307"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0308"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0309"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0310"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0311"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0312"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0313"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0314"	cont="PvE ê´€í†µ I í™•ìž¥"	/>
+		<msg	id="meritmastery0315"	cont="PvE í”¼í•´ê°ì†Œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0316"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I í™•ìž¥"	/>
+		<msg	id="meritmastery0317"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0318"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ I"	/>
+		<msg	id="meritmastery0319"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0320"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II"	/>
+		<msg	id="meritmastery0321"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ II"	/>
+		<msg	id="meritmastery0322"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0323"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ III"	/>
+		<msg	id="meritmastery0324"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ III"	/>
+		<msg	id="meritmastery0325"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ III"	/>
+		<msg	id="meritmastery0326"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0327"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0328"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0329"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II"	/>
+		<msg	id="meritmastery0330"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0331"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0332"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0333"	cont="íˆ¬í˜¼ : ê²°ì˜ í™•ìž¥"	/>
+		<msg	id="meritmastery0334"	cont="íˆ¬í˜¼ : ì¼ê²© í™•ìž¥"	/>
+		<msg	id="meritmastery0335"	cont="íˆ¬í˜¼ : ì‹¬íŒ í™•ìž¥"	/>
+		<msg	id="meritmastery0336"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0337"	cont="PvP ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0338"	cont="PvP ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0339"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="meritmastery0340"	cont="PvP ë°©ì–´ë ¥ II"	/>
+		<msg	id="meritmastery0341"	cont="PvP ê´€í†µ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0342"	cont="PvP ë°©ì–´ë ¥ III"	/>
+		<msg	id="meritmastery0343"	cont="PvP ê´€í†µ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0344"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0345"	cont="PvE ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0346"	cont="PvE ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0347"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I í™•ìž¥"	/>
+		<msg	id="meritmastery0348"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0349"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0350"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II í™•ìž¥"	/>
+		<msg	id="meritmastery0351"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0352"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0353"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0354"	cont="PvE ë°©ì–´ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0355"	cont="PvE ê´€í†µ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0356"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0357"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ I"	/>
+		<msg	id="meritmastery0358"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0359"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0360"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ II"	/>
+		<msg	id="meritmastery0361"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II"	/>
+		<msg	id="meritmastery0362"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ III"	/>
+		<msg	id="meritmastery0363"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ III"	/>
+		<msg	id="meritmastery0364"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0365"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0366"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0367"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I í™•ìž¥"	/>
+		<msg	id="meritmastery0368"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0369"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0370"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II í™•ìž¥"	/>
+		<msg	id="meritmastery0371"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0372"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0373"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0374"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0375"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0376"	cont="PvP ê´€í†µ I"	/>
+		<msg	id="meritmastery0377"	cont="PvP í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0378"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0379"	cont="PvP ê´€í†µ II"	/>
+		<msg	id="meritmastery0380"	cont="PvP í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0381"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0382"	cont="PvP í”¼í•´ê°ì†Œ III"	/>
+		<msg	id="meritmastery0383"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ III"	/>
+		<msg	id="meritmastery0384"	cont="PvE ê´€í†µ I"	/>
+		<msg	id="meritmastery0385"	cont="PvE í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0386"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0387"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I í™•ìž¥"	/>
+		<msg	id="meritmastery0388"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0389"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0390"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II í™•ìž¥"	/>
+		<msg	id="meritmastery0391"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0392"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ II í™•ìž¥"	/>
+		<msg	id="meritmastery0393"	cont="PvE ê´€í†µ I í™•ìž¥"	/>
+		<msg	id="meritmastery0394"	cont="PvE í”¼í•´ê°ì†Œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0395"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I í™•ìž¥"	/>
+		<msg	id="meritmastery0396"	cont="PvP ê´€í†µ I"	/>
+		<msg	id="meritmastery0397"	cont="PvP í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0398"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0399"	cont="PvP ê´€í†µ II"	/>
+		<msg	id="meritmastery0400"	cont="PvP í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0401"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0402"	cont="PvP ê´€í†µ III"	/>
+		<msg	id="meritmastery0403"	cont="PvP í”¼í•´ê°ì†Œ III"	/>
+		<msg	id="meritmastery0404"	cont="PvP ê´€í†µ ë¬´ì‹œ ìƒì‡„ III"	/>
+		<msg	id="meritmastery0405"	cont="PvE ê´€í†µ I"	/>
+		<msg	id="meritmastery0406"	cont="PvE í”¼í•´ê°ì†Œ I"	/>
+		<msg	id="meritmastery0407"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I"	/>
+		<msg	id="meritmastery0408"	cont="PvE ê´€í†µ II"	/>
+		<msg	id="meritmastery0409"	cont="PvE í”¼í•´ê°ì†Œ II"	/>
+		<msg	id="meritmastery0410"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ II"	/>
+		<msg	id="meritmastery0411"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ í™•ìž¥"	/>
+		<msg	id="meritmastery0412"	cont="ì‹¬íŒ : ê²°ì˜ í™•ìž¥"	/>
+		<msg	id="meritmastery0413"	cont="ì‹¬íŒ : ì¼ê²© í™•ìž¥"	/>
+		<msg	id="meritmastery0414"	cont="ì‹¬íŒ : íˆ¬í˜¼ í™•ìž¥"	/>
+		<msg	id="meritmastery0415"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0416"	cont="PvP ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0417"	cont="PvP ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0418"	cont="PvP ëª¨ë“  ê³µê²©ë ¥ II"	/>
+		<msg	id="meritmastery0419"	cont="PvP ë°©ì–´ë ¥ II"	/>
+		<msg	id="meritmastery0420"	cont="PvP ê´€í†µ ë¬´ì‹œ II"	/>
+		<msg	id="meritmastery0421"	cont="PvP ë°©ì–´ë ¥ III"	/>
+		<msg	id="meritmastery0422"	cont="PvP ê´€í†µ ë¬´ì‹œ III"	/>
+		<msg	id="meritmastery0423"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I"	/>
+		<msg	id="meritmastery0424"	cont="PvE ë°©ì–´ë ¥ I"	/>
+		<msg	id="meritmastery0425"	cont="PvE ê´€í†µ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0426"	cont="PvE ê´€í†µ I í™•ìž¥"	/>
+		<msg	id="meritmastery0427"	cont="PvE í”¼í•´ê°ì†Œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0428"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I í™•ìž¥"	/>
+		<msg	id="meritmastery0429"	cont="PvE ê´€í†µ II í™•ìž¥"	/>
+		<msg	id="meritmastery0430"	cont="PvE í”¼í•´ê°ì†Œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0431"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ II í™•ìž¥"	/>
+		<msg	id="meritmastery0432"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0433"	cont="PvE ë°©ì–´ë ¥ I í™•ìž¥"	/>
+		<msg	id="meritmastery0434"	cont="PvE ê´€í†µ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0435"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0436"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ I"	/>
+		<msg	id="meritmastery0437"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0438"	cont="PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0439"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ II"	/>
+		<msg	id="meritmastery0440"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ II"	/>
+		<msg	id="meritmastery0441"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ III"	/>
+		<msg	id="meritmastery0442"	cont="PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ III"	/>
+		<msg	id="meritmastery0443"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0444"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0445"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I"	/>
+		<msg	id="meritmastery0446"	cont="PvE ê´€í†µ I í™•ìž¥"	/>
+		<msg	id="meritmastery0447"	cont="PvE í”¼í•´ê°ì†Œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0448"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I í™•ìž¥"	/>
+		<msg	id="meritmastery0449"	cont="PvE ê´€í†µ II í™•ìž¥"	/>
+		<msg	id="meritmastery0450"	cont="PvE í”¼í•´ê°ì†Œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0451"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ II í™•ìž¥"	/>
+		<msg	id="meritmastery0452"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0453"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0454"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ I í™•ìž¥"	/>
+		<msg	id="meritmastery0455"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0456"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ I"	/>
+		<msg	id="meritmastery0457"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0458"	cont="PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­ II"	/>
+		<msg	id="meritmastery0459"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ II"	/>
+		<msg	id="meritmastery0460"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ II"	/>
+		<msg	id="meritmastery0461"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ III"	/>
+		<msg	id="meritmastery0462"	cont="PvP ì¶”ê°€ ë°ë¯¸ì§€ III"	/>
+		<msg	id="meritmastery0463"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I"	/>
+		<msg	id="meritmastery0464"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I"	/>
+		<msg	id="meritmastery0465"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I"	/>
+		<msg	id="meritmastery0466"	cont="PvE ê´€í†µ I í™•ìž¥"	/>
+		<msg	id="meritmastery0467"	cont="PvE í”¼í•´ê°ì†Œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0468"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ I í™•ìž¥"	/>
+		<msg	id="meritmastery0469"	cont="PvE ê´€í†µ II í™•ìž¥"	/>
+		<msg	id="meritmastery0470"	cont="PvE í”¼í•´ê°ì†Œ II í™•ìž¥"	/>
+		<msg	id="meritmastery0471"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ II í™•ìž¥"	/>
+		<msg	id="meritmastery0472"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ I í™•ìž¥"	/>
+		<msg	id="meritmastery0473"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ I í™•ìž¥"	/>
+		<msg	id="meritmastery0474"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ I í™•ìž¥"	/>
 	</mastery_name_msg>
 	<mastery_desc_msg>
-		<msg	id="masterydesc0001"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÀûÁß$À» »ó½Â½ÃÅµ´Ï´Ù._$34#ÀûÁß È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀûÁßÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0002"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°ø°Ý·ü$À» »ó½Â½ÃÅµ´Ï´Ù._$34#°ø°Ý·ü È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °ø°Ý·üÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0003"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#È¸ÇÇ¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0004"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°ø°Ý·ü$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#°ø°Ý·ü I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#°ø°Ý·ü È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °ø°Ý·üÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0005"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÀûÁß$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#ÀûÁß I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#ÀûÁß È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °ø°Ý·üÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0006"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#È¸ÇÇ¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._¸¸¾à $34#È¸ÇÇ ¹«½Ã I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0007"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°ø°Ý·ü$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#°ø°Ý·ü II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#°ø°Ý·ü È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °ø°Ý·üÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0008"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÀûÁß$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#ÀûÁß II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#ÀûÁß È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀûÁßÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0009"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#È¸ÇÇ¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._¸¸¾à $34#È¸ÇÇ ¹«½Ã II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0010"	cont="°ø°Ý·ü IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0011"	cont="ÀûÁß IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0012"	cont="°ø°Ý·ü II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0013"	cont="ÀûÁß II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0014"	cont="°ø°Ý·ü III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0015"	cont="ÀûÁß III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0016"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#È¸ÇÇ$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#È¸ÇÇ È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ È¸ÇÇ°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0017"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾îÀ²$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¹æ¾îÀ² È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾îÀ²ÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0018"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÀûÁßÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù."	/>
-		<msg	id="masterydesc0019"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾îÀ²$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#¹æ¾îÀ² I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#¹æ¾îÀ² È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾îÀ²ÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0020"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#È¸ÇÇ$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#È¸ÇÇ I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#È¸ÇÇ È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ È¸ÇÇ°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0021"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÀûÁßÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._¸¸¾à $34#ÀûÁß ¹«½Ã I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0022"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#È¸ÇÇ ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0023"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾îÀ²$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#¹æ¾îÀ² II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#¹æ¾îÀ² È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾îÀ²ÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0024"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#È¸ÇÇ$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#È¸ÇÇ II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#È¸ÇÇ È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ È¸ÇÇ°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0025"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÀûÁßÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._¸¸¾à $34#ÀûÁß ¹«½Ã II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0026"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#È¸ÇÇ ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._¸¸¾à $34#È¸ÇÇ ¹«½Ã »ó¼â I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0027"	cont="¹æ¾îÀ² IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0028"	cont="È¸ÇÇ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0029"	cont="¹æ¾îÀ² II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0030"	cont="È¸ÇÇ II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0031"	cont="¹æ¾îÀ² III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0032"	cont="È¸ÇÇ III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0033"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#°üÅë È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0034"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#Ãß°¡ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0035"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#ÇÇÇØ°¨¼Ò¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0036"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#°üÅë I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#°üÅë È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0037"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#Ãß°¡ µ¥¹ÌÁö I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#Ãß°¡ µ¥¹ÌÁö È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0038"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#ÇÇÇØ°¨¼Ò¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._¸¸¾à $34#ÇÇÇØ°¨¼Ò ¹«½Ã I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0039"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#°üÅë II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#°üÅë È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0040"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#Ãß°¡ µ¥¹ÌÁö II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#Ãß°¡ µ¥¹ÌÁö È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0041"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#ÇÇÇØ°¨¼Ò¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._¸¸¾à $34#ÇÇÇØ°¨¼Ò ¹«½Ã II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0042"	cont="Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0043"	cont="°üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0044"	cont="Ãß°¡ µ¥¹ÌÁö II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0045"	cont="°üÅë II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0046"	cont="Ãß°¡ µ¥¹ÌÁö III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0047"	cont="°üÅë III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0048"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0049"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾î$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#¹æ¾î È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0050"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#°üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0051"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾î$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#¹æ¾î I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#¹æ¾î È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0052"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#ÇÇÇØ°¨¼Ò I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0053"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#°üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._¸¸¾à $34#°üÅë ¹«½Ã I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0054"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÇÇÇØ°¨¼Ò ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0055"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾î$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#¹æ¾î II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#¹æ¾î È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0056"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._¸¸¾à $34#ÇÇÇØ°¨¼Ò II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0057"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#°üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._¸¸¾à $34#°üÅë ¹«½Ã II$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0058"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÇÇÇØ°¨¼Ò ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._¸¸¾à $34#ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â I$ÀÌ ÃÖ´ë ·¹º§ÀÏ °æ¿ì ´É·ÂÄ¡°¡ Ãß°¡·Î »ó½ÂÇÕ´Ï´Ù."	/>
-		<msg	id="masterydesc0059"	cont="¹æ¾î IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0060"	cont="ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0061"	cont="¹æ¾î II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0062"	cont="ÇÇÇØ°¨¼Ò II¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0063"	cont="¹æ¾î III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0064"	cont="ÇÇÇØ°¨¼Ò III¸¦ $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0065"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¸ðµç °ø°Ý·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0066"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#ÇÇÇØ°¨¼Ò¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0067"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¸ðµç °ø°Ý·Â È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0068"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#ÇÇÇØ°¨¼Ò¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0069"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¸ðµç °ø°Ý·Â È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0070"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#ÇÇÇØ°¨¼Ò¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò ¹«½Ã È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0071"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¸ðµç ½ºÅ³ ÁõÆø È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0072"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0073"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#°üÅë È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0074"	cont="¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0075"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0076"	cont="¸ðµç °ø°Ý·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0077"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0078"	cont="¸ðµç °ø°Ý·Â IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0079"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0080"	cont="¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0081"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0082"	cont="°üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0083"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0084"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#HP$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#HP È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ HP°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0085"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#°üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#°üÅë ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0086"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#HP$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#HP È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ HP°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0087"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#°üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#°üÅë ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0088"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#HP$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#HP È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ HP°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0089"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#°üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#°üÅë ¹«½Ã È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0090"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¹æ¾î·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0091"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¹æ¾î·Â È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0092"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#HP Èí¼ö»óÇÑ$À» »ó½Â½ÃÅµ´Ï´Ù._$34#HP Èí¼ö»óÇ× È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ HP Èí¼ö»óÇÑÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0093"	cont="HP IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0094"	cont="°üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0095"	cont="HP IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0096"	cont="°üÅë ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0097"	cont="HP IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0098"	cont="°üÅë ¹«½Ã IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0099"	cont="¹æ¾î IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0100"	cont="¹æ¾î IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0101"	cont="HP Èí¼ö»óÇÑ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0102"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0103"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#°üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#°üÅë ¹«½Ã »ó¼â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0104"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0105"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0106"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#°üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#°üÅë ¹«½Ã »ó¼â È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0107"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0108"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0109"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#°üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#°üÅë ¹«½Ã »ó¼â È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0110"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0111"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0112"	cont="°üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0113"	cont="°üÅë ¹«½Ã »ó¼â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0114"	cont="°üÅë ¹«½Ã »ó¼â IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0115"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0116"	cont="Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0117"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0118"	cont="½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0119"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0120"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÇÇÇØ°¨¼Ò ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý¹Þ½À´Ï´Ù.$34#ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0121"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0122"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0123"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÇÇÇØ°¨¼Ò ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý¹Þ½À´Ï´Ù.$34#ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0124"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0125"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0126"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÇÇÇØ°¨¼Ò ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°Ý¹Þ½À´Ï´Ù.$34#ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0127"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0128"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0129"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0130"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#ÇÇÇØ°¨¼Ò È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0131"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0132"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0133"	cont="ÇÇÇØ°¨¼Ò ¹«½Ã »ó¼â IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0134"	cont="ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0135"	cont="ÇÇÇØ°¨¼Ò IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0136"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0137"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#È¸ÇÇ¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#È¸ÇÇ ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ È¸ÇÇ ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0138"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°ø°Ý·ü$À» »ó½Â½ÃÅµ´Ï´Ù._$34#°ø°Ý·ü È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °ø°Ý·üÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0139"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#È¸ÇÇ¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#È¸ÇÇ ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ È¸ÇÇ ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0140"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#°ø°Ý·ü$À» »ó½Â½ÃÅµ´Ï´Ù._$34#°ø°Ý·ü È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °ø°Ý·üÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0141"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#È¸ÇÇ¸¦ ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#È¸ÇÇ ¹«½Ã È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ È¸ÇÇ ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0142"	cont="È¸ÇÇ ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0143"	cont="È¸ÇÇ ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0144"	cont="È¸ÇÇ ¹«½Ã IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0145"	cont="°ø°Ý·ü IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0146"	cont="°ø°Ý·ü IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0147"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0148"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÀûÁßÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#ÀûÁß ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀûÁß ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0149"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾îÀ²$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¹æ¾îÀ² È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾îÀ²ÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0150"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÀûÁßÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#ÀûÁß ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀûÁß ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0151"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#¹æ¾îÀ²$À» »ó½Â½ÃÅµ´Ï´Ù._$34#¹æ¾îÀ² È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾îÀ²ÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0152"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#ÀûÁßÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#ÀûÁß ¹«½Ã È®Àå III$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀûÁß ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0153"	cont="ÀûÁß ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0154"	cont="ÀûÁß ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0155"	cont="ÀûÁß ¹«½Ã IIIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0156"	cont="¹æ¾îÀ² IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0157"	cont="¹æ¾îÀ² IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0158"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0159"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0160"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0161"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0162"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0163"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0164"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0165"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0166"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0167"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0168"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç °ø°Ý·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0169"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¹æ¾î·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0170"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvE °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#PvE °üÅë ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0171"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç °ø°Ý·Â È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0172"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¹æ¾î È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0173"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvE °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#PvE °üÅë ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0174"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0175"	cont="°áÀÇ : ÀÏ°Ý Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0176"	cont="°áÀÇ : ÅõÈ¥ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0177"	cont="°áÀÇ : ½ÉÆÇ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0178"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0179"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0180"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0181"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0182"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0183"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0184"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0185"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0186"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0187"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0188"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0189"	cont="PvE ¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0190"	cont="PvE ¹æ¾î·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0191"	cont="PvE °üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0192"	cont="PvE ¸ðµç °ø°Ý·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0193"	cont="PvE ¹æ¾î·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0194"	cont="PvE °üÅë ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0195"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0196"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0197"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0198"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0199"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0200"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0201"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0202"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0203"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0204"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0205"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0206"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç ½ºÅ³ ÁõÆø È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0207"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE ½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0208"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Ãß°¡ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0209"	cont="PvE ¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0210"	cont="PvE ¹æ¾î·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0211"	cont="PvE °üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0212"	cont="PvE ¸ðµç °ø°Ý·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0213"	cont="PvE ¹æ¾î·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0214"	cont="PvE °üÅë ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0215"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0216"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0217"	cont="PvE Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0218"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0219"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0220"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0221"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0222"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0223"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0224"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0225"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0226"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE °üÅë È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0227"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÇÇÇØ°¨¼Ò È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0228"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE °üÅë ¹«½Ã »ó¼â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0229"	cont="PvE ¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0230"	cont="PvE ¹æ¾î·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0231"	cont="PvE °üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0232"	cont="PvE ¸ðµç °ø°Ý·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0233"	cont="PvE ¹æ¾î·Â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0234"	cont="PvE °üÅë ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0235"	cont="PvE °üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0236"	cont="PvE ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0237"	cont="PvE °üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0238"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0239"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0240"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0241"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0242"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0243"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0244"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0245"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0246"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0247"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0248"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0249"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0250"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0251"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0252"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0253"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0254"	cont="ÀÏ°Ý : °áÀÇ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0255"	cont="ÀÏ°Ý : ÅõÈ¥ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0256"	cont="°áÀÇ : ½ÉÆÇ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0257"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0258"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0259"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0260"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0261"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0262"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0263"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0264"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0265"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç °ø°Ý·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0266"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¹æ¾î·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0267"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvE °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#PvE °üÅë ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0268"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0269"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0270"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0271"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0272"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0273"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0274"	cont="PvE ¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0275"	cont="PvE ¹æ¾î·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0276"	cont="PvE °üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0277"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0278"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0279"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0280"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0281"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0282"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0283"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0284"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0285"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç ½ºÅ³ ÁõÆø È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0286"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE ½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0287"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Ãß°¡ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0288"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0289"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0290"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0291"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0292"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0293"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0294"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0295"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0296"	cont="PvE Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0297"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0298"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0299"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0300"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0301"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0302"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0303"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0304"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0305"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE °üÅë È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0306"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÇÇÇØ°¨¼Ò È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0307"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE °üÅë ¹«½Ã »ó¼â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0308"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0309"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0310"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0311"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0312"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0313"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0314"	cont="PvE °üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0315"	cont="PvE ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0316"	cont="PvE °üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0317"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0318"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0319"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0320"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0321"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0322"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0323"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0324"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0325"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0326"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç ½ºÅ³ ÁõÆø È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0327"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE ½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0328"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Ãß°¡ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0329"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç ½ºÅ³ ÁõÆø È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0330"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE ½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0331"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Ãß°¡ µ¥¹ÌÁö È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0332"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0333"	cont="ÅõÈ¥ : °áÀÇ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0334"	cont="ÅõÈ¥ : ÀÏ°Ý Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0335"	cont="ÅõÈ¥ : ½ÉÆÇ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0336"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0337"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0338"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0339"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0340"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0341"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0342"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0343"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0344"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç °ø°Ý·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0345"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¹æ¾î·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0346"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvE °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#PvE °üÅë ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0347"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0348"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0349"	cont="PvE Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0350"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0351"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0352"	cont="PvE Ãß°¡ µ¥¹ÌÁö IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0353"	cont="PvE ¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0354"	cont="PvE ¹æ¾î·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0355"	cont="PvE °üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0356"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0357"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0358"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0359"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0360"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0361"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0362"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0363"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0364"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0365"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0366"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0367"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0368"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0369"	cont="PvE Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0370"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0371"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0372"	cont="PvE Ãß°¡ µ¥¹ÌÁö IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0373"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0374"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0375"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0376"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0377"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0378"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0379"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0380"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0381"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0382"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0383"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0384"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE °üÅë È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0385"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÇÇÇØ°¨¼Ò È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0386"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE °üÅë ¹«½Ã »ó¼â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0387"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0388"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0389"	cont="PvE Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0390"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0391"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0392"	cont="PvE Ãß°¡ µ¥¹ÌÁö IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0393"	cont="PvE °üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0394"	cont="PvE ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0395"	cont="PvE °üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0396"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0397"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0398"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0399"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0400"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0401"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0402"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0403"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0404"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvP °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0405"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE °üÅë È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0406"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÇÇÇØ°¨¼Ò È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0407"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE °üÅë ¹«½Ã »ó¼â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0408"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE °üÅë$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE °üÅë È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅëÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0409"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÇÇÇØ°¨¼Ò$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÇÇÇØ°¨¼Ò È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÇÇÇØ°¨¼Ò°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0410"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE °üÅë ¹«½Ã¸¦ »ó¼â$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE °üÅë ¹«½Ã »ó¼â È®Àå II$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã »ó¼â°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0411"	cont="½ºÆä¼È ¸¶½ºÅÍ¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù.$34#½ºÆä¼È ¸¶½ºÅÍ¸®ÀÇ ´É·ÂÄ¡´Â ´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$µË´Ï´Ù._"	/>
-		<msg	id="masterydesc0412"	cont="½ÉÆÇ : °áÀÇ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0413"	cont="½ÉÆÇ : ÀÏ°Ý Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0414"	cont="½ÉÆÇ : ÅõÈ¥ Ä«Å×°í¸®¸¦ È°¼ºÈ­ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0415"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0416"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0417"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0418"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0419"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0420"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0421"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¹æ¾î$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0422"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvP °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._"	/>
-		<msg	id="masterydesc0423"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç °ø°Ý·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç °ø°Ý·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0424"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¹æ¾î·Â$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¹æ¾î·Â È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¹æ¾î°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0425"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³ª¸¦ °ø°ÝÇÏ´Â »ó´ëÀÇ $34#PvE °üÅëÀ» ¹«½Ã$ÇÏ°í °ø°Ý ¹Þ½À´Ï´Ù._$34#PvE °üÅë ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ °üÅë ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0426"	cont="PvE °üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0427"	cont="PvE ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0428"	cont="PvE °üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0429"	cont="PvE °üÅë IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0430"	cont="PvE ÇÇÇØ°¨¼Ò IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0431"	cont="PvE °üÅë ¹«½Ã »ó¼â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0432"	cont="PvE ¸ðµç °ø°Ý·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0433"	cont="PvE ¹æ¾î·Â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0434"	cont="PvE °üÅë ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0435"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0436"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0437"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0438"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0439"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0440"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0441"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0442"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0443"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0444"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Å©¸®Æ¼ÄÃ µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0445"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0446"	cont="PvE °üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0447"	cont="PvE ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0448"	cont="PvE °üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0449"	cont="PvE °üÅë IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0450"	cont="PvE ÇÇÇØ°¨¼Ò IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0451"	cont="PvE °üÅë ¹«½Ã »ó¼â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0452"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0453"	cont="PvE Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0454"	cont="PvE ÀÏ¹Ý °ø°Ý µ¥¹ÌÁö Áõ°¡ IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0455"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0456"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0457"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0458"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0459"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0460"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0461"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#½ºÅ³ ÁõÆøÀúÇ×$À» »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0462"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvP Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._"	/>
-		<msg	id="masterydesc0463"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE ¸ðµç ½ºÅ³ ÁõÆø$À» »ó½Â½ÃÅµ´Ï´Ù._$34#PvE ¸ðµç ½ºÅ³ ÁõÆø È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ¸ðµç °ø°Ý·ÂÀÌ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0464"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ ³»°¡ °ø°ÝÇÏ´Â ´ë»óÀÇ $34#PvE ½ºÅ³ ÁõÆø ÀúÇ×À» ¹«½Ã$ÇÏ°í °ø°ÝÇÕ´Ï´Ù._$34#PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0465"	cont="¹Ì¼ÇÀüÀï ³»¿¡¼­ Ä³¸¯ÅÍÀÇ $34#PvE Ãß°¡ µ¥¹ÌÁö$¸¦ »ó½Â½ÃÅµ´Ï´Ù._$34#PvE Ãß°¡ µ¥¹ÌÁö È®Àå I$¸¦ ¹è¿ì¸é ´øÀüÀÌ³ª ÇÊµå¿¡¼­µµ Ãß°¡µ¥¹ÌÁö°¡ »ó½ÂÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0466"	cont="PvE °üÅë IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0467"	cont="PvE ÇÇÇØ°¨¼Ò IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0468"	cont="PvE °üÅë ¹«½Ã »ó¼â IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0469"	cont="PvE °üÅë IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0470"	cont="PvE ÇÇÇØ°¨¼Ò IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0471"	cont="PvE °üÅë ¹«½Ã »ó¼â IIÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0472"	cont="PvE ¸ðµç ½ºÅ³ ÁõÆø IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0473"	cont="PvE ½ºÅ³ ÁõÆø ÀúÇ× ¹«½Ã IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
-		<msg	id="masterydesc0474"	cont="PvE Ãß°¡ µ¥¹ÌÁö IÀ» $34#´øÀü°ú ÇÊµå¿¡¼­µµ Àû¿ë$ÇÕ´Ï´Ù._"	/>
+		<msg	id="masterydesc0001"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ì ì¤‘$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ì ì¤‘ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì ì¤‘ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0002"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê³µê²©ë¥ $ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ê³µê²©ë¥  í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê³µê²©ë¥ ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0003"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#íšŒí”¼ë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0004"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê³µê²©ë¥ $ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ê³µê²©ë¥  I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ê³µê²©ë¥  í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê³µê²©ë¥ ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0005"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ì ì¤‘$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ì ì¤‘ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ì ì¤‘ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê³µê²©ë¥ ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0006"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#íšŒí”¼ë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._ë§Œì•½ $34#íšŒí”¼ ë¬´ì‹œ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0007"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê³µê²©ë¥ $ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ê³µê²©ë¥  II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ê³µê²©ë¥  í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê³µê²©ë¥ ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0008"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ì ì¤‘$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ì ì¤‘ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ì ì¤‘ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì ì¤‘ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0009"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#íšŒí”¼ë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._ë§Œì•½ $34#íšŒí”¼ ë¬´ì‹œ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0010"	cont="ê³µê²©ë¥  Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0011"	cont="ì ì¤‘ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0012"	cont="ê³µê²©ë¥  IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0013"	cont="ì ì¤‘ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0014"	cont="ê³µê²©ë¥  IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0015"	cont="ì ì¤‘ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0016"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#íšŒí”¼$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#íšŒí”¼ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ íšŒí”¼ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0017"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ìœ¨$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ë°©ì–´ìœ¨ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ìœ¨ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0018"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ì ì¤‘ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0019"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ìœ¨$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ë°©ì–´ìœ¨ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ë°©ì–´ìœ¨ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ìœ¨ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0020"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#íšŒí”¼$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#íšŒí”¼ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#íšŒí”¼ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ íšŒí”¼ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0021"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ì ì¤‘ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._ë§Œì•½ $34#ì ì¤‘ ë¬´ì‹œ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0022"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#íšŒí”¼ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0023"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ìœ¨$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ë°©ì–´ìœ¨ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ë°©ì–´ìœ¨ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ìœ¨ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0024"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#íšŒí”¼$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#íšŒí”¼ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#íšŒí”¼ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ íšŒí”¼ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0025"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ì ì¤‘ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._ë§Œì•½ $34#ì ì¤‘ ë¬´ì‹œ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0026"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#íšŒí”¼ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._ë§Œì•½ $34#íšŒí”¼ ë¬´ì‹œ ìƒì‡„ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0027"	cont="ë°©ì–´ìœ¨ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0028"	cont="íšŒí”¼ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0029"	cont="ë°©ì–´ìœ¨ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0030"	cont="íšŒí”¼ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0031"	cont="ë°©ì–´ìœ¨ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0032"	cont="íšŒí”¼ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0033"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ê´€í†µ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0034"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0035"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í”¼í•´ê°ì†Œë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0036"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ê´€í†µ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ê´€í†µ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0037"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ì¶”ê°€ ë°ë¯¸ì§€ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0038"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í”¼í•´ê°ì†Œë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._ë§Œì•½ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0039"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ê´€í†µ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ê´€í†µ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0040"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ì¶”ê°€ ë°ë¯¸ì§€ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0041"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í”¼í•´ê°ì†Œë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._ë§Œì•½ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0042"	cont="ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0043"	cont="ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0044"	cont="ì¶”ê°€ ë°ë¯¸ì§€ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0045"	cont="ê´€í†µ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0046"	cont="ì¶”ê°€ ë°ë¯¸ì§€ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0047"	cont="ê´€í†µ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0048"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0049"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ë°©ì–´ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0050"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0051"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ë°©ì–´ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ë°©ì–´ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0052"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#í”¼í•´ê°ì†Œ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0053"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._ë§Œì•½ $34#ê´€í†µ ë¬´ì‹œ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0054"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0055"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#ë°©ì–´ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#ë°©ì–´ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0056"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._ë§Œì•½ $34#í”¼í•´ê°ì†Œ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0057"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._ë§Œì•½ $34#ê´€í†µ ë¬´ì‹œ II$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0058"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._ë§Œì•½ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ I$ì´ ìµœëŒ€ ë ˆë²¨ì¼ ê²½ìš° ëŠ¥ë ¥ì¹˜ê°€ ì¶”ê°€ë¡œ ìƒìŠ¹í•©ë‹ˆë‹¤."	/>
+		<msg	id="masterydesc0059"	cont="ë°©ì–´ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0060"	cont="í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0061"	cont="ë°©ì–´ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0062"	cont="í”¼í•´ê°ì†Œ IIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0063"	cont="ë°©ì–´ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0064"	cont="í”¼í•´ê°ì†Œ IIIë¥¼ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0065"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0066"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í”¼í•´ê°ì†Œë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0067"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0068"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í”¼í•´ê°ì†Œë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0069"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0070"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í”¼í•´ê°ì†Œë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ ë¬´ì‹œ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0071"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0072"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0073"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ê´€í†µ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0074"	cont="ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0075"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0076"	cont="ëª¨ë“  ê³µê²©ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0077"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0078"	cont="ëª¨ë“  ê³µê²©ë ¥ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0079"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0080"	cont="ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0081"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0082"	cont="ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0083"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0084"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#HP$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#HP í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ HPê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0085"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#ê´€í†µ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0086"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#HP$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#HP í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ HPê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0087"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#ê´€í†µ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0088"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#HP$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#HP í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ HPê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0089"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#ê´€í†µ ë¬´ì‹œ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0090"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ë°©ì–´ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0091"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ë°©ì–´ë ¥ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0092"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#HP í¡ìˆ˜ìƒí•œ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#HP í¡ìˆ˜ìƒí•­ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ HP í¡ìˆ˜ìƒí•œì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0093"	cont="HP Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0094"	cont="ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0095"	cont="HP IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0096"	cont="ê´€í†µ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0097"	cont="HP IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0098"	cont="ê´€í†µ ë¬´ì‹œ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0099"	cont="ë°©ì–´ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0100"	cont="ë°©ì–´ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0101"	cont="HP í¡ìˆ˜ìƒí•œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0102"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0103"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0104"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0105"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0106"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0107"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0108"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0109"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0110"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0111"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0112"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0113"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0114"	cont="ê´€í†µ ë¬´ì‹œ ìƒì‡„ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0115"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0116"	cont="í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0117"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0118"	cont="ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0119"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0120"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©ë°›ìŠµë‹ˆë‹¤.$34#í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0121"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0122"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0123"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©ë°›ìŠµë‹ˆë‹¤.$34#í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0124"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0125"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0126"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#í”¼í•´ê°ì†Œ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©ë°›ìŠµë‹ˆë‹¤.$34#í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0127"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0128"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0129"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0130"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#í”¼í•´ê°ì†Œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0131"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0132"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0133"	cont="í”¼í•´ê°ì†Œ ë¬´ì‹œ ìƒì‡„ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0134"	cont="í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0135"	cont="í”¼í•´ê°ì†Œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0136"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0137"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#íšŒí”¼ë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#íšŒí”¼ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ íšŒí”¼ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0138"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê³µê²©ë¥ $ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ê³µê²©ë¥  í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê³µê²©ë¥ ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0139"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#íšŒí”¼ë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#íšŒí”¼ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ íšŒí”¼ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0140"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ê³µê²©ë¥ $ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ê³µê²©ë¥  í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê³µê²©ë¥ ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0141"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#íšŒí”¼ë¥¼ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#íšŒí”¼ ë¬´ì‹œ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ íšŒí”¼ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0142"	cont="íšŒí”¼ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0143"	cont="íšŒí”¼ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0144"	cont="íšŒí”¼ ë¬´ì‹œ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0145"	cont="ê³µê²©ë¥  Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0146"	cont="ê³µê²©ë¥  IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0147"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0148"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ì ì¤‘ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#ì ì¤‘ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì ì¤‘ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0149"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ìœ¨$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ë°©ì–´ìœ¨ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ìœ¨ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0150"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ì ì¤‘ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#ì ì¤‘ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì ì¤‘ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0151"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ë°©ì–´ìœ¨$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#ë°©ì–´ìœ¨ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ìœ¨ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0152"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#ì ì¤‘ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#ì ì¤‘ ë¬´ì‹œ í™•ìž¥ III$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì ì¤‘ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0153"	cont="ì ì¤‘ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0154"	cont="ì ì¤‘ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0155"	cont="ì ì¤‘ ë¬´ì‹œ IIIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0156"	cont="ë°©ì–´ìœ¨ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0157"	cont="ë°©ì–´ìœ¨ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0158"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0159"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0160"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0161"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0162"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0163"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0164"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0165"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0166"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0167"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0168"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0169"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ë°©ì–´ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0170"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvE ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0171"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0172"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ë°©ì–´ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0173"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvE ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0174"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0175"	cont="ê²°ì˜ : ì¼ê²© ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0176"	cont="ê²°ì˜ : íˆ¬í˜¼ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0177"	cont="ê²°ì˜ : ì‹¬íŒ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0178"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0179"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0180"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0181"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0182"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0183"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0184"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0185"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0186"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0187"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0188"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0189"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0190"	cont="PvE ë°©ì–´ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0191"	cont="PvE ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0192"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0193"	cont="PvE ë°©ì–´ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0194"	cont="PvE ê´€í†µ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0195"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0196"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0197"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0198"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0199"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0200"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0201"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0202"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0203"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0204"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0205"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0206"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0207"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0208"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0209"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0210"	cont="PvE ë°©ì–´ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0211"	cont="PvE ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0212"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0213"	cont="PvE ë°©ì–´ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0214"	cont="PvE ê´€í†µ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0215"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0216"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0217"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0218"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0219"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0220"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0221"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0222"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0223"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0224"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0225"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0226"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ê´€í†µ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0227"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í”¼í•´ê°ì†Œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0228"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0229"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0230"	cont="PvE ë°©ì–´ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0231"	cont="PvE ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0232"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0233"	cont="PvE ë°©ì–´ë ¥ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0234"	cont="PvE ê´€í†µ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0235"	cont="PvE ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0236"	cont="PvE í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0237"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0238"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0239"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0240"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0241"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0242"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0243"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0244"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0245"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0246"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0247"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0248"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0249"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0250"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0251"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0252"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0253"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0254"	cont="ì¼ê²© : ê²°ì˜ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0255"	cont="ì¼ê²© : íˆ¬í˜¼ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0256"	cont="ê²°ì˜ : ì‹¬íŒ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0257"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0258"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0259"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0260"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0261"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0262"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0263"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0264"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0265"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0266"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ë°©ì–´ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0267"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvE ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0268"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0269"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0270"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0271"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0272"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0273"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0274"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0275"	cont="PvE ë°©ì–´ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0276"	cont="PvE ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0277"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0278"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0279"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0280"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0281"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0282"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0283"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0284"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0285"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0286"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0287"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0288"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0289"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0290"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0291"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0292"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0293"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0294"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0295"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0296"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0297"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0298"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0299"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0300"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0301"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0302"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0303"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0304"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0305"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ê´€í†µ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0306"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í”¼í•´ê°ì†Œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0307"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0308"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0309"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0310"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0311"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0312"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0313"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0314"	cont="PvE ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0315"	cont="PvE í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0316"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0317"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0318"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0319"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0320"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0321"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0322"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0323"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0324"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0325"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0326"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0327"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0328"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0329"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0330"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0331"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0332"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0333"	cont="íˆ¬í˜¼ : ê²°ì˜ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0334"	cont="íˆ¬í˜¼ : ì¼ê²© ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0335"	cont="íˆ¬í˜¼ : ì‹¬íŒ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0336"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0337"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0338"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0339"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0340"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0341"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0342"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0343"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0344"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0345"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ë°©ì–´ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0346"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvE ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0347"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0348"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0349"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0350"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0351"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0352"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0353"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0354"	cont="PvE ë°©ì–´ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0355"	cont="PvE ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0356"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0357"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0358"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0359"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0360"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0361"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0362"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0363"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0364"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0365"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0366"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0367"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0368"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0369"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0370"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0371"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0372"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0373"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0374"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0375"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0376"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0377"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0378"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0379"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0380"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0381"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0382"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0383"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0384"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ê´€í†µ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0385"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í”¼í•´ê°ì†Œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0386"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0387"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0388"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0389"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0390"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0391"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0392"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0393"	cont="PvE ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0394"	cont="PvE í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0395"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0396"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0397"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0398"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0399"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0400"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0401"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0402"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0403"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0404"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvP ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0405"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ê´€í†µ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0406"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í”¼í•´ê°ì†Œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0407"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0408"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ê´€í†µ$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ê´€í†µ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0409"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í”¼í•´ê°ì†Œ$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í”¼í•´ê°ì†Œ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í”¼í•´ê°ì†Œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0410"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ê´€í†µ ë¬´ì‹œë¥¼ ìƒì‡„$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ í™•ìž¥ II$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œ ìƒì‡„ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0411"	cont="ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤.$34#ìŠ¤íŽ˜ì…œ ë§ˆìŠ¤í„°ë¦¬ì˜ ëŠ¥ë ¥ì¹˜ëŠ” ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$ë©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0412"	cont="ì‹¬íŒ : ê²°ì˜ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0413"	cont="ì‹¬íŒ : ì¼ê²© ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0414"	cont="ì‹¬íŒ : íˆ¬í˜¼ ì¹´í…Œê³ ë¦¬ë¥¼ í™œì„±í™”í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0415"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0416"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0417"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0418"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0419"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0420"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0421"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ë°©ì–´$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0422"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvP ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0423"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ê³µê²©ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ê³µê²©ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0424"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ë°©ì–´ë ¥$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ë°©ì–´ë ¥ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ë°©ì–´ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0425"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚˜ë¥¼ ê³µê²©í•˜ëŠ” ìƒëŒ€ì˜ $34#PvE ê´€í†µì„ ë¬´ì‹œ$í•˜ê³  ê³µê²© ë°›ìŠµë‹ˆë‹¤._$34#PvE ê´€í†µ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ê´€í†µ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0426"	cont="PvE ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0427"	cont="PvE í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0428"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0429"	cont="PvE ê´€í†µ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0430"	cont="PvE í”¼í•´ê°ì†Œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0431"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0432"	cont="PvE ëª¨ë“  ê³µê²©ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0433"	cont="PvE ë°©ì–´ë ¥ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0434"	cont="PvE ê´€í†µ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0435"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0436"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0437"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0438"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0439"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0440"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0441"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0442"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0443"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0444"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0445"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0446"	cont="PvE ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0447"	cont="PvE í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0448"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0449"	cont="PvE ê´€í†µ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0450"	cont="PvE í”¼í•´ê°ì†Œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0451"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0452"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0453"	cont="PvE í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0454"	cont="PvE ì¼ë°˜ ê³µê²© ë°ë¯¸ì§€ ì¦ê°€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0455"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0456"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0457"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0458"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0459"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0460"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0461"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#ìŠ¤í‚¬ ì¦í­ì €í•­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0462"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvP ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0463"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­$ì„ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ëª¨ë“  ê³µê²©ë ¥ì´ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0464"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ë‚´ê°€ ê³µê²©í•˜ëŠ” ëŒ€ìƒì˜ $34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ì„ ë¬´ì‹œ$í•˜ê³  ê³µê²©í•©ë‹ˆë‹¤._$34#PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0465"	cont="ë¯¸ì…˜ì „ìŸ ë‚´ì—ì„œ ìºë¦­í„°ì˜ $34#PvE ì¶”ê°€ ë°ë¯¸ì§€$ë¥¼ ìƒìŠ¹ì‹œí‚µë‹ˆë‹¤._$34#PvE ì¶”ê°€ ë°ë¯¸ì§€ í™•ìž¥ I$ë¥¼ ë°°ìš°ë©´ ë˜ì „ì´ë‚˜ í•„ë“œì—ì„œë„ ì¶”ê°€ë°ë¯¸ì§€ê°€ ìƒìŠ¹í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0466"	cont="PvE ê´€í†µ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0467"	cont="PvE í”¼í•´ê°ì†Œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0468"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0469"	cont="PvE ê´€í†µ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0470"	cont="PvE í”¼í•´ê°ì†Œ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0471"	cont="PvE ê´€í†µ ë¬´ì‹œ ìƒì‡„ IIì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0472"	cont="PvE ëª¨ë“  ìŠ¤í‚¬ ì¦í­ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0473"	cont="PvE ìŠ¤í‚¬ ì¦í­ ì €í•­ ë¬´ì‹œ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
+		<msg	id="masterydesc0474"	cont="PvE ì¶”ê°€ ë°ë¯¸ì§€ Iì„ $34#ë˜ì „ê³¼ í•„ë“œì—ì„œë„ ì ìš©$í•©ë‹ˆë‹¤._"	/>
 	</mastery_desc_msg>
 </meritsystem_message>
