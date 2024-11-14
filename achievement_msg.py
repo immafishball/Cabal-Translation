@@ -6,7 +6,7 @@ def parse_dec_file(file_path):
     data = defaultdict(lambda: defaultdict(dict))
     current_section = None
 
-    with open(file_path, 'r', encoding='utf-8') as file:
+    with open(file_path, 'r', encoding='ISO-8859-1') as file:
         for line in file:
             line = line.strip()
             if line.startswith('<category>'):

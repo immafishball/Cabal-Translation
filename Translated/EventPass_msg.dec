@@ -1,0 +1,62 @@
+<EventPass_message>
+	<type_msg>
+		<msg	q_type="1"	desc="Gain AP"	/>
+		<msg	q_type="2"	desc="DP Gained"	/>
+		<msg	q_type="3"	desc="Consume AP"	/>
+		<msg	q_type="4"	desc="Consume DP"	/>
+		<msg	q_type="5"	desc="Looted Alz"	/>
+		<msg	q_type="6"	desc="Earn from Extraction"	/>
+		<msg	q_type="7"	desc="Gain WEXP"	/>
+		<msg	q_type="8"	desc="Consume WEXP"	/>
+		<msg	q_type="9"	desc="Daily Login"	/>
+		<msg	q_type="10"	desc="Enhancement attempt"	/>
+		<msg	q_type="11"	desc="Craft Request"	/>
+		<msg	q_type="12"	desc="Guild Treasure Created"	/>
+		<msg	q_type="13"	desc="Monster hunted"	/>
+		<msg	q_type="14"	desc="Quest Completed"	/>
+		<msg	q_type="15"	desc="Merit Medal Report"	/>
+		<msg	q_type="16"	desc="Merit Medal Evaluation"	/>
+		<msg	q_type="17"	desc="Dungeons Completed"	/>
+		<msg	q_type="18"	desc="Enter Dungeon"	/>
+		<msg	q_type="19"	desc="Completed Daily Missions"	/>
+		<msg	q_type="20"	desc="Loot Item"	/>
+		<msg	q_type="21"	desc="Items Used"	/>
+		<msg	q_type="22"	desc="Earn Challenge Mission Score"	/>
+		<msg	q_type="23"	desc="Clear Daily Dungeon"	/>
+		<msg	q_type="24"	desc="Participate Mission War"	/>
+		<msg	q_type="25"	desc="Enter Dungeon List"	/>
+		<msg	q_type="26"	desc="Complete Dungeon List"	/>
+		<msg	q_type="27"	desc="Defeat Dungeon Monster"	/>
+		<msg	q_type="28"	desc="Summon Mercenary"	/>
+		<msg	q_type="29"	desc="Complete Legend Arena"	/>
+		<msg	q_type="30"	desc="Use Item List"	/>
+		<msg	q_type="31"	desc="Use Chaos/Divine Converter"	/>
+		<msg	q_type="32"	desc="Request Craft from Item List"	/>
+		<msg	q_type="33"	desc="Normal Upgrade"	/>
+		<msg	q_type="34"	desc="Chaos Upgrade"	/>
+		<msg	q_type="35"	desc="Divine Upgrade"	/>
+		<msg	q_type="36"	desc="Achieve Normal Enchant +{0}"	/>
+		<msg	q_type="37"	desc="Achieve Chaos Enchant +{0}"	/>
+		<msg	q_type="38"	desc="Achieve Divine Upgrade +{0}"	/>
+		<msg	q_type="39"	desc="Artifact Upgrade/Tune"	/>
+		<msg	q_type="40"	desc="Use Time Reducer"	/>
+		<msg	q_type="41"	desc="Defeat Mission War Character"	/>
+		<msg	q_type="42"	desc="Use Merit Medal"	/>
+		<msg	q_type="43"	desc="Enter PvP Battle"	/>
+		<msg	q_type="44"	desc="Use Mythic Points"	/>
+		<msg	q_type="45"	desc="Participate in Ruler Boss Raid"	/>
+		<msg	q_type="46"	desc="Collect Mission War Reward"	/>
+		<msg	q_type="47"	desc="Complete Guild Dungeon"	/>
+		<msg	q_type="48"	desc="Use Force Wing Arrival Skill"	/>
+		<msg	q_type="49"	desc="Loot Item List"	/>
+		<msg	q_type="50"	desc="Clear Quest List"	/>
+		<msg	q_type="51"	desc="Imprint Stellar Link"	/>
+		<msg	q_type="52"	desc="Register item at Agent Shop"	/>
+		<msg	q_type="53"	desc="Gain Honor Points"	/>
+		<msg	q_type="54"	desc="Level Up"	/>
+		<msg	q_type="55"	desc="Collect Dungeon Round Reward"	/>
+		<msg	q_type="56"	desc="Use Special Coupon"	/>
+		<msg	q_type="57"	desc="Use Yul's Exchange Ticket (Dungeon Entry)"	/>
+		<msg	q_type="58"	desc="Use Fragment of Memory"	/>
+	</type_msg>
+</EventPass_message>

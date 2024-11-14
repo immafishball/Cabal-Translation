@@ -1,0 +1,410 @@
+<keymap_msg>
+	<version	index="1"	/>
+	<keymsg>
+		<msg	id="group-0"	cont="Move Character"	/>
+		<msg	id="group-1"	cont="Camera"	/>
+		<msg	id="group-2"	cont="Window Open, Close"	/>
+		<msg	id="group-3"	cont="Battle and Option"	/>
+		<msg	id="group-4"	cont="Mission War"	/>
+		<msg	id="group-5"	cont="Party"	/>
+		<msg	id="group-6"	cont="Quick Slot Change"	/>
+		<msg	id="group-7"	cont="Use Default Quick Slot"	/>
+		<msg	id="group-8"	cont="Use Expanded Quick Slot"	/>
+		<msg	id="group-9"	cont="Input Macro"	/>
+		<msg	id="group-10"	cont="Use Sub Quick Slot"	/>
+		<msg	id="event-1"	cont="Help"	/>
+		<msg	id="event-2"	cont="System Menu"	/>
+		<msg	id="event-3"	cont="Quest"	/>
+		<msg	id="event-4"	cont="Inventory"	/>
+		<msg	id="event-5"	cont="Skill"	/>
+		<msg	id="event-6"	cont="Buddy"	/>
+		<msg	id="event-7"	cont="Character"	/>
+		<msg	id="event-8"	cont="GPS"	/>
+		<msg	id="event-9"	cont="Mail"	/>
+		<msg	id="event-10"	cont="Guild"	/>
+		<msg	id="event-11"	cont="Temporary Inventory"	/>
+		<msg	id="event-12"	cont="Member List"	/>
+		<msg	id="event-13"	cont="Soul Ability"	/>
+		<msg	id="event-14"	cont="Jukebox"	/>
+		<msg	id="event-15"	cont="Remote Shop"	/>
+		<msg	id="event-16"	cont="Craft"	/>
+		<msg	id="event-17"	cont="Party, Party Search"	/>
+		<msg	id="event-18"	cont="Command input activation"	/>
+		<msg	id="event-19"	cont="Item Shop"	/>
+		<msg	id="event-20"	cont="Cash Inventory"	/>
+		<msg	id="event-21"	cont="Benefit Information"	/>
+		<msg	id="event-22"	cont="Move Forward"	/>
+		<msg	id="event-23"	cont="Move Backward"	/>
+		<msg	id="event-24"	cont="Move Left"	/>
+		<msg	id="event-25"	cont="Move Right"	/>
+		<msg	id="event-26"	cont="Turn Character Left"	/>
+		<msg	id="event-27"	cont="Turn Character Right"	/>
+		<msg	id="event-28"	cont="Camera Zoom In"	/>
+		<msg	id="event-29"	cont="Camera Zoom Out"	/>
+		<msg	id="event-30"	cont="Camera Up"	/>
+		<msg	id="event-31"	cont="Camera Down"	/>
+		<msg	id="event-32"	cont="Turn Camera Left"	/>
+		<msg	id="event-33"	cont="Turn Camera Right"	/>
+		<msg	id="event-34"	cont="Show 1st Quick Slot"	/>
+		<msg	id="event-35"	cont="Show 2nd Quick Slot"	/>
+		<msg	id="event-36"	cont="Show 3rd Quick Slot"	/>
+		<msg	id="event-37"	cont="Show 4th Quick Slot"	/>
+		<msg	id="event-38"	cont="Higher Quick Slot"	/>
+		<msg	id="event-39"	cont="Lower Quick Slot"	/>
+		<msg	id="event-40"	cont="Use Quick Slot1"	/>
+		<msg	id="event-41"	cont="Use Quick Slot2"	/>
+		<msg	id="event-42"	cont="Use Quick Slot3"	/>
+		<msg	id="event-43"	cont="Use Quick Slot4"	/>
+		<msg	id="event-44"	cont="Use Quick Slot5"	/>
+		<msg	id="event-45"	cont="Use Quick Slot6"	/>
+		<msg	id="event-46"	cont="Use Quick Slot7"	/>
+		<msg	id="event-47"	cont="Use Quick Slot8"	/>
+		<msg	id="event-48"	cont="Use Quick Slot9"	/>
+		<msg	id="event-49"	cont="Use Quick Slot10"	/>
+		<msg	id="event-50"	cont="Use Quick Slot11"	/>
+		<msg	id="event-51"	cont="Use Quick Slot12"	/>
+		<msg	id="event-52"	cont="Use Expanded Quick Slot1"	/>
+		<msg	id="event-53"	cont="Use Expanded Quick Slot2"	/>
+		<msg	id="event-54"	cont="Use Expanded Quick Slot3"	/>
+		<msg	id="event-55"	cont="Use Expanded Quick Slot4"	/>
+		<msg	id="event-56"	cont="Use Expanded Quick Slot5"	/>
+		<msg	id="event-57"	cont="Use Expanded Quick Slot6"	/>
+		<msg	id="event-58"	cont="Use Expanded Quick Slot7"	/>
+		<msg	id="event-59"	cont="Use Expanded Quick Slot8"	/>
+		<msg	id="event-60"	cont="Use Expanded Quick Slot9"	/>
+		<msg	id="event-61"	cont="Use Expanded Quick Slot10"	/>
+		<msg	id="event-62"	cont="Use Expanded Quick Slot11"	/>
+		<msg	id="event-63"	cont="Use Expanded Quick Slot12"	/>
+		<msg	id="event-64"	cont="Select Party Member1"	/>
+		<msg	id="event-65"	cont="Select Party Member2"	/>
+		<msg	id="event-66"	cont="Select Party Member3"	/>
+		<msg	id="event-67"	cont="Select Party Member4"	/>
+		<msg	id="event-68"	cont="Select Party Member5"	/>
+		<msg	id="event-69"	cont="Select Party Member6"	/>
+		<msg	id="event-70"	cont="Select my character"	/>
+		<msg	id="event-71"	cont="Input Macro1"	/>
+		<msg	id="event-72"	cont="Input Macro2"	/>
+		<msg	id="event-73"	cont="Input Macro3"	/>
+		<msg	id="event-74"	cont="Input Macro4"	/>
+		<msg	id="event-75"	cont="Input Macro5"	/>
+		<msg	id="event-76"	cont="Input Macro6"	/>
+		<msg	id="event-77"	cont="Input Macro7"	/>
+		<msg	id="event-78"	cont="Input Macro8"	/>
+		<msg	id="event-79"	cont="Input Macro9"	/>
+		<msg	id="event-80"	cont="Input Macro10"	/>
+		<msg	id="event-81"	cont="Item Looting"	/>
+		<msg	id="event-82"	cont="UI Window Check"	/>
+		<msg	id="event-83"	cont="UI Window Close"	/>
+		<msg	id="event-84"	cont="Show GPS Temporary"	/>
+		<msg	id="event-85"	cont="Enemy Auto Targeting"	/>
+		<msg	id="event-86"	cont="Show Skill Animation Set Up, Cancel"	/>
+		<msg	id="event-87"	cont="Forced PK Set Up, Cancel"	/>
+		<msg	id="event-88"	cont="Show All Names Temporary"	/>
+		<msg	id="event-89"	cont="Repair Force Tower"	/>
+		<msg	id="event-90"	cont="Screen Shot"	/>
+		<msg	id="event-91"	cont="Interface Show, Hide"	/>
+		<msg	id="event-92"	cont="Viewpoint Change"	/>
+		<msg	id="event-93"	cont="Auto Attack Set Up, Cancel"	/>
+		<msg	id="event-94"	cont="Show FPS"	/>
+		<msg	id="event-95"	cont="Option"	/>
+		<msg	id="event-96"	cont="Pause Dungeon"	/>
+		<msg	id="event-97"	cont="Mercenary"	/>
+		<msg	id="event-98"	cont="Report Illegal program user"	/>
+		<msg	id="event-99"	cont="Screen Shot - Attach to Twitter"	/>
+		<msg	id="event-100"	cont="Screen Shot - Attach to Facebook"	/>
+		<msg	id="event-101"	cont="Achievements"	/>
+		<msg	id="event-103"	cont="Mission War Result"	/>
+		<msg	id="event-104"	cont="Merit Mastery"	/>
+		<msg	id="event-105"	cont="PTT"	/>
+		<msg	id="event-132"	cont="Display Character Stats"	/>
+		<msg	id="event-133"	cont="Overlord Mastery"	/>
+		<msg	id="event-134"	cont="Honor Medal"	/>
+		<msg	id="event-135"	cont="Costume Warehouse"	/>
+		<msg	id="event-136"	cont="Use Sub Quick Slot 1"	/>
+		<msg	id="event-137"	cont="Use Sub Quick Slot 2"	/>
+		<msg	id="event-138"	cont="Use Sub Quick Slot 3"	/>
+		<msg	id="event-139"	cont="Use Sub Quick Slot 4"	/>
+		<msg	id="event-140"	cont="Use Sub Quick Slot 5"	/>
+		<msg	id="event-141"	cont="Use Sub Quick Slot 6"	/>
+		<msg	id="event-142"	cont="Use Sub Quick Slot 7"	/>
+		<msg	id="event-143"	cont="Use Sub Quick Slot 8"	/>
+		<msg	id="event-144"	cont="Use Sub Quick Slot 9"	/>
+		<msg	id="event-145"	cont="Use Sub Quick Slot 10"	/>
+		<msg	id="event-146"	cont="Use Sub Quick Slot 11"	/>
+		<msg	id="event-147"	cont="Use Sub Quick Slot 12"	/>
+		<msg	id="event-148"	cont="Awakened Aura Mode"	/>
+		<msg	id="event-149"	cont="Skill Transcendence"	/>
+		<msg	id="event-150"	cont="Heil's Laboratory"	/>
+		<msg	id="event-151"	cont="Inventory & Equipment"	/>
+		<msg	id="event-152"	cont="Stellar Link"	/>
+		<msg	id="event-153"	cont="Myth Mastery"	/>
+		<msg	id="event-154"	cont="Costume"	/>
+		<msg	id="event-155"	cont="Remote Warehouse"	/>
+		<msg	id="event-156"	cont="Integrated Presets"	/>
+		<msg	id="event-157"	cont="Anima Mastery"	/>
+		<msg	id="key-0"	cont=" Esc "	/>
+		<msg	id="key-1"	cont=" 1"	/>
+		<msg	id="key-2"	cont=" 2"	/>
+		<msg	id="key-3"	cont=" 3"	/>
+		<msg	id="key-4"	cont=" 4"	/>
+		<msg	id="key-5"	cont=" 5"	/>
+		<msg	id="key-6"	cont=" 6"	/>
+		<msg	id="key-7"	cont=" 7"	/>
+		<msg	id="key-8"	cont=" 8"	/>
+		<msg	id="key-9"	cont=" 9"	/>
+		<msg	id="key-10"	cont=" 0"	/>
+		<msg	id="key-11"	cont=" - "	/>
+		<msg	id="key-12"	cont=" = "	/>
+		<msg	id="key-13"	cont=" BackSpace "	/>
+		<msg	id="key-14"	cont=" Tab "	/>
+		<msg	id="key-15"	cont=" Q "	/>
+		<msg	id="key-16"	cont=" W "	/>
+		<msg	id="key-17"	cont=" E "	/>
+		<msg	id="key-18"	cont=" R "	/>
+		<msg	id="key-19"	cont=" T "	/>
+		<msg	id="key-20"	cont=" Y "	/>
+		<msg	id="key-21"	cont=" U "	/>
+		<msg	id="key-22"	cont=" I "	/>
+		<msg	id="key-23"	cont=" O "	/>
+		<msg	id="key-24"	cont=" P "	/>
+		<msg	id="key-25"	cont=" [ "	/>
+		<msg	id="key-26"	cont=" ] "	/>
+		<msg	id="key-27"	cont=" Return "	/>
+		<msg	id="key-28"	cont=" Ctrl "	/>
+		<msg	id="key-29"	cont=" A "	/>
+		<msg	id="key-30"	cont=" S "	/>
+		<msg	id="key-31"	cont=" D "	/>
+		<msg	id="key-32"	cont=" F "	/>
+		<msg	id="key-33"	cont=" G "	/>
+		<msg	id="key-34"	cont=" H "	/>
+		<msg	id="key-35"	cont=" J "	/>
+		<msg	id="key-36"	cont=" K "	/>
+		<msg	id="key-37"	cont=" L "	/>
+		<msg	id="key-38"	cont=" ; "	/>
+		<msg	id="key-39"	cont=" '"	/>
+		<msg	id="key-40"	cont="`"	/>
+		<msg	id="key-41"	cont=" Shift "	/>
+		<msg	id="key-42"	cont=" \ "	/>
+		<msg	id="key-43"	cont=" Z "	/>
+		<msg	id="key-44"	cont=" X "	/>
+		<msg	id="key-45"	cont=" C "	/>
+		<msg	id="key-46"	cont=" V "	/>
+		<msg	id="key-47"	cont=" B "	/>
+		<msg	id="key-48"	cont=" N "	/>
+		<msg	id="key-49"	cont=" M "	/>
+		<msg	id="key-50"	cont=" , "	/>
+		<msg	id="key-51"	cont=" . "	/>
+		<msg	id="key-52"	cont=" / "	/>
+		<msg	id="key-53"	cont=" Shift "	/>
+		<msg	id="key-54"	cont=" Num* "	/>
+		<msg	id="key-55"	cont=" Alt "	/>
+		<msg	id="key-56"	cont=" SpaceBar "	/>
+		<msg	id="key-57"	cont=" CapsLock "	/>
+		<msg	id="key-58"	cont=" F1 "	/>
+		<msg	id="key-59"	cont=" F2 "	/>
+		<msg	id="key-60"	cont=" F3 "	/>
+		<msg	id="key-61"	cont=" F4 "	/>
+		<msg	id="key-62"	cont=" F5 "	/>
+		<msg	id="key-63"	cont=" F6 "	/>
+		<msg	id="key-64"	cont=" F7 "	/>
+		<msg	id="key-65"	cont=" F8 "	/>
+		<msg	id="key-66"	cont=" F9 "	/>
+		<msg	id="key-67"	cont=" F10 "	/>
+		<msg	id="key-68"	cont=" NumLock "	/>
+		<msg	id="key-69"	cont=" ScrollLock "	/>
+		<msg	id="key-70"	cont=" Num7 "	/>
+		<msg	id="key-71"	cont=" Num8 "	/>
+		<msg	id="key-72"	cont=" Num9 "	/>
+		<msg	id="key-73"	cont=" Num- "	/>
+		<msg	id="key-74"	cont=" Num4 "	/>
+		<msg	id="key-75"	cont=" Num5 "	/>
+		<msg	id="key-76"	cont=" Num6 "	/>
+		<msg	id="key-77"	cont=" Num+ "	/>
+		<msg	id="key-78"	cont=" Num1 "	/>
+		<msg	id="key-79"	cont=" Num2 "	/>
+		<msg	id="key-80"	cont=" Num3 "	/>
+		<msg	id="key-81"	cont=" Num0 "	/>
+		<msg	id="key-82"	cont=" Num. "	/>
+		<msg	id="key-83"	cont=" Ome "	/>
+		<msg	id="key-84"	cont=" F11 "	/>
+		<msg	id="key-85"	cont=" F12 "	/>
+		<msg	id="key-86"	cont=" F13 "	/>
+		<msg	id="key-87"	cont=" F14 "	/>
+		<msg	id="key-88"	cont=" F15 "	/>
+		<msg	id="key-89"	cont=" Kana "	/>
+		<msg	id="key-90"	cont=" ABNT_C1 "	/>
+		<msg	id="key-91"	cont=" Convert "	/>
+		<msg	id="key-92"	cont=" NoConvert "	/>
+		<msg	id="key-93"	cont=" Yen "	/>
+		<msg	id="key-94"	cont=" ABNT_C2 "	/>
+		<msg	id="key-95"	cont=" Num= "	/>
+		<msg	id="key-96"	cont=" PreTrack "	/>
+		<msg	id="key-97"	cont=" At "	/>
+		<msg	id="key-98"	cont=" :"	/>
+		<msg	id="key-99"	cont=" _ "	/>
+		<msg	id="key-100"	cont=" Kanji "	/>
+		<msg	id="key-101"	cont=" Stop "	/>
+		<msg	id="key-102"	cont=" AX "	/>
+		<msg	id="key-103"	cont=" Unlabed "	/>
+		<msg	id="key-104"	cont=" NextTrack "	/>
+		<msg	id="key-105"	cont=" Enter "	/>
+		<msg	id="key-106"	cont=" Ctrl "	/>
+		<msg	id="key-107"	cont=" Num, "	/>
+		<msg	id="key-108"	cont="Num/ "	/>
+		<msg	id="key-109"	cont=" PrtScr "	/>
+		<msg	id="key-110"	cont=" Alt "	/>
+		<msg	id="key-111"	cont=" Pause "	/>
+		<msg	id="key-112"	cont=" Home "	/>
+		<msg	id="key-113"	cont=" Up "	/>
+		<msg	id="key-114"	cont=" PgUp "	/>
+		<msg	id="key-115"	cont=" Left "	/>
+		<msg	id="key-116"	cont=" Right "	/>
+		<msg	id="key-117"	cont=" End "	/>
+		<msg	id="key-118"	cont=" Down "	/>
+		<msg	id="key-119"	cont=" PgDn "	/>
+		<msg	id="key-120"	cont=" Insert "	/>
+		<msg	id="key-121"	cont=" Delete "	/>
+		<msg	id="key-122"	cont=" MouseLeft "	/>
+		<msg	id="key-123"	cont=" MouseMiddle "	/>
+		<msg	id="key-124"	cont=" MouseRight "	/>
+		<msg	id="key-125"	cont=" MouseExtra1 "	/>
+		<msg	id="key-126"	cont=" MouseExtra2 "	/>
+		<msg	id="key-127"	cont=" MouseExtra3 "	/>
+		<msg	id="key-128"	cont=" MouseExtra4 "	/>
+		<msg	id="key-129"	cont=" MouseExtra5 "	/>
+		<msg	id="key-130"	cont=" WheelUp "	/>
+		<msg	id="key-131"	cont=" WheelDown "	/>
+		<msg	id="q-0"	cont="Ec"	/>
+		<msg	id="q-1"	cont="1"	/>
+		<msg	id="q-2"	cont="2"	/>
+		<msg	id="q-3"	cont="3"	/>
+		<msg	id="q-4"	cont="4"	/>
+		<msg	id="q-5"	cont="5"	/>
+		<msg	id="q-6"	cont="6"	/>
+		<msg	id="q-7"	cont="7"	/>
+		<msg	id="q-8"	cont="8"	/>
+		<msg	id="q-9"	cont="9"	/>
+		<msg	id="q-10"	cont="0"	/>
+		<msg	id="q-11"	cont="-"	/>
+		<msg	id="q-12"	cont="="	/>
+		<msg	id="q-13"	cont="BS"	/>
+		<msg	id="q-14"	cont="Tb"	/>
+		<msg	id="q-15"	cont="Q"	/>
+		<msg	id="q-16"	cont="W"	/>
+		<msg	id="q-17"	cont="E"	/>
+		<msg	id="q-18"	cont="R"	/>
+		<msg	id="q-19"	cont="T"	/>
+		<msg	id="q-20"	cont="Y"	/>
+		<msg	id="q-21"	cont="U"	/>
+		<msg	id="q-22"	cont="I"	/>
+		<msg	id="q-23"	cont="O"	/>
+		<msg	id="q-24"	cont="P"	/>
+		<msg	id="q-25"	cont="["	/>
+		<msg	id="q-26"	cont="]"	/>
+		<msg	id="q-27"	cont="Rn"	/>
+		<msg	id="q-28"	cont="C+"	/>
+		<msg	id="q-29"	cont="A"	/>
+		<msg	id="q-30"	cont="S"	/>
+		<msg	id="q-31"	cont="D"	/>
+		<msg	id="q-32"	cont="F"	/>
+		<msg	id="q-33"	cont="G"	/>
+		<msg	id="q-34"	cont="H"	/>
+		<msg	id="q-35"	cont="J"	/>
+		<msg	id="q-36"	cont="K"	/>
+		<msg	id="q-37"	cont="L"	/>
+		<msg	id="q-38"	cont=";"	/>
+		<msg	id="q-39"	cont="AP"	/>
+		<msg	id="q-40"	cont="`"	/>
+		<msg	id="q-41"	cont="S+"	/>
+		<msg	id="q-42"	cont="\"	/>
+		<msg	id="q-43"	cont="Z"	/>
+		<msg	id="q-44"	cont="X"	/>
+		<msg	id="q-45"	cont="C"	/>
+		<msg	id="q-46"	cont="V"	/>
+		<msg	id="q-47"	cont="B"	/>
+		<msg	id="q-48"	cont="N"	/>
+		<msg	id="q-49"	cont="M"	/>
+		<msg	id="q-50"	cont=","	/>
+		<msg	id="q-51"	cont="."	/>
+		<msg	id="q-52"	cont=" / "	/>
+		<msg	id="q-53"	cont="S+"	/>
+		<msg	id="q-54"	cont="N*"	/>
+		<msg	id="q-55"	cont="A+"	/>
+		<msg	id="q-56"	cont="Sp"	/>
+		<msg	id="q-57"	cont="CL"	/>
+		<msg	id="q-58"	cont="F1"	/>
+		<msg	id="q-59"	cont="F2"	/>
+		<msg	id="q-60"	cont="F3"	/>
+		<msg	id="q-61"	cont="F4"	/>
+		<msg	id="q-62"	cont="F5"	/>
+		<msg	id="q-63"	cont="F6"	/>
+		<msg	id="q-64"	cont="F7"	/>
+		<msg	id="q-65"	cont="F8"	/>
+		<msg	id="q-66"	cont="F9"	/>
+		<msg	id="q-67"	cont="F10"	/>
+		<msg	id="q-68"	cont="NL"	/>
+		<msg	id="q-69"	cont="SL"	/>
+		<msg	id="q-70"	cont="N7"	/>
+		<msg	id="q-71"	cont="N8"	/>
+		<msg	id="q-72"	cont="N9"	/>
+		<msg	id="q-73"	cont="N-"	/>
+		<msg	id="q-74"	cont="N4"	/>
+		<msg	id="q-75"	cont="N5"	/>
+		<msg	id="q-76"	cont="N6"	/>
+		<msg	id="q-77"	cont="N+"	/>
+		<msg	id="q-78"	cont="N1"	/>
+		<msg	id="q-79"	cont="N2"	/>
+		<msg	id="q-80"	cont="N3"	/>
+		<msg	id="q-81"	cont="N0"	/>
+		<msg	id="q-82"	cont="N."	/>
+		<msg	id="q-83"	cont="Om"	/>
+		<msg	id="q-84"	cont="F11"	/>
+		<msg	id="q-85"	cont="F12"	/>
+		<msg	id="q-86"	cont="F13"	/>
+		<msg	id="q-87"	cont="F14"	/>
+		<msg	id="q-88"	cont="F15"	/>
+		<msg	id="q-89"	cont="Kn"	/>
+		<msg	id="q-90"	cont="C1"	/>
+		<msg	id="q-91"	cont="Cv"	/>
+		<msg	id="q-92"	cont="NC"	/>
+		<msg	id="q-93"	cont="Yn"	/>
+		<msg	id="q-94"	cont="C2"	/>
+		<msg	id="q-95"	cont="N="	/>
+		<msg	id="q-96"	cont="PT"	/>
+		<msg	id="q-97"	cont="At"	/>
+		<msg	id="q-98"	cont=":"	/>
+		<msg	id="q-99"	cont="_"	/>
+		<msg	id="q-100"	cont="Kj"	/>
+		<msg	id="q-101"	cont="St"	/>
+		<msg	id="q-102"	cont="AX"	/>
+		<msg	id="q-103"	cont="Un"	/>
+		<msg	id="q-104"	cont="NT"	/>
+		<msg	id="q-105"	cont="En"	/>
+		<msg	id="q-106"	cont="C+"	/>
+		<msg	id="q-107"	cont="N,"	/>
+		<msg	id="q-108"	cont="N/ "	/>
+		<msg	id="q-109"	cont="PS"	/>
+		<msg	id="q-110"	cont="A+"	/>
+		<msg	id="q-111"	cont="Pa"	/>
+		<msg	id="q-112"	cont="Hm"	/>
+		<msg	id="q-113"	cont="Up"	/>
+		<msg	id="q-114"	cont="PU"	/>
+		<msg	id="q-115"	cont="Lt"	/>
+		<msg	id="q-116"	cont="Rt"	/>
+		<msg	id="q-117"	cont="Ed"	/>
+		<msg	id="q-118"	cont="Dn"	/>
+		<msg	id="q-119"	cont="PD"	/>
+		<msg	id="q-120"	cont="In"	/>
+		<msg	id="q-121"	cont="De"	/>
+		<msg	id="q-122"	cont="LB"	/>
+		<msg	id="q-123"	cont="MM"	/>
+		<msg	id="q-124"	cont="RB"	/>
+		<msg	id="q-125"	cont="M1"	/>
+		<msg	id="q-126"	cont="M2"	/>
+		<msg	id="q-127"	cont="M3"	/>
+		<msg	id="q-128"	cont="M4"	/>
+		<msg	id="q-129"	cont="M5"	/>
+		<msg	id="q-130"	cont="WU"	/>
+		<msg	id="q-131"	cont="WD"	/>
+	</keymsg>
+</keymap_msg>

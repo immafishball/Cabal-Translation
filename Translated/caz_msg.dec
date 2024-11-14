@@ -1,0 +1,129 @@
+
+<cabal_message>
+	<version	index="1"	/>
+	<caz_msg>
+		<msg	id="freeuser_svc_00"	cont="Free User"	/>
+		<msg	id="duration_svc_00"	cont="Premium internet Cafe"	/>
+		<msg	id="duration_svc_01"	cont="Premium Service Platinum"	/>
+		<msg	id="duration_svc_02"	cont="Premium Service Academy Kit"	/>
+		<msg	id="duration_svc_03"	cont="Premium Service Craftsman Kit"	/>
+		<msg	id="duration_svc_04"	cont="Premium Service Adventurer Kit"	/>
+		<msg	id="duration_svc_05"	cont="Level Booster"	/>
+		<msg	id="duration_svc_06"	cont="Premium Service Diamond + GPS"	/>
+		<msg	id="duration_svc_07"	cont="Premium Service Diamond"	/>
+		<msg	id="duration_svc_08"	cont="Premium Item (DummyData3)"	/>
+		<msg	id="duration_svc_09"	cont="Premium Item (DummyData4)"	/>
+		<msg	id="duration_svc_10"	cont="Premium Item (DummyData5)"	/>
+		<msg	id="duration_svc_11"	cont="Premium Item (DummyData6)"	/>
+		<msg	id="duration_svc_12"	cont="Premium Item (DummyData7)"	/>
+		<msg	id="duration_svc_13"	cont="Premium Item (DummyData8)"	/>
+		<msg	id="duration_svc_14"	cont="Premium Item (DummyData9)"	/>
+		<msg	id="duration_svc_15"	cont="Premium Service Warlord"	/>
+		<msg	id="duration_svc_16"	cont="Premium Item (DummyData11)"	/>
+		<msg	id="duration_svc_17"	cont="Premium Item (DummyData12)"	/>
+		<msg	id="duration_svc_18"	cont="Premium Item (DummyData13)"	/>
+		<msg	id="duration_svc_19"	cont="Premium Item (DummyData14)"	/>
+		<msg	id="duration_svc_20"	cont="Premium Item (DummyData15)"	/>
+		<msg	id="duration_svc_21"	cont="Premium Item (DummyData16)"	/>
+		<msg	id="duration_svc_22"	cont="Premium Item (DummyData17)"	/>
+		<msg	id="duration_svc_23"	cont="Premium Item (DummyData18)"	/>
+		<msg	id="duration_svc_24"	cont="Premium Item (DummyData19)"	/>
+		<msg	id="duration_svc_25"	cont="Premium Item (DummyData20)"	/>
+		<msg	id="duration_svc_26"	cont="Premium Item (DummyData21)"	/>
+		<msg	id="duration_svc_27"	cont="Premium Item (DummyData22)"	/>
+		<msg	id="duration_svc_28"	cont="Premium Item (DummyData23)"	/>
+		<msg	id="duration_svc_29"	cont="Premium Item (DummyData24)"	/>
+		<msg	id="duration_svc_30"	cont="Premium Item (DummyData25)"	/>
+		<msg	id="duration_svc_31"	cont="Premium Item (DummyData26)"	/>
+		<msg	id="duration_svc_32"	cont="Premium Item (DummyData27)"	/>
+		<msg	id="duration_svc_33"	cont="Premium Item (DummyData28)"	/>
+		<msg	id="duration_svc_34"	cont="Premium Item (DummyData29)"	/>
+		<msg	id="duration_svc_35"	cont="Premium Item (DummyData30)"	/>
+		<msg	id="blessingbead_svc_01"	cont="Blessing Bead - Warehouse"	/>
+		<msg	id="blessingbead_svc_02"	cont="Blessing Bead - EXP(10%)"	/>
+		<msg	id="blessingbead_svc_03"	cont="Blessing Bead - EXP(25%)"	/>
+		<msg	id="blessingbead_svc_04"	cont="Blessing Bead - Skill EXP(10%)"	/>
+		<msg	id="blessingbead_svc_05"	cont="Blessing Bead - Skill EXP(25%)"	/>
+		<msg	id="blessingbead_svc_06"	cont="Blessing Bead - Bomb Alz"	/>
+		<msg	id="blessingbead_svc_07"	cont="Blessing Bead - EXP/Skill EXP"	/>
+		<msg	id="blessingbead_svc_08"	cont="Blessing Bead - Plus"	/>
+		<msg	id="blessingbead_svc_09"	cont="Blessing Bead - WEXP(25%)"	/>
+		<msg	id="blessingbead_svc_10"	cont="Blessing Bead - Skill EXP(50%)"	/>
+		<msg	id="blessingbead_svc_11"	cont="Blessing Bead - Pet EXP(100%)"	/>
+		<msg	id="blessingbead_svc_12"	cont="Yekaterina VIP Membership"	/>
+		<msg	id="blessingbead_svc_13"	cont="Blessing Bead - AXP(25%)"	/>
+		<msg	id="blessingbead_svc_14"	cont="Blessing Bead - EXP(30%)"	/>
+		<msg	id="blessingbead_svc_15"	cont="Blessing Bead - Skill EXP(100%)"	/>
+		<msg	id="blessingbead_svc_16"	cont="Blessing Bead - WEXP(50%)"	/>
+		<msg	id="blessingbead_svc_17"	cont="Blessing Bead - EXP(40%)"	/>
+		<msg	id="blessingbead_svc_18"	cont="Blessing Bead - Skill EXP(40%)"	/>
+		<msg	id="blessingbead_svc_19"	cont="Blessing Bead - Dummy"	/>
+		<msg	id="blessingbead_svc_20"	cont="Blessing Bead - T Point"	/>
+		<msg	id="blessingbead_svc_21"	cont="Blessing Bead - WEXP (10%)"	/>
+		<msg	id="blessingbead_svc_22"	cont="Blessing Bead - EXP(50%)"	/>
+		<msg	id="blessingbead_svc_23"	cont="Blessing Bead - EXP(100%)"	/>
+		<msg	id="blessingbead_svc_24"	cont="Blessing Bead - Increase Craft Request Slot (8th slot)"	/>
+		<msg	id="blessingbead_svc_25"	cont="Blessing Bead - Alz Bomb (100%)"	/>
+		<msg	id="blessingbead_svc_26"	cont="Blessing Bead - EXP(80%)"	/>
+		<msg	id="blessingbead_svc_27"	cont="Blessing Bead - AXP(40%)"	/>
+		<msg	id="blessingbead_svc_28"	cont="Blessing Bead - AXP(80%)"	/>
+		<msg	id="blessingbead_svc_29"	cont="Blessing Bead - Skill EXP(200%)"	/>
+		<msg	id="blessingbead_svc_30"	cont="Blessing Bead - Plus (JP)"	/>
+		<msg	id="blessingbead_svc_31"	cont="Yekaterina Gold Membership"	/>
+		<msg	id="blessingbead_svc_32"	cont="Blessing Bead - W. Tower of Undead B1F"	/>
+		<msg	id="blessingbead_svc_33"	cont="Pet Slot Extender"	/>
+		<msg	id="blessingbead_svc_34"	cont="DummyData1"	/>
+		<msg	id="blessingbead_svc_35"	cont="DummyData2"	/>
+		<msg	id="blessingbead_svc_36"	cont="Blessing Bead - EXP(150%)"	/>
+		<msg	id="blessingbead_svc_37"	cont="Blessing Bead - EXP(200%)"	/>
+		<msg	id="blessingbead_svc_38"	cont="Blessing Bead - Skill EXP(150%)"	/>
+		<msg	id="blessingbead_svc_39"	cont="Blessing Bead - WEXP(75%)"	/>
+		<msg	id="blessingbead_svc_40"	cont="Blessing Bead - WEXP(100%)"	/>
+		<msg	id="blessingbead_svc_41"	cont="Blessing Bead - AXP(100%)"	/>
+		<msg	id="blessingbead_svc_42"	cont="Blessing Bead - AXP(200%)"	/>
+		<msg	id="blessingbead_svc_43"	cont="Blessing Bead - Pet EXP(200%)"	/>
+		<msg	id="blessingbead_svc_44"	cont="Blessing Bead - Pet EXP(300%)"	/>
+		<msg	id="blessingbead_svc_45"	cont="Blessing Bead - Plus"	/>
+		<msg	id="blessingbead_svc_46"	cont="Blessing Bead - AXP(10%)"	/>
+		<msg	id="blessingbead_svc_47"	cont="Blessing Bead - AXP(50%)"	/>
+		<msg	id="blessingbead_svc_48"	cont="Blessing Bead - AXP(75%)"	/>
+		<msg	id="blessingbead_svc_49"	cont="Blessing Bead - GPS Warp"	/>
+		<msg	id="blessingbead_svc_50"	cont="Yekaterina Membership"	/>
+		<msg	id="blessingbead_svc_51"	cont="Blessing Bead - Warehouse (No. 5)"	/>
+		<msg	id="blessingbead_svc_52"	cont="Blessing Bead - Warehouse (No. 6)"	/>
+		<msg	id="blessingbead_svc_53"	cont="Blessing Bead - Warehouse (No. 7)"	/>
+		<msg	id="blessingbead_svc_54"	cont="Blessing Bead - Warehouse (No. 8)"	/>
+		<msg	id="blessingbead_svc_55"	cont="Blessing Bead - Supreme"	/>
+		<msg	id="blessingbead_svc_56"	cont="Blessing Bead - Ultimate"	/>
+		<msg	id="blessingbead_svc_57"	cont=""	/>
+		<msg	id="blessingbead_svc_58"	cont=""	/>
+		<msg	id="blessingbead_svc_59"	cont=""	/>
+		<msg	id="blessingbead_svc_60"	cont="Blessing Bead - Special Inventory"	/>
+		<msg	id="blessingbead_svc_61"	cont="Blessing Bead - WEXP (200%)"	/>
+		<msg	id="blessingbead_svc_62"	cont="Blessing Bead - Increased Box Drop Rate (100%)"	/>
+		<msg	id="blessingbead_svc_63"	cont="Blessing Bead - Increased Box Drop Rate (200%)"	/>
+		<msg	id="blessingbead_svc_64"	cont="Blessing Bead - Increased Box Drop Rate (300%)"	/>
+		<msg	id="blessingbead_svc_65"	cont="Blessing Bead - Superior"	/>
+		<msg	id="blessingbead_svc_66"	cont="Blessing Bead - Pet EXP (1000%)	"	/>
+		<msg	id="blessingbead_svc_67"	cont="Yekaterina Red Membership	"	/>
+		<msg	id="blessingbead_svc_68"	cont="Blessing Bead - Costume Warehouse (No. 2)"	/>
+		<msg	id="blessingbead_svc_69"	cont="Blessing Bead - Costume Warehouse (No. 3)"	/>
+		<msg	id="blessingbead_svc_70"	cont="Blessing Bead - Costume Warehouse (No. 4)"	/>
+		<msg	id="blessingbead_svc_71"	cont="Blessing Bead - Costume Warehouse"	/>
+		<msg	id="blessingbead_svc_72"	cont="Yekaterina Special Membership"	/>
+		<msg	id="blessingbead_svc_73"	cont="Blessing Bead - Force Wing EXP (200%)"	/>
+		<msg	id="blessingbead_svc_74"	cont="Blessing Bead - Force Wing EXP (1000%)"	/>
+		<msg	id="blessingbead_svc_75"	cont="Blessing Bead - EXP (1000%)"	/>
+		<msg	id="blessingbead_svc_76"	cont="Blessing Bead - Skill EXP (1000%)"	/>
+		<msg	id="blessingbead_svc_77"	cont="Blessing Bead - WEXP (1000%)"	/>
+		<msg	id="blessingbead_svc_78"	cont="Blessing Bead - AXP (1000%)"	/>
+		<msg	id="blessingbead_svc_79"	cont="Blessing Bead - Box Drop Rate (1000%)"	/>
+		<msg	id="groupmsg-01"	cont="EXP"	/>
+		<msg	id="groupmsg-02"	cont="Drop Rate"	/>
+		<msg	id="groupmsg-03"	cont="Agent Shop"	/>
+		<msg	id="groupmsg-04"	cont="Inventory/Warehouse"	/>
+		<msg	id="groupmsg-05"	cont="Warp"	/>
+		<msg	id="groupmsg-06"	cont="Craft"	/>
+		<msg	id="groupmsg-07"	cont="ETC"	/>
+	</caz_msg>
+</cabal_message>
