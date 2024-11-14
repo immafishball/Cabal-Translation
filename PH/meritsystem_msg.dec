@@ -1,0 +1,335 @@
+<meritsystem_message>
+	<version index="2" />
+	<category_name_msg>
+		<msg id="meritcategory0001" cont="Ignore Evasion" />
+		<msg id="meritcategory0002" cont="Ignore Accuracy" />
+		<msg id="meritcategory0003" cont="Ignore Damage Reduction" />
+		<msg id="meritcategory0004" cont="Ignore Penetration" />
+		<msg id="meritcategory0005" cont="Fierce Spirit" />
+		<msg id="meritcategory0006" cont="Iron Will" />
+		<msg id="meritcategory0007" cont="War Slayer" />
+		<msg id="meritcategory0008" cont="War Guardian" />
+		<msg id="meritcategory0009" cont="Sharp Blade" />
+		<msg id="meritcategory0010" cont="Quick Evasion" />
+	</category_name_msg>
+	<mastery_name_msg>
+		<msg id="meritmastery0001" cont="Accuracy I" />
+		<msg id="meritmastery0002" cont="Attack Rate I" />
+		<msg id="meritmastery0003" cont="Ignore Evasion I" />
+		<msg id="meritmastery0004" cont="Attack Rate II" />
+		<msg id="meritmastery0005" cont="Accuracy II" />
+		<msg id="meritmastery0006" cont="Ignore Evasion II" />
+		<msg id="meritmastery0007" cont="Attack Rate III" />
+		<msg id="meritmastery0008" cont="Accuracy III" />
+		<msg id="meritmastery0009" cont="Ignore Evasion III" />
+		<msg id="meritmastery0010" cont="Expanded Attack Rate I" />
+		<msg id="meritmastery0011" cont="Expanded Accuracy" />
+		<msg id="meritmastery0012" cont="Expanded Attack Rate II" />
+		<msg id="meritmastery0013" cont="Expanded Accuracy II" />
+		<msg id="meritmastery0014" cont="Expanded Attack Rate III" />
+		<msg id="meritmastery0015" cont="Expanded Accuracy III" />
+		<msg id="meritmastery0016" cont="Evasion I" />
+		<msg id="meritmastery0017" cont="Defense Rate I" />
+		<msg id="meritmastery0018" cont="Ignore Accuracy I" />
+		<msg id="meritmastery0019" cont="Defense Rate II" />
+		<msg id="meritmastery0020" cont="Evasion II" />
+		<msg id="meritmastery0021" cont="Ignore Accuracy II" />
+		<msg id="meritmastery0022" cont="Cancel Ignore Evasion I" />
+		<msg id="meritmastery0023" cont="Defense Rate III" />
+		<msg id="meritmastery0024" cont="Evasion III" />
+		<msg id="meritmastery0025" cont="Ignore Accuracy III" />
+		<msg id="meritmastery0026" cont="Cancel Ignore Evasion II" />
+		<msg id="meritmastery0027" cont="Expanded Defense Rate I" />
+		<msg id="meritmastery0028" cont="Expanded Evasion I" />
+		<msg id="meritmastery0029" cont="Expanded Defense Rate II" />
+		<msg id="meritmastery0030" cont="Expanded Evasion II" />
+		<msg id="meritmastery0031" cont="Expanded Defense Rate III" />
+		<msg id="meritmastery0032" cont="Expanded Evasion III" />
+		<msg id="meritmastery0033" cont="Penetration I" />
+		<msg id="meritmastery0034" cont="Additional Damage I" />
+		<msg id="meritmastery0035" cont="Ignore Damage Reduction I" />
+		<msg id="meritmastery0036" cont="Penetration II" />
+		<msg id="meritmastery0037" cont="Additional Damage II" />
+		<msg id="meritmastery0038" cont="Ignore Damage Reduction II" />
+		<msg id="meritmastery0039" cont="Penetration III" />
+		<msg id="meritmastery0040" cont="Additional Damage III" />
+		<msg id="meritmastery0041" cont="Ignore Damage Reduction III" />
+		<msg id="meritmastery0042" cont="Expanded Additional Damage I" />
+		<msg id="meritmastery0043" cont="Expanded Penetration I" />
+		<msg id="meritmastery0044" cont="Expanded Additional Damage II" />
+		<msg id="meritmastery0045" cont="Expanded Penetration II" />
+		<msg id="meritmastery0046" cont="Expanded Additional Damage III" />
+		<msg id="meritmastery0047" cont="Expanded Penetration III" />
+		<msg id="meritmastery0048" cont="Damage Reduction I" />
+		<msg id="meritmastery0049" cont="Defense I" />
+		<msg id="meritmastery0050" cont="Ignore Penetration I" />
+		<msg id="meritmastery0051" cont="Defense II" />
+		<msg id="meritmastery0052" cont="Damage Reduction II" />
+		<msg id="meritmastery0053" cont="Ignore Penetration II" />
+		<msg id="meritmastery0054" cont="Cancel Ignore DMG Reduction I" />
+		<msg id="meritmastery0055" cont="Defense III" />
+		<msg id="meritmastery0056" cont="Damage Reduction III" />
+		<msg id="meritmastery0057" cont="Ignore Penetration III" />
+		<msg id="meritmastery0058" cont="Cancel Ignore DMG Reduction II" />
+		<msg id="meritmastery0059" cont="Expanded Defense I" />
+		<msg id="meritmastery0060" cont="Expanded Damage Reduction I" />
+		<msg id="meritmastery0061" cont="Expanded Defense II" />
+		<msg id="meritmastery0062" cont="Expanded Damage Reduction II" />
+		<msg id="meritmastery0063" cont="Expanded Defense III" />
+		<msg id="meritmastery0064" cont="Expanded Damage Reduction III" />
+		<msg id="meritmastery0065" cont="All Attack I" />
+		<msg id="meritmastery0066" cont="Ignore DMG Reduction I" />
+		<msg id="meritmastery0067" cont="All Attack II" />
+		<msg id="meritmastery0068" cont="Ignore DMG Reduction II" />
+		<msg id="meritmastery0069" cont="All Attack III" />
+		<msg id="meritmastery0070" cont="Ignore DMG Reduction III" />
+		<msg id="meritmastery0071" cont="All Skill Amp. I" />
+		<msg id="meritmastery0072" cont="Critical DMG" />
+		<msg id="meritmastery0073" cont="Penetration I" />
+		<msg id="meritmastery0074" cont="Expanded All Attack I" />
+		<msg id="meritmastery0075" cont="Expanded Ignore DMG Reduction I" />
+		<msg id="meritmastery0076" cont="Expanded All Attack II" />
+		<msg id="meritmastery0077" cont="Expanded Ignore DMG Reduction II" />
+		<msg id="meritmastery0078" cont="Expanded All Attack III" />
+		<msg id="meritmastery0079" cont="Expanded Ignore DMG Reduction III" />
+		<msg id="meritmastery0080" cont="Expanded All Skill Amp. I" />
+		<msg id="meritmastery0081" cont="Expanded Critical DMG I" />
+		<msg id="meritmastery0082" cont="Expanded Penetration I" />
+		<msg id="meritmastery0083" cont="Expanded Special Mastery" />
+		<msg id="meritmastery0084" cont="HP I" />
+		<msg id="meritmastery0085" cont="Ignore Penetration I" />
+		<msg id="meritmastery0086" cont="HP II" />
+		<msg id="meritmastery0087" cont="Ignore Penetration II" />
+		<msg id="meritmastery0088" cont="HP III" />
+		<msg id="meritmastery0089" cont="Ignore Penetration III" />
+		<msg id="meritmastery0090" cont="Defense I" />
+		<msg id="meritmastery0091" cont="Defense II" />
+		<msg id="meritmastery0092" cont="Max HP Absorb Up I" />
+		<msg id="meritmastery0093" cont="Expanded HP I" />
+		<msg id="meritmastery0094" cont="Expanded Ignore Penetration I" />
+		<msg id="meritmastery0095" cont="Expanded HP II" />
+		<msg id="meritmastery0096" cont="Expanded Ignore Penetration II" />
+		<msg id="meritmastery0097" cont="Expanded HP III" />
+		<msg id="meritmastery0098" cont="Expanded Ignore Penetration III" />
+		<msg id="meritmastery0099" cont="Expanded Defense I" />
+		<msg id="meritmastery0100" cont="Expand Defense II" />
+		<msg id="meritmastery0101" cont="Expanded Max HP Absorb Up I" />
+		<msg id="meritmastery0102" cont="Expanded Special Mastery" />
+		<msg id="meritmastery0103" cont="Cancel Ignore Penetration I" />
+		<msg id="meritmastery0104" cont="Ignore Resist Critical DMG" />
+		<msg id="meritmastery0105" cont="Ignore Resist Skill Amp. I" />
+		<msg id="meritmastery0106" cont="Cancel Ignore Penetration II" />
+		<msg id="meritmastery0107" cont="Ignore Resist Critical DMG II" />
+		<msg id="meritmastery0108" cont="Ignore Resist Skill Amp. II" />
+		<msg id="meritmastery0109" cont="Cancel Ignore Penetration III" />
+		<msg id="meritmastery0110" cont="Ignore Resist Critical DMG III" />
+		<msg id="meritmastery0111" cont="Ignore Resist Skill Amp. III" />
+		<msg id="meritmastery0112" cont="Expanded Cancel Ignore Penetration I" />
+		<msg id="meritmastery0113" cont="Expanded Cancel Ignore Penetration II" />
+		<msg id="meritmastery0114" cont="Expanded Cancel Ignore Penetration III" />
+		<msg id="meritmastery0115" cont="Expanded Ignore Resist Critical DMG I" />
+		<msg id="meritmastery0116" cont="Ignore Resist Critical DMG II" />
+		<msg id="meritmastery0117" cont="Expanded Ignore Resist Skill Amp. I" />
+		<msg id="meritmastery0118" cont="Expanded Ignore Resist Skill Amp. II" />
+		<msg id="meritmastery0119" cont="Expanded Special Mastery" />
+		<msg id="meritmastery0120" cont="Cancel Ignore DMG Reduction I" />
+		<msg id="meritmastery0121" cont="Resist Critical DMG I" />
+		<msg id="meritmastery0122" cont="Resist Skill Amp. I" />
+		<msg id="meritmastery0123" cont="Cancel Ignore DMG Reduction II" />
+		<msg id="meritmastery0124" cont="Resist Critical DMG II" />
+		<msg id="meritmastery0125" cont="Resist Skill Amp. II" />
+		<msg id="meritmastery0126" cont="Cancel Ignore DMG Reduction III" />
+		<msg id="meritmastery0127" cont="Resist Critical DMG III" />
+		<msg id="meritmastery0128" cont="Resist Skill Amp. III" />
+		<msg id="meritmastery0129" cont="DMG Reduction I" />
+		<msg id="meritmastery0130" cont="DMG Reduction II" />
+		<msg id="meritmastery0131" cont="Expanded Cancel Ignore DMG Reduction I" />
+		<msg id="meritmastery0132" cont="Expanded Cancel Ignore DMG Reduction II" />
+		<msg id="meritmastery0133" cont="Expanded Cancel Ignore DMG Reduction III" />
+		<msg id="meritmastery0134" cont="Expanded Damage Reduction I" />
+		<msg id="meritmastery0135" cont="Expanded Damage Reduction II" />
+		<msg id="meritmastery0136" cont="Expanded Special Mastery" />
+		<msg id="meritmastery0137" cont="Ignore Evasion I" />
+		<msg id="meritmastery0138" cont="Attack Rate I" />
+		<msg id="meritmastery0139" cont="Ignore Evasion II" />
+		<msg id="meritmastery0140" cont="Attack Rate II" />
+		<msg id="meritmastery0141" cont="Ignore Evasion III" />
+		<msg id="meritmastery0142" cont="Expanded Ignore Evasion I" />
+		<msg id="meritmastery0143" cont="Expanded Ignore Evasion II" />
+		<msg id="meritmastery0144" cont="Expanded Ignore Evasion III" />
+		<msg id="meritmastery0145" cont="Expanded Attack Rate I" />
+		<msg id="meritmastery0146" cont="Expanded Attack Rate II" />
+		<msg id="meritmastery0147" cont="Expanded Special Mastery" />
+		<msg id="meritmastery0148" cont="Ignore Accuracy I" />
+		<msg id="meritmastery0149" cont="Defense Rate I" />
+		<msg id="meritmastery0150" cont="Ignore Accuracy II" />
+		<msg id="meritmastery0151" cont="Defense Rate II" />
+		<msg id="meritmastery0152" cont="Ignore Accuracy III" />
+		<msg id="meritmastery0153" cont="Expanded Ignore Accuracy I" />
+		<msg id="meritmastery0154" cont="Expanded Ignore Accuracy II" />
+		<msg id="meritmastery0155" cont="Expanded Ignore Accuracy III" />
+		<msg id="meritmastery0156" cont="Expanded Defense Rate I" />
+		<msg id="meritmastery0157" cont="Expanded Defense Rate II" />
+		<msg id="meritmastery0158" cont="Expanded Special Mastery" />
+	</mastery_name_msg>
+	<mastery_desc_msg>
+		<msg id="masterydesc0001" cont="Increases character's $34#Accuracy._If $34#Expanded Accuracy I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0002" cont="Increases character's $34#Attack Rate._If $34#Expanded Attack Rate II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0003" cont="Attacks the opponent while $34$ignoring target's evasion$._" />
+		<msg id="masterydesc0004" cont="Increases character's $34#Attack Rate._If $34#Attack Rate I$ is max level, it will increase additional stats._If $34#Expanded Attack Rate II$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0005" cont="Increases character's $34#Accuracy._If $34#Accuracy I$ is max level, it will increase additional stats._If $34#Expanded Accuracy II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0006" cont="Attacks the opponent while $34#ignoring target's evasion$._If $34#Ignore Accuracy I$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0007" cont="Increases character's $34#Attack Rate._If $34#Attack Rate II$ is max level, it will increase additional stats._If $34#Expanded Attack Rate III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0008" cont="Increases character's $34#Accuracy._If $34#Accuracy II$ is max level, it will increase additional stats._If $34#Expanded Accuracy III$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0009" cont="Attacks the opponent while $34$ignoring target's evasion$._If $34#Ignore Evasion I$ is max level, it will increase additional stats." />
+		<msg id="masterydesc0010" cont="Applies Attack Rate I on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0011" cont="Applies Accuracy I on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0012" cont="Applies Attack Rate II in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0013" cont="Applies Accuracy II on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0014" cont="Applies Attack Rate III on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0015" cont="Applies Accuracy III on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0016" cont="Increases character's $34#Evasion._If $34#Expanded Evasion I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0017" cont="Increases character's $34#Defense Rate$ in Mission War._If $34#Expanded Defense Rate I$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0018" cont="Receives attacks from the opponent while $34$ignoring accuracy$." />
+		<msg id="masterydesc0019" cont="Increases character's $34#Defense Rate$ in Mission War._If $34#Defense Rate I$ is max level, it will increase additional stats_If $34#Expanded Defense Rate II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0020" cont="Increases character's $34#Evasion$ in Mission War._If $34#Evasion I$ is max level, it will increase additional stats_If $34#Expanded Evasion II$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0021" cont="Receives attacks from the opponent while $34$ignoring accuracy$._If $34#Ignore Accuracy I$ is max level,it will increase additional stats._" />
+		<msg id="masterydesc0022" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore Evasion$._" />
+		<msg id="masterydesc0023" cont="Increases character's $34#Defense Rate$ in Mission War._If $34#Defense Rate II$ is max level, it will increase additional stats_If $34#Expanded Defense Rate III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0024" cont="Increases character's $34#Evasion$ in Mission War._If $34#Evasion II$ is max level, it will increase additional stats_If $34#Expanded Evasion III$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0025" cont="Receives attacks from the opponent while $34$ignoring accuracy$._If $34#Ignore Accuracy II$ is max level,it will increase additional stats._" />
+		<msg id="masterydesc0026" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore Evasion$._If $34#Cancel Ignore Evasion I$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0027" cont="Applies Defense Rate I on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0028" cont="Applies Evasion I in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0029" cont="Applies Defense Rate II on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0030" cont="Applies Evasion II in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0031" cont="Applies Defense Rate III on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0032" cont="Applies Evasion III in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0033" cont="Increases character's $34#Penetration._If $34#Expanded Penetration I$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0034" cont="Increases character's $34#Additional Attack._If $34#Expanded Additional Attack I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0035" cont="Attacks the opponent while $34$ignoring target's DMG reduction$." />
+		<msg id="masterydesc0036" cont="Increases character's $34#Penetration$ in Mission War._If $34#Penetration I$ is max level, it will increase additional stats._If $34#Expanded Penetraion II$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0037" cont="Increases character's $34#Additional Attack._If $34#Additional Attack I$ is max level, it will increase additional stats._If $34#Expanded Additional Attack II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0038" cont="Attacks the opponent while $34#ignoring target's DMG Reduction$._If $34#Ignore DMG Reduction I$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0039" cont="Increases character's $34#Penetration$ in Mission War._If $34#Penetration II$ is max level, it will increase additional stats._If $34#Expanded Penetration III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0040" cont="Increases character's $34#Additional Attack._If $34#Additional Attack II$ is max level, it will increase additional stats._If $34#Expanded Additional Attack III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0041" cont="Attacks the opponent while $34#ignoring target's DMG Reduction$._If $34#Ignore DMG Reduction II$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0042" cont="Applies Additional Damage I in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0043" cont="Applies Penetration I in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0044" cont="Applies Additional Damage II in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0045" cont="Applies Penetration II in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0046" cont="Applies Additional Damage III on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0047" cont="Applies Penetration III on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0048" cont="Increases character's $34#Damage Reduction$ in Mission War._If $34#Expanded Damage Reduction I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0049" cont="Increases character's $34#Defense$ in Mission War._If $34#Expanded Defense I$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0050" cont="Receives attacks from the opponent while $34#ignoring target's penetration$._" />
+		<msg id="masterydesc0051" cont="Increases character's $34#Defense$ in Mission War._If $34# Defense I$ is max level, it will increase additional stats_If $34#Expanded Defense II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0052" cont="Increases character's $34#Damage Reduction$ in Mission War._If $34# Damage Reduction I$ is max level, it will increase additional stats._If $34#Expanded Damage Reduction II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0053" cont="Receives attacks from the opponent while $34#ignoring target's penetration$ in Mission War._If $34#Ignore Penetration I$ is max level, it will increase additional stats_" />
+		<msg id="masterydesc0054" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore DMG Reduction$ in MIssion War._" />
+		<msg id="masterydesc0055" cont="Increases character's $34#Defense$ in Mission War._If $34#Defense II$ is max level, it will increase additional stats_If $34#Expanded Defense III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0056" cont="Increases character's $34#Damage Reduction$ in Mission War._If $34#Damage Reduction II$ is max level, it will increase additional stats_If $34#Expanded Ignore Penetration III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0057" cont="Receives attacks from the opponent while $34#ignoring target's penetration$._If $34#Ignore Penetration II$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0058" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore DMG Reduction$ in Mission War._If $34#Expanded Cancel Ignore DMG Reduction I$ is max level, it will increase additional stats._" />
+		<msg id="masterydesc0059" cont="Applies Defense I in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0060" cont="Applies Damage Reduction I in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0061" cont="Applies Defense II in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0062" cont="Applies Damage Reduction II in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0063" cont="Applies Defense III in $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0064" cont="Applies Damage Reduction III on $34#Dungeons and Fields$ also." />
+		<msg id="masterydesc0065" cont="Increases character's $34#All Attack$ in Mission War._If $34#Expanded All Attack I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0066" cont="Attacks the opponent while $34#ignoring target's DMG Reduction$._If $34#Expanded Ignore DMG Reduction I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0067" cont="Increases character's $34#All Attack$ in Mission War._If $34#Expanded All Attack II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0068" cont="Attacks the opponent while $34#ignoring target's DMG Reduction$._If $34#Expanded Ignore DMG Reduction II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0069" cont="Increases character's $34#All Attack$ in Mission War._If $34#Expanded All Attack III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0070" cont="Attacks the opponent while $34#ignoring target's DMG Reduction$._If $34#Expanded Ignore DMG Reduction III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0071" cont="Increases character's $34#All Attack$ in Mission War._If $34#Expanded All Attack I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0072" cont="Increases character's $34#Critical DMG$ in Mission War._If $34#Expanded Critical DMG I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0073" cont="Increases character's $34#Penetration$ in Mission War._If $34#Expanded Penetration I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0074" cont="Applies All Attack I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0075" cont="Applies Ignore DMG Reduction I on $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0076" cont="Applies All Attack II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0077" cont="Applies Ignore DMG Reduction II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0078" cont="Applies All Attack III in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0079" cont="Applies Ignore DMG Reduction III in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0080" cont="Applies All Skill Amp. I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0081" cont="Applies Critical DMG I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0082" cont="Applies Penetration I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0083" cont="Activates Special Mastery. $34#Special Mastery stats are applied in dungeons and fields$._" />
+		<msg id="masterydesc0084" cont="Increases character's $34#HP$ in Mission War._If $34#Expanded HP I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0085" cont="Receives attacks from the opponent while $34#ignoring target's penetration$._If $34#Expanded Ignore Penetration I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0086" cont="Increases character's $34#HP$ in Mission War._If $34#Expanded HP II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0087" cont="Receives attacks from the opponent while $34#ignoring target's penetration$._If $34#Expanded Ignore Penetration II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0088" cont="Increases character's $34#HP$ in Mission War._If $34#Expanded HP III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0089" cont="Receives attacks from the opponent while $34#ignoring target's penetration$._If $34#Expanded Ignore Penetration III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0090" cont="Increases character's $34#Defense$ in Mission War._If $34#Expanded Defense I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0091" cont="Increases character's $34#Defense$ in Mission War._If $34#Expanded Defense II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0092" cont="Increases character's $34#Max HP Absorb Up$ in Mission War._If $34#Expanded HP Absorb Up I$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0093" cont="Applies HP I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0094" cont="Applies Ignore Penetration I in 34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0095" cont="Applies HP II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0096" cont="Applies Ignore Penetration II in 34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0097" cont="Applies HP III in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0098" cont="Applies Ignore Penetration III in 34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0099" cont="Applies Defense I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0100" cont="Applies Defense II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0101" cont="Applies Max HP Absorb Up I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0102" cont="Activates Special Mastery. $34#Special Mastery stats are applied in dungeons and fields$._" />
+		<msg id="masterydesc0103" cont="Attacks the opponent while $34#canceling target's Ignore Penetration$ in Mission War._If $34#Expanded Cancel Ignore Penetration I$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0104" cont="Attacks the opponent while $34#ignoring target's Resist Critical DMG$._If $34#Expanded Ignore Resist Critical DMG I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0105" cont="Attacks the opponent while $34#ignoring target's Resist Skill Amp.$._If $34#Expanded Ignore Resist Skill Amp. I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0106" cont="Attacks the opponent while $34#canceling target's Ignore Penetration$ in Mission War._If $34#Expanded Cancel Ignore Penetration II$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0107" cont="Attacks the opponent while $34#ignoring target's Resist Critical DMG$._If $34#Expanded Ignore Resist Critical DMG II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0108" cont="Attacks the opponent while $34#ignoring target's Resist Skill Amp.$._If $34#Expanded Ignore Resist Skill Amp. II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0109" cont="Attacks the opponent while $34#canceling target's Ignore Penetration$ in Mission War._If $34#Expanded Cancel Ignore Penetration III$ is acquired, it will also be applied for Dungeons and Fields._" />
+		<msg id="masterydesc0110" cont="Attacks the opponent while $34#ignoring target's Resist Critical DMG$ in Mission War." />
+		<msg id="masterydesc0111" cont="Attacks the opponent while $34#ignoring target's Resist Skill Amp.$._" />
+		<msg id="masterydesc0112" cont="Applies Cancel Ignore Penetration I in 34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0113" cont="Applies Cancel Ignore Penetration II in 34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0114" cont="Applies Cancel Ignore Penetration III in 34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0115" cont="Applies Ignore Resist Critical DMG I on $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0116" cont="Applies Ignore Resist Critical DMG II on $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0117" cont="Applies Ignore DMG Reduction I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0118" cont="Applies Ignore Resist Skill Amp II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0119" cont="Activates Special Mastery. $34#Special Mastery stats are applied in dungeons and fields$._" />
+		<msg id="masterydesc0120" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore DMG Reduction$._If $34#Expanded Cancel Ignore DMG Reduction I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0121" cont="Increases character's $34#Resist Critical DMG$ in Mission War._" />
+		<msg id="masterydesc0122" cont="Increase character's $34#Resist Skill Amp$ in Mission War_" />
+		<msg id="masterydesc0123" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore DMG Reduction$._If $34#Expanded Cancel Ignore DMG Reduction II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0124" cont="Increase character's $34#Resist Critical DMG$ in Mission War._" />
+		<msg id="masterydesc0125" cont="Increase character's $34#Resist Skill Amp$ in Mission War_" />
+		<msg id="masterydesc0126" cont="Receives attacks from the opponent while $34#canceling the attacker's Ignore DMG Reduction$._If $34#Expanded Cancel Ignore DMG Reduction III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0127" cont="Increases character's $34#Resist Critical DMG$ in Mission War._" />
+		<msg id="masterydesc0128" cont="Increase character's $34#Resist Skill Amp$ in Mission War_" />
+		<msg id="masterydesc0129" cont="Increases character's $34#Damage Reduction$ in Mission War._If $34#Expanded Damage Reduction I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0130" cont="Increases character's $34#Damage Reduction$ in Mission War._If $34#Expanded Damage Reduction II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0131" cont="Applies Expanded Ignore DMG Reduction I on $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0132" cont="Applies Cancel Ignore DMG Reduction II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0133" cont="Applies Cancel Ignore DMG Reduction III in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0134" cont="Applies DMG Reduction I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0135" cont="Applies DMG Reduction II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0136" cont="Activates Special Mastery. $34#Special Mastery stats are applied in dungeons and fields$._" />
+		<msg id="masterydesc0137" cont="Attacks the opponent while $34#ignoring target's evasion$._If $34#Expanded Ignore Evasion I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0138" cont="Increases character's $34#Attack Rate$ in Mission War._If $34#Expanded Attack Rate I$ is acquired, it will also be applied at dungeons and fields._" />
+		<msg id="masterydesc0139" cont="Attacks the opponent while $34#ignoring target's evasion$._If $34#Expanded Ignore Evasion II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0140" cont="Increases character's $34#Attack Rate$ in Mission War._If $34#Expanded Attack Rate II$ is acquired, it will also be applied at dungeons and fields._" />
+		<msg id="masterydesc0141" cont="Attacks the opponent while $34#ignoring target's evasion$._If $34#Expanded Ignore Evasion III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0142" cont="Applies Ignore Evasion I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0143" cont="Applies Ignore Evasion II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0144" cont="Applies Ignore Evasion III in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0145" cont="Applies Attack Rate I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0146" cont="Applies Attack Rate II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0147" cont="Activates Special Mastery. $34#Special Mastery stats are applied in dungeons and fields$._" />
+		<msg id="masterydesc0148" cont="Attacks the opponent while $34#ignoring target's accuracy$._If $34#Expanded Ignore Accuracy I$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0149" cont="Increases character's $34#Defense Rate$ in Mission War._If $34#Expanded Defense Rate I$ is acquired, it will also be applied at dungeons and fields._" />
+		<msg id="masterydesc0150" cont="Attacks the opponent while $34#ignoring target's accuracy$._If $34#Expanded Ignore Accuracy II$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0151" cont="Increases character's $34#Defense Rate$ in Mission War._If $34#Expanded Defense Rate II$ is acquired, it will also be applied at dungeons and fields._" />
+		<msg id="masterydesc0152" cont="Attacks the opponent while $34#ignoring target's accuracy$._If $34#Expanded Ignore Accuracy III$ is acquired, it will also be applied in Dungeons and Fields._" />
+		<msg id="masterydesc0153" cont="Applies Ignore Accuracy I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0154" cont="Applies Ignore Accuracy II in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0155" cont="Applies Ignore Accuracy III in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0156" cont="Applies Defense Rate I in $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0157" cont="Applies Defense Rate II on $34#Dungeons and Fields$ also._" />
+		<msg id="masterydesc0158" cont="Activates Special Mastery. $34#Special Mastery stats are applied in dungeons and fields$._" />
+	</mastery_desc_msg>
+</meritsystem_message>

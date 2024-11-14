@@ -1,0 +1,366 @@
+<balloon_message>
+	<balloon_msg>
+		<msg id="balloon_1" cont="No one passes this flame of hell while we are here! Ha ha!"/>
+		<msg id="balloon_10" cont="He He He!"/>
+		<msg id="balloon_100" cont="Intruder!! Here is an intruder!!"/>
+		<msg id="balloon_101" cont="HAHAHAHA !!! DIE ALL !!!!"/>
+		<msg id="balloon_102" cont="I won't let you live!"/>
+		<msg id="balloon_103" cont="I will cut you in a breath!"/>
+		<msg id="balloon_104" cont="I will kill you!!"/>
+		<msg id="balloon_105" cont="Do you think you are a match for me?!"/>
+		<msg id="balloon_106" cont="I will kill you!!"/>
+		<msg id="balloon_107" cont="You!!! You can't get past here!!"/>
+		<msg id="balloon_108" cont="Ahahaha! I shall bury you here!"/>
+		<msg id="balloon_109" cont="Ahaha! Take my sword!"/>
+		<msg id="balloon_11" cont="Mwa ha ha!"/>
+		<msg id="balloon_110" cont="This will be your grave!!!"/>
+		<msg id="balloon_111" cont="I won't let you get past here!"/>
+		<msg id="balloon_112" cont="Ahahah!! I smell fresh blood!!"/>
+		<msg id="balloon_113" cont="Grr...not enough..."/>
+		<msg id="balloon_114" cont="A new hunting quarry! Let's go!!"/>
+		<msg id="balloon_115" cont="Ahhhh!!"/>
+		<msg id="balloon_116" cont="I didn't expect you to come all the way here...Could you stop here now?"/>
+		<msg id="balloon_117" cont="Come!!! My guardians!!!"/>
+		<msg id="balloon_118" cont="Ah...no.. need more time..."/>
+		<msg id="balloon_119" cont="How dare you to interfere me...! I won't forgive you!"/>
+		<msg id="balloon_12" cont="Hee hee!"/>
+		<msg id="balloon_120" cont="Need more time.....Crrrr!!"/>
+		<msg id="balloon_121" cont="Never thought I could make this far. Gotta prepare something fun"/>
+		<msg id="balloon_122" cont="It's been awhile since I've seen a man.... very long time...."/>
+		<msg id="balloon_123" cont="Kehehehe! This will be a battle in a long time!"/>
+		<msg id="balloon_124" cont="(......)"/>
+		<msg id="balloon_125" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_126" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_127" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_128" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_129" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_13" cont="Humans are mine!"/>
+		<msg id="balloon_130" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_131" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_132" cont="Kelkel.. recieve my stronger poision!!"/>
+		<msg id="balloon_133" cont="Who dare stands up to my bug corps!!!"/>
+		<msg id="balloon_134" cont="Come out my faithful warriors and get rid of the enemy!"/>
+		<msg id="balloon_135" cont="The Corps deadly venom will eat you up!!"/>
+		<msg id="balloon_136" cont="As our Queen desires..."/>
+		<msg id="balloon_137" cont="We will follow the Queens orders!"/>
+		<msg id="balloon_138" cont="By overwhleming force!"/>
+		<msg id="balloon_139" cont="Guardians gather your power and get rid of the enemy!"/>
+		<msg id="balloon_14" cont="I am top-class devil!"/>
+		<msg id="balloon_140" cont="Guardians magic will lay a curse on you!"/>
+		<msg id="balloon_141" cont="Wake up! Knights of the Ice!!"/>
+		<msg id="balloon_142" cont="A cruel cold death to the enemies..!!"/>
+		<msg id="balloon_143" cont="A cruel cold death to the enemies..!!"/>
+		<msg id="balloon_144" cont="A cruel cold death to the enemies..!!"/>
+		<msg id="balloon_145" cont="A cruel cold death to the enemies..!!"/>
+		<msg id="balloon_146" cont="A cruel cold death to the enemies..!!"/>
+		<msg id="balloon_147" cont="A cruel cold death to the enemies..!!"/>
+		<msg id="balloon_148" cont="Did you think it was over after dealing with my alter ego?"/>
+		<msg id="balloon_149" cont="Storm of Ice! Eat up the enemies!!"/>
+		<msg id="balloon_15" cont="I smell fresh human meat...!"/>
+		<msg id="balloon_150" cont="Knights! Freeze up the enemies to their bones!!"/>
+		<msg id="balloon_151" cont="The cold will capture your ankles..."/>
+		<msg id="balloon_152" cont="The cold will capture your ankles..."/>
+		<msg id="balloon_153" cont="The cold will capture your ankles..."/>
+		<msg id="balloon_154" cont=" I am a flame that never dies!!"/>
+		<msg id="balloon_155" cont="My flames are rising again!!!"/>
+		<msg id="balloon_156" cont="Must protect Pheonix!"/>
+		<msg id="balloon_157" cont="Must protect Pheonix!"/>
+		<msg id="balloon_158" cont="Must protect Pheonix!"/>
+		<msg id="balloon_159" cont="Must protect Pheonix!"/>
+		<msg id="balloon_16" cont="Humans?!"/>
+		<msg id="balloon_160" cont="Aren't you a dumb one, trying to win the Dragon?"/>
+		<msg id="balloon_161" cont="Kahahaha! The endless darkness will lead you to despair!!"/>
+		<msg id="balloon_162" cont="Clang..Clang..."/>
+		<msg id="balloon_163" cont="This is not a place for you humans to come. Go back!"/>
+		<msg id="balloon_164" cont="Arrogant human who ignored the warning!"/>
+		<msg id="balloon_165" cont="You will pay for ignoring our warning!"/>
+		<msg id="balloon_166" cont="Do not lay one more foot!"/>
+		<msg id="balloon_167" cont="Death is for those who ignore our warning!"/>
+		<msg id="balloon_168" cont="Sling!"/>
+		<msg id="balloon_169" cont="You can not go forward!"/>
+		<msg id="balloon_17" cont="This is the den of Evil King Nix! Get out!"/>
+		<msg id="balloon_170" cont="I can't spare you now you've come so far. "/>
+		<msg id="balloon_171" cont="The resurrection ceremony has begun."/>
+		<msg id="balloon_172" cont="N...No! Don't go down yet. "/>
+		<msg id="balloon_173" cont="How can two already be killed... "/>
+		<msg id="balloon_174" cont="If we endure a little more, Anubis will..."/>
+		<msg id="balloon_175" cont="Hu...Humans! How could they... "/>
+		<msg id="balloon_176" cont="How could this place be found! you wil be stopped here!"/>
+		<msg id="balloon_177" cont="KEeeeek!"/>
+		<msg id="balloon_178" cont="Seekers! Give me the souls!"/>
+		<msg id="balloon_179" cont="You are already late! HarHar! "/>
+		<msg id="balloon_18" cont="Ahh... King Nix!!"/>
+		<msg id="balloon_180" cont="Kill the Humans!"/>
+		<msg id="balloon_181" cont="Kill the Humans!"/>
+		<msg id="balloon_182" cont="Kill the Humans!"/>
+		<msg id="balloon_183" cont="All the way up here...??"/>
+		<msg id="balloon_184" cont="You've come to kill yourself... How foolish...!"/>
+		<msg id="balloon_185" cont="Not so ordinary, are they?"/>
+		<msg id="balloon_186" cont="This time will be nothing like before!"/>
+		<msg id="balloon_187" cont="To this level against Spirit King of Wind...?"/>
+		<msg id="balloon_188" cont="Impressive... I will be waiting for you...!"/>
+		<msg id="balloon_189" cont="Krkrkr..."/>
+		<msg id="balloon_19" cont="Useless demons, move to the side, mighty Kirinto will get rid of the humans!"/>
+		<msg id="balloon_190" cont="(Something is on the ground.)"/>
+		<msg id="balloon_191" cont="I want to go home... back to my home."/>
+		<msg id="balloon_192" cont="This is not where I am supposed to be...."/>
+		<msg id="balloon_193" cont="I want to go back to where I'm from..."/>
+		<msg id="balloon_194" cont="I want to get out of here..."/>
+		<msg id="balloon_195" cont="Khaaha they want to go home hahaaha"/>
+		<msg id="balloon_196" cont="This isn't where I'm supposed to be.. haha.."/>
+		<msg id="balloon_197" cont="Kharhar they say they want to go back to where they're from"/>
+		<msg id="balloon_198" cont="They want to get out, haha."/>
+		<msg id="balloon_199" cont="How dare you come in yourself... This will be your last."/>
+		<msg id="balloon_2" cont="Do not let the humans pass here!"/>
+		<msg id="balloon_20" cont="Cannot accept the truth that I am defeated by humans...!"/>
+		<msg id="balloon_200" cont="The deceived has turned up again!!"/>
+		<msg id="balloon_201" cont="Heheee a new quarry!!"/>
+		<msg id="balloon_202" cont="Heh Humans are really foolish"/>
+		<msg id="balloon_203" cont="How dare a human enters the tower of the undead!"/>
+		<msg id="balloon_204" cont="WHO!!! Who is it that awakened the monsters of the undead!!!"/>
+		<msg id="balloon_205" cont="There !! The intruders are there!!"/>
+		<msg id="balloon_206" cont="How dare you walk into the Undead Zone. Soul of the human is mine!!"/>
+		<msg id="balloon_207" cont="Human.!! Humans have appeared.!!"/>
+		<msg id="balloon_208" cont="A living human.!!"/>
+		<msg id="balloon_209" cont="A fresh soul!! That soul is mine.!!"/>
+		<msg id="balloon_21" cont="Well well...delicious human came here by himself...be my dinner tonight!"/>
+		<msg id="balloon_210" cont="I want the soul of that human. A good Soul has appeared!"/>
+		<msg id="balloon_211" cont="You foolish humans...."/>
+		<msg id="balloon_212" cont="You won't be able to make one more step!"/>
+		<msg id="balloon_213" cont="How dare you walk into Sir Mergaheph's room..."/>
+		<msg id="balloon_214" cont="You will not take any step closer to Sir Mergaheph."/>
+		<msg id="balloon_215" cont="Another intruder. They must have still lost their mind."/>
+		<msg id="balloon_216" cont="I will not let you enter anymore!"/>
+		<msg id="balloon_217" cont="So you have come this far... I will guard upon my life!!!"/>
+		<msg id="balloon_218" cont="Humans! Another toy for me hahaha!"/>
+		<msg id="balloon_219" cont="Humans! Another toy for me hahaha!"/>
+		<msg id="balloon_22" cont="What an annoying human! Grr...! I will throw you away!"/>
+		<msg id="balloon_220" cont="I will have to take action for myself!!"/>
+		<msg id="balloon_221" cont="The time has not come, mortals!"/>
+		<msg id="balloon_222" cont="This will be the end!"/>
+		<msg id="balloon_223" cont="Master Killian. Let me finish this. "/>
+		<msg id="balloon_224" cont="How did a human get to here? "/>
+		<msg id="balloon_225" cont="URGENT! URGENT! Stop the Intruders!"/>
+		<msg id="balloon_226" cont="You are not getting any further!"/>
+		<msg id="balloon_227" cont="How did they make their way up to here... useless things!"/>
+		<msg id="balloon_228" cont="We will protect this place!"/>
+		<msg id="balloon_229" cont="We will protect this place!"/>
+		<msg id="balloon_23" cont="Grr...grrraawr..."/>
+		<msg id="balloon_230" cont="We will protect this place!"/>
+		<msg id="balloon_231" cont="How foolish of you to come to your own grave yourself!"/>
+		<msg id="balloon_232" cont="I, Sir Mergaheph's faithful servant, will kill you myself!"/>
+		<msg id="balloon_233" cont="We will punish whoever acts against our master's will!"/>
+		<msg id="balloon_234" cont="I, Killian swear that I will punish you mortal."/>
+		<msg id="balloon_235" cont="You will not pass...arg.....I'm sorry Master Killian. "/>
+		<msg id="balloon_236" cont="Please forgive me... Tempus...."/>
+		<msg id="balloon_237" cont="(&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..)"/>
+		<msg id="balloon_238" cont="A terrible suffering to you, mortals!"/>
+		<msg id="balloon_239" cont="Leave immediately you filthy ones!"/>
+		<msg id="balloon_24" cont="I see you are quite strong to arrive here, but I am sorry to say you are going to die now!"/>
+		<msg id="balloon_240" cont="Feel the anger of the earth!!"/>
+		<msg id="balloon_241" cont="A delicious looking quarry has appeared..."/>
+		<msg id="balloon_242" cont="Krrrr!! I will kill you all!!"/>
+		<msg id="balloon_243" cont="This will be an easy hunt..."/>
+		<msg id="balloon_244" cont="Kkarr!! Will kill you all!"/>
+		<msg id="balloon_245" cont="Hahaha!! I will show you the real power of awakening!!"/>
+		<msg id="balloon_246" cont="Fine!! Confront me again!!"/>
+		<msg id="balloon_247" cont="The smell of fresh human meat...!!"/>
+		<msg id="balloon_248" cont="Will cover you all in poison!"/>
+		<msg id="balloon_249" cont="The wave will wipe you out!!"/>
+		<msg id="balloon_25" cont="How dare you attack me...come on out and fight my warriors!"/>
+		<msg id="balloon_250" cont="Leave at once humans!"/>
+		<msg id="balloon_251" cont="Leave at once humans!"/>
+		<msg id="balloon_252" cont="Leave at once humans!"/>
+		<msg id="balloon_253" cont="Leave at once humans!"/>
+		<msg id="balloon_254" cont="Leave at once humans!"/>
+		<msg id="balloon_255" cont="Kill the arrogant humans!!"/>
+		<msg id="balloon_256" cont="Kill the arrogant humans!!"/>
+		<msg id="balloon_257" cont="Kill the arrogant humans!!"/>
+		<msg id="balloon_258" cont="Kill the arrogant humans!!"/>
+		<msg id="balloon_259" cont="Kill the arrogant humans!!"/>
+		<msg id="balloon_26" cont="Aaaahh, forgive me King Nix..."/>
+		<msg id="balloon_260" cont="How dare you ignore my warning....you are foolish!"/>
+		<msg id="balloon_261" cont="I will purify you with my spears!"/>
+		<msg id="balloon_262" cont="Krrr...."/>
+		<msg id="balloon_263" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_264" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_265" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_266" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_267" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_268" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_269" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_27" cont="You useless demons! Should I be the one to deal with humans?"/>
+		<msg id="balloon_270" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_271" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_272" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_273" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_274" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_275" cont="INTRUDERS LOCATED"/>
+		<msg id="balloon_276" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_277" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_278" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_279" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_28" cont="Arrrh! This makes me so mad...!"/>
+		<msg id="balloon_280" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_281" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_282" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_283" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_284" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_285" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_286" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_287" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_288" cont="KILL INTRUDERS!!"/>
+		<msg id="balloon_289" cont="Found Target!! Found Intruder!"/>
+		<msg id="balloon_29" cont="Grr! Power of Demonite is not enough yet..."/>
+		<msg id="balloon_290" cont="Found Target!! Change to Defense Mode!"/>
+		<msg id="balloon_291" cont="Found Target!! Change to Defense Mode!"/>
+		<msg id="balloon_292" cont="Found Target!! Change to Defense Mode!"/>
+		<msg id="balloon_293" cont="Found Target!! Remove!"/>
+		<msg id="balloon_294" cont="Found Target!! Remove!"/>
+		<msg id="balloon_295" cont="Found Target!! Remove!"/>
+		<msg id="balloon_296" cont="Found Target!! Remove!"/>
+		<msg id="balloon_297" cont="Found Target!! Remove!"/>
+		<msg id="balloon_298" cont="Found Target!! Remove!"/>
+		<msg id="balloon_299" cont="Found Target!! Remove!"/>
+		<msg id="balloon_3" cont="Devrogan will punish us if we fail to protect here!"/>
+		<msg id="balloon_30" cont="Grr! Grrrraaawr...!"/>
+		<msg id="balloon_300" cont="Warning!! not permitted intruder has been found!!"/>
+		<msg id="balloon_301" cont="Activate the Defense System!! Eliminate the Intruder!!"/>
+		<msg id="balloon_302" cont="Defense system has been neutralized..."/>
+		<msg id="balloon_303" cont="A.C.T.I.V.A.T.E. the Warp Device!"/>
+		<msg id="balloon_304" cont="A.C.T.I.V.A.T.E. the Lift!"/>
+		<msg id="balloon_305" cont="A.C.T.I.V.A.T.E. the Lift!"/>
+		<msg id="balloon_306" cont="A.C.T.I.V.A.T.E. the Lift!"/>
+		<msg id="balloon_307" cont="A.C.T.I.V.A.T.E. the Lift!"/>
+		<msg id="balloon_308" cont="A.C.T.I.V.A.T.E. the Lift!"/>
+		<msg id="balloon_309" cont="A.C.T.I.V.A.T.E. the Warp Device!"/>
+		<msg id="balloon_31" cont="Diriubra...he is my brother...he he he"/>
+		<msg id="balloon_310" cont="A.C.T.I.V.A.T.E. the Lift!"/>
+		<msg id="balloon_311" cont="Humans!? Humans cannot enter this place!"/>
+		<msg id="balloon_312" cont="Judgment time! Guilty! Guilty! Guilty!"/>
+		<msg id="balloon_313" cont="Sword of Judgment!"/>
+		<msg id="balloon_314" cont="Execute Judgment"/>
+		<msg id="balloon_315" cont="Refusing Judgment? Arrest!"/>
+		<msg id="balloon_316" cont="Sinner!"/>
+		<msg id="balloon_317" cont="Standing on the edge of the Judgment Sword"/>
+		<msg id="balloon_318" cont="Be saved by the light!"/>
+		<msg id="balloon_319" cont="Judge by the Sky Law!"/>
+		<msg id="balloon_32" cont="Huh? You want to pass this place?"/>
+		<msg id="balloon_320" cont="Verdict! Guilty!"/>
+		<msg id="balloon_321" cont="Execute Judgment"/>
+		<msg id="balloon_322" cont="Humans have entered Sky Garden!"/>
+		<msg id="balloon_323" cont="Everyone! Block the humans!"/>
+		<msg id="balloon_324" cont="Present!"/>
+		<msg id="balloon_325" cont="Stupid human!"/>
+		<msg id="balloon_326" cont="I have been fooled! Intruder!"/>
+		<msg id="balloon_327" cont="Fooled! Fooled!"/>
+		<msg id="balloon_328" cont="Greedy humans!"/>
+		<msg id="balloon_329" cont="Human Intruder! Fooled!"/>
+		<msg id="balloon_33" cont="Ahhhh! Please let me out of this hell!"/>
+		<msg id="balloon_330" cont="Someone like you lay a hand on me?"/>
+		<msg id="balloon_331" cont="Can't leave it like this, destroy!"/>
+		<msg id="balloon_332" cont="(...........)"/>
+		<msg id="balloon_333" cont="You have finally arrived. I am impressed."/>
+		<msg id="balloon_334" cont="Interesting. Come beyond this Sky Gate. I will be waiting!"/>
+		<msg id="balloon_335" cont="This way!"/>
+		<msg id="balloon_336" cont="This way!"/>
+		<msg id="balloon_337" cont="This way!"/>
+		<msg id="balloon_338" cont="This way!"/>
+		<msg id="balloon_339" cont="Arghhh! Im going to leave this place! Get out of my way!"/>
+		<msg id="balloon_34" cont="Ah...please...unlock this seal..."/>
+		<msg id="balloon_340" cont="Mobilize!"/>
+		<msg id="balloon_341" cont="Mobilize!"/>
+		<msg id="balloon_342" cont="Mobilize!"/>
+		<msg id="balloon_343" cont="Mobilize!"/>
+		<msg id="balloon_344" cont="Mobilize!"/>
+		<msg id="balloon_345" cont="Mobilize!"/>
+		<msg id="balloon_346" cont="Mobilize!"/>
+		<msg id="balloon_347" cont="Mobilize"/>
+		<msg id="balloon_348" cont="Mobilize!"/>
+		<msg id="balloon_349" cont="Mobilize!"/>
+		<msg id="balloon_35" cont="Please...set our souls free!"/>
+		<msg id="balloon_350" cont="Mobilize"/>
+		<msg id="balloon_351" cont="Mobilize!"/>
+		<msg id="balloon_352" cont="Humans in experiment area? Leave once!"/>
+		<msg id="balloon_353" cont="Eliminate intruders swiftly!"/>
+		<msg id="balloon_354" cont="Eliminate intruders swiftly!"/>
+		<msg id="balloon_355" cont="Eliminate intruders swiftly!"/>
+		<msg id="balloon_356" cont="Eliminate intruders swiftly!"/>
+		<msg id="balloon_357" cont="Eliminate intruders swiftly!"/>
+		<msg id="balloon_358" cont="You dare disturb Metal Clan's experiment? Taste the power of other dimension!"/>
+		<msg id="balloon_359" cont="Excuse me. Humans cannot enter Vitos's Space."/>
+		<msg id="balloon_36" cont="Warrior...please help...!"/>
+		<msg id="balloon_360" cont="Intruders in management office. Eliminate!"/>
+		<msg id="balloon_361" cont="Intruders in management office. Cannot proceed Metal Clan experiment."/>
+		<msg id="balloon_362" cont="Intruders in management office. Calling the manager."/>
+		<msg id="balloon_37" cont="This...place...is horrible...!"/>
+		<msg id="balloon_38" cont="Grrrr..."/>
+		<msg id="balloon_39" cont="He he...I see another sacrifice for Detestatus came on his feet!"/>
+		<msg id="balloon_4" cont="Grr...!"/>
+		<msg id="balloon_40" cont="Grraawrrr..."/>
+		<msg id="balloon_41" cont="Hee hee...sacrifice your soul to Detestatus...!"/>
+		<msg id="balloon_42" cont="Grrr..."/>
+		<msg id="balloon_43" cont="He he he... all hail for Detestatus!"/>
+		<msg id="balloon_44" cont="Detestatus, our revenge is all yours!"/>
+		<msg id="balloon_45" cont="Brave warrior! We will come with you!"/>
+		<msg id="balloon_46" cont="We will help too!"/>
+		<msg id="balloon_47" cont="&#8230; &#8230; &#8230; #@%!&"/>
+		<msg id="balloon_48" cont="&#8230; &#8230; &#8230; #@%!&"/>
+		<msg id="balloon_49" cont="&#8230; &#8230; &#8230; #@%!&"/>
+		<msg id="balloon_5" cont="Die...! Useless humans!"/>
+		<msg id="balloon_50" cont="&#8230; &#8230; &#8230; #@%!&"/>
+		<msg id="balloon_51" cont="&#8230; &#8230; &#8230; #@%!&"/>
+		<msg id="balloon_52" cont="I will steal even your soul to live in this burning hell forever!"/>
+		<msg id="balloon_53" cont="N...no...! This cannot be the end...!"/>
+		<msg id="balloon_54" cont="How did you reach here? I will kill you right now!"/>
+		<msg id="balloon_55" cont="No...! Detestatus...grr...grrg"/>
+		<msg id="balloon_56" cont="It's been a while to meet this foolish challenger! Bring it on ha ha!"/>
+		<msg id="balloon_57" cont="How dare you...little rats...!"/>
+		<msg id="balloon_58" cont="Ha ha ha ! This is what you call power of chaos "/>
+		<msg id="balloon_59" cont="Foolish humans!! I am immortal with the power of guardians!!"/>
+		<msg id="balloon_6" cont="Hee hee !"/>
+		<msg id="balloon_60" cont="Feel the power of Flame Guardian!!"/>
+		<msg id="balloon_61" cont="I will Kill you all!"/>
+		<msg id="balloon_62" cont="Foolish humans! you cannot beat guardians!"/>
+		<msg id="balloon_63" cont="You will regret being here!"/>
+		<msg id="balloon_64" cont="Feel the power of Flame Guardian!!"/>
+		<msg id="balloon_65" cont="I will Kill you all!"/>
+		<msg id="balloon_66" cont="Foolish humans! you cannot beat guardians!"/>
+		<msg id="balloon_67" cont="You will regret being here!"/>
+		<msg id="balloon_68" cont="Well one! but it won't be so easy now!"/>
+		<msg id="balloon_69" cont="Go get'em! Guard dogs!!"/>
+		<msg id="balloon_7" cont="Foolish human...! We will teach you a lesson!"/>
+		<msg id="balloon_70" cont="No.....I cannot end like this..."/>
+		<msg id="balloon_71" cont="Not even close...humans!"/>
+		<msg id="balloon_72" cont="Crrr..........You will have to overcome us."/>
+		<msg id="balloon_73" cont="Crrr..........You will have to overcome us."/>
+		<msg id="balloon_74" cont="Crrr..........You will have to overcome us."/>
+		<msg id="balloon_75" cont="Crrr..........You will have to overcome us."/>
+		<msg id="balloon_76" cont="Get some flame shower!"/>
+		<msg id="balloon_77" cont="Get some flame shower!"/>
+		<msg id="balloon_78" cont="Get some flame shower!"/>
+		<msg id="balloon_79" cont="Get some flame shower!"/>
+		<msg id="balloon_8" cont="You really believe that you can defeat us?"/>
+		<msg id="balloon_80" cont="Do you think the defender's flame will go off like this?"/>
+		<msg id="balloon_81" cont="Do you think the defender's flame will go off like this?"/>
+		<msg id="balloon_82" cont="Do you think the defender's flame will go off like this?"/>
+		<msg id="balloon_83" cont="Do you think the defender's flame will go off like this?"/>
+		<msg id="balloon_84" cont="Punisher! stop them!!"/>
+		<msg id="balloon_85" cont="Evil crops shall destroy you all!"/>
+		<msg id="balloon_86" cont="Punisher! stop them!!"/>
+		<msg id="balloon_87" cont="Fall on corps, humans!"/>
+		<msg id="balloon_88" cont="I won't let you attack Auretia!"/>
+		<msg id="balloon_89" cont="Evil corps is protecting us...."/>
+		<msg id="balloon_9" cont="Hee hee hee!"/>
+		<msg id="balloon_90" cont="Cannot get there!"/>
+		<msg id="balloon_91" cont="Feel the power of corps!"/>
+		<msg id="balloon_92" cont="Cannot get there!"/>
+		<msg id="balloon_93" cont="Feel the power of corps!"/>
+		<msg id="balloon_94" cont="Ugh....I'm losing...power...crrrr.!!"/>
+		<msg id="balloon_95" cont="(Something is shining.)"/>
+		<msg id="balloon_96" cont="Kikieek!!!"/>
+		<msg id="balloon_97" cont="sake!!!"/>
+		<msg id="balloon_98" cont="Kyeeeeeck!!"/>
+		<msg id="balloon_99" cont="Kyaaaack!!!"/>
+	</balloon_msg>
+</balloon_message>

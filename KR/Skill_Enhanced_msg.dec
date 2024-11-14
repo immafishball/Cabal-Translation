@@ -1,0 +1,166 @@
+<Skill_Enhanced_msg>
+	<Perk_Name>
+		<msg	id="0"	cont="버서커 기본훈련"	/>
+		<msg	id="1"	cont="버서커 공격훈련 I"	/>
+		<msg	id="2"	cont="버서커 방어훈련 I"	/>
+		<msg	id="3"	cont="버서커 공격훈련 II"	/>
+		<msg	id="4"	cont="버서커 방어훈련 II"	/>
+		<msg	id="5"	cont="랜서 기본훈련"	/>
+		<msg	id="6"	cont="랜서 공격훈련 I"	/>
+		<msg	id="7"	cont="랜서 방어훈련 I"	/>
+		<msg	id="8"	cont="랜서 공격훈련 II"	/>
+		<msg	id="9"	cont="랜서 방어훈련 II"	/>
+		<msg	id="10"	cont="랜스 드라이브 강화훈련"	/>
+		<msg	id="11"	cont="액스 디스트로이어 기본훈련"	/>
+		<msg	id="12"	cont="액스 디스트로이어 공격훈련 I"	/>
+		<msg	id="13"	cont="액스 디스트로이어 방어훈련 I"	/>
+		<msg	id="14"	cont="액스 어택 A 강화훈련"	/>
+		<msg	id="15"	cont="액스 어택 B 강화훈련"	/>
+		<msg	id="16"	cont="액스 디스트로이어 방어훈련 II"	/>
+		<msg	id="17"	cont="액스 스페셜리티 강화훈련"	/>
+		<msg	id="18"	cont="일루져니스트 기본훈련"	/>
+		<msg	id="19"	cont="일루져니스트 공격훈련 I"	/>
+		<msg	id="20"	cont="일루져니스트 방어훈련 I"	/>
+		<msg	id="21"	cont="일루져니스트 공격훈련 II"	/>
+		<msg	id="22"	cont="일루져니스트 방어훈련 II"	/>
+		<msg	id="23"	cont="그래플러 기본훈련"	/>
+		<msg	id="24"	cont="그래플러 공격훈련 I"	/>
+		<msg	id="25"	cont="그래플러 방어훈련 I"	/>
+		<msg	id="26"	cont="그래플러 공격훈련 II"	/>
+		<msg	id="27"	cont="그래플러 방어훈련 II"	/>
+		<msg	id="28"	cont="크러싱 블로 강화훈련"	/>
+		<msg	id="29"	cont="너클렛 스트라이커 기본훈련"	/>
+		<msg	id="30"	cont="너클렛 스트라이커 공격훈련 I"	/>
+		<msg	id="31"	cont="너클렛 스트라이커 방어훈련 I"	/>
+		<msg	id="32"	cont="너클렛 어택 A 강화훈련"	/>
+		<msg	id="33"	cont="너클렛 어택 B 강화훈련"	/>
+		<msg	id="34"	cont="너클렛 스트라이커 방어훈련 II"	/>
+		<msg	id="35"	cont="너클렛 스페셜리티 강화훈련"	/>
+		<msg	id="36"	cont="체인 캐스터 기본훈련"	/>
+		<msg	id="37"	cont="체인 캐스터 공격훈련 I"	/>
+		<msg	id="38"	cont="체인 캐스터 방어훈련 I"	/>
+		<msg	id="39"	cont="체인 캐스터 공격훈련 II"	/>
+		<msg	id="40"	cont="체인 캐스터 방어훈련 II"	/>
+		<msg	id="41"	cont="더블 캐스터 기본훈련"	/>
+		<msg	id="42"	cont="더블 캐스터 공격훈련 I"	/>
+		<msg	id="43"	cont="더블 캐스터 방어훈련 I"	/>
+		<msg	id="44"	cont="더블 캐스터 공격훈련 II"	/>
+		<msg	id="45"	cont="더블 캐스터 방어훈련 II"	/>
+		<msg	id="46"	cont="엘리멘탈 페스티발 강화훈련"	/>
+		<msg	id="47"	cont="엘리멘탈 도미네이터 기본훈련"	/>
+		<msg	id="48"	cont="엘리멘탈 도미네이터 공격훈련 I"	/>
+		<msg	id="49"	cont="엘리멘탈 도미네이터 방어훈련 I"	/>
+		<msg	id="50"	cont="엘리멘탈 어택 A 강화훈련"	/>
+		<msg	id="51"	cont="엘리멘탈 어택 B 강화훈련"	/>
+		<msg	id="52"	cont="엘리멘탈 도미네이터 방어훈련 II"	/>
+		<msg	id="53"	cont="엘리멘탈 스페셜리티 강화훈련"	/>
+		<msg	id="54"	cont="멀티 슈터 기본훈련"	/>
+		<msg	id="55"	cont="멀티 슈터 공격훈련 I"	/>
+		<msg	id="56"	cont="멀티 슈터 방어훈련 I"	/>
+		<msg	id="57"	cont="멀티 슈터 공격훈련 II"	/>
+		<msg	id="58"	cont="멀티 슈터 방어훈련 II"	/>
+		<msg	id="59"	cont="트윈 건너 기본훈련"	/>
+		<msg	id="60"	cont="트윈 건너 공격훈련 I"	/>
+		<msg	id="61"	cont="트윈 건너 방어훈련 I"	/>
+		<msg	id="62"	cont="트윈 건너 공격훈련 II"	/>
+		<msg	id="63"	cont="트윈 건너 방어훈련 II"	/>
+		<msg	id="64"	cont="페이탈 샷 강화훈련"	/>
+		<msg	id="65"	cont="런처 퍼니셔 기본훈련"	/>
+		<msg	id="66"	cont="런처 퍼니셔 공격훈련 I"	/>
+		<msg	id="67"	cont="런처 퍼니셔 방어훈련 I"	/>
+		<msg	id="68"	cont="런처 어택 A 강화훈련"	/>
+		<msg	id="69"	cont="런처 어택 B 강화훈련"	/>
+		<msg	id="70"	cont="런처 퍼니셔 방어훈련 II"	/>
+		<msg	id="71"	cont="런처 스페셜리티 강화훈련"	/>
+		<msg	id="72"	cont="카운터 어태커 기본훈련"	/>
+		<msg	id="73"	cont="카운터 어태커 공격훈련 I"	/>
+		<msg	id="74"	cont="카운터 어태커 방어훈련 I"	/>
+		<msg	id="75"	cont="카운터 어태커 공격훈련 II"	/>
+		<msg	id="76"	cont="카운터 어태커 방어훈련 II"	/>
+		<msg	id="77"	cont="실드 마스터 기본훈련"	/>
+		<msg	id="78"	cont="실드 마스터 공격훈련 I"	/>
+		<msg	id="79"	cont="실드 마스터 방어훈련 I"	/>
+		<msg	id="80"	cont="실드 마스터 공격훈련 II"	/>
+		<msg	id="81"	cont="실드 마스터 방어훈련 II"	/>
+		<msg	id="82"	cont="실드 스톰 강화훈련"	/>
+		<msg	id="83"	cont="해머 크러셔 기본훈련"	/>
+		<msg	id="84"	cont="해머 크러셔 공격훈련 I"	/>
+		<msg	id="85"	cont="해머 크러셔 방어훈련 I"	/>
+		<msg	id="86"	cont="해머 어택 A 강화훈련"	/>
+		<msg	id="87"	cont="해머 어택 B 강화훈련"	/>
+		<msg	id="88"	cont="해머 크러셔 방어훈련 II"	/>
+		<msg	id="89"	cont="해머 스페셜리티 강화훈련"	/>
+		<msg	id="90"	cont="포스 인챈터 기본훈련"	/>
+		<msg	id="91"	cont="포스 인챈터 공격훈련 I"	/>
+		<msg	id="92"	cont="포스 인챈터 방어훈련 I"	/>
+		<msg	id="93"	cont="포스 인챈터 공격훈련 II"	/>
+		<msg	id="94"	cont="포스 인챈터 방어훈련 II"	/>
+		<msg	id="95"	cont="블레이드 슈터 기본훈련"	/>
+		<msg	id="96"	cont="블레이드 슈터 공격훈련 I"	/>
+		<msg	id="97"	cont="블레이드 슈터 방어훈련 I"	/>
+		<msg	id="98"	cont="블레이드 슈터 공격훈련 II"	/>
+		<msg	id="99"	cont="블레이드 슈터 방어훈련 II"	/>
+		<msg	id="100"	cont="프리즈마틱 블레이드캐논 강화훈련"	/>
+		<msg	id="101"	cont="소드 스플리터 기본훈련"	/>
+		<msg	id="102"	cont="소드 스플리터 공격훈련 I"	/>
+		<msg	id="103"	cont="소드 스플리터 방어훈련 I"	/>
+		<msg	id="104"	cont="스플릿 어택 A 강화훈련"	/>
+		<msg	id="105"	cont="스플릿 어택 B 강화훈련"	/>
+		<msg	id="106"	cont="소드 스플리터 방어훈련 II"	/>
+		<msg	id="107"	cont="스플릿 스페셜리티 강화훈련"	/>
+		<msg	id="108"	cont="인파이터 기본훈련"	/>
+		<msg	id="109"	cont="인파이터 공격훈련 I"	/>
+		<msg	id="110"	cont="인파이터 방어훈련 I"	/>
+		<msg	id="111"	cont="인파이터 공격훈련 II"	/>
+		<msg	id="112"	cont="인파이터 방어훈련 II"	/>
+		<msg	id="113"	cont="데스사이더 기본훈련"	/>
+		<msg	id="114"	cont="데스사이더 공격훈련 I"	/>
+		<msg	id="115"	cont="데스사이더 방어훈련 I"	/>
+		<msg	id="116"	cont="데스사이더 공격훈련 II"	/>
+		<msg	id="117"	cont="데스사이더 방어훈련 II"	/>
+		<msg	id="118"	cont="데스사이더 길로틴 강화훈련"	/>
+		<msg	id="119"	cont="제노사이더 기본훈련"	/>
+		<msg	id="120"	cont="제노사이더 공격훈련 I"	/>
+		<msg	id="121"	cont="제노사이더 방어훈련 I"	/>
+		<msg	id="122"	cont="제노사이드 어택 A 강화훈련"	/>
+		<msg	id="123"	cont="제노사이드 어택 B 강화훈련"	/>
+		<msg	id="124"	cont="제노사이더 방어훈련 II"	/>
+		<msg	id="125"	cont="제노사이드 스페셜리티 강화훈련"	/>
+		<msg	id="126"	cont="레인져 기본훈련"	/>
+		<msg	id="127"	cont="레인져 공격훈련 I"	/>
+		<msg	id="128"	cont="레인져 방어훈련 I"	/>
+		<msg	id="129"	cont="레인져 공격훈련 II"	/>
+		<msg	id="130"	cont="레인져 방어훈련 II"	/>
+		<msg	id="131"	cont="헤비 런쳐 기본훈련"	/>
+		<msg	id="132"	cont="헤비 런쳐 공격훈련 I"	/>
+		<msg	id="133"	cont="헤비 런쳐 방어훈련 I"	/>
+		<msg	id="134"	cont="헤비 런쳐 공격훈련 II"	/>
+		<msg	id="135"	cont="헤비 런쳐 방어훈련 II"	/>
+		<msg	id="136"	cont="서페이스 임팩트 강화훈련"	/>
+		<msg	id="137"	cont="히트맨 기본훈련"	/>
+		<msg	id="138"	cont="히트맨 공격훈련 I"	/>
+		<msg	id="139"	cont="히트맨 방어훈련 I"	/>
+		<msg	id="140"	cont="히트맨 어택 A 강화훈련"	/>
+		<msg	id="141"	cont="히트맨 어택 B 강화훈련"	/>
+		<msg	id="142"	cont="히트맨 방어훈련 II"	/>
+		<msg	id="143"	cont="히트맨 스페셜리티 강화훈련"	/>
+		<msg	id="144"	cont="워록 기본훈련"	/>
+		<msg	id="145"	cont="워록 공격훈련 I"	/>
+		<msg	id="146"	cont="워록 방어훈련 I"	/>
+		<msg	id="147"	cont="워록 공격훈련 II"	/>
+		<msg	id="148"	cont="워록 방어훈련 II"	/>
+		<msg	id="149"	cont="그리모어 기본훈련"	/>
+		<msg	id="150"	cont="그리모어 공격훈련 I"	/>
+		<msg	id="151"	cont="그리모어 방어훈련 I"	/>
+		<msg	id="152"	cont="그리모어 공격훈련 II"	/>
+		<msg	id="153"	cont="그리모어 방어훈련 II"	/>
+		<msg	id="154"	cont="데몰리션 레이 강화훈련"	/>
+		<msg	id="155"	cont="데몬 트리거 기본훈련"	/>
+		<msg	id="156"	cont="데몬 트리거 공격훈련 I"	/>
+		<msg	id="157"	cont="데몬 트리거 방어훈련 I"	/>
+		<msg	id="158"	cont="데몬 트리거 어택 A 강화훈련"	/>
+		<msg	id="159"	cont="데몬 트리거 어택 B 강화훈련"	/>
+		<msg	id="160"	cont="데몬 트리거 방어훈련 II"	/>
+		<msg	id="161"	cont="데몬 트리거 스페셜리티 강화훈련"	/>
+	</Perk_Name>
+</Skill_Enhanced_msg>

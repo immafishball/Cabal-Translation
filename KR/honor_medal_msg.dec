@@ -1,0 +1,52 @@
+<honor_medal_message>
+	<honor_medal_name_msg>
+		<msg	id="medal_msg_ca_001"	cont1="광휘의 부장 훈장"	cont2="부장"	/>
+		<msg	id="medal_msg_pro_001"	cont1="폭풍의 부장 훈장"	cont2="부장"	/>
+		<msg	id="medal_msg_ca_002"	cont1="광휘의 대장 훈장"	cont2="대장"	/>
+		<msg	id="medal_msg_pro_002"	cont1="폭풍의 대장 훈장"	cont2="대장"	/>
+		<msg	id="medal_msg_ca_003"	cont1="광휘의 총관 훈장"	cont2="총관"	/>
+		<msg	id="medal_msg_pro_003"	cont1="폭풍의 총관 훈장"	cont2="총관"	/>
+		<msg	id="medal_msg_ca_004"	cont1="광휘의 영웅 훈장"	cont2="영웅"	/>
+		<msg	id="medal_msg_pro_004"	cont1="폭풍의 영웅 훈장"	cont2="영웅"	/>
+		<msg	id="medal_msg_ca_005"	cont1="광휘의 전설 훈장"	cont2="전설"	/>
+		<msg	id="medal_msg_pro_005"	cont1="폭풍의 전설 훈장"	cont2="전설"	/>
+	</honor_medal_name_msg>
+	<honor_medal_force_msg>
+		<msg	force_id="1"	cont="캐릭터의 $33#HP$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="2"	cont="캐릭터의 $33#MP$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="6"	cont="캐릭터의 $33#공격률$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="7"	cont="캐릭터의 $33#방어율$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="37"	cont="캐릭터의 $33#HP 자동 회복$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="38"	cont="캐릭터의 $33#MP 자동 회복$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="45"	cont="캐릭터의 $33#힘$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="46"	cont="캐릭터의 $33#지능$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="47"	cont="캐릭터의 $33#민첩$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="73"	cont="캐릭터의 $33#피해감소 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="74"	cont="캐릭터의 $33#관통 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="36"	cont="캐릭터의 $33#회피$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="79"	cont="캐릭터의 $33#적중$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="78"	cont="캐릭터의 $33#피해감소$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="5"	cont="캐릭터의 $33#방어력$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="113"	cont="캐릭터의 $33#모든 공격력$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="127"	cont="캐릭터의 $33#크리티컬 데미지 저항 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="39"	cont="캐릭터의 $33#추가 데미지 증가$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="98"	cont="캐릭터의 $33#크리티컬 데미지 저항$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="112"	cont="캐릭터의 $33#스킬 증폭 저항$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="71"	cont="캐릭터의 $33#회피 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="72"	cont="캐릭터의 $33#적중 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="8"	cont="캐릭터의 $33#크리티컬 데미지$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="80"	cont="캐릭터의 $33#관통$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="101"	cont="캐릭터의 $33#다운 저항$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="102"	cont="캐릭터의 $33#넉백 저항$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="103"	cont="캐릭터의 $33#스턴 저항$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="114"	cont="캐릭터의 $33#모든 스킬 증폭$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="128"	cont="캐릭터의 $33#스킬 증폭 저항 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="129"	cont="캐릭터의 $33#다운 저항 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="130"	cont="캐릭터의 $33#넉백 저항 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="131"	cont="캐릭터의 $33#스턴 저항 무시$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="139"	cont="캐릭터의 $33#관통 무시 상쇄$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="81"	cont="캐릭터의 $33#피해감소 무시 상쇄$를 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="83"	cont="캐릭터의 $33#제압 저항$을 $33#%s$만큼 상승시킵니다."	/>
+		<msg	force_id="85"	cont="캐릭터의 $33#침묵 저항$을 $33#%s$만큼 상승시킵니다."	/>
+	</honor_medal_force_msg>
+</honor_medal_message>

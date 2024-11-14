@@ -1,0 +1,63 @@
+<stellar_message>
+	<set_msg>
+		<msg	line="1"	grade="1"	desc="갈망의 다이달로스"	/>
+		<msg	line="1"	grade="2"	desc="비탄의 다이달로스"	/>
+		<msg	line="1"	grade="3"	desc="격노의 다이달로스"	/>
+		<msg	line="1"	grade="4"	desc="망각의 다이달로스"	/>
+		<msg	line="1"	grade="5"	desc="공허의 다이달로스"	/>
+		<msg	line="2"	grade="1"	desc="갈망의 이카루스"	/>
+		<msg	line="2"	grade="2"	desc="비탄의 이카루스"	/>
+		<msg	line="2"	grade="3"	desc="격노의 이카루스"	/>
+		<msg	line="2"	grade="4"	desc="망각의 이카루스"	/>
+		<msg	line="2"	grade="5"	desc="공허의 이카루스"	/>
+		<msg	line="3"	grade="1"	desc="갈망의 불카노스"	/>
+		<msg	line="3"	grade="2"	desc="비탄의 불카노스"	/>
+		<msg	line="3"	grade="3"	desc="격노의 불카노스"	/>
+		<msg	line="3"	grade="4"	desc="망각의 불카노스"	/>
+		<msg	line="3"	grade="5"	desc="공허의 불카노스"	/>
+		<msg	line="4"	grade="1"	desc="갈망의 미네르바"	/>
+		<msg	line="4"	grade="2"	desc="비탄의 미네르바"	/>
+		<msg	line="4"	grade="3"	desc="격노의 미네르바"	/>
+		<msg	line="4"	grade="4"	desc="망각의 미네르바"	/>
+		<msg	line="4"	grade="5"	desc="공허의 미네르바"	/>
+		<msg	line="5"	grade="1"	desc="갈망의 플로토"	/>
+		<msg	line="5"	grade="2"	desc="비탄의 플로토"	/>
+		<msg	line="5"	grade="3"	desc="격노의 플로토"	/>
+		<msg	line="5"	grade="4"	desc="망각의 플로토"	/>
+		<msg	line="5"	grade="5"	desc="공허의 플로토"	/>
+	</set_msg>
+	<grade_msg>
+		<msg	id="1"	desc="갈망"	/>
+		<msg	id="2"	desc="비탄"	/>
+		<msg	id="3"	desc="격노"	/>
+		<msg	id="4"	desc="망각"	/>
+		<msg	id="5"	desc="공허"	/>
+	</grade_msg>
+	<graderange_msg>
+		<msg	id="101"	desc="갈망 ~ 공허"	/>
+		<msg	id="102"	desc="갈망 ~ 공허"	/>
+		<msg	id="103"	desc="갈망 ~ 공허"	/>
+		<msg	id="104"	desc="갈망 ~ 공허"	/>
+		<msg	id="105"	desc="비탄 ~ 공허"	/>
+		<msg	id="101"	desc="갈망 ~ 공허"	/>
+		<msg	id="102"	desc="갈망 ~ 공허"	/>
+		<msg	id="103"	desc="갈망 ~ 공허"	/>
+		<msg	id="104"	desc="갈망 ~ 공허"	/>
+		<msg	id="105"	desc="비탄 ~ 공허"	/>
+		<msg	id="101"	desc="갈망 ~ 공허"	/>
+		<msg	id="102"	desc="갈망 ~ 공허"	/>
+		<msg	id="103"	desc="갈망 ~ 공허"	/>
+		<msg	id="104"	desc="갈망 ~ 공허"	/>
+		<msg	id="105"	desc="비탄 ~ 공허"	/>
+		<msg	id="101"	desc="갈망 ~ 공허"	/>
+		<msg	id="102"	desc="갈망 ~ 공허"	/>
+		<msg	id="103"	desc="갈망 ~ 공허"	/>
+		<msg	id="104"	desc="갈망 ~ 공허"	/>
+		<msg	id="105"	desc="비탄 ~ 공허"	/>
+		<msg	id="101"	desc="갈망 ~ 공허"	/>
+		<msg	id="102"	desc="갈망 ~ 공허"	/>
+		<msg	id="103"	desc="갈망 ~ 공허"	/>
+		<msg	id="104"	desc="갈망 ~ 공허"	/>
+		<msg	id="105"	desc="비탄 ~ 공허"	/>
+	</graderange_msg>
+</stellar_message>

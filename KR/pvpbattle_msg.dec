@@ -1,0 +1,30 @@
+<pvpbattle_message>
+	<version	index="1"	/>
+	<battle_map_msg>
+		<msg	id="battle_map01"	cont="펜타 몬테스"	/>
+	</battle_map_msg>
+	<mode_msg>
+		<msg	id="battle_mode01"	cont="2 vs 2"	/>
+		<msg	id="battle_mode02"	cont="3 vs 3"	/>
+		<msg	id="battle_mode03"	cont="5 vs 5"	/>
+		<msg	id="battle_mode04"	cont="7 vs 7"	/>
+	</mode_msg>
+	<time_msg>
+		<msg	id="battle_time01"	cont="10분"	/>
+		<msg	id="battle_time02"	cont="15분"	/>
+		<msg	id="battle_time03"	cont="20분"	/>
+		<msg	id="battle_time04"	cont="30분"	/>
+	</time_msg>
+	<kill_msg>
+		<msg	id="battle_kill01"	cont="10킬"	/>
+		<msg	id="battle_kill02"	cont="30킬"	/>
+		<msg	id="battle_kill03"	cont="50킬"	/>
+	</kill_msg>
+	<room_name_msg>
+		<msg	id="default_name001"	cont="초보만 오세요~"	/>
+		<msg	id="default_name002"	cont="매너 대전 하실분!"	/>
+		<msg	id="default_name003"	cont="들어오면 바로 고!"	/>
+		<msg	id="default_name004"	cont="한수 가르쳐 주실 분"	/>
+	</room_name_msg>
+</pvpbattle_message>
+

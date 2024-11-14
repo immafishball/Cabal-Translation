@@ -1,0 +1,166 @@
+<Skill_Enhanced_msg>
+	<Perk_Name>
+		<msg id="0" cont="Berserker Basic Training" />
+		<msg id="1" cont="Berserker Attack Training I" />
+		<msg id="10" cont="Lance Drive Enhancement Training" />
+		<msg id="100" cont="Prismatic Blade Cannon Enhancement Training" />
+		<msg id="101" cont="Sword Spliter Basic Training" />
+		<msg id="102" cont="Sword Spliter Attack Training I" />
+		<msg id="103" cont="Sword Spliter Defense Training I" />
+		<msg id="104" cont="Split Attack A Enhancement Training" />
+		<msg id="105" cont="Split Attack B Enhancement Training" />
+		<msg id="106" cont="Sword Spliter Defense Training II" />
+		<msg id="107" cont="Split Speciality Enhancement Training" />
+		<msg id="108" cont="Infighter Basic Training" />
+		<msg id="109" cont="Infighter Attack Training I" />
+		<msg id="11" cont="Axe Destroyer Basic Training" />
+		<msg id="110" cont="Infighter Defense Training I" />
+		<msg id="111" cont="Infighter Attack Training II" />
+		<msg id="112" cont="Infighter Defense Training II" />
+		<msg id="113" cont="Deathsider Basic Training" />
+		<msg id="114" cont="Deathsider Attack Training I" />
+		<msg id="115" cont="Deathsider Defense Training I" />
+		<msg id="116" cont="Deathsider Attack Training II" />
+		<msg id="117" cont="Deathsider Defense Training II" />
+		<msg id="118" cont="Deathsider Guillotine Enhancement Training" />
+		<msg id="119" cont="Genocider Basic Training" />
+		<msg id="12" cont="Axe Destroyer Attack Training I" />
+		<msg id="120" cont="Genocider Attack Training I" />
+		<msg id="121" cont="Genocider Defense Training I" />
+		<msg id="122" cont="Genocide Attack A Enhancement Training" />
+		<msg id="123" cont="Genocide Attack B Enhancement Training" />
+		<msg id="124" cont="Genocider Defense Training II" />
+		<msg id="125" cont="Genocide Speciality Enhancement Training" />
+		<msg id="126" cont="Ranger Basic Training" />
+		<msg id="127" cont="Ranger Attack Training I" />
+		<msg id="128" cont="Ranger Defense Training I" />
+		<msg id="129" cont="Ranger Attack Training II" />
+		<msg id="13" cont="Axe Destroyer Defense Training I" />
+		<msg id="130" cont="Ranger Defense Training II" />
+		<msg id="131" cont="Heavy Launcher Basic Training" />
+		<msg id="132" cont="Heavy Launcher Attack Training I" />
+		<msg id="133" cont="Heavy Launcher Defense Training I" />
+		<msg id="134" cont="Heavy Launcher Attack Training II" />
+		<msg id="135" cont="Heavy Launcher Defense Training II" />
+		<msg id="136" cont="Surface Impact Enhancement Training" />
+		<msg id="137" cont="Hitman Basic Training" />
+		<msg id="138" cont="Hitman Attack Training I" />
+		<msg id="139" cont="Hitman Defense Training I" />
+		<msg id="14" cont="Axe Attack A Enhancement Training" />
+		<msg id="140" cont="Hitman Attack A Enhancement Training" />
+		<msg id="141" cont="Hitman Attack B Enhancement Training" />
+		<msg id="142" cont="Hitman Defense Training II" />
+		<msg id="143" cont="Hitman Speciality Enhancement Training" />
+		<msg id="144" cont="Warlock Basic Training" />
+		<msg id="145" cont="Warlock Attack Training I" />
+		<msg id="146" cont="Warlock Defense Training I" />
+		<msg id="147" cont="Warlock Attack Training II" />
+		<msg id="148" cont="Warlock Defense Training II" />
+		<msg id="149" cont="Grimoire Basic Training" />
+		<msg id="15" cont="Axe Attack B Enhancement Training" />
+		<msg id="150" cont="Grimoire Attack Training I" />
+		<msg id="151" cont="Grimoire Defense Training I" />
+		<msg id="152" cont="Grimoire Attack Training II" />
+		<msg id="153" cont="Grimoire Defense Training II" />
+		<msg id="154" cont="Demolision Ray Enhancement Training" />
+		<msg id="155" cont="Demon Trigger Basic Training" />
+		<msg id="156" cont="Demon Trigger Attack Training I" />
+		<msg id="157" cont="Demon Trigger Defense Training I" />
+		<msg id="158" cont="Demon Trigger Attack A Enhancement Training" />
+		<msg id="159" cont="Demon Trigger Attack B Enhancement Training" />
+		<msg id="16" cont="Axe Destroyer Defense Training II" />
+		<msg id="160" cont="Demon Trigger Defense Training II" />
+		<msg id="161" cont="Demon Trigger Speciality Enhancement Training" />
+		<msg id="17" cont="Axe Speicality Enhancement Training" />
+		<msg id="18" cont="Illusionist Basic Training" />
+		<msg id="19" cont="Illusionist Attack Training I" />
+		<msg id="2" cont="Berserker Defense Training I" />
+		<msg id="20" cont="Illusionist Defense Training I" />
+		<msg id="21" cont="Illusionist Attack Training II" />
+		<msg id="22" cont="Illusionist Defense Training II" />
+		<msg id="23" cont="Grappler Basic Training" />
+		<msg id="24" cont="Grappler Attack Training I" />
+		<msg id="25" cont="Grappler Defense Training I" />
+		<msg id="26" cont="Grappler Attack Training II" />
+		<msg id="27" cont="Grappler Defense Training II" />
+		<msg id="28" cont="Crushing Blow Enhancement Training" />
+		<msg id="29" cont="Knucklet Striker Basic Training" />
+		<msg id="3" cont="Berserker Attack Training II" />
+		<msg id="30" cont="Knucklet Striker Attack Training I" />
+		<msg id="31" cont="Knucklet Striker Defense Training I" />
+		<msg id="32" cont="Knucklet Attack A Enhancement Training" />
+		<msg id="33" cont="Knucklet Attack B Enhancement Training" />
+		<msg id="34" cont="Knucklet Striker Defense Training II" />
+		<msg id="35" cont="Knucklet Striker Basic Training" />
+		<msg id="36" cont="Chain Caster Basic Training" />
+		<msg id="37" cont="Chain Caster Attack Training I" />
+		<msg id="38" cont="Chain Caster Defense Training I" />
+		<msg id="39" cont="Chain Caster Attack Training II" />
+		<msg id="4" cont="Berserker Defense Training II" />
+		<msg id="40" cont="Chain Caster Defense Training II" />
+		<msg id="41" cont="Double Caster Basic Training" />
+		<msg id="42" cont="Double Caster Attack Training I" />
+		<msg id="43" cont="Double Caster Defense Training I" />
+		<msg id="44" cont="Double Caster Attack Training II" />
+		<msg id="45" cont="Double Caster Defense Training II" />
+		<msg id="46" cont="Elemental Festival Enhancement Training" />
+		<msg id="47" cont="Elemental Dominator Basic Training" />
+		<msg id="48" cont="Elemental Dominator Attack Training I" />
+		<msg id="49" cont="Elemental Dominator Defense Training I" />
+		<msg id="5" cont="Lancer Basic Training" />
+		<msg id="50" cont="Elemental Attack A Enhancement Training" />
+		<msg id="51" cont="Elemental Attack B Enhancement Training" />
+		<msg id="52" cont="Elemental Dominator Defense Training II" />
+		<msg id="53" cont="Elemental Speciality Enhancement Training" />
+		<msg id="54" cont="Multi-Shooter Basic Training" />
+		<msg id="55" cont="Multi-Shooter Attack Training I" />
+		<msg id="56" cont="Multi-Shooter Defense Training I" />
+		<msg id="57" cont="Multi-Shooter Attack Training II" />
+		<msg id="58" cont="Multi-Shooter Defense Training II" />
+		<msg id="59" cont="Twin Gunner Basic Training" />
+		<msg id="6" cont="Lancer Attack Training I" />
+		<msg id="60" cont="Twin Gunner Attack Training I" />
+		<msg id="61" cont="Twin Gunner Defense Training I" />
+		<msg id="62" cont="Twin Gunner Attack Training II" />
+		<msg id="63" cont="Twin Gunner Defense Training II" />
+		<msg id="64" cont="Fatal Shot Enhancement Training" />
+		<msg id="65" cont="Launcher Furnisher Basic Training" />
+		<msg id="66" cont="Launcher Furnisher Attack Training I" />
+		<msg id="67" cont="Launcher Furnisher Defense Training I" />
+		<msg id="68" cont="Launcher Attack A Enhancement Training" />
+		<msg id="69" cont="Launcher Attack B Enhancement Training" />
+		<msg id="7" cont="Lancer Defense Training I" />
+		<msg id="70" cont="Launcher Furnisher Defense Training II" />
+		<msg id="71" cont="Launcher Speciality Enhancement Training" />
+		<msg id="72" cont="Counter Attacker Basic Training" />
+		<msg id="73" cont="Counter Attacker Attack Training I" />
+		<msg id="74" cont="Counter Attacker Defense Training I" />
+		<msg id="75" cont="Counter Attacker Attack Training II" />
+		<msg id="76" cont="Counter Attacker Defense Training II" />
+		<msg id="77" cont="Shield Master Basic Training" />
+		<msg id="78" cont="Shield Master Attack Training I" />
+		<msg id="79" cont="Shield Master Defense Training I" />
+		<msg id="8" cont="Lancer Attack Training II" />
+		<msg id="80" cont="Shield Master Attack Training II" />
+		<msg id="81" cont="Shield Master Defense Training II" />
+		<msg id="82" cont="Shield Storm Enhancement Training" />
+		<msg id="83" cont="Hammer Crusher Basic Training" />
+		<msg id="84" cont="Hammer Crusher Attack Training I" />
+		<msg id="85" cont="Hammer Crusher Defense Training I" />
+		<msg id="86" cont="Hammer Attack A Enhancement Training" />
+		<msg id="87" cont="Hammer Attack B Enhancement Training" />
+		<msg id="88" cont="Hammer Crusher Defense Training II" />
+		<msg id="89" cont="Hammer Speciality Enhancement Training" />
+		<msg id="9" cont="Lancer Defense Training II" />
+		<msg id="90" cont="Force Enchanter Basic Training" />
+		<msg id="91" cont="Force Enchanter Attack Training I" />
+		<msg id="92" cont="Force Enchanter Defense Training I" />
+		<msg id="93" cont="Force Enchanter Attack Training II" />
+		<msg id="94" cont="Force Enchanter Defense Training II" />
+		<msg id="95" cont="Blade Shooter Basic Training" />
+		<msg id="96" cont="Blade Shooter Attack Training I" />
+		<msg id="97" cont="Blade Shooter Defense Training I" />
+		<msg id="98" cont="Blade Shooter Attack Training II" />
+		<msg id="99" cont="Blade Shooter Defense Training II" />
+	</Perk_Name>
+</Skill_Enhanced_msg>

@@ -1,0 +1,50 @@
+<awakenauremode_msg>
+	<main>
+		<auramode_main	Category="1"	category_name="Flame Aura"	/>
+		<auramode_main	Category="2"	category_name="Lightning Aura"	/>
+		<auramode_main	Category="3"	category_name="Aqua Aura"	/>
+		<auramode_main	Category="4"	category_name="Ice Aura"	/>
+	</main>
+	<awakenauremode_slot_msg>
+		<msg	Category="1"	slot_index="1"	slot_name="All Attack I"	desc="Improve Character's $5#All Attack I$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="2"	slot_name="All Attack II"	desc="Improve Character's $5#All Attack II$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="3"	slot_name="Ignore Evasion I"	desc="Improve Character's $5#Ignore Evasion I$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="4"	slot_name="Ignore Resist Skill Amp."	desc="Improve Character's $5#Ignore Resist Skill Amp.$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="5"	slot_name="Ignore Evasion II"	desc="Improve Character's $5#Ignore Evasion II$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="6"	slot_name="Ignore Resist Critical DMG I"	desc="Improve Character's $5#Ignore Resist Critical DMG I$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="7"	slot_name="Ignore Resist Critical DMG II"	desc="Improve Character's $5#Ignore Resist Critical DMG II$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="8"	slot_name="Ignore Damage Reduction"	desc="Improve Character's $5#Ignore Damage Reduction$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="9"	slot_name="Cancel Ignore Penetration"	desc="Improve Character's $5#Cancel Ignore Penetration$ by $5#{}$."	/>
+		<msg	Category="1"	slot_index="10"	slot_name="Aura Mode Duration Increase"	desc="Improve Character's $5#Aura Mode Duration Increase$ by $5#{}sec.$"	/>
+		<msg	Category="2"	slot_index="1"	slot_name="All Attack I"	desc="Improve Character's $5#All Attack I$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="2"	slot_name="All Attack II"	desc="Improve Character's $5#All Attack II$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="3"	slot_name="Accuracy I"	desc="Improve Character's $5#Accuracy I$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="4"	slot_name="Accuracy II"	desc="Improve Character's $5#Accuracy II$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="5"	slot_name="PVE Critical DMG I"	desc="Improve Character's $5#PVE Critical DMG I$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="6"	slot_name="PVE Penetration I"	desc="Improve Character's $5#PVE Penetration I$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="7"	slot_name="PVE Penetration II"	desc="Improve Character's $5#PVE Penetration II$ by $5#{}$"	/>
+		<msg	Category="2"	slot_index="8"	slot_name="PVE Critical DMG II"	desc="Improve Character's $5#PVE Critical DMG II$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="9"	slot_name="PVE Skill Amp."	desc="Improve Character's $5#PVE Skill Amp.$ by $5#{}$."	/>
+		<msg	Category="2"	slot_index="10"	slot_name="Aura Mode Duration Increase"	desc="Improve Character's $5#Aura Mode Duration Increase$ by $5#{}sec.$"	/>
+		<msg	Category="3"	slot_index="1"	slot_name="Ignore Accuracy I"	desc="Improve Character's $5#Ignore Accuracy I$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="2"	slot_name="Cancel Ignore Evasion I"	desc="Improve Character's $5#Cancel Ignore Evasion I$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="3"	slot_name="Cancel Ignore DMG Reduction I"	desc="Improve Character's $5#Cancel Ignore DMG Reduction I$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="4"	slot_name="Resist Critical DMG I"	desc="Improve Character's $5#Resist Critical DMG I$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="5"	slot_name="Ignore Evasion II"	desc="Improve Character's $5#Ignore Evasion II$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="6"	slot_name="Cancel Ignore Evasion  II"	desc="Improve Character's $5#Cancel Ignore Evasion II$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="7"	slot_name="Cancel Ignore DMG Reduction II"	desc="Improve Character's $5#Cancel Ignore DMG Reduction II$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="8"	slot_name="Resist Critical DMG II"	desc="Improve Character's $5#Resist Critical DMG II$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="9"	slot_name="Ignore Resist Skill Amp."	desc="Improve Character's $5#Ignore Resist Skill Amp.$ by $5#{}$."	/>
+		<msg	Category="3"	slot_index="10"	slot_name="Aura Mode Duration Increase"	desc="Improve Character's $5#Aura Mode Duration Increase$ by $5#{}sec.$"	/>
+		<msg	Category="4"	slot_index="1"	slot_name="PVE Defense I"	desc="Improve Character's $5# PVE Defense I$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="2"	slot_name="Evasion I"	desc="Improve Character's $5#Evasion I$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="3"	slot_name="HP Increase"	desc="Improve Character's $5#Max HP $ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="4"	slot_name="DMG Reduction I"	desc="Improve Character's $5#DMG Reduction I$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="5"	slot_name="Evasion II"	desc="Improve Character's $5#Evasion II$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="6"	slot_name="Ignore Penetration I"	desc="Improve Character's $5#Ignore Penetration I$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="7"	slot_name="DMG Reduction II"	desc="Improve Character's $5#DMG Reduction II$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="8"	slot_name="Defense II"	desc="Improve Character's $5#Defense II$ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="9"	slot_name="Ignore Penetration II"	desc="Improve Character's $5#Ignore Penetration II $ by $5#{}$."	/>
+		<msg	Category="4"	slot_index="10"	slot_name="Aura Mode Duration Increase"	desc="Improve Character's $5#Aura Mode Duration Increase$ by $5#{}sec.$"	/>
+	</awakenauremode_slot_msg>
+</awakenauremode_msg>

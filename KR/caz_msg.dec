@@ -1,0 +1,129 @@
+
+<cabal_message>
+	<version	index="1"	/>
+	<caz_msg>
+		<msg	id="freeuser_svc_00"	cont="무료 이용자"	/>
+		<msg	id="duration_svc_00"	cont="프리미엄 PC방"	/>
+		<msg	id="duration_svc_01"	cont="플래티넘 아이템"	/>
+		<msg	id="duration_svc_02"	cont="아카데미 키트 아이템"	/>
+		<msg	id="duration_svc_03"	cont="장인 키트 아이템"	/>
+		<msg	id="duration_svc_04"	cont="모험가 키트 아이템"	/>
+		<msg	id="duration_svc_05"	cont="고급 플래티넘 아이템"	/>
+		<msg	id="duration_svc_06"	cont="프리미엄 아이템 (더미데이터1)"	/>
+		<msg	id="duration_svc_07"	cont="프리미엄 아이템 (더미데이터2)"	/>
+		<msg	id="duration_svc_08"	cont="프리미엄 아이템 (더미데이터3)"	/>
+		<msg	id="duration_svc_09"	cont="프리미엄 아이템 (더미데이터4)"	/>
+		<msg	id="duration_svc_10"	cont="프리미엄 아이템 (더미데이터5)"	/>
+		<msg	id="duration_svc_11"	cont="프리미엄 아이템 (더미데이터6)"	/>
+		<msg	id="duration_svc_12"	cont="프리미엄 아이템 (더미데이터7)"	/>
+		<msg	id="duration_svc_13"	cont="프리미엄 아이템 (더미데이터8)"	/>
+		<msg	id="duration_svc_14"	cont="프리미엄 아이템 (더미데이터9)"	/>
+		<msg	id="duration_svc_15"	cont="프리미엄 아이템 (더미데이터10)"	/>
+		<msg	id="duration_svc_16"	cont="프리미엄 아이템 (더미데이터11)"	/>
+		<msg	id="duration_svc_17"	cont="프리미엄 아이템 (더미데이터12)"	/>
+		<msg	id="duration_svc_18"	cont="프리미엄 아이템 (더미데이터13)"	/>
+		<msg	id="duration_svc_19"	cont="프리미엄 아이템 (더미데이터14)"	/>
+		<msg	id="duration_svc_20"	cont="프리미엄 아이템 (더미데이터15)"	/>
+		<msg	id="duration_svc_21"	cont="프리미엄 아이템 (더미데이터16)"	/>
+		<msg	id="duration_svc_22"	cont="프리미엄 아이템 (더미데이터17)"	/>
+		<msg	id="duration_svc_23"	cont="프리미엄 아이템 (더미데이터18)"	/>
+		<msg	id="duration_svc_24"	cont="프리미엄 아이템 (더미데이터19)"	/>
+		<msg	id="duration_svc_25"	cont="프리미엄 아이템 (더미데이터20)"	/>
+		<msg	id="duration_svc_26"	cont="프리미엄 아이템 (더미데이터21)"	/>
+		<msg	id="duration_svc_27"	cont="프리미엄 아이템 (더미데이터22)"	/>
+		<msg	id="duration_svc_28"	cont="프리미엄 아이템 (더미데이터23)"	/>
+		<msg	id="duration_svc_29"	cont="프리미엄 아이템 (더미데이터24)"	/>
+		<msg	id="duration_svc_30"	cont="프리미엄 아이템 (더미데이터25)"	/>
+		<msg	id="duration_svc_31"	cont="프리미엄 아이템 (더미데이터26)"	/>
+		<msg	id="duration_svc_32"	cont="프리미엄 아이템 (더미데이터27)"	/>
+		<msg	id="duration_svc_33"	cont="프리미엄 아이템 (더미데이터28)"	/>
+		<msg	id="duration_svc_34"	cont="프리미엄 아이템 (더미데이터29)"	/>
+		<msg	id="duration_svc_35"	cont="프리미엄 아이템 (더미데이터30)"	/>
+		<msg	id="blessingbead_svc_01"	cont="블레싱 비드 - 창고 증가 (4번)"	/>
+		<msg	id="blessingbead_svc_02"	cont="블레싱 비드 - 경험치 증가(10%)"	/>
+		<msg	id="blessingbead_svc_03"	cont="블레싱 비드 - 경험치 증가(25%)"	/>
+		<msg	id="blessingbead_svc_04"	cont="블레싱 비드 - 스킬 경험치 증가(10%)"	/>
+		<msg	id="blessingbead_svc_05"	cont="블레싱 비드 - 스킬 경험치 증가(25%)"	/>
+		<msg	id="blessingbead_svc_06"	cont="블레싱 비드 - 드롭률 증가(50%)"	/>
+		<msg	id="blessingbead_svc_07"	cont="블레싱 비드 - 드롭률 증가(100%)"	/>
+		<msg	id="blessingbead_svc_08"	cont="블레싱 비드 - 플러스"	/>
+		<msg	id="blessingbead_svc_09"	cont="블레싱 비드 - WExp 증가(25%)"	/>
+		<msg	id="blessingbead_svc_10"	cont="블레싱 비드 - 스킬 경험치 증가(50%)"	/>
+		<msg	id="blessingbead_svc_11"	cont="블레싱 비드 - 펫 경험치 증가(100%)"	/>
+		<msg	id="blessingbead_svc_12"	cont="예카테리나 VIP 멤버쉽"	/>
+		<msg	id="blessingbead_svc_13"	cont="블레싱 비드 - AXP 증가(25%)"	/>
+		<msg	id="blessingbead_svc_14"	cont="블레싱 비드 - 경험치 증가(30%)"	/>
+		<msg	id="blessingbead_svc_15"	cont="블레싱 비드 - 스킬 경험치 증가(100%)"	/>
+		<msg	id="blessingbead_svc_16"	cont="블레싱 비드 - WExp 증가(50%)"	/>
+		<msg	id="blessingbead_svc_17"	cont="블레싱 비드 - 경험치 증가(40%)"	/>
+		<msg	id="blessingbead_svc_18"	cont="블레싱 비드 - 스킬 경험치 증가(40%)"	/>
+		<msg	id="blessingbead_svc_19"	cont="블레싱 비드 - 더미"	/>
+		<msg	id="blessingbead_svc_20"	cont="블레싱 비드 - 포인트 증가(100%)"	/>
+		<msg	id="blessingbead_svc_21"	cont="블레싱 비드 - WExp 증가(10%)"	/>
+		<msg	id="blessingbead_svc_22"	cont="블레싱 비드 - 경험치 증가(50%)"	/>
+		<msg	id="blessingbead_svc_23"	cont="블레싱 비드 - 경험치 증가(100%)"	/>
+		<msg	id="blessingbead_svc_24"	cont="블레싱 비드 - 제작 의뢰 슬롯 증가(8개)"	/>
+		<msg	id="blessingbead_svc_25"	cont="블레싱 비드 - 폭탄 Alz 확률 증가(100%)"	/>
+		<msg	id="blessingbead_svc_26"	cont="블레싱 비드 - 경험치 증가(80%)"	/>
+		<msg	id="blessingbead_svc_27"	cont="블레싱 비드 - AXP 증가(40%)"	/>
+		<msg	id="blessingbead_svc_28"	cont="블레싱 비드 - AXP 증가(80%)"	/>
+		<msg	id="blessingbead_svc_29"	cont="블레싱 비드 - 스킬경험치 증가(200%)"	/>
+		<msg	id="blessingbead_svc_30"	cont="블레싱 비드 - 플러스 (일본용)"	/>
+		<msg	id="blessingbead_svc_31"	cont="예카테리나 골드 멤버쉽"	/>
+		<msg	id="blessingbead_svc_32"	cont="블레싱 비드 - 약화된 망자의 탑 B1F"	/>
+		<msg	id="blessingbead_svc_33"	cont="펫 슬롯 익스텐더"	/>
+		<msg	id="blessingbead_svc_34"	cont="더미 데이터 1"	/>
+		<msg	id="blessingbead_svc_35"	cont="더미 데이터 2"	/>
+		<msg	id="blessingbead_svc_36"	cont="블레싱 비드 - 경험치 증가(150%)"	/>
+		<msg	id="blessingbead_svc_37"	cont="블레싱 비드 - 경험치 증가(200%)"	/>
+		<msg	id="blessingbead_svc_38"	cont="블레싱 비드 - 스킬 경험치 증가(150%)"	/>
+		<msg	id="blessingbead_svc_39"	cont="블레싱 비드 - WExp 증가(75%)"	/>
+		<msg	id="blessingbead_svc_40"	cont="블레싱 비드 - WExp 증가(100%)"	/>
+		<msg	id="blessingbead_svc_41"	cont="블레싱 비드 - AXP 증가(100%)"	/>
+		<msg	id="blessingbead_svc_42"	cont="블레싱 비드 - AXP 증가(200%)"	/>
+		<msg	id="blessingbead_svc_43"	cont="블레싱 비드 - 펫 경험치 증가(200%)"	/>
+		<msg	id="blessingbead_svc_44"	cont="블레싱 비드 - 펫 경험치 증가(300%)"	/>
+		<msg	id="blessingbead_svc_45"	cont="블레싱 비드 - 플러스 (해외용)"	/>
+		<msg	id="blessingbead_svc_46"	cont="블레싱 비드 - AXP 증가(10%)"	/>
+		<msg	id="blessingbead_svc_47"	cont="블레싱 비드 - AXP 증가(50%)"	/>
+		<msg	id="blessingbead_svc_48"	cont="블레싱 비드 - AXP 증가(75%)"	/>
+		<msg	id="blessingbead_svc_49"	cont="블레싱 비드 - GPS 워프"	/>
+		<msg	id="blessingbead_svc_50"	cont="예카테리나 멤버쉽"	/>
+		<msg	id="blessingbead_svc_51"	cont="블레싱 비드 - 창고 증가 (5번)"	/>
+		<msg	id="blessingbead_svc_52"	cont="블레싱 비드 - 창고 증가 (6번)"	/>
+		<msg	id="blessingbead_svc_53"	cont="블레싱 비드 - 창고 증가 (7번)"	/>
+		<msg	id="blessingbead_svc_54"	cont="블레싱 비드 - 창고 증가 (8번)"	/>
+		<msg	id="blessingbead_svc_55"	cont="블레싱 비드 - 슈프림"	/>
+		<msg	id="blessingbead_svc_56"	cont="블레싱 비드 - 울티밋"	/>
+		<msg	id="blessingbead_svc_57"	cont="더미 데이터 5"	/>
+		<msg	id="blessingbead_svc_58"	cont="더미 데이터 6"	/>
+		<msg	id="blessingbead_svc_59"	cont="더미 데이터 7"	/>
+		<msg	id="blessingbead_svc_60"	cont="블레싱 비드 - 스페셜 인벤토리"	/>
+		<msg	id="blessingbead_svc_61"	cont="블레싱 비드 - WExp 증가(200%)"	/>
+		<msg	id="blessingbead_svc_62"	cont="블레싱 비드 - 박스 드롭률 증가(100%)"	/>
+		<msg	id="blessingbead_svc_63"	cont="블레싱 비드 - 박스 드롭률 증가(200%)"	/>
+		<msg	id="blessingbead_svc_64"	cont="블레싱 비드 - 박스 드롭률 증가(300%)"	/>
+		<msg	id="blessingbead_svc_65"	cont="블레싱 비드 - 슈페리어"	/>
+		<msg	id="blessingbead_svc_66"	cont="블레싱 비드 - 펫 경험치 증가(1000%)"	/>
+		<msg	id="blessingbead_svc_67"	cont="예카테리나 레드 멤버쉽"	/>
+		<msg	id="blessingbead_svc_68"	cont="블레싱 비드 - 코스튬 창고 증가 (2번)"	/>
+		<msg	id="blessingbead_svc_69"	cont="블레싱 비드 - 코스튬 창고 증가 (3번)"	/>
+		<msg	id="blessingbead_svc_70"	cont="블레싱 비드 - 코스튬 창고 증가 (4번)"	/>
+		<msg	id="blessingbead_svc_71"	cont="블레싱 비드 - 코스튬 창고"	/>
+		<msg	id="blessingbead_svc_72"	cont="예카테리나 스페셜 멤버쉽"	/>
+		<msg	id="blessingbead_svc_73"	cont="블레싱 비드 - 포스 윙 경험치 증가(200%)"	/>
+		<msg	id="blessingbead_svc_74"	cont="블레싱 비드 - 포스 윙 경험치 증가(1000%)"	/>
+		<msg	id="blessingbead_svc_75"	cont="블레싱 비드 - 경험치 증가(1000%)"	/>
+		<msg	id="blessingbead_svc_76"	cont="블레싱 비드 - 스킬 경험치 증가(1000%)"	/>
+		<msg	id="blessingbead_svc_77"	cont="블레싱 비드 - WExp 증가(1000%)"	/>
+		<msg	id="blessingbead_svc_78"	cont="블레싱 비드 - AXP 증가(1000%)"	/>
+		<msg	id="blessingbead_svc_79"	cont="블레싱 비드 - 박스 추가 드랍율(1000%)"	/>
+		<msg	id="groupmsg-01"	cont="경험치"	/>
+		<msg	id="groupmsg-02"	cont="드롭률"	/>
+		<msg	id="groupmsg-03"	cont="위탁상점"	/>
+		<msg	id="groupmsg-04"	cont="인벤토리/창고"	/>
+		<msg	id="groupmsg-05"	cont="워프"	/>
+		<msg	id="groupmsg-06"	cont="제조"	/>
+		<msg	id="groupmsg-07"	cont="기타"	/>
+	</caz_msg>
+</cabal_message>

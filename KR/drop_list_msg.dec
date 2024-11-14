@@ -1,0 +1,95 @@
+
+<cabal_drop_list_message>
+	<category_num>
+		<name	category="1"	msg="무기"	/>
+		<name	category="2"	msg="방어구"	/>
+		<name	category="3"	msg="에펄릿"	/>
+		<name	category="4"	msg="바이크"	/>
+		<name	category="5"	msg="익스텐더"	/>
+		<name	category="6"	msg="액세서리"	/>
+		<name	category="7"	msg="재료"	/>
+		<name	category="8"	msg="용병 카드 조각"	/>
+		<name	category="9"	msg="룬"	/>
+		<name	category="10"	msg="귀속 해제석"	/>
+		<name	category="11"	msg="헬멧"	/>
+		<name	category="12"	msg="글러브"	/>
+		<name	category="13"	msg="부츠"	/>
+		<name	category="14"	msg="슈트"	/>
+		<name	category="15"	msg="조각"	/>
+		<name	category="16"	msg="보드"	/>
+		<name	category="17"	msg="장인 무기"	/>
+		<name	category="18"	msg="장인 방어구"	/>
+		<name	category="19"	msg="재화"	/>
+		<name	category="20"	msg="주문서"	/>
+		<name	category="21"	msg="기타"	/>
+		<name	category="22"	msg="참"	/>
+		<name	category="23"	msg="아티팩트"	/>
+	</category_num>
+	<grade_num>
+		<grade	category="1"	num="4"	msg="시트린 / 섀도우 스틸"	/>
+		<grade	category="1"	num="5"	msg="블루스틴"	/>
+		<grade	category="1"	num="6"	msg="페리스틴 / 티타니움"	/>
+		<grade	category="1"	num="7"	msg="아쿠아 / 섀도우 티타니움"	/>
+		<grade	category="1"	num="8"	msg="라피스 / 오스미움"	/>
+		<grade	category="1"	num="9"	msg="토파즈 / 레드 오스미움"	/>
+		<grade	category="1"	num="10"	msg="시그메탈"	/>
+		<grade	category="1"	num="11"	msg="미스릴"	/>
+		<grade	category="1"	num="2001"	msg="라이카누스"	/>
+		<grade	category="1"	num="12"	msg="아크리디움"	/>
+		<grade	category="1"	num="13"	msg="팔라디움"	/>
+		<grade	category="1"	num="14"	msg="데모나이트"	/>
+		<grade	category="1"	num="15"	msg="드래고늄"	/>
+		<grade	category="2"	num="4"	msg="섀도우 스틸 / 아라미드"	/>
+		<grade	category="2"	num="5"	msg="블루스틴"	/>
+		<grade	category="2"	num="6"	msg="티타니움"	/>
+		<grade	category="2"	num="7"	msg="섀도우 티타니움"	/>
+		<grade	category="2"	num="8"	msg="오스미움"	/>
+		<grade	category="2"	num="9"	msg="샤인가드 / 미스틱 / 테라그레이스"	/>
+		<grade	category="2"	num="10"	msg="시그메탈"	/>
+		<grade	category="2"	num="11"	msg="미스릴"	/>
+		<grade	category="2"	num="2002"	msg="드라이 프라메"	/>
+		<grade	category="2"	num="12"	msg="아크리디움"	/>
+		<grade	category="2"	num="13"	msg="팔라디움"	/>
+		<grade	category="2"	num="14"	msg="데모나이트"	/>
+		<grade	category="2"	num="15"	msg="드래고늄"	/>
+		<grade	category="3"	num="4"	msg="섀도우 아라미드"	/>
+		<grade	category="3"	num="5"	msg="블루스틴"	/>
+		<grade	category="3"	num="7"	msg="섀도우"	/>
+		<grade	category="3"	num="6"	msg="티타니움"	/>
+		<grade	category="3"	num="8"	msg="오스미움"	/>
+		<grade	category="3"	num="9"	msg="레어"	/>
+		<grade	category="3"	num="10"	msg="시그메탈"	/>
+		<grade	category="3"	num="11"	msg="미스릴"	/>
+		<grade	category="3"	num="2002"	msg="드라이 프라메"	/>
+		<grade	category="3"	num="12"	msg="아크리디움"	/>
+		<grade	category="3"	num="13"	msg="팔라디움"	/>
+		<grade	category="3"	num="14"	msg="데모나이트"	/>
+		<grade	category="3"	num="15"	msg="드래고늄"	/>
+		<grade	category="17"	num="4"	msg="시트린 / 섀도우 스틸"	/>
+		<grade	category="17"	num="5"	msg="블루스틴"	/>
+		<grade	category="17"	num="6"	msg="페리스틴 / 티타니움"	/>
+		<grade	category="17"	num="7"	msg="아쿠아 / 섀도우 티타니움"	/>
+		<grade	category="17"	num="8"	msg="라피스 / 오스미움"	/>
+		<grade	category="17"	num="9"	msg="토파즈 / 레드 오스미움"	/>
+		<grade	category="17"	num="10"	msg="시그메탈"	/>
+		<grade	category="17"	num="11"	msg="미스릴"	/>
+		<grade	category="17"	num="2001"	msg="라이카누스"	/>
+		<grade	category="17"	num="12"	msg="아크리디움"	/>
+		<grade	category="17"	num="13"	msg="팔라디움"	/>
+		<grade	category="17"	num="14"	msg="데모나이트"	/>
+		<grade	category="17"	num="15"	msg="드래고늄"	/>
+		<grade	category="18"	num="4"	msg="섀도우 스틸 / 아라미드"	/>
+		<grade	category="18"	num="5"	msg="블루스틴"	/>
+		<grade	category="18"	num="6"	msg="티타니움"	/>
+		<grade	category="18"	num="7"	msg="섀도우 티타니움"	/>
+		<grade	category="18"	num="8"	msg="오스미움"	/>
+		<grade	category="18"	num="9"	msg="샤인가드 / 미스틱 / 테라그레이스"	/>
+		<grade	category="18"	num="10"	msg="시그메탈"	/>
+		<grade	category="18"	num="11"	msg="미스릴"	/>
+		<grade	category="18"	num="2002"	msg="드라이 프라메"	/>
+		<grade	category="18"	num="12"	msg="아크리디움"	/>
+		<grade	category="18"	num="13"	msg="팔라디움"	/>
+		<grade	category="18"	num="14"	msg="데모나이트"	/>
+		<grade	category="18"	num="15"	msg="드래고늄"	/>
+	</grade_num>
+</cabal_drop_list_message>

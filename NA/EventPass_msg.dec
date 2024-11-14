@@ -1,0 +1,28 @@
+<EventPass_message>
+	<type_msg>
+		<msg q_type="1" desc="AP Gained"/>
+		<msg q_type="10" desc="Enhancement attempts"/>
+		<msg q_type="11" desc="Craft Requests"/>
+		<msg q_type="12" desc="Guild Treasure Created"/>
+		<msg q_type="13" desc="Monsters Killed"/>
+		<msg q_type="14" desc="Quests Completed"/>
+		<msg q_type="15" desc="Merit Medal Report"/>
+		<msg q_type="16" desc="Merit Medal Evaluation"/>
+		<msg q_type="17" desc="Dungeons Completed"/>
+		<msg q_type="18" desc="Dungeons Entered"/>
+		<msg q_type="19" desc="Completed Daily Missions"/>
+		<msg q_type="2" desc="DP Gained"/>
+		<msg q_type="20" desc="Looted Items"/>
+		<msg q_type="21" desc="Items Used"/>
+		<msg q_type="22" desc="Challenge Mission Score Earned"/>
+		<msg q_type="23" desc="Daily Dungeons Cleared"/>
+		<msg q_type="24" desc="Mission War Participation"/>
+		<msg q_type="3" desc="Consumed AP"/>
+		<msg q_type="4" desc="Consumed DP"/>
+		<msg q_type="5" desc="Looted Alz"/>
+		<msg q_type="6" desc="from Extractions"/>
+		<msg q_type="7" desc="WEXP Gained"/>
+		<msg q_type="8" desc="Consumed WEXP"/>
+		<msg q_type="9" desc="Daily Login"/>
+	</type_msg>
+</EventPass_message>

@@ -1,0 +1,10 @@
+[Svr] 
+Login_Max=1
+
+1_Login_Addr=121.52.205.67
+1_Login_Port=39102
+
+[THWebAddr]
+facebookAdd=https://secure6.playpark.com/play/games/login.aspx?id=facebook&gsid=228&port=
+googleAdd=https://secure6.playpark.com/play/games/login.aspx?id=google&gsid=228&port=
+playId=https://secure6.playpark.com/play/games/login.aspx?id=playid&gsid=228&port=

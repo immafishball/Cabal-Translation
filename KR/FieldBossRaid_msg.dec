@@ -1,0 +1,83 @@
+<RaidBoss_Msg>
+	<RaidBoss_Info_msg>
+		<BossInfo_name	WorldIdx="4"	BossIdx="3420"	Nickname="화산의 심장"	BossName="마르고노스"	/>
+		<BossInfo_name	WorldIdx="5"	BossIdx="3421"	Nickname="습격자"	BossName="라그노"	/>
+		<BossInfo_name	WorldIdx="7"	BossIdx="3422"	Nickname="죽음의 뿔"	BossName="우르혼"	/>
+		<BossInfo_name	WorldIdx="8"	BossIdx="3423"	Nickname="방황하는 영광"	BossName="세트"	/>
+		<BossInfo_name	WorldIdx="6"	BossIdx="3424"	Nickname="파괴의 표식"	BossName="레임스"	/>
+		<BossInfo_name	WorldIdx="9"	BossIdx="3425"	Nickname="제단의 수호자"	BossName="자켄"	/>
+		<BossInfo_name	WorldIdx="10"	BossIdx="3426"	Nickname="미래병기"	BossName="구스타프_Zg"	/>
+		<BossInfo_name	WorldIdx="11"	BossIdx="3427"	Nickname="불꽃의 징벌자"	BossName="헬라이더"	/>
+		<BossInfo_name	WorldIdx="12"	BossIdx="3428"	Nickname="분노의"	BossName="아케인 골렘"	/>
+		<BossInfo_name	WorldIdx="22"	BossIdx="3429"	Nickname="고대의 파괴자"	BossName="켈로수스"	/>
+		<BossInfo_name	WorldIdx="22"	BossIdx="3430"	Nickname="고대의 선봉장"	BossName="카르고스"	/>
+	</RaidBoss_Info_msg>
+	<RewardList_Msg>
+		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="638"	/>
+		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="33557020"	/>
+		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="314"	/>
+		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="311"	/>
+		<RewardList	WorldIdx="4"	BossIdx="3420"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="5"	BossIdx="3421"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="5"	BossIdx="3421"	RewardItem="638"	/>
+		<RewardList	WorldIdx="5"	BossIdx="3421"	RewardItem="33557020"	/>
+		<RewardList	WorldIdx="5"	BossIdx="3421"	RewardItem="314"	/>
+		<RewardList	WorldIdx="5"	BossIdx="3421"	RewardItem="311"	/>
+		<RewardList	WorldIdx="5"	BossIdx="3421"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="7"	BossIdx="3422"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="7"	BossIdx="3422"	RewardItem="638"	/>
+		<RewardList	WorldIdx="7"	BossIdx="3422"	RewardItem="33557020"	/>
+		<RewardList	WorldIdx="7"	BossIdx="3422"	RewardItem="314"	/>
+		<RewardList	WorldIdx="7"	BossIdx="3422"	RewardItem="311"	/>
+		<RewardList	WorldIdx="7"	BossIdx="3422"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="8"	BossIdx="3423"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="8"	BossIdx="3423"	RewardItem="639"	/>
+		<RewardList	WorldIdx="8"	BossIdx="3423"	RewardItem="33557021"	/>
+		<RewardList	WorldIdx="8"	BossIdx="3423"	RewardItem="3194"	/>
+		<RewardList	WorldIdx="8"	BossIdx="3423"	RewardItem="3193"	/>
+		<RewardList	WorldIdx="8"	BossIdx="3423"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="6"	BossIdx="3424"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="6"	BossIdx="3424"	RewardItem="639"	/>
+		<RewardList	WorldIdx="6"	BossIdx="3424"	RewardItem="33557021"	/>
+		<RewardList	WorldIdx="6"	BossIdx="3424"	RewardItem="3194"	/>
+		<RewardList	WorldIdx="6"	BossIdx="3424"	RewardItem="3193"	/>
+		<RewardList	WorldIdx="6"	BossIdx="3424"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="9"	BossIdx="3425"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="9"	BossIdx="3425"	RewardItem="639"	/>
+		<RewardList	WorldIdx="9"	BossIdx="3425"	RewardItem="33557021"	/>
+		<RewardList	WorldIdx="9"	BossIdx="3425"	RewardItem="3194"	/>
+		<RewardList	WorldIdx="9"	BossIdx="3425"	RewardItem="3193"	/>
+		<RewardList	WorldIdx="9"	BossIdx="3425"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="10"	BossIdx="3426"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="10"	BossIdx="3426"	RewardItem="1216"	/>
+		<RewardList	WorldIdx="10"	BossIdx="3426"	RewardItem="33557022"	/>
+		<RewardList	WorldIdx="10"	BossIdx="3426"	RewardItem="33555420"	/>
+		<RewardList	WorldIdx="10"	BossIdx="3426"	RewardItem="33555421"	/>
+		<RewardList	WorldIdx="10"	BossIdx="3426"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="11"	BossIdx="3427"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="11"	BossIdx="3427"	RewardItem="1216"	/>
+		<RewardList	WorldIdx="11"	BossIdx="3427"	RewardItem="33557022"	/>
+		<RewardList	WorldIdx="11"	BossIdx="3427"	RewardItem="33555420"	/>
+		<RewardList	WorldIdx="11"	BossIdx="3427"	RewardItem="33555421"	/>
+		<RewardList	WorldIdx="11"	BossIdx="3427"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="12"	BossIdx="3428"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="12"	BossIdx="3428"	RewardItem="1216"	/>
+		<RewardList	WorldIdx="12"	BossIdx="3428"	RewardItem="33557022"	/>
+		<RewardList	WorldIdx="12"	BossIdx="3428"	RewardItem="33555420"	/>
+		<RewardList	WorldIdx="12"	BossIdx="3428"	RewardItem="33555421"	/>
+		<RewardList	WorldIdx="12"	BossIdx="3428"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3429"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3429"	RewardItem="33556423"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3429"	RewardItem="33557023"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3429"	RewardItem="33557026"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3429"	RewardItem="33557025"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3429"	RewardItem="33557331"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3430"	RewardItem="2842"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3430"	RewardItem="33556423"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3430"	RewardItem="33557023"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3430"	RewardItem="33557026"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3430"	RewardItem="33557025"	/>
+		<RewardList	WorldIdx="22"	BossIdx="3430"	RewardItem="33557331"	/>
+	</RewardList_Msg>
+</RaidBoss_Msg>

@@ -1,0 +1,376 @@
+
+<balloon_message>
+	<balloon_msg>
+		<msg	id="balloon_1"	cont="우리가 지키는 한 지옥의 불꽃을 통과할 수 없다! 크하하핫!"	/>
+		<msg	id="balloon_2"	cont="인간 녀석을 더 이상 들어가지 못하게 하자!"	/>
+		<msg	id="balloon_3"	cont="우리가 막지 못하면 데브로간님께서 노하실 거다!"	/>
+		<msg	id="balloon_4"	cont="크르르…!"	/>
+		<msg	id="balloon_5"	cont="죽어라…! 하찮은 인간!"	/>
+		<msg	id="balloon_6"	cont="끼끼끼끽!!"	/>
+		<msg	id="balloon_7"	cont="건방진 인간이구나…! 우리가 상대해주마!"	/>
+		<msg	id="balloon_8"	cont="우리 가디언을 이길 성싶으냐!"	/>
+		<msg	id="balloon_9"	cont="끼히히힛!"	/>
+		<msg	id="balloon_10"	cont="끼효효홋!"	/>
+		<msg	id="balloon_11"	cont="끼하하핫!"	/>
+		<msg	id="balloon_12"	cont="끼헤헤헷!"	/>
+		<msg	id="balloon_13"	cont="인간은 내 거야!"	/>
+		<msg	id="balloon_14"	cont="난 상급 악마라고!"	/>
+		<msg	id="balloon_15"	cont="싱싱한 인간이다!"	/>
+		<msg	id="balloon_16"	cont="인간이라니!"	/>
+		<msg	id="balloon_17"	cont="인간이여…! 이곳은 지옥의 패왕 닉스님의 공간이다! 썩 나가거라!"	/>
+		<msg	id="balloon_18"	cont="크으으윽… 닉스님!!"	/>
+		<msg	id="balloon_19"	cont="시답잖은 악마 녀석들아, 비키거라! 이 키린토님이 직접 인간을 처치하겠다!"	/>
+		<msg	id="balloon_20"	cont="내…내가 인간 따위에게 당하다니…!"	/>
+		<msg	id="balloon_21"	cont="크르르릉… 먹이가 제 발로 찾아오다니… 한 입에 먹어치워주마"	/>
+		<msg	id="balloon_22"	cont="이렇게 날뛰는 먹이라니!! 크르릉…! 날려버리겠다!!!"	/>
+		<msg	id="balloon_23"	cont="커어…엉…컹…"	/>
+		<msg	id="balloon_24"	cont="이런, 여기까지 오다니… 실력이 제법 괜찮은 인간이군! 여기서 죽겠지만 말이야!"	/>
+		<msg	id="balloon_25"	cont="으윽, 감히 나에게 상처를 입히다니… 나와라! 나의 전사들이여!"	/>
+		<msg	id="balloon_26"	cont="이…이럴수가…! 닉스님… 죄송합니다…"	/>
+		<msg	id="balloon_27"	cont="도대체, 제대로 된 악마들이 하나도 없어!!! 지옥의 패왕인 내가 하찮은 인간을 상대해야겠어!?"	/>
+		<msg	id="balloon_28"	cont="끄아아아!!! 정말 분노가 치밀어 오르는데…!!!"	/>
+		<msg	id="balloon_29"	cont="으아아악! 데모나이트의 힘이 아직 부족한 건가… 으…윽…"	/>
+		<msg	id="balloon_30"	cont="카카칵! 카악… 퉷…!"	/>
+		<msg	id="balloon_31"	cont="디리우브라… 그 지저분한 애는 내 동생이지… 크흐흐"	/>
+		<msg	id="balloon_32"	cont="에? 이곳을 지나가시려구요…?"	/>
+		<msg	id="balloon_33"	cont="제단에 물병이 놓여 있다."	/>
+		<msg	id="balloon_34"	cont="으아아아아!!! 나를 이 지옥에서 나가게 해줘!!!"	/>
+		<msg	id="balloon_35"	cont="으…어어… 제…제발… 보…봉인을…풀어줘… "	/>
+		<msg	id="balloon_36"	cont="우… 우리의 영혼을… 해…해방시켜주시오…!"	/>
+		<msg	id="balloon_37"	cont="요…용사여…! 도와주시게…!"	/>
+		<msg	id="balloon_38"	cont="이곳은… 정말 끔찍한 곳이다…!"	/>
+		<msg	id="balloon_39"	cont="우겔겔겔…"	/>
+		<msg	id="balloon_40"	cont="크흐흐… 데테스타투스님을 위한 희생양이 또 왔구나!"	/>
+		<msg	id="balloon_41"	cont="쿠겔겔겔…"	/>
+		<msg	id="balloon_42"	cont="프흐흐… 데테스타투스님께 영혼을 바치거라…!"	/>
+		<msg	id="balloon_43"	cont="으겔겔겔…"	/>
+		<msg	id="balloon_44"	cont="으흐흐… 데테스타투스님을 찬양하라!"	/>
+		<msg	id="balloon_45"	cont="데테스타투스, 우리의 복수도 받아라!"	/>
+		<msg	id="balloon_46"	cont="용사여! 우리가 함께 하겠네!"	/>
+		<msg	id="balloon_47"	cont="우리도 돕겠네!"	/>
+		<msg	id="balloon_48"	cont="… … … #@%!&"	/>
+		<msg	id="balloon_49"	cont="… … … #@%!&"	/>
+		<msg	id="balloon_50"	cont="… … … #@%!&"	/>
+		<msg	id="balloon_51"	cont="… … … #@%!&"	/>
+		<msg	id="balloon_52"	cont="… … … #@%!&"	/>
+		<msg	id="balloon_53"	cont="너의 영혼도 거두어 영원히 이 지옥에서 살게 해주마!"	/>
+		<msg	id="balloon_54"	cont="크으으윽… 아… 안돼…! 으으으윽!"	/>
+		<msg	id="balloon_55"	cont="뭐야?! 이 녀석 여기까지 오다니 죽여주마! 오익오익!"	/>
+		<msg	id="balloon_56"	cont="아…안돼!!! 데…테스타투스님… 오익…오익…오…이…꿱…"	/>
+		<msg	id="balloon_57"	cont="이 얼마만의 건방진 아레나 도전자인가! 오거라!!! 으하하하핫!"	/>
+		<msg	id="balloon_58"	cont="이...이 버러지들이 감히…!"	/>
+		<msg	id="balloon_59"	cont="크하하하하! 이것이 바로 혼돈의 힘이다!"	/>
+		<msg	id="balloon_60"	cont="어리석은 인간놈들! 수호자의 힘이 존재하는 한 나는 쓰러지지 않는다!"	/>
+		<msg	id="balloon_61"	cont="화염의 수호자의 힘을 맛보아라! "	/>
+		<msg	id="balloon_62"	cont="너흴 쓰러뜨려 주마!"	/>
+		<msg	id="balloon_63"	cont="수호자를 쓰러뜨리겠다고! 건방진 인간들!"	/>
+		<msg	id="balloon_64"	cont="이곳에 들어온 것을 후회하게 될 것이다!"	/>
+		<msg	id="balloon_65"	cont="화염의 수호자의 힘을 맛보아라! "	/>
+		<msg	id="balloon_66"	cont="너흴 쓰러뜨려 주마!"	/>
+		<msg	id="balloon_67"	cont="수호자를 쓰러뜨리겠다고! 건방진 인간들!"	/>
+		<msg	id="balloon_68"	cont="이곳에 들어온 것을 후회하게 될 것이다!"	/>
+		<msg	id="balloon_69"	cont="제법이구나, 하지만 이제 쉽지 않을 것이다!"	/>
+		<msg	id="balloon_70"	cont="물어뜯어라, 파수견들아!"	/>
+		<msg	id="balloon_71"	cont="으으으……이대로 당할 수 없다"	/>
+		<msg	id="balloon_72"	cont="아직 멀었다, 인간들아!"	/>
+		<msg	id="balloon_73"	cont="크르르……..우리를 쓰러뜨려야 할 것이다."	/>
+		<msg	id="balloon_74"	cont="크르르……..우리를 쓰러뜨려야 할 것이다."	/>
+		<msg	id="balloon_75"	cont="크르르……..우리를 쓰러뜨려야 할 것이다."	/>
+		<msg	id="balloon_76"	cont="크르르……..우리를 쓰러뜨려야 할 것이다."	/>
+		<msg	id="balloon_77"	cont="화염의 세례를 받아라!"	/>
+		<msg	id="balloon_78"	cont="화염의 세례를 받아라!"	/>
+		<msg	id="balloon_79"	cont="화염의 세례를 받아라!"	/>
+		<msg	id="balloon_80"	cont="화염의 세례를 받아라!"	/>
+		<msg	id="balloon_81"	cont="수호자의 화염이 이대로 꺼질 것 같으냐!"	/>
+		<msg	id="balloon_82"	cont="수호자의 화염이 이대로 꺼질 것 같으냐!"	/>
+		<msg	id="balloon_83"	cont="수호자의 화염이 이대로 꺼질 것 같으냐!"	/>
+		<msg	id="balloon_84"	cont="수호자의 화염이 이대로 꺼질 것 같으냐!"	/>
+		<msg	id="balloon_85"	cont="징벌자여! 놈들을 막아라!"	/>
+		<msg	id="balloon_86"	cont="악의 군단이 너희를 멸하리라!"	/>
+		<msg	id="balloon_87"	cont="징벌자여! 놈들을 막아라!"	/>
+		<msg	id="balloon_88"	cont="군단의 앞에 쓰러져라 인간들!"	/>
+		<msg	id="balloon_89"	cont="아우레티아님을 공격하도록 두지 않겠다!"	/>
+		<msg	id="balloon_90"	cont="악의 군단이 우리를 보호한다…."	/>
+		<msg	id="balloon_91"	cont="다가갈 수 없다!"	/>
+		<msg	id="balloon_92"	cont="군단의 힘을 맛보아라!"	/>
+		<msg	id="balloon_93"	cont="다가갈 수 없다!"	/>
+		<msg	id="balloon_94"	cont="군단의 힘을 맛보아라!"	/>
+		<msg	id="balloon_95"	cont="으읔……힘이……빠진다…….크아악!!"	/>
+		<msg	id="balloon_96"	cont="(무엇인가 빛나고 있다.)"	/>
+		<msg	id="balloon_97"	cont="끼에엑!!! "	/>
+		<msg	id="balloon_98"	cont="끼끽!!!"	/>
+		<msg	id="balloon_99"	cont="키에엑!!!!"	/>
+		<msg	id="balloon_100"	cont="캬아악!!!!"	/>
+		<msg	id="balloon_101"	cont="침입자다!!! 침입자가 나타났다!!!"	/>
+		<msg	id="balloon_102"	cont="으하하하하!!! 죽어라 이놈들!!!! "	/>
+		<msg	id="balloon_103"	cont="살려두지 않겠다!"	/>
+		<msg	id="balloon_104"	cont="단숨에 베어주마!"	/>
+		<msg	id="balloon_105"	cont="죽여버리겠다!"	/>
+		<msg	id="balloon_106"	cont="상대가 될 것 같으냐!"	/>
+		<msg	id="balloon_107"	cont="처단하겠다!"	/>
+		<msg	id="balloon_108"	cont="이녀석!!! 지나갈 수 없다!!!"	/>
+		<msg	id="balloon_109"	cont="으하하하! 여기에 묻어주마!"	/>
+		<msg	id="balloon_110"	cont="으히히! 내 칼을 받아라!!! "	/>
+		<msg	id="balloon_111"	cont="여기가 너의 무덤이 될 것이다!!!"	/>
+		<msg	id="balloon_112"	cont="이 이상 지나가도록 하지 않겠다!! "	/>
+		<msg	id="balloon_113"	cont="으하하하! 신선한 피 냄새가 나는구나."	/>
+		<msg	id="balloon_114"	cont="윽…. 아직… 부족하다… "	/>
+		<msg	id="balloon_115"	cont="새로운 사냥감이 나타났구나!! 가자!!!"	/>
+		<msg	id="balloon_116"	cont="으아아악!!!"	/>
+		<msg	id="balloon_117"	cont="여기까지 올 줄은 몰랐는데? 이제 여기서 멈춰 주실까?"	/>
+		<msg	id="balloon_118"	cont="오너라!!! 나의 수호자들아!!!"	/>
+		<msg	id="balloon_119"	cont="아…안돼… 조금만 더 기다리면…. "	/>
+		<msg	id="balloon_120"	cont="감히 나를 방해하려 하다니… 용서하지 않겠다!!!"	/>
+		<msg	id="balloon_121"	cont="조금만 더… 조금만 더 시간이…. 크아아!!! "	/>
+		<msg	id="balloon_122"	cont="여기까지 올 줄이야. 재미 있는걸 준비하러 가야겠군"	/>
+		<msg	id="balloon_123"	cont="오랜만에 보는 인간이군…. 정말 오랜만이야…."	/>
+		<msg	id="balloon_124"	cont="크흐흐흐!!! 간만의 전투가 되겠구나!!!"	/>
+		<msg	id="balloon_125"	cont="(……)"	/>
+		<msg	id="balloon_126"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_127"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_128"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_129"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_130"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_131"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_132"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_133"	cont="크겔겔… 더 강해진 나의 독을 받아라!!"	/>
+		<msg	id="balloon_134"	cont="누가 감히 나의 벌레 군단에 맞서는가!!"	/>
+		<msg	id="balloon_135"	cont="나의 충신들이여 나와서 군단의 적을 처단하라!"	/>
+		<msg	id="balloon_136"	cont="군단의 맹독이 너를 집어삼킬 것이다!"	/>
+		<msg	id="balloon_137"	cont="여왕님의 뜻대로…"	/>
+		<msg	id="balloon_138"	cont="여왕님의 명을 받들겠습니다!"	/>
+		<msg	id="balloon_139"	cont="압도적인 힘으로!!!"	/>
+		<msg	id="balloon_140"	cont="가디언들이여 힘을 모아 적을 제거하라!"	/>
+		<msg	id="balloon_141"	cont="가디언의 마법이 너에게 저주를 내릴 것이다!!"	/>
+		<msg	id="balloon_142"	cont="깨어나거라! 냉기의 수호자들이여!!"	/>
+		<msg	id="balloon_143"	cont="적에게 냉혹한 죽음을..!!"	/>
+		<msg	id="balloon_144"	cont="적에게 냉혹한 죽음을..!!"	/>
+		<msg	id="balloon_145"	cont="적에게 냉혹한 죽음을..!!"	/>
+		<msg	id="balloon_146"	cont="적에게 냉혹한 죽음을..!!"	/>
+		<msg	id="balloon_147"	cont="적에게 냉혹한 죽음을..!!"	/>
+		<msg	id="balloon_148"	cont="적에게 냉혹한 죽음을..!!"	/>
+		<msg	id="balloon_149"	cont="겨우 나의 분신을 상대해놓고 끝일거라 생각했는가??"	/>
+		<msg	id="balloon_150"	cont="냉기의 폭풍이여 적을 집어 삼켜라!!"	/>
+		<msg	id="balloon_151"	cont="기사들이여! 적의 뼛속까지 얼려버려라!!"	/>
+		<msg	id="balloon_152"	cont="얼음이 너의 발목을 붙잡으리라…."	/>
+		<msg	id="balloon_153"	cont="얼음이 너의 발목을 붙잡으리라…."	/>
+		<msg	id="balloon_154"	cont="얼음이 너의 발목을 붙잡으리라…."	/>
+		<msg	id="balloon_155"	cont="내가 바로 꺼지지 않는 불꽃이다!!"	/>
+		<msg	id="balloon_156"	cont="나의 불꽃이 다시 타오른다!!!"	/>
+		<msg	id="balloon_157"	cont="피닉스님을 지켜여 한다!!"	/>
+		<msg	id="balloon_158"	cont="피닉스님을 지켜여 한다!!"	/>
+		<msg	id="balloon_159"	cont="피닉스님을 지켜여 한다!!"	/>
+		<msg	id="balloon_160"	cont="피닉스님을 지켜여 한다!!"	/>
+		<msg	id="balloon_161"	cont="감히 필멸자 주제에 건방지게 드래곤을 상대하려는가?"	/>
+		<msg	id="balloon_162"	cont="크하하하! 끝없는 어둠이 너를 절망속으로 이끌 것이다!!"	/>
+		<msg	id="balloon_163"	cont="달그락…. 달그락…."	/>
+		<msg	id="balloon_164"	cont="이곳은 너희같은 인간이 올 곳이 아니다. 돌아가라!"	/>
+		<msg	id="balloon_165"	cont="경고를 무시한 오만한 인간 같으니! "	/>
+		<msg	id="balloon_166"	cont="우리의 경고를 무시한 대가를 치르게 해주마! "	/>
+		<msg	id="balloon_167"	cont="더 이상 발을 들이지 마라! "	/>
+		<msg	id="balloon_168"	cont="우리의 경고를 무시하면 죽음뿐이다! "	/>
+		<msg	id="balloon_169"	cont="쉬익!"	/>
+		<msg	id="balloon_170"	cont="더 이상 지나갈 수 없다! "	/>
+		<msg	id="balloon_171"	cont="여기까지 왔으니 살려 줄 수가 없구나. "	/>
+		<msg	id="balloon_172"	cont="부활 의식이 시작되었다! "	/>
+		<msg	id="balloon_173"	cont="이..이런! 아직 쓰러지지 마라."	/>
+		<msg	id="balloon_174"	cont="두명이나 당하다니…"	/>
+		<msg	id="balloon_175"	cont="조금만 더 버티면 아누비스님이…"	/>
+		<msg	id="balloon_176"	cont="으… 인간! 감히 우리를…. "	/>
+		<msg	id="balloon_177"	cont="이곳까지 찾아내다니! 여기서 막아주마!"	/>
+		<msg	id="balloon_178"	cont="끼이이익!"	/>
+		<msg	id="balloon_179"	cont="탐색자들아! 내게 영혼을 공급해라!"	/>
+		<msg	id="balloon_180"	cont="너흰 이미 늦었다! 으하하하!"	/>
+		<msg	id="balloon_181"	cont="인간들을 해치워라!"	/>
+		<msg	id="balloon_182"	cont="인간들을 해치워라!"	/>
+		<msg	id="balloon_183"	cont="인간들을 해치워라!"	/>
+		<msg	id="balloon_184"	cont="여기까지 올라온건가...??"	/>
+		<msg	id="balloon_185"	cont="죽을 곳을 스스로 찾아오다니… 어리석군...!"	/>
+		<msg	id="balloon_186"	cont="과연 평범한 인간은 아니라는 건가?"	/>
+		<msg	id="balloon_187"	cont="이번엔 지금까지 상대해온 것들과 격이 다를 것이다!"	/>
+		<msg	id="balloon_188"	cont="바람의 정령왕을 상대로 이정도까지…?"	/>
+		<msg	id="balloon_189"	cont="기대되는군… 더 높은 곳에서 기다리고 있겠다…!"	/>
+		<msg	id="balloon_190"	cont="크크크…."	/>
+		<msg	id="balloon_191"	cont="(무언가 떨어져 있다.)"	/>
+		<msg	id="balloon_192"	cont="집에 가고 싶어.. 집으로 돌아가고 싶어"	/>
+		<msg	id="balloon_193"	cont="내가 있을 곳은 여기가 아니야 … "	/>
+		<msg	id="balloon_194"	cont="원래 있었던 곳으로 돌아가고 싶어 …  "	/>
+		<msg	id="balloon_195"	cont="여기서 나가고 싶어 …"	/>
+		<msg	id="balloon_196"	cont="크하하 집으로 돌아가고 싶대 으하하하"	/>
+		<msg	id="balloon_197"	cont="내가 있을 곳은 여기가 아니래 크크…"	/>
+		<msg	id="balloon_198"	cont="크하하 원래 있었던 곳으로 돌아가고 싶대 "	/>
+		<msg	id="balloon_199"	cont="나가고 싶대 크하하"	/>
+		<msg	id="balloon_200"	cont="제발로 이 곳을 찾아오다니… 여기가 너의 마지막이 될 것이다."	/>
+		<msg	id="balloon_201"	cont="속은 자가 또 나타났다 꺄하하 !!"	/>
+		<msg	id="balloon_202"	cont="까르륵 꺄르륵 새로운 사냥감이다 !!"	/>
+		<msg	id="balloon_203"	cont="낄낄낄 인간은 정말 어리석군"	/>
+		<msg	id="balloon_204"	cont="감히 인간따위가 망자의 탑에 들어오다니…!"	/>
+		<msg	id="balloon_205"	cont="누구냐!! 누가 감히 잠자던 언데드 마물을 깨웠느냐 !! "	/>
+		<msg	id="balloon_206"	cont="저기다 !! 침입자의 모습이 보인다!! "	/>
+		<msg	id="balloon_207"	cont="제 발로 언데드 존에 오다니 인간의 영혼은 나의 것이다. !! "	/>
+		<msg	id="balloon_208"	cont="인간이다. !! 인간이 나타났다. !!"	/>
+		<msg	id="balloon_209"	cont="살아있는 인간이다.!! "	/>
+		<msg	id="balloon_210"	cont="싱싱한 영혼을 가졌다.!! 저 영혼은 나의 것이다.!!"	/>
+		<msg	id="balloon_211"	cont="저 인간의 영혼이 탐난다. 좋은 영혼이 나타났다. !!"	/>
+		<msg	id="balloon_212"	cont="건방진 인간 주제에…"	/>
+		<msg	id="balloon_213"	cont="한 발자국도 지나갈 수 없다.!"	/>
+		<msg	id="balloon_214"	cont="겁도 없이 위대한 메르가헤프님의 방에 스스로 들어오다니…"	/>
+		<msg	id="balloon_215"	cont="더 이상 메르가헤프님에게 나아가지 못하게 붙잡아주마"	/>
+		<msg	id="balloon_216"	cont="또 침입자라니. 아직 정신을 못 차렸나보군.  "	/>
+		<msg	id="balloon_217"	cont="더 이상의 진입은 허락 하지 않는다!! "	/>
+		<msg	id="balloon_218"	cont="여기 까지 오다니.. 목숨으로 사수한다!!!"	/>
+		<msg	id="balloon_219"	cont="인간이라니! 장신구가 또 늘어나겠어 하하하!"	/>
+		<msg	id="balloon_220"	cont="인간이라니! 장신구가 또 늘어나겠어 하하하!"	/>
+		<msg	id="balloon_221"	cont="내가 직접 나서야겠군!!"	/>
+		<msg	id="balloon_222"	cont="아직이다 필멸자여!"	/>
+		<msg	id="balloon_223"	cont="이 자리에서 끝장을 내주마!"	/>
+		<msg	id="balloon_224"	cont="킬리안님. 제가 처리해 보겠습니다. "	/>
+		<msg	id="balloon_225"	cont="아니 여기까지 인간이 들어 오다니!!"	/>
+		<msg	id="balloon_226"	cont="비상! 비상! 침입자를 처단해라!"	/>
+		<msg	id="balloon_227"	cont="더 이상은 못 간다! 캬캬캬"	/>
+		<msg	id="balloon_228"	cont="여기까지 뚫리다니... 쓸모 없는 것들!"	/>
+		<msg	id="balloon_229"	cont="이곳은 우리 가 지킨다!"	/>
+		<msg	id="balloon_230"	cont="이곳은 우리 가 지킨다!"	/>
+		<msg	id="balloon_231"	cont="이곳은 우리 가 지킨다!"	/>
+		<msg	id="balloon_232"	cont="자기 무덤까지 스스로 찾아 오다니 어리석구나!"	/>
+		<msg	id="balloon_233"	cont="킬리안님의 충복인 내가 직접 처단해주마!"	/>
+		<msg	id="balloon_234"	cont="그분의 뜻을 거스르는 자는 우리가 직접 처단한다!"	/>
+		<msg	id="balloon_235"	cont="나 킬리안이 맹세코, 필멸자인 너를 벌하겠다. "	/>
+		<msg	id="balloon_236"	cont="여긴 지나갈 수 없다… 으윽.. 죄송합니다 킬리안님."	/>
+		<msg	id="balloon_237"	cont="죄송합니다… 템푸스..님.. 으윽"	/>
+		<msg	id="balloon_238"	cont="(………………..)"	/>
+		<msg	id="balloon_239"	cont="끔찍한 시련을 선서하마 필멸자여!"	/>
+		<msg	id="balloon_240"	cont="불결한 것들은 당장 이곳을 떠나거라!"	/>
+		<msg	id="balloon_241"	cont="대지의 분노를 느껴보아라!!"	/>
+		<msg	id="balloon_242"	cont="맛있어 보이는 사냥감이 나타났군…"	/>
+		<msg	id="balloon_243"	cont="크아아!! 모두 죽여버리겠다!!"	/>
+		<msg	id="balloon_244"	cont="아주 손쉬운 사냥이 되겠군…"	/>
+		<msg	id="balloon_245"	cont="크아아!! 모두 죽여버리겠다!!"	/>
+		<msg	id="balloon_246"	cont="크하하하하!! 진정한 각성의 힘을 보여주지!!"	/>
+		<msg	id="balloon_247"	cont="좋다!! 나와 또다시 힘을 겨뤄보자!!"	/>
+		<msg	id="balloon_248"	cont="신선한 고기의 냄새가 나는구나…!!"	/>
+		<msg	id="balloon_249"	cont="독으로 전부 뒤덮어주마!!"	/>
+		<msg	id="balloon_250"	cont="파도가 너희를 쓸어버릴 것이다!!"	/>
+		<msg	id="balloon_251"	cont="인간들은 즉시 돌아가라!"	/>
+		<msg	id="balloon_252"	cont="인간들은 즉시 돌아가라!"	/>
+		<msg	id="balloon_253"	cont="인간들은 즉시 돌아가라!"	/>
+		<msg	id="balloon_254"	cont="인간들은 즉시 돌아가라!"	/>
+		<msg	id="balloon_255"	cont="인간들은 즉시 돌아가라!"	/>
+		<msg	id="balloon_256"	cont="오만한 인간들을 죽여라!!"	/>
+		<msg	id="balloon_257"	cont="오만한 인간들을 죽여라!!"	/>
+		<msg	id="balloon_258"	cont="오만한 인간들을 죽여라!!"	/>
+		<msg	id="balloon_259"	cont="오만한 인간들을 죽여라!!"	/>
+		<msg	id="balloon_260"	cont="오만한 인간들을 죽여라!!"	/>
+		<msg	id="balloon_261"	cont="경고를 무시하다니… 건방지구나!!"	/>
+		<msg	id="balloon_262"	cont="나의 창들로 너희를 정화시켜주마!"	/>
+		<msg	id="balloon_263"	cont="크르르르…."	/>
+		<msg	id="balloon_264"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_265"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_266"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_267"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_268"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_269"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_270"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_271"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_272"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_273"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_274"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_275"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_276"	cont="침.입.자.발.견"	/>
+		<msg	id="balloon_277"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_278"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_279"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_280"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_281"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_282"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_283"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_284"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_285"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_286"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_287"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_288"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_289"	cont="침.입.자.제.거!!"	/>
+		<msg	id="balloon_290"	cont="침입자 발견!! 침입자 발견!!"	/>
+		<msg	id="balloon_291"	cont="타겟 확인!! 방어 모드 전환!"	/>
+		<msg	id="balloon_292"	cont="타겟 확인!! 방어 모드 전환!"	/>
+		<msg	id="balloon_293"	cont="타겟 확인!! 방어 모드 전환!"	/>
+		<msg	id="balloon_294"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_295"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_296"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_297"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_298"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_299"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_300"	cont="타겟 확인!! 제거 시작!"	/>
+		<msg	id="balloon_301"	cont="경고!! 허가되지 않은 침입자 발견!!"	/>
+		<msg	id="balloon_302"	cont="방어 시스템 가동!! 침입자 제거!!"	/>
+		<msg	id="balloon_303"	cont="방어 시스템 무력화…"	/>
+		<msg	id="balloon_304"	cont="워프 장치 활.성.화!"	/>
+		<msg	id="balloon_305"	cont="리프트 활.성.화!"	/>
+		<msg	id="balloon_306"	cont="리프트 활.성.화!"	/>
+		<msg	id="balloon_307"	cont="리프트 활.성.화!"	/>
+		<msg	id="balloon_308"	cont="리프트 활.성.화!"	/>
+		<msg	id="balloon_309"	cont="리프트 활.성.화!"	/>
+		<msg	id="balloon_310"	cont="워프 장치 활.성.화!"	/>
+		<msg	id="balloon_311"	cont="리프트 활.성.화!"	/>
+		<msg	id="balloon_312"	cont="인간? 인간은 이 천공의 도시에 들어올 수 없다!"	/>
+		<msg	id="balloon_313"	cont="심판하겠다! 유죄! 유죄!! 유죄!!!"	/>
+		<msg	id="balloon_314"	cont="심판의 검을 내린다 !"	/>
+		<msg	id="balloon_315"	cont="심판을 집행한다 !"	/>
+		<msg	id="balloon_316"	cont="심판에 불복하다니! 막아라!"	/>
+		<msg	id="balloon_317"	cont="죄 지은자 !"	/>
+		<msg	id="balloon_318"	cont="심판의 칼끝에 서서"	/>
+		<msg	id="balloon_319"	cont="빛으로 구원받아라 !"	/>
+		<msg	id="balloon_320"	cont="천공의 율법으로 심판한다 !"	/>
+		<msg	id="balloon_321"	cont="판결 ! 유죄 !"	/>
+		<msg	id="balloon_322"	cont="심판을 집행한다 !"	/>
+		<msg	id="balloon_323"	cont="천공의 정원에 인간이 들어왔어!"	/>
+		<msg	id="balloon_324"	cont="다들 인간을 막아!"	/>
+		<msg	id="balloon_325"	cont="선물이야!"	/>
+		<msg	id="balloon_326"	cont="바보같은 인간!"	/>
+		<msg	id="balloon_327"	cont="속았구나, 침입자!"	/>
+		<msg	id="balloon_328"	cont="속았구나! 속았구나!"	/>
+		<msg	id="balloon_329"	cont="욕심많은 인간!"	/>
+		<msg	id="balloon_330"	cont="침입자 인간! 속았어!"	/>
+		<msg	id="balloon_331"	cont="너 따위가 나에게 손을 댈 수 있을까?"	/>
+		<msg	id="balloon_332"	cont="이대로 둘 순 없지, 녀석을 해치워!"	/>
+		<msg	id="balloon_333"	cont="(………)"	/>
+		<msg	id="balloon_334"	cont="결국 여기까지 올라오다니, 대단하군."	/>
+		<msg	id="balloon_335"	cont="재미있구나, 천공의 문을 넘어 따라와 봐라! 기다리겠다!"	/>
+		<msg	id="balloon_336"	cont="이쪽이다!! "	/>
+		<msg	id="balloon_337"	cont="이쪽이다!! "	/>
+		<msg	id="balloon_338"	cont="이쪽이다!! "	/>
+		<msg	id="balloon_339"	cont="이쪽이다!! "	/>
+		<msg	id="balloon_340"	cont="으아아아! 난 여기서 나갈 것이다! 가로막지 마라!"	/>
+		<msg	id="balloon_341"	cont="다들 모여!"	/>
+		<msg	id="balloon_342"	cont="다들 모여!"	/>
+		<msg	id="balloon_343"	cont="다들 모여!"	/>
+		<msg	id="balloon_344"	cont="다들 모여!"	/>
+		<msg	id="balloon_345"	cont="다들 모여!"	/>
+		<msg	id="balloon_346"	cont="다들 모여!"	/>
+		<msg	id="balloon_347"	cont="다들 모여!"	/>
+		<msg	id="balloon_348"	cont="다들 모여!"	/>
+		<msg	id="balloon_349"	cont="다들 모여!"	/>
+		<msg	id="balloon_350"	cont="다들 모여!"	/>
+		<msg	id="balloon_351"	cont="다들 모여!"	/>
+		<msg	id="balloon_352"	cont="다들 모여!"	/>
+		<msg	id="balloon_353"	cont="실험 구역에 어떻게 인간이? 여기서 나가라!"	/>
+		<msg	id="balloon_354"	cont="침입자를 신속하게 제거한다!"	/>
+		<msg	id="balloon_355"	cont="침입자를 신속하게 제거한다!"	/>
+		<msg	id="balloon_356"	cont="침입자를 신속하게 제거한다!"	/>
+		<msg	id="balloon_357"	cont="침입자를 신속하게 제거한다!"	/>
+		<msg	id="balloon_358"	cont="침입자를 신속하게 제거한다!"	/>
+		<msg	id="balloon_359"	cont="메탈 클랜의 실험을 방해하다니! 이계의 힘을 맛보아라!"	/>
+		<msg	id="balloon_360"	cont="실례합니다. 인간은 뷔토스님의 공간에 들어오실 수 없습니다."	/>
+		<msg	id="balloon_361"	cont="관리실 침입자 발생. 제거합니다."	/>
+		<msg	id="balloon_362"	cont="관리실 침입자 발생. 메탈 클랜 실험 지속 불가능."	/>
+		<msg	id="balloon_363"	cont="관리실 침입자 발생. 관리자 호출 요망."	/>
+		<msg	id="balloon_364"	cont="나를 건들지 마라…"	/>
+		<msg	id="balloon_365"	cont="오메라이님 앞에서 날뛰지 마라!"	/>
+		<msg	id="balloon_366"	cont="나도 언젠가 저렇게 성장할 수 있겠지…"	/>
+		<msg	id="balloon_367"	cont="두려움에 사로잡혀 움츠러든 꼴이라니!"	/>
+		<msg	id="balloon_368"	cont="포기해… 포기하면 편해"	/>
+		<msg	id="balloon_369"	cont="이리저리 뛰어다니는 모습이 아주 우습구나!"	/>
+		<msg	id="balloon_370"	cont="겨우 여기까지 왔는데… 올라갈 수가 없어"	/>
+		<msg	id="balloon_371"	cont="미안해요… 너무 배가 고파서 헤헤"	/>
+	</balloon_msg>
+</balloon_message>

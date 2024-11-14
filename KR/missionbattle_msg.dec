@@ -1,0 +1,33 @@
+<missionbattle_message>
+	<version	index="1"	/>
+	<battle_map_msg>
+		<msg	id="battle_map01"	cont="프로즌 콜로세움"	/>
+		<msg	id="battle_map02"	cont="망향의 숲"	/>
+	</battle_map_msg>
+	<mode_msg>
+		<msg	id="battle_mode01"	cont="일반"	/>
+	</mode_msg>
+	<buff_shop_msg>
+		<msg	id="buffcode001"	cont="공격능력 강화 1단계 구입"	/>
+		<msg	id="buffcode002"	cont="공격능력 강화 2단계 구입"	/>
+		<msg	id="buffcode003"	cont="공격능력 강화 3단계 구입"	/>
+		<msg	id="buffcode004"	cont="방어능력 강화 1단계 구입"	/>
+		<msg	id="buffcode005"	cont="방어능력 강화 2단계 구입"	/>
+		<msg	id="buffcode006"	cont="방어능력 강화 3단계 구입"	/>
+		<msg	id="buffcode007"	cont="공격 강화 (하급) 구입"	/>
+		<msg	id="buffcode008"	cont="공격 강화 (상급) 구입"	/>
+		<msg	id="buffcode009"	cont="방어 강화 (하급) 구입"	/>
+		<msg	id="buffcode010"	cont="방어 강화 (상급) 구입"	/>
+		<msg	id="buffcode011"	cont="치명 강화 (하급) 구입"	/>
+		<msg	id="buffcode012"	cont="치명 강화 (상급) 구입"	/>
+		<msg	id="buffcode013"	cont="저항 강화 (하급) 구입"	/>
+		<msg	id="buffcode014"	cont="저항 강화 (상급) 구입"	/>
+	</buff_shop_msg>
+	<room_name_msg>
+		<msg	id="default_name001"	cont="초보만 오세요~"	/>
+		<msg	id="default_name002"	cont="매너 대전 하실분!"	/>
+		<msg	id="default_name003"	cont="들어오면 바로 고!"	/>
+		<msg	id="default_name004"	cont="한수 가르쳐 주실 분"	/>
+	</room_name_msg>
+</missionbattle_message>
+

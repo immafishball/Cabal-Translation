@@ -1,0 +1,50 @@
+<awakenauremode_msg>
+	<main>
+		<auramode_main	Category="1"	category_name="플레임 오러"	/>
+		<auramode_main	Category="2"	category_name="라이트닝 오러"	/>
+		<auramode_main	Category="3"	category_name="아쿠아 오러"	/>
+		<auramode_main	Category="4"	category_name="아이스 오러"	/>
+	</main>
+	<awakenauremode_slot_msg>
+		<msg	Category="1"	slot_index="1"	slot_name="모든 공격력 증가 Ⅰ"	desc="캐릭터의 $5#모든 공격력 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="2"	slot_name="모든 공격력 증가 Ⅱ"	desc="캐릭터의 $5#모든 공격력 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="3"	slot_name="회피 무시 Ⅰ"	desc="캐릭터의 $5#회피 무시 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="4"	slot_name="스킬 증폭 저항 무시"	desc="캐릭터의 $5#스킬 증폭 저항 무시$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="5"	slot_name="회피 무시 Ⅱ"	desc="캐릭터의 $5#회피 무시 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="6"	slot_name="크리티컬 데미지 저항 무시 Ⅰ "	desc="캐릭터의 $5#크리티컬 데미지 저항 무시 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="7"	slot_name="크리티컬 데미지 저항 무시 Ⅱ"	desc="캐릭터의 $5#크리티컬 데미지 저항 무시 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="8"	slot_name="피해감소 무시"	desc="캐릭터의 $5#피해감소 무시$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="9"	slot_name="관통 무시 상쇄"	desc="캐릭터의 $5#관통 무시 상쇄$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="1"	slot_index="10"	slot_name="오러모드 지속시간 증가"	desc="캐릭터의 $5#오러모드 지속시간 증가$를 $5#{}초$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="1"	slot_name="모든 공격력 증가 Ⅰ"	desc="캐릭터의 $5#모든 공격력 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="2"	slot_name="모든 공격력 증가 Ⅱ"	desc="캐릭터의 $5#모든 공격력 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="3"	slot_name="적중 Ⅰ"	desc="캐릭터의 $5#적중 Ⅰ$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="4"	slot_name="적중 Ⅱ"	desc="캐릭터의 $5#적중 Ⅱ$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="5"	slot_name="PVE 크리티컬 데미지 Ⅰ"	desc="캐릭터의 $5#PVE 크리티컬 데미지 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="6"	slot_name="PVE 관통 Ⅰ"	desc="캐릭터의 $5#PVE 관통 Ⅰ$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="7"	slot_name="PVE 관통 Ⅱ"	desc="캐릭터의 $5#PVE 관통 Ⅱ$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="8"	slot_name="PVE 크리티컬 데미지 Ⅱ"	desc="캐릭터의 $5#PVE 크리티컬 데미지 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="9"	slot_name="PVE 모든 스킬 증폭"	desc="캐릭터의 $5#PVE 스킬 증폭$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="2"	slot_index="10"	slot_name="오러모드 지속시간 증가"	desc="캐릭터의 $5#오러모드 지속시간 증가$를 $5#{}초$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="1"	slot_name="적중 무시 Ⅰ"	desc="캐릭터의 $5#적중 무시 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="2"	slot_name="회피 무시 상쇄 Ⅰ"	desc="캐릭터의 $5#회피 무시 상쇄 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="3"	slot_name="피해감소 무시 상쇄 Ⅰ"	desc="캐릭터의 $5#피해감소 무시 상쇄 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="4"	slot_name="크리티컬 데미지 저항 Ⅰ"	desc="캐릭터의 $5#크리티컬 데미지 저항 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="5"	slot_name="적중 무시 Ⅱ"	desc="캐릭터의 $5#적중 무시 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="6"	slot_name="회피 무시 상쇄 Ⅱ"	desc="캐릭터의 $5#회피 무시 상쇄 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="7"	slot_name="피해감소 무시 상쇄 Ⅱ"	desc="캐릭터의 $5#피해감소 무시 상쇄 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="8"	slot_name="크리티컬 데미지 저항 Ⅱ"	desc="캐릭터의 $5#크리티컬 데미지 저항 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="9"	slot_name="스킬 증폭 저항"	desc="캐릭터의 $5#스킬 증폭 저항$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="3"	slot_index="10"	slot_name="오러모드 지속시간 증가"	desc="캐릭터의 $5#오러모드 지속시간 증가$를 $5#{}초$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="1"	slot_name="PVE 방어력 Ⅰ"	desc="캐릭터의 $5#PVE 방어력 Ⅰ$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="2"	slot_name="회피 Ⅰ"	desc="캐릭터의 $5#회피 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="3"	slot_name="HP 증가"	desc="캐릭터의 $5#최대 HP$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="4"	slot_name="PVE 피해감소 Ⅰ"	desc="캐릭터의 $5#PVE 피해감소 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="5"	slot_name="회피 Ⅱ"	desc="캐릭터의 $5#회피 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="6"	slot_name="PVE 관통 무시 Ⅰ"	desc="캐릭터의 $5#PVE 관통 무시 Ⅰ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="7"	slot_name="PVE 피해감소 Ⅱ"	desc="캐릭터의 $5#PVE 피해감소 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="8"	slot_name="PVE 방어력 Ⅱ"	desc="캐릭터의 $5#PVE 방어력 Ⅱ$을 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="9"	slot_name="PVE 관통 무시 Ⅱ"	desc="캐릭터의 $5#PVE 관통 무시 Ⅱ$를 $5#{}$만큼 상승시킵니다."	/>
+		<msg	Category="4"	slot_index="10"	slot_name="오러모드 지속시간 증가"	desc="캐릭터의 $5#오러모드 지속시간 증가$를 $5#{}초$만큼 상승시킵니다."	/>
+	</awakenauremode_slot_msg>
+</awakenauremode_msg>

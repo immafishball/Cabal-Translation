@@ -1,0 +1,62 @@
+<EventPass_message>
+	<type_msg>
+		<msg	q_type="1"	desc="AP 획득"	/>
+		<msg	q_type="2"	desc="DP 획득"	/>
+		<msg	q_type="3"	desc="AP 소모"	/>
+		<msg	q_type="4"	desc="DP 소모"	/>
+		<msg	q_type="5"	desc="알즈 루팅"	/>
+		<msg	q_type="6"	desc="추출로 획득"	/>
+		<msg	q_type="7"	desc="WEXP획득"	/>
+		<msg	q_type="8"	desc="WEXP소모"	/>
+		<msg	q_type="9"	desc="일일 접속"	/>
+		<msg	q_type="10"	desc="강화 시도"	/>
+		<msg	q_type="11"	desc="제조의뢰"	/>
+		<msg	q_type="12"	desc="길드 보물 생성"	/>
+		<msg	q_type="13"	desc="몬스터 처치"	/>
+		<msg	q_type="14"	desc="퀘스트 완료"	/>
+		<msg	q_type="15"	desc="공훈패 보고"	/>
+		<msg	q_type="16"	desc="공훈패 평가"	/>
+		<msg	q_type="17"	desc="던전 완료"	/>
+		<msg	q_type="18"	desc="던전 입장"	/>
+		<msg	q_type="19"	desc="일일 미션 완료"	/>
+		<msg	q_type="20"	desc="아이템 루팅"	/>
+		<msg	q_type="21"	desc="아이템 사용"	/>
+		<msg	q_type="22"	desc="도전 미션 점수 획득"	/>
+		<msg	q_type="23"	desc="오늘의 던전 클리어"	/>
+		<msg	q_type="24"	desc="미션 전쟁 참여"	/>
+		<msg	q_type="25"	desc="던전 리스트 입장"	/>
+		<msg	q_type="26"	desc="던전 리스트 완료"	/>
+		<msg	q_type="27"	desc="던전 몬스터 처치"	/>
+		<msg	q_type="28"	desc="용병 소환"	/>
+		<msg	q_type="29"	desc="레전드 아레나 완료"	/>
+		<msg	q_type="30"	desc="아이템 리스트 사용"	/>
+		<msg	q_type="31"	desc="카오스/디바인 컨버터 사용"	/>
+		<msg	q_type="32"	desc="아이템 리스트 제조 의뢰"	/>
+		<msg	q_type="33"	desc="일반 강화"	/>
+		<msg	q_type="34"	desc="카오스 강화"	/>
+		<msg	q_type="35"	desc="디바인 강화"	/>
+		<msg	q_type="36"	desc="일반 강화 +{0} 달성 "	/>
+		<msg	q_type="37"	desc="카오스 강화 +{0} 달성 "	/>
+		<msg	q_type="38"	desc="디바인 강화 +{0} 달성 "	/>
+		<msg	q_type="39"	desc="아티팩트 강화/조율"	/>
+		<msg	q_type="40"	desc="타임 리듀서 사용"	/>
+		<msg	q_type="41"	desc="미션 전쟁 캐릭터 처치"	/>
+		<msg	q_type="42"	desc="공훈패 소모"	/>
+		<msg	q_type="43"	desc="PvP배틀 참여"	/>
+		<msg	q_type="44"	desc="신화 포인트 소모"	/>
+		<msg	q_type="45"	desc="지배자 보스 레이드 참여"	/>
+		<msg	q_type="46"	desc="미션 전쟁 보상 수령"	/>
+		<msg	q_type="47"	desc="길드 던전 완료"	/>
+		<msg	q_type="48"	desc="포스 윙 강림 스킬 사용"	/>
+		<msg	q_type="49"	desc="아이템 리스트 루팅"	/>
+		<msg	q_type="50"	desc="퀘스트 리스트 클리어"	/>
+		<msg	q_type="51"	desc="스텔라링크 각인"	/>
+		<msg	q_type="52"	desc="위탁 상점에 아이템 등록"	/>
+		<msg	q_type="53"	desc="명예 점수 획득"	/>
+		<msg	q_type="54"	desc="레벨 업"	/>
+		<msg	q_type="55"	desc="던전 회차 보상 수령"	/>
+		<msg	q_type="56"	desc="스페셜 교환권 소모"	/>
+		<msg	q_type="57"	desc="율의 던전 입장권 교환권 교환 티켓 소모"	/>
+		<msg	q_type="58"	desc="기억의 파편 소모"	/>
+	</type_msg>
+</EventPass_message>

@@ -1,0 +1,607 @@
+<costume_message>
+	<costume_name>
+		<msg	Index="1087"	costume_name="Santa Coat"	/>
+		<msg	Index="1088"	costume_name="Cutie Santa Coat"	/>
+		<msg	Index="1089"	costume_name="Suit of Wealthy's Party"	/>
+		<msg	Index="1090"	costume_name="Moon Walkers(Armor)"	/>
+		<msg	Index="1091"	costume_name="Moon Walkers(Battle)"	/>
+		<msg	Index="1092"	costume_name="Moon Walkers(Martial)"	/>
+		<msg	Index="1093"	costume_name="Suit of Vampire"	/>
+		<msg	Index="1094"	costume_name="Night Walkers(Armor)"	/>
+		<msg	Index="1095"	costume_name="Night Walkers(Battle)"	/>
+		<msg	Index="1096"	costume_name="Night Walkers(Martial)"	/>
+		<msg	Index="1097"	costume_name="Suit of Freed"	/>
+		<msg	Index="1098"	costume_name="Suit of Rin"	/>
+		<msg	Index="1099"	costume_name="Suit of Skaild"	/>
+		<msg	Index="1100"	costume_name="Suit of Mystic Blade"	/>
+		<msg	Index="1101"	costume_name="Suit of Yuan"	/>
+		<msg	Index="1102"	costume_name="Halloween Dress"	/>
+		<msg	Index="1146"	costume_name="Japanese Gala Dress"	/>
+		<msg	Index="1234"	costume_name="Chinese Gala Dress"	/>
+		<msg	Index="1235"	costume_name="Korean Gala Dress"	/>
+		<msg	Index="1236"	costume_name="Goguryeo Dress"	/>
+		<msg	Index="1288"	costume_name="Uniform of Capella(WA)"	/>
+		<msg	Index="1289"	costume_name="Uniform of Capella(BL)"	/>
+		<msg	Index="1290"	costume_name="Uniform of Capella(WI)"	/>
+		<msg	Index="1291"	costume_name="Uniform of Capella(FA)"	/>
+		<msg	Index="1292"	costume_name="Uniform of Capella(FS)"	/>
+		<msg	Index="1293"	costume_name="Uniform of Capella(FB)"	/>
+		<msg	Index="1294"	costume_name="Uniform of Procyon(WA)"	/>
+		<msg	Index="1295"	costume_name="Uniform of Procyon(BL)"	/>
+		<msg	Index="1296"	costume_name="Uniform of Procyon(WI)"	/>
+		<msg	Index="1297"	costume_name="Uniform of Procyon(FA)"	/>
+		<msg	Index="1298"	costume_name="Uniform of Procyon(FS)"	/>
+		<msg	Index="1299"	costume_name="Uniform of Procyon(FB)"	/>
+		<msg	Index="1342"	costume_name="Love Dad Yellow Shirt"	/>
+		<msg	Index="1432"	costume_name="Water Elemental Dress"	/>
+		<msg	Index="1511"	costume_name="Legend of Yellow Suit"	/>
+		<msg	Index="1512"	costume_name="Secret Agent Suit"	/>
+		<msg	Index="1513"	costume_name="The Sage Tower Apprentice Suit"	/>
+		<msg	Index="1536"	costume_name="Charisma Pan"	/>
+		<msg	Index="1543"	costume_name="Spirit of Hip Hop"	/>
+		<msg	Index="1544"	costume_name="Gorgeous Servant"	/>
+		<msg	Index="1558"	costume_name="Cabal High School"	/>
+		<msg	Index="1606"	costume_name="Fists of Rage"	/>
+		<msg	Index="1608"	costume_name="Winter Fever"	/>
+		<msg	Index="1629"	costume_name="Lovely Sweet"	/>
+		<msg	Index="1834"	costume_name="Dancing Temptation"	/>
+		<msg	Index="1836"	costume_name="Wild Western"	/>
+		<msg	Index="2138"	costume_name="German Traditional Dress"	/>
+		<msg	Index="2236"	costume_name="Midreth Armor Set"	/>
+		<msg	Index="2238"	costume_name="Pastur Battle Set"	/>
+		<msg	Index="2240"	costume_name="Huan Martial Set"	/>
+		<msg	Index="2257"	costume_name="Brazil Football Uniform"	/>
+		<msg	Index="2259"	costume_name="Kendo Suit"	/>
+		<msg	Index="2263"	costume_name="Shineguard Set"	/>
+		<msg	Index="2265"	costume_name="Teragrace Set"	/>
+		<msg	Index="2267"	costume_name="Mystic Set"	/>
+		<msg	Index="2269"	costume_name="SIGMetal Armor Set"	/>
+		<msg	Index="2271"	costume_name="SIGMetal Battle Set"	/>
+		<msg	Index="2273"	costume_name="SIGMetal Martial Set"	/>
+		<msg	Index="2275"	costume_name="Mithril Armor Set"	/>
+		<msg	Index="2277"	costume_name="Mithril Battle Set"	/>
+		<msg	Index="2279"	costume_name="Mithril Martial Set"	/>
+		<msg	Index="2570"	costume_name="Nevareth Pirate"	/>
+		<msg	Index="2575"	costume_name="Navy Officer"	/>
+		<msg	Index="3138"	costume_name="Nevareth Biker"	/>
+		<msg	Index="3251"	costume_name="CABAL Cops"	/>
+		<msg	Index="3534"	costume_name="Nevareth Angel in White"	/>
+		<msg	Index="3540"	costume_name="CABAL Assassin"	/>
+		<msg	Index="3575"	costume_name="Summer Vacation"	/>
+		<msg	Index="33554877"	costume_name="Uniform of Capella (GL)"	/>
+		<msg	Index="33554878"	costume_name="Uniform of Procyon (GL)"	/>
+		<msg	Index="33554919"	costume_name="Liberty Lady & Gentleman"	/>
+		<msg	Index="33555064"	costume_name="National Soccer Player Cheering Suit"	/>
+		<msg	Index="33555067"	costume_name="Aodai"	/>
+		<msg	Index="33555127"	costume_name="Welcome to Nightmare"	/>
+		<msg	Index="33555171"	costume_name="Wedding Ceremony"	/>
+		<msg	Index="33555205"	costume_name="Good and Evil"	/>
+		<msg	Index="33555250"	costume_name="Spy of the Kingdom"	/>
+		<msg	Index="33555285"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555286"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555287"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555288"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555289"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555290"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555408"	costume_name="Electronica Suit"	/>
+		<msg	Index="33555484"	costume_name="Stripe Suit"	/>
+		<msg	Index="33555612"	costume_name="Stripe Soccer Uniform"	/>
+		<msg	Index="33555613"	costume_name="Red Soccer Uniform"	/>
+		<msg	Index="33555614"	costume_name="White Soccer Uniform"	/>
+		<msg	Index="33555615"	costume_name="Red and White Soccer Uniform"	/>
+		<msg	Index="33555678"	costume_name="Aizhan Dress (Female Character Only)"	/>
+		<msg	Index="33555681"	costume_name="CABAL School Uniform"	/>
+		<msg	Index="33555684"	costume_name="Imperial Dress"	/>
+		<msg	Index="33555737"	costume_name="Ruler of Night"	/>
+		<msg	Index="33555750"	costume_name="Dracul Armor"	/>
+		<msg	Index="33555926"	costume_name="Uniform of Capella (FG)"	/>
+		<msg	Index="33555927"	costume_name="Uniform of Procyon (FG)"	/>
+		<msg	Index="33555967"	costume_name="Bounty Hunter"	/>
+		<msg	Index="33555973"	costume_name="Frozen Zombie"	/>
+		<msg	Index="33556007"	costume_name="Space Suit"	/>
+		<msg	Index="33556130"	costume_name="Devil Hunter"	/>
+		<msg	Index="33556136"	costume_name="Charisma Panda Costume"	/>
+		<msg	Index="33556188"	costume_name="Warrior's Soul Costume"	/>
+		<msg	Index="33556194"	costume_name="Dark Party Costume"	/>
+		<msg	Index="33556310"	costume_name="Panda Doll Clothes"	/>
+		<msg	Index="33556313"	costume_name="Bear Doll Clothes"	/>
+		<msg	Index="33556316"	costume_name="Shark Doll Clothes"	/>
+		<msg	Index="33556319"	costume_name="Rabbit Doll Clothes"	/>
+		<msg	Index="33556322"	costume_name="Lion Doll Clothes"	/>
+		<msg	Index="33556325"	costume_name="Tiger Doll Clothes"	/>
+		<msg	Index="33556328"	costume_name="Dinosaur Doll Clothes"	/>
+		<msg	Index="33556367"	costume_name="Dignity of Lady/Gent"	/>
+		<msg	Index="33556436"	costume_name="Demonite Plate"	/>
+		<msg	Index="33556439"	costume_name="Demonite Coat"	/>
+		<msg	Index="33556442"	costume_name="Demonite Suit"	/>
+		<msg	Index="33556497"	costume_name="Bunny Girl Costume"	/>
+		<msg	Index="33556503"	costume_name="Blazing Summer Suit"	/>
+		<msg	Index="33556618"	costume_name="Call of Valkyrie"	/>
+		<msg	Index="33556624"	costume_name="Steampunk Look"	/>
+		<msg	Index="33556630"	costume_name="Merry Christmas"	/>
+		<msg	Index="33556797"	costume_name="Black Dragon"	/>
+		<msg	Index="33557272"	costume_name="Uniform of Capella (DM)"	/>
+		<msg	Index="33557273"	costume_name="Uniform of Procyon (DM)"	/>
+		<msg	Index="33557278"	costume_name="Demonite Suit (DM)"	/>
+		<msg	Index="33557284"	costume_name="Palladium Head (DM)"	/>
+		<msg	Index="33557296"	costume_name="Archridium Suit (DM)"	/>
+		<msg	Index="33557302"	costume_name="Mithril Suit (DM)"	/>
+		<msg	Index="33557308"	costume_name="Mystic Suit (DM)"	/>
+		<msg	Index="33557412"	costume_name="Spring Outing"	/>
+		<msg	Index="33557418"	costume_name="Temptation of the Rose"	/>
+		<msg	Index="33557426"	costume_name="Jet Black Uniform"	/>
+		<msg	Index="33557435"	costume_name="Glowing Chicken Doll Clothes"	/>
+		<msg	Index="33557441"	costume_name="Shiba Inu Doll Clothes"	/>
+		<msg	Index="33557467"	costume_name="Barong Tagalog"	/>
+		<msg	Index="33557553"	costume_name="Dragonium Plate"	/>
+		<msg	Index="33557559"	costume_name="Dragonium Coat"	/>
+		<msg	Index="33557565"	costume_name="Dragonium Suit"	/>
+		<msg	Index="33557577"	costume_name="Dragonium Suit (DM)"	/>
+		<msg	Index="33558041"	costume_name="Forest Fairy"	/>
+		<msg	Index="33558072"	costume_name="Siamese Dress"	/>
+		<msg	Index="33558318"	costume_name="다크 황실복"	/>
+		<msg	Index="33558417"	costume_name="별의 지배자"	/>
+		<msg	Index="33558423"	costume_name="아이돌"	/>
+		<msg	Index="1013"	costume_name="Halloween - Pumpkin Helmet"	/>
+		<msg	Index="1078"	costume_name="Antler & Red Nose"	/>
+		<msg	Index="1079"	costume_name="Antler"	/>
+		<msg	Index="1080"	costume_name="Red Nose"	/>
+		<msg	Index="1081"	costume_name="Winter Cap"	/>
+		<msg	Index="1082"	costume_name="Earmuff"	/>
+		<msg	Index="1083"	costume_name="X Mask"	/>
+		<msg	Index="1084"	costume_name="Skeleton Mask"	/>
+		<msg	Index="1085"	costume_name="Santa Hood"	/>
+		<msg	Index="1086"	costume_name="Cutie Santa Hood"	/>
+		<msg	Index="1158"	costume_name="Japanese traditional Gala Headdress"	/>
+		<msg	Index="1232"	costume_name="Korean Gala Headdress"	/>
+		<msg	Index="1233"	costume_name="Goguryeo Headband"	/>
+		<msg	Index="1238"	costume_name="Sandy Dust Mask"	/>
+		<msg	Index="1357"	costume_name="Happy Birthday Hat"	/>
+		<msg	Index="1550"	costume_name="CABAL Birthday Hat"	/>
+		<msg	Index="1840"	costume_name="Dancing Temptation Mask"	/>
+		<msg	Index="1842"	costume_name="Wild Western Hat"	/>
+		<msg	Index="2290"	costume_name="Midreth Armor helmet"	/>
+		<msg	Index="2291"	costume_name="Pastur Battle helmet"	/>
+		<msg	Index="2292"	costume_name="Huan Martial helmet"	/>
+		<msg	Index="2293"	costume_name="Shineguard Visor"	/>
+		<msg	Index="2294"	costume_name="Teragrace Headgear"	/>
+		<msg	Index="2295"	costume_name="Mystic Headpiece"	/>
+		<msg	Index="2296"	costume_name="SIGMetal Visor"	/>
+		<msg	Index="2297"	costume_name="SIGMetal Headgear"	/>
+		<msg	Index="2298"	costume_name="SIGMetal Headpiece"	/>
+		<msg	Index="2299"	costume_name="Mithril Visor"	/>
+		<msg	Index="2300"	costume_name="Mithril Headgear"	/>
+		<msg	Index="2301"	costume_name="Mithril Headpiece"	/>
+		<msg	Index="2573"	costume_name="Nevareth Pirate Tricorn Hat"	/>
+		<msg	Index="2578"	costume_name="Navy Cap"	/>
+		<msg	Index="3141"	costume_name="Biker Bandana"	/>
+		<msg	Index="3252"	costume_name="CABAL Cops Cap"	/>
+		<msg	Index="3535"	costume_name="Nevareth Angel in White Cap"	/>
+		<msg	Index="3541"	costume_name="CABAL Assassin Hood"	/>
+		<msg	Index="3578"	costume_name="Vacation sun hat"	/>
+		<msg	Index="33554840"	costume_name="Afro Hair"	/>
+		<msg	Index="33554841"	costume_name="Bamboo Hat"	/>
+		<msg	Index="33554842"	costume_name="Top Hat"	/>
+		<msg	Index="33554843"	costume_name="Rococo Hairstyle"	/>
+		<msg	Index="33554844"	costume_name="Shutter Shade"	/>
+		<msg	Index="33554845"	costume_name="Teddy Hat"	/>
+		<msg	Index="33554846"	costume_name="Monocle"	/>
+		<msg	Index="33555057"	costume_name="Devil Horn"	/>
+		<msg	Index="33555058"	costume_name="Korean Flag Headband"	/>
+		<msg	Index="33555059"	costume_name="Soccer Ball Cap"	/>
+		<msg	Index="33555174"	costume_name="Wedding Hair Accessory"	/>
+		<msg	Index="33555208"	costume_name="Good and Evil Headgear"	/>
+		<msg	Index="33555214"	costume_name="WTF is this?"	/>
+		<msg	Index="33555291"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555292"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555293"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555294"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555295"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555296"	costume_name="JP Exclusive"	/>
+		<msg	Index="33555411"	costume_name="Electronica Helmet"	/>
+		<msg	Index="33555464"	costume_name="Natural Skaild (Male Character Only)"	/>
+		<msg	Index="33555465"	costume_name="Frowning Skaild (Male Character Only)"	/>
+		<msg	Index="33555466"	costume_name="Angry Skaild (Male Character Only)"	/>
+		<msg	Index="33555467"	costume_name="Natural Elena (Female Character Only)"	/>
+		<msg	Index="33555468"	costume_name="Frowning Elena (Female Character Only)"	/>
+		<msg	Index="33555469"	costume_name="Angry Elena (Female Character Only)"	/>
+		<msg	Index="33555470"	costume_name="Natural Yuan (Female Character Only)"	/>
+		<msg	Index="33555471"	costume_name="Frowning Yuan (Female Character Only)"	/>
+		<msg	Index="33555472"	costume_name="Angry Yuan (Female Character Only)"	/>
+		<msg	Index="33555473"	costume_name="Natural Arionell (Female Character Only)"	/>
+		<msg	Index="33555474"	costume_name="Frowning Arionell (Female Character Only)"	/>
+		<msg	Index="33555475"	costume_name="Angry Arionel (Female Character Only)"	/>
+		<msg	Index="33555476"	costume_name="Natural Aizhan (Female Character Only)"	/>
+		<msg	Index="33555477"	costume_name="Frowning Aizhan (Female Character Only)"	/>
+		<msg	Index="33555478"	costume_name="Angry Aizhan (Female Character Only)"	/>
+		<msg	Index="33555479"	costume_name="Gas Mask"	/>
+		<msg	Index="33555480"	costume_name="Gatekeeper of Hell"	/>
+		<msg	Index="33555481"	costume_name="Stag of Bloody Ice"	/>
+		<msg	Index="33555482"	costume_name="Elk Helmet"	/>
+		<msg	Index="33555483"	costume_name="Golden Budda"	/>
+		<msg	Index="33555527"	costume_name="Drunken Pirate"	/>
+		<msg	Index="33555528"	costume_name="Mergaheph"	/>
+		<msg	Index="33555529"	costume_name="Clown"	/>
+		<msg	Index="33555531"	costume_name="Mechbuffalo"	/>
+		<msg	Index="33555532"	costume_name="Twisted Zombie"	/>
+		<msg	Index="33555533"	costume_name="Minesta Tabby"	/>
+		<msg	Index="33555534"	costume_name="Minesta Shorthair"	/>
+		<msg	Index="33555535"	costume_name="Ebony Garlie"	/>
+		<msg	Index="33555536"	costume_name="Ruby Garlie"	/>
+		<msg	Index="33555537"	costume_name="Crystal Garlie"	/>
+		<msg	Index="33555654"	costume_name="Panda Doll Mask"	/>
+		<msg	Index="33555655"	costume_name="Bear Doll Mask"	/>
+		<msg	Index="33555656"	costume_name="Shark Doll Mask"	/>
+		<msg	Index="33555657"	costume_name="Rabbit Doll Mask"	/>
+		<msg	Index="33555658"	costume_name="Lion Doll Mask"	/>
+		<msg	Index="33555659"	costume_name="Tiger Doll Mask"	/>
+		<msg	Index="33555660"	costume_name="Dinosaur Doll Mask"	/>
+		<msg	Index="33555661"	costume_name="Lion Face"	/>
+		<msg	Index="33555732"	costume_name="Aizhan Face (Female Character Only)"	/>
+		<msg	Index="33555740"	costume_name="Ruler of Night - Helmet (Male Character Only)"	/>
+		<msg	Index="33555743"	costume_name="Ruler of Night - Helmet (Female Character Only)"	/>
+		<msg	Index="33555753"	costume_name="Dracul Armor Helmet"	/>
+		<msg	Index="33555970"	costume_name="Bounty Hunter Helmet"	/>
+		<msg	Index="33555976"	costume_name="Frozen Zombie Hat"	/>
+		<msg	Index="33556010"	costume_name="Space Helmet"	/>
+		<msg	Index="33556133"	costume_name="Devil Hunter Helmet"	/>
+		<msg	Index="33556139"	costume_name="Charisma Panda Helmet"	/>
+		<msg	Index="33556142"	costume_name="Cute Devil Face"	/>
+		<msg	Index="33556191"	costume_name="Warrior's Soul Helmet"	/>
+		<msg	Index="33556197"	costume_name="Dark Party Hair"	/>
+		<msg	Index="33556306"	costume_name="Spy of the Kingdom Hair"	/>
+		<msg	Index="33556445"	costume_name="Demonite Visor"	/>
+		<msg	Index="33556448"	costume_name="Demonite Headgear"	/>
+		<msg	Index="33556451"	costume_name="Demonite Headpiece"	/>
+		<msg	Index="33556500"	costume_name="Bunny Girl Hair"	/>
+		<msg	Index="33556506"	costume_name="Blazing Summer Cap"	/>
+		<msg	Index="33556509"	costume_name="Sheep Doll Mask"	/>
+		<msg	Index="33556621"	costume_name="Call of Valkyrie Helmet"	/>
+		<msg	Index="33556627"	costume_name="Steampunky Mask"	/>
+		<msg	Index="33556633"	costume_name="Merry Christmas Hair"	/>
+		<msg	Index="33556671"	costume_name="Dignity of Lady/Gent Hair"	/>
+		<msg	Index="33556800"	costume_name="Black Dragon Helmet"	/>
+		<msg	Index="33556803"	costume_name="Pretty Twintail"	/>
+		<msg	Index="33556859"	costume_name="Red Dragon Doll Mask"	/>
+		<msg	Index="33556862"	costume_name="Blue Dragon Doll Mask"	/>
+		<msg	Index="33556870"	costume_name="Ribbon Ponytail"	/>
+		<msg	Index="33556885"	costume_name="Beauty Ponytail"	/>
+		<msg	Index="33556925"	costume_name="Cutie Apple Head"	/>
+		<msg	Index="33556928"	costume_name="Bunny Ears Twintail"	/>
+		<msg	Index="33557281"	costume_name="Demonite Headpiece (DM)"	/>
+		<msg	Index="33557287"	costume_name="Palladium Headpiece (DM)"	/>
+		<msg	Index="33557299"	costume_name="Archridium Headpiece (DM)"	/>
+		<msg	Index="33557305"	costume_name="Mithril Headpiece (DM)"	/>
+		<msg	Index="33557311"	costume_name="Mystic Headpiece (DM)"	/>
+		<msg	Index="33557415"	costume_name="Spring Outing"	/>
+		<msg	Index="33557421"	costume_name="Seductive Rose Face"	/>
+		<msg	Index="33557429"	costume_name="Face in jet black uniform"	/>
+		<msg	Index="33557438"	costume_name="Glowing Chicken Doll Mask"	/>
+		<msg	Index="33557444"	costume_name="Shiba Inu Doll Mask"	/>
+		<msg	Index="33557470"	costume_name="Barong Tagalog Hair"	/>
+		<msg	Index="33557556"	costume_name="Dragonium Visor"	/>
+		<msg	Index="33557562"	costume_name="Dragonium Headgear"	/>
+		<msg	Index="33557568"	costume_name="Dragonium Headpiece"	/>
+		<msg	Index="33557573"	costume_name="Dragonium Headpiece (DM)"	/>
+		<msg	Index="33558044"	costume_name="Forest fairy hair"	/>
+		<msg	Index="33558075"	costume_name="Siamese Dress Face"	/>
+		<msg	Index="33558420"	costume_name="별의 지배자 페이스"	/>
+		<msg	Index="33558426"	costume_name="아이돌 페이스"	/>
+		<msg	Index="1014"	costume_name="Candy - Orb/Crystal"	/>
+		<msg	Index="1015"	costume_name="Candy - Katana/Daikatana"	/>
+		<msg	Index="1016"	costume_name="Candy - Blade/Greatsword"	/>
+		<msg	Index="1017"	costume_name="Sweet Candy - Orb/Crystal"	/>
+		<msg	Index="1018"	costume_name="Sweet Candy - Katana/Daikatana"	/>
+		<msg	Index="1019"	costume_name="Sweet Candy - Blade/Greatsword"	/>
+		<msg	Index="1063"	costume_name="Snow Ice - Orb/Crystal"	/>
+		<msg	Index="1064"	costume_name="Snow Ice - Katana/Daikatana"	/>
+		<msg	Index="1065"	costume_name="Snow Ice - Blade/Greatsword"	/>
+		<msg	Index="1066"	costume_name="Snow Star - Orb/Crystal"	/>
+		<msg	Index="1067"	costume_name="Snow Star - Katana/Daikatana"	/>
+		<msg	Index="1068"	costume_name="Snow Star - Blade/Greatsword"	/>
+		<msg	Index="1143"	costume_name="New Year's Orb/Crystal"	/>
+		<msg	Index="1144"	costume_name="New Year's Katana/Daikatana"	/>
+		<msg	Index="1145"	costume_name="New Year's Blade/Great Sword"	/>
+		<msg	Index="1433"	costume_name="Water Elemental - Orb/Crystal"	/>
+		<msg	Index="1434"	costume_name="Water Elemental - Katana/Daikatana"	/>
+		<msg	Index="1435"	costume_name="Water Elemental - Blade/Great Sword"	/>
+		<msg	Index="2141"	costume_name="Water Elemental - Chakram"	/>
+		<msg	Index="2358"	costume_name="Halloween Horror - Orb/Crystal"	/>
+		<msg	Index="2359"	costume_name="Halloween Horror - Katana/Daikatana"	/>
+		<msg	Index="2360"	costume_name="Halloween Horror - Blade/Great Sword"	/>
+		<msg	Index="3145"	costume_name="Lightsaber - Orb"	/>
+		<msg	Index="3146"	costume_name="Lightsaber - Katana"	/>
+		<msg	Index="3147"	costume_name="Lightsaber - Blade"	/>
+		<msg	Index="3148"	costume_name="Lightsaber - Crystal"	/>
+		<msg	Index="3149"	costume_name="Lightsaber - Daikatana"	/>
+		<msg	Index="3150"	costume_name="Lightsaber - Greatsword"	/>
+		<msg	Index="3347"	costume_name="Lightsaber - Chakram"	/>
+		<msg	Index="3348"	costume_name="Hellforged Weapon - Chakram"	/>
+		<msg	Index="33554540"	costume_name="Hellforged Weapon - Orb"	/>
+		<msg	Index="33554541"	costume_name="Hellforged Weapon - Katana"	/>
+		<msg	Index="33554542"	costume_name="Hellforged Weapon - Blade"	/>
+		<msg	Index="33554543"	costume_name="Hellforged Weapon - Crystal"	/>
+		<msg	Index="33554544"	costume_name="Hellforged Weapon - Daikatana"	/>
+		<msg	Index="33554545"	costume_name="Hellforged Weapon - Greatsword"	/>
+		<msg	Index="33555129"	costume_name="Fresh from the Sea - Orb"	/>
+		<msg	Index="33555130"	costume_name="Fresh from the Sea - Katana"	/>
+		<msg	Index="33555131"	costume_name="Fresh from the Sea - Blade"	/>
+		<msg	Index="33555132"	costume_name="Fresh from the Sea - Crystal"	/>
+		<msg	Index="33555133"	costume_name="Fresh from the Sea - Daikatana"	/>
+		<msg	Index="33555134"	costume_name="Fresh from the Sea - Great Sword"	/>
+		<msg	Index="33555135"	costume_name="Fresh from the Sea - Chakram"	/>
+		<msg	Index="33555178"	costume_name="Bloody Skeleton - Orb"	/>
+		<msg	Index="33555179"	costume_name="Bloody Skeleton - Katana"	/>
+		<msg	Index="33555180"	costume_name="Bloody Skeleton - Blade"	/>
+		<msg	Index="33555181"	costume_name="Bloody Skeleton - Crystal"	/>
+		<msg	Index="33555182"	costume_name="Bloody Skeleton - Daikatana"	/>
+		<msg	Index="33555183"	costume_name="Bloody Skeleton - Great Sword"	/>
+		<msg	Index="33555184"	costume_name="Bloody Skeleton - Chakram"	/>
+		<msg	Index="33555192"	costume_name="Horror Halloween - Chakram"	/>
+		<msg	Index="33555194"	costume_name="Snow Ice - Chakram"	/>
+		<msg	Index="33555264"	costume_name="Sweet Candy - Chakram"	/>
+		<msg	Index="33555394"	costume_name="Electronica - Orb"	/>
+		<msg	Index="33555395"	costume_name="Electronica - Katana"	/>
+		<msg	Index="33555396"	costume_name="Electronica - Blade"	/>
+		<msg	Index="33555397"	costume_name="Electronica - Crystal"	/>
+		<msg	Index="33555398"	costume_name="Electronica - Daikatana"	/>
+		<msg	Index="33555399"	costume_name="Electronica - Great Sword"	/>
+		<msg	Index="33555400"	costume_name="Electronica - Chakram"	/>
+		<msg	Index="33555624"	costume_name="Cherry Blossom - Orb"	/>
+		<msg	Index="33555625"	costume_name="Cherry Blossom - Katana"	/>
+		<msg	Index="33555626"	costume_name="Cherry Blossom - Blade"	/>
+		<msg	Index="33555627"	costume_name="Cherry Blossom - Crystal"	/>
+		<msg	Index="33555628"	costume_name="Cherry Blossom - Daikatana"	/>
+		<msg	Index="33555629"	costume_name="Cherry Blossom - Great Sword"	/>
+		<msg	Index="33555630"	costume_name="Cherry Blossom - Chakram"	/>
+		<msg	Index="33555687"	costume_name="Gold Dragon - Orb"	/>
+		<msg	Index="33555688"	costume_name="Gold Dragon - Katana"	/>
+		<msg	Index="33555689"	costume_name="Gold Dragon - Blade"	/>
+		<msg	Index="33555690"	costume_name="Gold Dragon - Crystal"	/>
+		<msg	Index="33555691"	costume_name="Gold Dragon - Daikatana"	/>
+		<msg	Index="33555692"	costume_name="Gold Dragon - Great Sword"	/>
+		<msg	Index="33555693"	costume_name="Gold Dragon - Chakram"	/>
+		<msg	Index="33555701"	costume_name="Demon's Bone - Orb"	/>
+		<msg	Index="33555702"	costume_name="Demon's Bone - Katana"	/>
+		<msg	Index="33555703"	costume_name="Demon's Bone - Blade"	/>
+		<msg	Index="33555704"	costume_name="Demon's Bone - Crystal"	/>
+		<msg	Index="33555705"	costume_name="Demon's Bone - Daikatana"	/>
+		<msg	Index="33555706"	costume_name="Demon's Bone - Great Sword"	/>
+		<msg	Index="33555707"	costume_name="Demon's Bone - Chakram"	/>
+		<msg	Index="33555993"	costume_name="Magic Engineering - Orb"	/>
+		<msg	Index="33555994"	costume_name="Magic Engineering - Katana"	/>
+		<msg	Index="33555995"	costume_name="Magic Engineering - Blade"	/>
+		<msg	Index="33555996"	costume_name="Magic Engineering - Crystal"	/>
+		<msg	Index="33555997"	costume_name="Magic Engineering - Daikatana"	/>
+		<msg	Index="33555998"	costume_name="Magic Engineering - Great Sword"	/>
+		<msg	Index="33555999"	costume_name="Magic Engineering - Chakram"	/>
+		<msg	Index="33556084"	costume_name="Snow Star - Chakram"	/>
+		<msg	Index="33556147"	costume_name="Guardian of Light - Orb"	/>
+		<msg	Index="33556148"	costume_name="Guardian of Light - Katana"	/>
+		<msg	Index="33556149"	costume_name="Guardian of Light - Blade"	/>
+		<msg	Index="33556150"	costume_name="Guardian of Light - Crystal"	/>
+		<msg	Index="33556151"	costume_name="Guardian of Light - Daikatana"	/>
+		<msg	Index="33556152"	costume_name="Guardian of Light - Great Sword"	/>
+		<msg	Index="33556153"	costume_name="Guardian of Light - Chakram"	/>
+		<msg	Index="33556277"	costume_name="Christmas Weapon - Orb"	/>
+		<msg	Index="33556278"	costume_name="Christmas Weapon - Katana"	/>
+		<msg	Index="33556279"	costume_name="Christmas Weapon - Blade"	/>
+		<msg	Index="33556280"	costume_name="Christmas Weapon - Crystal"	/>
+		<msg	Index="33556281"	costume_name="Christmas Weapon - Daikatana"	/>
+		<msg	Index="33556282"	costume_name="Christmas Weapon - Great Sword"	/>
+		<msg	Index="33556283"	costume_name="Christmas Weapon - Chakram"	/>
+		<msg	Index="33556456"	costume_name="Demonite Special Edition - Orb"	/>
+		<msg	Index="33556457"	costume_name="Demonite Special Edition - Katana"	/>
+		<msg	Index="33556458"	costume_name="Demonite Special Edition - Blade"	/>
+		<msg	Index="33556459"	costume_name="Demonite Special Edition - Crystal"	/>
+		<msg	Index="33556460"	costume_name="Demonite Special Edition - Daikatana"	/>
+		<msg	Index="33556461"	costume_name="Demonite Special Edition - Great Sword"	/>
+		<msg	Index="33556462"	costume_name="Demonite Special Edition - Chakram"	/>
+		<msg	Index="33556651"	costume_name="Steampunk - Orb"	/>
+		<msg	Index="33556652"	costume_name="Steampunk - Katana"	/>
+		<msg	Index="33556653"	costume_name="Steampunk - Blade"	/>
+		<msg	Index="33556654"	costume_name="Steampunk - Crystal"	/>
+		<msg	Index="33556655"	costume_name="Steampunk - Daikatana"	/>
+		<msg	Index="33556656"	costume_name="Steampunk - Great Sword"	/>
+		<msg	Index="33556657"	costume_name="Steampunk - Chakram"	/>
+		<msg	Index="33557578"	costume_name="Dragonium Orb"	/>
+		<msg	Index="33557579"	costume_name="Dragonium Katana"	/>
+		<msg	Index="33557580"	costume_name="Dragonium Blade"	/>
+		<msg	Index="33557581"	costume_name="Dragonium Crystal"	/>
+		<msg	Index="33557582"	costume_name="Dragonium Daikatana"	/>
+		<msg	Index="33557583"	costume_name="Dragonium Great Sword"	/>
+		<msg	Index="33557584"	costume_name="Dragonium Chakram"	/>
+		<msg	Index="33558113"	costume_name="Children's Toy - Orb"	/>
+		<msg	Index="33558114"	costume_name="Children's Toy - Katana"	/>
+		<msg	Index="33558115"	costume_name="Children's Toy - Blade"	/>
+		<msg	Index="33558116"	costume_name="Children's Toy - Crystal"	/>
+		<msg	Index="33558117"	costume_name="Children's Toy - Daikatana"	/>
+		<msg	Index="33558118"	costume_name="Children's Toy - Great Sword"	/>
+		<msg	Index="33558119"	costume_name="Children's Toy - Chakram"	/>
+		<msg	Index="33558145"	costume_name="Pixel Weapon - Orb"	/>
+		<msg	Index="33558146"	costume_name="Pixel Weapon - Katana"	/>
+		<msg	Index="33558147"	costume_name="Pixel Weapon - Blade"	/>
+		<msg	Index="33558148"	costume_name="Pixel Weapon - Crystal"	/>
+		<msg	Index="33558149"	costume_name="Pixel Weapon - Daikatana"	/>
+		<msg	Index="33558150"	costume_name="Pixel Weapon - Great Sword"	/>
+		<msg	Index="33558151"	costume_name="Pixel Weapon - Chakram"	/>
+		<msg	Index="33558304"	costume_name="Black Dragon - Orb"	/>
+		<msg	Index="33558305"	costume_name="Black Dragon - Katana"	/>
+		<msg	Index="33558306"	costume_name="Black Dragon - Blade"	/>
+		<msg	Index="33558307"	costume_name="Black Dragon - Crystal"	/>
+		<msg	Index="33558308"	costume_name="Black Dragon - Daikatana"	/>
+		<msg	Index="33558309"	costume_name="Black Dragon - Great Sword"	/>
+		<msg	Index="33558310"	costume_name="Black Dragon - Chakram"	/>
+		<msg	Index="33556374"	costume_name="Black Wing"	/>
+		<msg	Index="33556472"	costume_name="Fairy Wing"	/>
+		<msg	Index="33556476"	costume_name="Mechanic Wing"	/>
+		<msg	Index="33556569"	costume_name="Golden Rose Wing"	/>
+		<msg	Index="33556571"	costume_name="Evil Succube Wing"	/>
+		<msg	Index="33556573"	costume_name="Frozen Gear Wing"	/>
+		<msg	Index="33556575"	costume_name="Mutant Lord Wing"	/>
+		<msg	Index="33556577"	costume_name="Porta Lord Wing"	/>
+		<msg	Index="33556665"	costume_name="Gold Champion Wing"	/>
+		<msg	Index="33556667"	costume_name="Aquarium Wing"	/>
+		<msg	Index="33556669"	costume_name="Mischievous Ghost Wing"	/>
+		<msg	Index="33556732"	costume_name="Gold Guardian Wing"	/>
+		<msg	Index="33556734"	costume_name="Poison Edge Wing"	/>
+		<msg	Index="33556736"	costume_name="Tentacle Machine Wing"	/>
+		<msg	Index="33556839"	costume_name="Star Fly Wing(Blue)"	/>
+		<msg	Index="33556841"	costume_name="Star Fly Wing(Yellow)"	/>
+		<msg	Index="33556843"	costume_name="Star Fly Wing(Emerald)"	/>
+		<msg	Index="33556931"	costume_name="Liberty Guardian Wing"	/>
+		<msg	Index="33557424"	costume_name="Cherry Blossom Wing"	/>
+		<msg	Index="33558039"	costume_name="Wings of Valor"	/>
+		<msg	Index="33558047"	costume_name="Forest Fairy Wing"	/>
+		<msg	Index="33558127"	costume_name="Black Butterfly Wing"	/>
+		<msg	Index="33558129"	costume_name="Five-colored Butterfly Wing"	/>
+		<msg	Index="33558131"	costume_name="Forest Butterfly Wing"	/>
+		<msg	Index="33558133"	costume_name="Twilight Butterfly Wing"	/>
+		<msg	Index="33558135"	costume_name="Stained Glass Butterfly Wing"	/>
+		<msg	Index="33558137"	costume_name="White Butterfly Wing"	/>
+		<msg	Index="33558139"	costume_name="Red Flame Wing"	/>
+		<msg	Index="33558141"	costume_name="Blue Flame Wing"	/>
+		<msg	Index="33558143"	costume_name="Tropical Wing"	/>
+		<msg	Index="33558159"	costume_name="Surprise Halloween Wing"	/>
+		<msg	Index="33558161"	costume_name="Casino Royal Wings"	/>
+		<msg	Index="33556268"	costume_name="Santa's Christmas Sleigh"	/>
+		<msg	Index="33556269"	costume_name="Flaming Bike (Red Flare)"	/>
+		<msg	Index="33556270"	costume_name="Flaming Bike (Blue Flare)"	/>
+		<msg	Index="33556271"	costume_name="Astral Transport Machine"	/>
+		<msg	Index="33556292"	costume_name="Mythical Lion (White)"	/>
+		<msg	Index="33556294"	costume_name="Mythical Lion (Black)"	/>
+		<msg	Index="33556296"	costume_name="Mythical Lion (Red)"	/>
+		<msg	Index="33556298"	costume_name="Mythical Lion (Blue)"	/>
+		<msg	Index="33556341"	costume_name="Chirpy the Explorer"	/>
+		<msg	Index="33556648"	costume_name="Mechanical Tron"	/>
+		<msg	Index="33556738"	costume_name="Steampunk Replica"	/>
+		<msg	Index="33556831"	costume_name="King Leo the Guardian of Sky"	/>
+		<msg	Index="33556851"	costume_name="Knight Dragon"	/>
+		<msg	Index="33556853"	costume_name="Red Knight Dragon"	/>
+		<msg	Index="33556855"	costume_name="Black Knight Dragon"	/>
+		<msg	Index="33556857"	costume_name="Cute Little Pheonix"	/>
+		<msg	Index="33556873"	costume_name="Liberty Bike"	/>
+		<msg	Index="33556888"	costume_name="Liberty Chirpy"	/>
+		<msg	Index="33556911"	costume_name="Red Beetle"	/>
+		<msg	Index="33556913"	costume_name="Yellow Beetle"	/>
+		<msg	Index="33556915"	costume_name="Green Beetle"	/>
+		<msg	Index="33556921"	costume_name="Skull Bike"	/>
+		<msg	Index="33556923"	costume_name="Ghost Knight"	/>
+		<msg	Index="33556933"	costume_name="Royal Bike"	/>
+		<msg	Index="33556935"	costume_name="Royal Peep"	/>
+		<msg	Index="33558037"	costume_name="Royal Peep"	/>
+		<msg	Index="33558246"	costume_name="Freedom's Supercar"	/>
+		<msg	Index="946"	costume_name="Little Jack Jr."	/>
+		<msg	Index="1021"	costume_name="Garlie Jr."	/>
+		<msg	Index="1022"	costume_name="Red Garlie Jr."	/>
+		<msg	Index="1023"	costume_name="Giant Beetle Jr."	/>
+		<msg	Index="1024"	costume_name="Nipperlug Jr."	/>
+		<msg	Index="1025"	costume_name="Rabbithorn Jr."	/>
+		<msg	Index="1026"	costume_name="Troglo Jr."	/>
+		<msg	Index="1027"	costume_name="Troglo Warrior Jr."	/>
+		<msg	Index="1028"	costume_name="Elder Troglo Jr."	/>
+		<msg	Index="1029"	costume_name="Mantis Jr."	/>
+		<msg	Index="1030"	costume_name="Dire Boar Jr."	/>
+		<msg	Index="1031"	costume_name="Mummy Jr."	/>
+		<msg	Index="1032"	costume_name="Crag Turtle Jr."	/>
+		<msg	Index="1033"	costume_name="Armaku Jr."	/>
+		<msg	Index="1045"	costume_name="Little Pery Jr."	/>
+		<msg	Index="1046"	costume_name="Golem Jr."	/>
+		<msg	Index="1047"	costume_name="Little Gry Jr."	/>
+		<msg	Index="1048"	costume_name="Cutie Lai Jr."	/>
+		<msg	Index="1049"	costume_name="Cutie Tai Jr."	/>
+		<msg	Index="1050"	costume_name="Charisma Pan Jr."	/>
+		<msg	Index="1051"	costume_name="Fancy Zard Jr."	/>
+		<msg	Index="1052"	costume_name="Gentle Parrot Jr."	/>
+		<msg	Index="1053"	costume_name="Peng Jr."	/>
+		<msg	Index="1054"	costume_name="Suping Jr."	/>
+		<msg	Index="1055"	costume_name="Rudolph Jr."	/>
+		<msg	Index="1273"	costume_name="Fortune Pig Jr."	/>
+		<msg	Index="1274"	costume_name="Golden Fortune Pig Jr."	/>
+		<msg	Index="1490"	costume_name="ChaCha Jr."	/>
+		<msg	Index="1491"	costume_name="Worry Bear Jr."	/>
+		<msg	Index="1492"	costume_name="Meow Ninja Jr."	/>
+		<msg	Index="1493"	costume_name="Robo Robo Jr."	/>
+		<msg	Index="1494"	costume_name="Woolly Jr."	/>
+		<msg	Index="1495"	costume_name="Nevareth Husky Jr."	/>
+		<msg	Index="1541"	costume_name="Outer Invader Jr."	/>
+		<msg	Index="1620"	costume_name="Molly Jr."	/>
+		<msg	Index="1631"	costume_name="Cookie Jr."	/>
+		<msg	Index="2245"	costume_name="Cute Rudolph Jr."	/>
+		<msg	Index="3047"	costume_name="Angela Jr."	/>
+		<msg	Index="3048"	costume_name="Devil O' Jr."	/>
+		<msg	Index="3049"	costume_name="Draca Jr."	/>
+		<msg	Index="3438"	costume_name="Alpa Jr."	/>
+		<msg	Index="3439"	costume_name="Alca Jr."	/>
+		<msg	Index="3440"	costume_name="Paca Jr."	/>
+		<msg	Index="3441"	costume_name="Alpaca Jr."	/>
+		<msg	Index="4081"	costume_name="May Jr."	/>
+		<msg	Index="4082"	costume_name="Claris Jr."	/>
+		<msg	Index="33554655"	costume_name="Bonies Jr."	/>
+		<msg	Index="33555177"	costume_name="Pirate Sheep Jr."	/>
+		<msg	Index="33555211"	costume_name="Pirate Parrot Jr."	/>
+		<msg	Index="33555212"	costume_name="Pirate Monkey Jr."	/>
+		<msg	Index="33555414"	costume_name="Franky Jr."	/>
+		<msg	Index="33556300"	costume_name="Punch King Lulu Jr."	/>
+		<msg	Index="33556305"	costume_name="Elfie Jr."	/>
+		<msg	Index="33556370"	costume_name="Cute Mahjong Jr."	/>
+		<msg	Index="33558333"	costume_name="Garlie"	/>
+		<msg	Index="33558334"	costume_name="Red Garlie"	/>
+		<msg	Index="33558335"	costume_name="Giant Beetle"	/>
+		<msg	Index="33558336"	costume_name="Nipperlug"	/>
+		<msg	Index="33558337"	costume_name="Rabbithorn"	/>
+		<msg	Index="33558338"	costume_name="Troglo"	/>
+		<msg	Index="33558339"	costume_name="Troglo Warrior"	/>
+		<msg	Index="33558340"	costume_name="Elder Troglo"	/>
+		<msg	Index="33558341"	costume_name="Mantis"	/>
+		<msg	Index="33558342"	costume_name="Dire Boar"	/>
+		<msg	Index="33558343"	costume_name="Mummy"	/>
+		<msg	Index="33558344"	costume_name="Crag Turtle"	/>
+		<msg	Index="33558345"	costume_name="Armaku"	/>
+		<msg	Index="33558346"	costume_name="Little Jack"	/>
+		<msg	Index="33558347"	costume_name="Little Pery"	/>
+		<msg	Index="33558348"	costume_name="Golem"	/>
+		<msg	Index="33558349"	costume_name="Little Gry"	/>
+		<msg	Index="33558350"	costume_name="Cutie Lai"	/>
+		<msg	Index="33558351"	costume_name="Cutie Tai"	/>
+		<msg	Index="33558352"	costume_name="Charisma Pan"	/>
+		<msg	Index="33558353"	costume_name="Fancy Zard"	/>
+		<msg	Index="33558354"	costume_name="Gentle Parrot"	/>
+		<msg	Index="33558355"	costume_name="Peng"	/>
+		<msg	Index="33558356"	costume_name="Suping"	/>
+		<msg	Index="33558357"	costume_name="Rudolph"	/>
+		<msg	Index="33558358"	costume_name="Fortune Pig"	/>
+		<msg	Index="33558359"	costume_name="Golden Fortune Pig"	/>
+		<msg	Index="33558360"	costume_name="ChaCha"	/>
+		<msg	Index="33558361"	costume_name="Worry Bear"	/>
+		<msg	Index="33558362"	costume_name="Meow Ninja"	/>
+		<msg	Index="33558363"	costume_name="Robo Robo"	/>
+		<msg	Index="33558364"	costume_name="Woolly"	/>
+		<msg	Index="33558365"	costume_name="Nevareth Husky"	/>
+		<msg	Index="33558366"	costume_name="Outer Invader"	/>
+		<msg	Index="33558367"	costume_name="Molly"	/>
+		<msg	Index="33558368"	costume_name="Cookie"	/>
+		<msg	Index="33558369"	costume_name="Cute Rudolph"	/>
+		<msg	Index="33558370"	costume_name="Angela"	/>
+		<msg	Index="33558371"	costume_name="Devil O'"	/>
+		<msg	Index="33558372"	costume_name="Draca"	/>
+		<msg	Index="33558373"	costume_name="Alpa"	/>
+		<msg	Index="33558374"	costume_name="Alca"	/>
+		<msg	Index="33558375"	costume_name="Paca"	/>
+		<msg	Index="33558376"	costume_name="Alpaca"	/>
+		<msg	Index="33558377"	costume_name="May"	/>
+		<msg	Index="33558378"	costume_name="Claris"	/>
+		<msg	Index="33558379"	costume_name="Bonies"	/>
+		<msg	Index="33558380"	costume_name="Pirate Sheep"	/>
+		<msg	Index="33558381"	costume_name="Pirate Parrot"	/>
+		<msg	Index="33558382"	costume_name="Pirate Monkey"	/>
+		<msg	Index="33558383"	costume_name="Franky"	/>
+		<msg	Index="33558384"	costume_name="Punch King Lulu"	/>
+		<msg	Index="33558385"	costume_name="Elfie"	/>
+		<msg	Index="33558386"	costume_name="Cute Mahjong"	/>
+		<msg	Index="33558429"	costume_name="Mini Aizhan"	/>
+		<msg	Index="33558430"	costume_name="Mini Elena"	/>
+		<msg	Index="33558431"	costume_name="Mini Arionell"	/>
+		<msg	Index="33558432"	costume_name="Mini Yuan"	/>
+	</costume_name>
+</costume_message>

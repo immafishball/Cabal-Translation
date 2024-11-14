@@ -1,0 +1,29 @@
+<pvpbattle_message>
+	<version index="1" />
+	<battle_map_msg>
+		<msg id="battle_map01" cont="Penta Montes" />
+	</battle_map_msg>
+	<mode_msg>
+		<msg id="battle_mode01" cont="2 vs 2" />
+		<msg id="battle_mode02" cont="3 vs 3" />
+		<msg id="battle_mode03" cont="5 vs 5" />
+		<msg id="battle_mode04" cont="7 vs 7" />
+	</mode_msg>
+	<time_msg>
+		<msg id="battle_time01" cont="10 min" />
+		<msg id="battle_time02" cont="15 min" />
+		<msg id="battle_time03" cont="20 min" />
+		<msg id="battle_time04" cont="30 min" />
+	</time_msg>
+	<kill_msg>
+		<msg id="battle_kill01" cont="10 kills" />
+		<msg id="battle_kill02" cont="30 kills" />
+		<msg id="battle_kill03" cont="50 kills" />
+	</kill_msg>
+	<room_name_msg>
+		<msg id="default_name001" cont="Beginners Only" />
+		<msg id="default_name002" cont="Challenge Me!!" />
+		<msg id="default_name003" cont="Reado Set Go!!" />
+		<msg id="default_name004" cont="Teach me a Lesson" />
+	</room_name_msg>
+</pvpbattle_message>

@@ -1,0 +1,155 @@
+<MissionFestival_message>
+	<MissionTitle_msg>
+		<msg	Title_Index="1"	desc="{0} {1}개 획득"	/>
+		<msg	Title_Index="2"	desc="{0} {1}회 클리어"	/>
+		<msg	Title_Index="3"	desc="{0} {1}회 입장"	/>
+		<msg	Title_Index="4"	desc="미션 전쟁 {0}회 참여"	/>
+		<msg	Title_Index="5"	desc="미션 전쟁 {0}회 보상"	/>
+		<msg	Title_Index="6"	desc="공훈패 {0}회 보고"	/>
+		<msg	Title_Index="7"	desc="공훈패 {0}회 평가"	/>
+		<msg	Title_Index="8"	desc="위탁 상점 물품 등록 {0}회"	/>
+		<msg	Title_Index="9"	desc="위탁 상점 물품 구매 {0}회"	/>
+		<msg	Title_Index="10"	desc="퀘스트 {0}회 완료"	/>
+		<msg	Title_Index="11"	desc="PVP {0}회 참여"	/>
+		<msg	Title_Index="12"	desc="PVP {0}회 승리"	/>
+		<msg	Title_Index="13"	desc="PVP {0}회 패배"	/>
+		<msg	Title_Index="14"	desc="아이템 강화 {0}회"	/>
+		<msg	Title_Index="15"	desc="아이템 추출 {0}회"	/>
+		<msg	Title_Index="16"	desc="{0} DP 획득"	/>
+		<msg	Title_Index="17"	desc="{0} DP 사용"	/>
+		<msg	Title_Index="18"	desc="{0} AP 획득"	/>
+		<msg	Title_Index="19"	desc="{0} AP 사용"	/>
+		<msg	Title_Index="20"	desc="{0} Alz 획득"	/>
+		<msg	Title_Index="21"	desc="몬스터 {0}마리 처치"	/>
+		<msg	Title_Index="22"	desc="{0} {1}개 사용"	/>
+		<msg	Title_Index="23"	desc="혼돈 강화 {0}회"	/>
+		<msg	Title_Index="24"	desc="디바인 강화 {0}회"	/>
+		<msg	Title_Index="25"	desc="{0} 포스젬 사용"	/>
+		<msg	Title_Index="26"	desc="{0} Alz 사용"	/>
+		<msg	Title_Index="27"	desc="부활 {0}회"	/>
+		<msg	Title_Index="28"	desc="사망 {0}회"	/>
+		<msg	Title_Index="29"	desc="강화포인트 {0} 획득"	/>
+		<msg	Title_Index="30"	desc="{0} {1}마리 처치"	/>
+	</MissionTitle_msg>
+	<Count_msg>
+		<msg	Count_Index="1"	desc="{0} / {1} 개"	/>
+		<msg	Count_Index="2"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="3"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="4"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="5"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="6"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="7"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="8"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="9"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="10"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="11"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="12"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="13"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="14"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="15"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="16"	desc="{0} / {1} 포인트"	/>
+		<msg	Count_Index="17"	desc="{0} / {1} 포인트"	/>
+		<msg	Count_Index="18"	desc="{0} / {1} 포인트"	/>
+		<msg	Count_Index="19"	desc="{0} / {1} 포인트"	/>
+		<msg	Count_Index="20"	desc="{0} / {1} Alz"	/>
+		<msg	Count_Index="21"	desc="{0} / {1} 마리"	/>
+		<msg	Count_Index="22"	desc="{0} / {1} 개"	/>
+		<msg	Count_Index="23"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="24"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="25"	desc="{0} / {1} 개"	/>
+		<msg	Count_Index="26"	desc="{0} / {1} Alz"	/>
+		<msg	Count_Index="27"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="28"	desc="{0} / {1} 회"	/>
+		<msg	Count_Index="29"	desc="{0} / {1} 포인트"	/>
+		<msg	Count_Index="30"	desc="{0} / {1} 마리"	/>
+	</Count_msg>
+	<Desc_msg>
+		<msg	Desc_Index="1"	desc="$4#{0}$에서 $28#{1}$을(를) $27#{2}개 획득$하자."	/>
+		<msg	Desc_Index="2"	desc="$4#{0}$에 있는 $28#{1}$을(를) $27#{2}회 클리어$하자."	/>
+		<msg	Desc_Index="3"	desc="$4#{0}$에 있는 $28#{1}$을(를) $27#{2}회 입장$하자."	/>
+		<msg	Desc_Index="4"	desc="$28#미션 전쟁$에 $27#{0}회 참여$하자."	/>
+		<msg	Desc_Index="5"	desc="$28#미션 전쟁$에 참여하여 $27#{0}회 보상을 획득$하자."	/>
+		<msg	Desc_Index="6"	desc="$4#공훈관$에게 $28#공훈패$를 $27#{0}회 보고$하자."	/>
+		<msg	Desc_Index="7"	desc="$4#공훈관$에게 $28#공훈패$를 $27#{0}회 평가$받자."	/>
+		<msg	Desc_Index="8"	desc="$4#위탁 상점$에 $28#아이템$을 $27#{0}개 등록$하자."	/>
+		<msg	Desc_Index="9"	desc="$4#위탁 상점$에 $28#아이템$을 $27#{0}개 구매$하자."	/>
+		<msg	Desc_Index="10"	desc="$28#아무 퀘스트$나 $27#{0}회 완료$하자."	/>
+		<msg	Desc_Index="11"	desc="$28#PVP$에 $27#{0}회 참여$하자."	/>
+		<msg	Desc_Index="12"	desc="$28#PVP$에서 $27#{0}회 승리$하자."	/>
+		<msg	Desc_Index="13"	desc="$28#PVP$에서 $27#{0}회 패배$하자."	/>
+		<msg	Desc_Index="14"	desc="$4#업그레이드 코어$를 사용하여 $28#아이템$을 $27#{0}회 강화$하자."	/>
+		<msg	Desc_Index="15"	desc="$28#아무 아이템$이나 $27#{0}회 추출$하자."	/>
+		<msg	Desc_Index="16"	desc="$28#DP(Dungeon Point)$를 $27#{0}포인트 획득$하자."	/>
+		<msg	Desc_Index="17"	desc="$28#DP(Dungeon Point)$를 $27#{0}포인트 사용$하자."	/>
+		<msg	Desc_Index="18"	desc="$28#AP(Ability Point)$를 $27#{0}포인트 획득$하자."	/>
+		<msg	Desc_Index="19"	desc="$28#AP(Ability Point)$를 $27#{0}포인트 사용$하자."	/>
+		<msg	Desc_Index="20"	desc="$27#{0}Alz를 획득(루팅)$하자."	/>
+		<msg	Desc_Index="21"	desc="$28#아무 몬스터$나 $27#{0}마리 처치$하자."	/>
+		<msg	Desc_Index="22"	desc="$28#{0}$을(를) $27#{1}개 사용$하자."	/>
+		<msg	Desc_Index="23"	desc="$4#카오스 코어$를 사용하여 $28#혼돈 강화$를 $27#{0}회 시도$하자."	/>
+		<msg	Desc_Index="24"	desc="$4#디바인 스톤$을 사용하여 $28#디바인 강화$를 $27#{0}회 시도$하자."	/>
+		<msg	Desc_Index="25"	desc="$27#{0}포스젬을 사용$하자."	/>
+		<msg	Desc_Index="26"	desc="$27#{0}Alz를 사용$하자."	/>
+		<msg	Desc_Index="27"	desc="$28#포스젬$ 또는 $28#오드 서클$을 사용하여 $27#{0}회 부활$하자."	/>
+		<msg	Desc_Index="28"	desc="$27#{0}회 사망$하자."	/>
+		<msg	Desc_Index="29"	desc="$4#강화 실패$를 통해 $28#강화 포인트$를 $27#{0}포인트 획득$하자."	/>
+		<msg	Desc_Index="30"	desc="$4#{0}$에 있는 $28#{1}$을(를) $27#{2}마리 처치$하자."	/>
+	</Desc_msg>
+	<MissionList_msg>
+		<Mission	Type="1"	Title_Index="1"	Icon="Title_4"	Desc_Index="1"	Count_Index="1"	/>
+		<Mission	Type="2"	Title_Index="2"	Icon="Title_3"	Desc_Index="2"	Count_Index="2"	/>
+		<Mission	Type="3"	Title_Index="3"	Icon="Title_3"	Desc_Index="3"	Count_Index="3"	/>
+		<Mission	Type="4"	Title_Index="4,5"	Icon="Title_6"	Desc_Index="4,5"	Count_Index="4,5"	/>
+		<Mission	Type="5"	Title_Index="6"	Icon="Title_1"	Desc_Index="6"	Count_Index="6"	/>
+		<Mission	Type="6"	Title_Index="7"	Icon="Title_1"	Desc_Index="7"	Count_Index="7"	/>
+		<Mission	Type="7"	Title_Index="8,9"	Icon="social_08"	Desc_Index="8,9"	Count_Index="8,9"	/>
+		<Mission	Type="8"	Title_Index="10"	Icon="Title_2"	Desc_Index="10"	Count_Index="10"	/>
+		<Mission	Type="9"	Title_Index="11,12,13"	Icon="Title_5"	Desc_Index="11,12,13"	Count_Index="11,12,13"	/>
+		<Mission	Type="10"	Title_Index="14"	Icon="Request\\request0142"	Desc_Index="14"	Count_Index="14"	/>
+		<Mission	Type="11"	Title_Index="15"	Icon="limit_upgrade_result_3"	Desc_Index="15"	Count_Index="15"	/>
+		<Mission	Type="12"	Title_Index="16"	Icon="Overload_buff"	Desc_Index="16"	Count_Index="16"	/>
+		<Mission	Type="13"	Title_Index="17"	Icon="Overload_buff"	Desc_Index="17"	Count_Index="17"	/>
+		<Mission	Type="14"	Title_Index="18"	Icon="assistant_singlepassive"	Desc_Index="18"	Count_Index="18"	/>
+		<Mission	Type="15"	Title_Index="19"	Icon="assistant_singlepassive"	Desc_Index="19"	Count_Index="19"	/>
+		<Mission	Type="16"	Title_Index="20"	Icon="force044"	Desc_Index="20"	Count_Index="20"	/>
+		<Mission	Type="17"	Title_Index="21,30"	Icon="Title_7"	Desc_Index="21,30"	Count_Index="21,30"	/>
+		<Mission	Type="18"	Title_Index="22"	Icon="Title_8"	Desc_Index="22"	Count_Index="22"	/>
+		<Mission	Type="19"	Title_Index="23"	Icon="Request\\request0143"	Desc_Index="23"	Count_Index="23"	/>
+		<Mission	Type="20"	Title_Index="24"	Icon="Request\\request0538"	Desc_Index="24"	Count_Index="24"	/>
+		<Mission	Type="21"	Title_Index="25"	Icon="Title_8"	Desc_Index="25"	Count_Index="25"	/>
+		<Mission	Type="22"	Title_Index="26"	Icon="force109"	Desc_Index="26"	Count_Index="26"	/>
+		<Mission	Type="23"	Title_Index="27"	Icon="skill246"	Desc_Index="27"	Count_Index="27"	/>
+		<Mission	Type="24"	Title_Index="28"	Icon="Death_T"	Desc_Index="28"	Count_Index="28"	/>
+		<Mission	Type="25"	Title_Index="29"	Icon="craft103"	Desc_Index="29"	Count_Index="29"	/>
+	</MissionList_msg>
+	<Drop_Location>
+		<Item_Location	Item_Index="33554732"	Dungeon_index="4276"	/>
+		<Item_Location	Item_Index="33555962"	Dungeon_index="4338"	/>
+		<Item_Location	Item_Index="33556336"	Dungeon_index="4346"	/>
+		<Item_Location	Item_Index="33555110"	Dungeon_index="4277"	/>
+		<Item_Location	Item_Index="33555111"	Dungeon_index="4280"	/>
+		<Item_Location	Item_Index="33555112"	Dungeon_index="4279"	/>
+		<Item_Location	Item_Index="33555113"	Dungeon_index="4278"	/>
+		<Item_Location	Item_Index="3343"	Dungeon_index="4098"	/>
+		<Item_Location	Item_Index="33554726"	Dungeon_index="4099"	/>
+	</Drop_Location>
+	<Monster_Location>
+		<Boss_Location	Monster_index="108"	World_index="8"	/>
+		<Boss_Location	Monster_index="109"	World_index="8"	/>
+		<Boss_Location	Monster_index="110"	World_index="8"	/>
+		<Boss_Location	Monster_index="111"	World_index="8"	/>
+		<Boss_Location	Monster_index="704"	World_index="6"	/>
+		<Boss_Location	Monster_index="919"	World_index="10"	/>
+		<Boss_Location	Monster_index="915"	World_index="10"	/>
+		<Boss_Location	Monster_index="913"	World_index="10"	/>
+		<Boss_Location	Monster_index="918"	World_index="10"	/>
+		<Boss_Location	Monster_index="1498"	World_index="11"	/>
+		<Boss_Location	Monster_index="1499"	World_index="11"	/>
+		<Boss_Location	Monster_index="1497"	World_index="11"	/>
+		<Boss_Location	Monster_index="1929"	World_index="12"	/>
+		<Boss_Location	Monster_index="2790"	World_index="22"	/>
+		<Boss_Location	Monster_index="2791"	World_index="22"	/>
+		<Boss_Location	Monster_index="2792"	World_index="22"	/>
+		<Boss_Location	Monster_index="2793"	World_index="22"	/>
+	</Monster_Location>
+</MissionFestival_message>

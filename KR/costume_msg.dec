@@ -1,0 +1,607 @@
+<costume_message>
+	<costume_name>
+		<msg	Index="1087"	costume_name="산타 코트"	/>
+		<msg	Index="1088"	costume_name="큐티 산타 코트"	/>
+		<msg	Index="1089"	costume_name="웰시의 파티 슈트"	/>
+		<msg	Index="1090"	costume_name="문 워커 유니폼(아머타입)"	/>
+		<msg	Index="1091"	costume_name="문 워커 유니폼(배틀타입)"	/>
+		<msg	Index="1092"	costume_name="문 워커 유니폼(마샬타입)"	/>
+		<msg	Index="1093"	costume_name="뱀파이어의 슈트"	/>
+		<msg	Index="1094"	costume_name="나이트 워커즈 유니폼(아머타입)"	/>
+		<msg	Index="1095"	costume_name="나이트 워커즈 유니폼(배틀타입)"	/>
+		<msg	Index="1096"	costume_name="나이트 워커즈 유니폼(마샬타입)"	/>
+		<msg	Index="1097"	costume_name="프리드의 슈트"	/>
+		<msg	Index="1098"	costume_name="린의 슈트"	/>
+		<msg	Index="1099"	costume_name="스카일드의 슈트"	/>
+		<msg	Index="1100"	costume_name="미스틱 블레이드의 슈트"	/>
+		<msg	Index="1101"	costume_name="유안의 슈트"	/>
+		<msg	Index="1102"	costume_name="할로윈 드레스"	/>
+		<msg	Index="1146"	costume_name="기모노"	/>
+		<msg	Index="1234"	costume_name="치파오"	/>
+		<msg	Index="1235"	costume_name="설빔"	/>
+		<msg	Index="1236"	costume_name="고구려의 의상"	/>
+		<msg	Index="1288"	costume_name="카펠라 연방 제복(WA)"	/>
+		<msg	Index="1289"	costume_name="카펠라 연방 제복(BL)"	/>
+		<msg	Index="1290"	costume_name="카펠라 연방 제복(WI)"	/>
+		<msg	Index="1291"	costume_name="카펠라 연방 제복(FA)"	/>
+		<msg	Index="1292"	costume_name="카펠라 연방 제복(FS)"	/>
+		<msg	Index="1293"	costume_name="카펠라 연방 제복(FB)"	/>
+		<msg	Index="1294"	costume_name="프로키온 연맹 제복(WA)"	/>
+		<msg	Index="1295"	costume_name="프로키온 연맹 제복(BL)"	/>
+		<msg	Index="1296"	costume_name="프로키온 연맹 제복(WI)"	/>
+		<msg	Index="1297"	costume_name="프로키온 연맹 제복(FA)"	/>
+		<msg	Index="1298"	costume_name="프로키온 연맹 제복(FS)"	/>
+		<msg	Index="1299"	costume_name="프로키온 연맹 제복(FB)"	/>
+		<msg	Index="1342"	costume_name="Love Dad Yellow Shirt"	/>
+		<msg	Index="1432"	costume_name="송크란 드레스"	/>
+		<msg	Index="1511"	costume_name="레전드 오브 옐로우"	/>
+		<msg	Index="1512"	costume_name="시크릿 에이전트 슈트"	/>
+		<msg	Index="1513"	costume_name="현자의 탑 견습 제복"	/>
+		<msg	Index="1536"	costume_name="카리스마 팬더"	/>
+		<msg	Index="1543"	costume_name="힙합 스피릿"	/>
+		<msg	Index="1544"	costume_name="고저스 메이트"	/>
+		<msg	Index="1558"	costume_name="카발 하이스쿨"	/>
+		<msg	Index="1606"	costume_name="레이지 포 피스트"	/>
+		<msg	Index="1608"	costume_name="윈터피버"	/>
+		<msg	Index="1629"	costume_name="러블리 스위트"	/>
+		<msg	Index="1834"	costume_name="댄싱 템테이션"	/>
+		<msg	Index="1836"	costume_name="와일드 웨스턴"	/>
+		<msg	Index="2138"	costume_name="독일 전통 복장"	/>
+		<msg	Index="2236"	costume_name="미드레스 아머 세트"	/>
+		<msg	Index="2238"	costume_name="파스투르 배틀 세트"	/>
+		<msg	Index="2240"	costume_name="후안 마샬 세트"	/>
+		<msg	Index="2257"	costume_name="브라질 사커 매니아"	/>
+		<msg	Index="2259"	costume_name="블레이드 데스티니"	/>
+		<msg	Index="2263"	costume_name="샤인가드 세트"	/>
+		<msg	Index="2265"	costume_name="테라그레이스 세트"	/>
+		<msg	Index="2267"	costume_name="미스틱 세트"	/>
+		<msg	Index="2269"	costume_name="시그메탈 아머 세트"	/>
+		<msg	Index="2271"	costume_name="시그메탈 배틀 세트"	/>
+		<msg	Index="2273"	costume_name="시그메탈 마샬 세트"	/>
+		<msg	Index="2275"	costume_name="미스릴 아머 세트"	/>
+		<msg	Index="2277"	costume_name="미스릴 배틀 세트"	/>
+		<msg	Index="2279"	costume_name="미스릴 마샬 세트"	/>
+		<msg	Index="2570"	costume_name="네바레스 파이럿"	/>
+		<msg	Index="2575"	costume_name="네이비 오피서"	/>
+		<msg	Index="3138"	costume_name="네바레스 라이더"	/>
+		<msg	Index="3251"	costume_name="카발 캅스"	/>
+		<msg	Index="3534"	costume_name="네바레스 엔젤 인 화이트"	/>
+		<msg	Index="3540"	costume_name="카발 어쌔신"	/>
+		<msg	Index="3575"	costume_name="썸머 베케이션"	/>
+		<msg	Index="33554877"	costume_name="카펠라 연방 제복(GL)"	/>
+		<msg	Index="33554878"	costume_name="프로키온 연맹 제복(GL)"	/>
+		<msg	Index="33554919"	costume_name="자유의 신사/숙녀"	/>
+		<msg	Index="33555064"	costume_name="오! 필승 코리아"	/>
+		<msg	Index="33555067"	costume_name="아오자이"	/>
+		<msg	Index="33555127"	costume_name="웰컴 투 나이트메어"	/>
+		<msg	Index="33555171"	costume_name="웨딩 세레모니"	/>
+		<msg	Index="33555205"	costume_name="굿 앤 이블"	/>
+		<msg	Index="33555250"	costume_name="조선 첩보원"	/>
+		<msg	Index="33555285"	costume_name="토죠 바사라 옷"	/>
+		<msg	Index="33555286"	costume_name="나루세 미오 옷"	/>
+		<msg	Index="33555287"	costume_name="나루세 마리아 옷"	/>
+		<msg	Index="33555288"	costume_name="나루세 마리아 서큐버스 옷"	/>
+		<msg	Index="33555289"	costume_name="노나카 유키  옷"	/>
+		<msg	Index="33555290"	costume_name="하세가와 치사토 옷"	/>
+		<msg	Index="33555408"	costume_name="일렉트로니카 슈트"	/>
+		<msg	Index="33555484"	costume_name="스트라이프 슈트"	/>
+		<msg	Index="33555612"	costume_name="스트라이프 축구복"	/>
+		<msg	Index="33555613"	costume_name="레드 축구복"	/>
+		<msg	Index="33555614"	costume_name="화이트 축구복"	/>
+		<msg	Index="33555615"	costume_name="레드화이트 축구복"	/>
+		<msg	Index="33555678"	costume_name="아이잔 복식 코스튬"	/>
+		<msg	Index="33555681"	costume_name="카발 교복"	/>
+		<msg	Index="33555684"	costume_name="황실복"	/>
+		<msg	Index="33555737"	costume_name="밤의 지배자 코스튬"	/>
+		<msg	Index="33555750"	costume_name="드라쿨 아머"	/>
+		<msg	Index="33555926"	costume_name="카펠라 연방 제복(FG)"	/>
+		<msg	Index="33555927"	costume_name="프로키온 연맹 제복(FG)"	/>
+		<msg	Index="33555967"	costume_name="바운티 헌터"	/>
+		<msg	Index="33555973"	costume_name="강시"	/>
+		<msg	Index="33556007"	costume_name="스페이스 슈트"	/>
+		<msg	Index="33556130"	costume_name="악령 사냥꾼"	/>
+		<msg	Index="33556136"	costume_name="카리스마 팬더 코스튬"	/>
+		<msg	Index="33556188"	costume_name="무사의 혼 코스튬"	/>
+		<msg	Index="33556194"	costume_name="어둠의 파티 코스튬"	/>
+		<msg	Index="33556310"	costume_name="팬더 인형 옷"	/>
+		<msg	Index="33556313"	costume_name="곰 인형 옷"	/>
+		<msg	Index="33556316"	costume_name="상어 인형 옷"	/>
+		<msg	Index="33556319"	costume_name="토끼 인형 옷"	/>
+		<msg	Index="33556322"	costume_name="사자 인형 옷"	/>
+		<msg	Index="33556325"	costume_name="호랑이 인형 옷"	/>
+		<msg	Index="33556328"	costume_name="공룡 인형 옷"	/>
+		<msg	Index="33556367"	costume_name="신사/숙녀의 품격"	/>
+		<msg	Index="33556436"	costume_name="데모나이트 플레이트"	/>
+		<msg	Index="33556439"	costume_name="데모나이트 코트"	/>
+		<msg	Index="33556442"	costume_name="데모나이트 슈트"	/>
+		<msg	Index="33556497"	costume_name="바니걸 의상"	/>
+		<msg	Index="33556503"	costume_name="베리 핫 썸머"	/>
+		<msg	Index="33556618"	costume_name="콜 오브 발키리"	/>
+		<msg	Index="33556624"	costume_name="스팀 펑키 룩"	/>
+		<msg	Index="33556630"	costume_name="메리 크리스마스"	/>
+		<msg	Index="33556797"	costume_name="블랙 드래곤"	/>
+		<msg	Index="33557272"	costume_name="카펠라 연방 제복(DM)"	/>
+		<msg	Index="33557273"	costume_name="프로키온 연맹 제복(DM)"	/>
+		<msg	Index="33557278"	costume_name="데모나이트 슈트(DM)"	/>
+		<msg	Index="33557284"	costume_name="팔라디움 슈트(DM)"	/>
+		<msg	Index="33557296"	costume_name="아크리디움 슈트(DM)"	/>
+		<msg	Index="33557302"	costume_name="미스릴 슈트(DM)"	/>
+		<msg	Index="33557308"	costume_name="미스틱 슈트(DM)"	/>
+		<msg	Index="33557412"	costume_name="봄나들이"	/>
+		<msg	Index="33557418"	costume_name="장미의 유혹"	/>
+		<msg	Index="33557426"	costume_name="칠흑빛 제복"	/>
+		<msg	Index="33557435"	costume_name="닭 인형 옷"	/>
+		<msg	Index="33557441"	costume_name="시바견 인형 옷"	/>
+		<msg	Index="33557467"	costume_name="필리핀 전통의상"	/>
+		<msg	Index="33557553"	costume_name="드래고늄 플레이트"	/>
+		<msg	Index="33557559"	costume_name="드래고늄 코트"	/>
+		<msg	Index="33557565"	costume_name="드래고늄 슈트"	/>
+		<msg	Index="33557577"	costume_name="드래고늄 슈트(DM)"	/>
+		<msg	Index="33558041"	costume_name="숲속의 요정"	/>
+		<msg	Index="33558072"	costume_name="샴 드레스"	/>
+		<msg	Index="33558318"	costume_name="다크 황실복"	/>
+		<msg	Index="33558417"	costume_name="별의 지배자"	/>
+		<msg	Index="33558423"	costume_name="아이돌"	/>
+		<msg	Index="1013"	costume_name="할로윈 - 호박 투구"	/>
+		<msg	Index="1078"	costume_name="루돌프 뿔 + 코"	/>
+		<msg	Index="1079"	costume_name="루돌프 뿔"	/>
+		<msg	Index="1080"	costume_name="루돌프 코"	/>
+		<msg	Index="1081"	costume_name="방한 모자"	/>
+		<msg	Index="1082"	costume_name="귀마개"	/>
+		<msg	Index="1083"	costume_name="X 마스크"	/>
+		<msg	Index="1084"	costume_name="스켈레톤 마스크"	/>
+		<msg	Index="1085"	costume_name="산타 모자"	/>
+		<msg	Index="1086"	costume_name="큐티 산타 모자"	/>
+		<msg	Index="1158"	costume_name="기모노 머리장식"	/>
+		<msg	Index="1232"	costume_name="설빔 머리장식"	/>
+		<msg	Index="1233"	costume_name="고구려의 머리띠"	/>
+		<msg	Index="1238"	costume_name="황사 마스크"	/>
+		<msg	Index="1357"	costume_name="Happy Birthday 모자"	/>
+		<msg	Index="1550"	costume_name="카발 생일 모자"	/>
+		<msg	Index="1840"	costume_name="댄싱 템테이션 마스크"	/>
+		<msg	Index="1842"	costume_name="와일드 웨스턴 햇"	/>
+		<msg	Index="2290"	costume_name="미드레스 아머 헬멧"	/>
+		<msg	Index="2291"	costume_name="파스투르 배틀 헬멧"	/>
+		<msg	Index="2292"	costume_name="후안 마샬 헬멧"	/>
+		<msg	Index="2293"	costume_name="샤인가드 바이저"	/>
+		<msg	Index="2294"	costume_name="테라그레이스 헤드기어"	/>
+		<msg	Index="2295"	costume_name="미스틱 헤드피스"	/>
+		<msg	Index="2296"	costume_name="시그메탈 바이저"	/>
+		<msg	Index="2297"	costume_name="시그메탈 헤드기어"	/>
+		<msg	Index="2298"	costume_name="시그메탈 헤드피스"	/>
+		<msg	Index="2299"	costume_name="미스릴 바이저"	/>
+		<msg	Index="2300"	costume_name="미스릴 헤드기어"	/>
+		<msg	Index="2301"	costume_name="미스릴 헤드피스"	/>
+		<msg	Index="2573"	costume_name="네바레스 파이럿 트라이콘"	/>
+		<msg	Index="2578"	costume_name="네이비 오피서 캡"	/>
+		<msg	Index="3141"	costume_name="라이더 반다나"	/>
+		<msg	Index="3252"	costume_name="캅스 햇"	/>
+		<msg	Index="3535"	costume_name="네바레스 엔젤 캡"	/>
+		<msg	Index="3541"	costume_name="어쌔신 반다나"	/>
+		<msg	Index="3578"	costume_name="베케이션 썬 햇"	/>
+		<msg	Index="33554840"	costume_name="아프로 헤어"	/>
+		<msg	Index="33554841"	costume_name="삿갓"	/>
+		<msg	Index="33554842"	costume_name="신사모"	/>
+		<msg	Index="33554843"	costume_name="로코코 헤어"	/>
+		<msg	Index="33554844"	costume_name="셔터쉐이드"	/>
+		<msg	Index="33554845"	costume_name="곰돌이 모자"	/>
+		<msg	Index="33554846"	costume_name="단안경"	/>
+		<msg	Index="33555057"	costume_name="악마 뿔"	/>
+		<msg	Index="33555058"	costume_name="태극기 머리띠"	/>
+		<msg	Index="33555059"	costume_name="축구공 모자"	/>
+		<msg	Index="33555174"	costume_name="웨딩 헤어 액세서리"	/>
+		<msg	Index="33555208"	costume_name="굿 앤 이블 헤드기어"	/>
+		<msg	Index="33555214"	costume_name="자유의 신사/숙녀 헤어"	/>
+		<msg	Index="33555291"	costume_name="토죠 바사라 헤어,페이스"	/>
+		<msg	Index="33555292"	costume_name="나루세 미오 헤어,페이스"	/>
+		<msg	Index="33555293"	costume_name="나루세 마리아 헤어,페이스"	/>
+		<msg	Index="33555294"	costume_name="나루세 마리아 서큐버스 헤어,페이스"	/>
+		<msg	Index="33555295"	costume_name="노나타 유키 헤어,페이스"	/>
+		<msg	Index="33555296"	costume_name="하세가와 치사토 헤어,페이스"	/>
+		<msg	Index="33555411"	costume_name="일렉트로니카 헬멧"	/>
+		<msg	Index="33555464"	costume_name="평범한 스카일드 페이스"	/>
+		<msg	Index="33555465"	costume_name="찡그린 스카일드 페이스"	/>
+		<msg	Index="33555466"	costume_name="화난 스카일드 페이스"	/>
+		<msg	Index="33555467"	costume_name="평범한 엘레나 페이스"	/>
+		<msg	Index="33555468"	costume_name="찡그린 엘레나 페이스"	/>
+		<msg	Index="33555469"	costume_name="화난 엘레나 페이스"	/>
+		<msg	Index="33555470"	costume_name="평범한 유안 페이스"	/>
+		<msg	Index="33555471"	costume_name="찡그린 유안 페이스"	/>
+		<msg	Index="33555472"	costume_name="화난 유안 페이스"	/>
+		<msg	Index="33555473"	costume_name="평범한 아리오넬 페이스"	/>
+		<msg	Index="33555474"	costume_name="찡그린 아리오넬 페이스"	/>
+		<msg	Index="33555475"	costume_name="화난 아리오넬 페이스"	/>
+		<msg	Index="33555476"	costume_name="평범한 아이잔 페이스"	/>
+		<msg	Index="33555477"	costume_name="찡그린 아이잔 페이스"	/>
+		<msg	Index="33555478"	costume_name="화난 아이잔 페이스"	/>
+		<msg	Index="33555479"	costume_name="방독면"	/>
+		<msg	Index="33555480"	costume_name="악마의 가면"	/>
+		<msg	Index="33555481"	costume_name="블러디아이스 사슴"	/>
+		<msg	Index="33555482"	costume_name="순록 뿔투구"	/>
+		<msg	Index="33555483"	costume_name="미륵금부처"	/>
+		<msg	Index="33555527"	costume_name="술취한 아저씨"	/>
+		<msg	Index="33555528"	costume_name="메르가헤프"	/>
+		<msg	Index="33555529"	costume_name="빨간코 삐에로"	/>
+		<msg	Index="33555531"	costume_name="메가버팔로"	/>
+		<msg	Index="33555532"	costume_name="뒤틀린 좀비"	/>
+		<msg	Index="33555533"	costume_name="미네스타 레드캣"	/>
+		<msg	Index="33555534"	costume_name="미네스타 블랙캣"	/>
+		<msg	Index="33555535"	costume_name="에보니 갈리"	/>
+		<msg	Index="33555536"	costume_name="루비 갈리"	/>
+		<msg	Index="33555537"	costume_name="크리스탈 갈리"	/>
+		<msg	Index="33555654"	costume_name="팬더 인형탈"	/>
+		<msg	Index="33555655"	costume_name="곰 인형탈"	/>
+		<msg	Index="33555656"	costume_name="상어 인형탈"	/>
+		<msg	Index="33555657"	costume_name="토끼 인형탈"	/>
+		<msg	Index="33555658"	costume_name="사자 인형탈"	/>
+		<msg	Index="33555659"	costume_name="호랑이 인형탈"	/>
+		<msg	Index="33555660"	costume_name="공룡 인형탈"	/>
+		<msg	Index="33555661"	costume_name="사자 페이스"	/>
+		<msg	Index="33555732"	costume_name="아이잔 페이스"	/>
+		<msg	Index="33555740"	costume_name="밤의 지배자 헬멧 코스튬"	/>
+		<msg	Index="33555743"	costume_name="밤의 지배자 헬멧 코스튬"	/>
+		<msg	Index="33555753"	costume_name="드라쿨 아머 헬멧"	/>
+		<msg	Index="33555970"	costume_name="바운티 헌터 헬멧"	/>
+		<msg	Index="33555976"	costume_name="강시 모자"	/>
+		<msg	Index="33556010"	costume_name="스페이스 헬멧"	/>
+		<msg	Index="33556133"	costume_name="악령 사냥꾼 헬멧"	/>
+		<msg	Index="33556139"	costume_name="카리스마 팬더 헬멧"	/>
+		<msg	Index="33556142"	costume_name="귀여운 악마 얼굴"	/>
+		<msg	Index="33556191"	costume_name="무사의 혼 헬멧"	/>
+		<msg	Index="33556197"	costume_name="어둠의 파티 헤어"	/>
+		<msg	Index="33556306"	costume_name="조선 첩보원 헤어"	/>
+		<msg	Index="33556445"	costume_name="데모나이트 바이저"	/>
+		<msg	Index="33556448"	costume_name="데모나이트 헤드기어"	/>
+		<msg	Index="33556451"	costume_name="데모나이트 헤드피스"	/>
+		<msg	Index="33556500"	costume_name="바니걸 헤어"	/>
+		<msg	Index="33556506"	costume_name="베리 핫 썸머 캡"	/>
+		<msg	Index="33556509"	costume_name="양 인형탈"	/>
+		<msg	Index="33556621"	costume_name="콜 오브 발키리 헬멧"	/>
+		<msg	Index="33556627"	costume_name="스팀 펑키 마스크"	/>
+		<msg	Index="33556633"	costume_name="메리 크리스마스 헤어"	/>
+		<msg	Index="33556671"	costume_name="신사/숙녀의 품격 헤어"	/>
+		<msg	Index="33556800"	costume_name="블랙 드래곤 헬멧"	/>
+		<msg	Index="33556803"	costume_name="프리티 트윈테일"	/>
+		<msg	Index="33556859"	costume_name="화룡 인형탈"	/>
+		<msg	Index="33556862"	costume_name="수룡 인형탈"	/>
+		<msg	Index="33556870"	costume_name="리본 포니테일"	/>
+		<msg	Index="33556885"	costume_name="뷰티 포니테일"	/>
+		<msg	Index="33556925"	costume_name="큐티 사과머리"	/>
+		<msg	Index="33556928"	costume_name="토끼귀 트윈테일"	/>
+		<msg	Index="33557281"	costume_name="데모나이트 헤드피스(DM)"	/>
+		<msg	Index="33557287"	costume_name="팔라디움 헤드피스(DM)"	/>
+		<msg	Index="33557299"	costume_name="아크리디움 헤드피스(DM)"	/>
+		<msg	Index="33557305"	costume_name="미스릴 헤드피스(DM)"	/>
+		<msg	Index="33557311"	costume_name="미스틱 헤드피스(DM)"	/>
+		<msg	Index="33557415"	costume_name="봄나들이 페이스"	/>
+		<msg	Index="33557421"	costume_name="장미의 유혹 페이스"	/>
+		<msg	Index="33557429"	costume_name="칠흑빛 제복 페이스"	/>
+		<msg	Index="33557438"	costume_name="닭 인형탈"	/>
+		<msg	Index="33557444"	costume_name="시바견 인형탈"	/>
+		<msg	Index="33557470"	costume_name="필리핀 전통의상 헤어"	/>
+		<msg	Index="33557556"	costume_name="드래고늄 바이저"	/>
+		<msg	Index="33557562"	costume_name="드래고늄 헤드기어"	/>
+		<msg	Index="33557568"	costume_name="드래고늄 헤드피스"	/>
+		<msg	Index="33557573"	costume_name="드래고늄 헤드피스(DM)"	/>
+		<msg	Index="33558044"	costume_name="숲속의 요정 페이스"	/>
+		<msg	Index="33558075"	costume_name="샴 드레스 페이스"	/>
+		<msg	Index="33558420"	costume_name="별의 지배자 페이스"	/>
+		<msg	Index="33558426"	costume_name="아이돌 페이스"	/>
+		<msg	Index="1014"	costume_name="캔디 - 오브/크리스탈"	/>
+		<msg	Index="1015"	costume_name="캔디 - 카타나/다이카타나"	/>
+		<msg	Index="1016"	costume_name="캔디 - 블레이드/그레이트소드"	/>
+		<msg	Index="1017"	costume_name="스위트 캔디 - 오브/크리스탈"	/>
+		<msg	Index="1018"	costume_name="스위트 캔디 - 카타나/다이카타나"	/>
+		<msg	Index="1019"	costume_name="스위트 캔디-블레이드/그레이트소드"	/>
+		<msg	Index="1063"	costume_name="스노우 아이스 - 오브/크리스탈"	/>
+		<msg	Index="1064"	costume_name="스노우 아이스 - 카타나/다이카타나"	/>
+		<msg	Index="1065"	costume_name="스노우 아이스-블레이드/그레이트소드"	/>
+		<msg	Index="1066"	costume_name="스노우 스타 - 오브/크리스탈"	/>
+		<msg	Index="1067"	costume_name="스노우 스타 - 카타나/다이카타나"	/>
+		<msg	Index="1068"	costume_name="스노우 스타-블레이드/그레이트소드"	/>
+		<msg	Index="1143"	costume_name="정월 장식 - 오브/크리스탈"	/>
+		<msg	Index="1144"	costume_name="하고이따 - 카타나/다이카타나"	/>
+		<msg	Index="1145"	costume_name="쿠마데 - 블레이드/그레이트소드"	/>
+		<msg	Index="1433"	costume_name="송크란 - 오브/크리스탈"	/>
+		<msg	Index="1434"	costume_name="송크란 - 카타나/다이카타나"	/>
+		<msg	Index="1435"	costume_name="송크란 - 블레이드/그레이트소드"	/>
+		<msg	Index="2141"	costume_name="송크란 - 차크람"	/>
+		<msg	Index="2358"	costume_name="호러 할로윈 - 오브/크리스탈"	/>
+		<msg	Index="2359"	costume_name="호러 할로윈 - 카타나/다이카타나"	/>
+		<msg	Index="2360"	costume_name="호러 할로윈-블레이드/그레이트소드"	/>
+		<msg	Index="3145"	costume_name="라이트세이버 - 오브"	/>
+		<msg	Index="3146"	costume_name="라이트세이버 - 카타나"	/>
+		<msg	Index="3147"	costume_name="라이트세이버 - 블레이드"	/>
+		<msg	Index="3148"	costume_name="라이트세이버 - 크리스탈"	/>
+		<msg	Index="3149"	costume_name="라이트세이버 - 다이카타나"	/>
+		<msg	Index="3150"	costume_name="라이트세이버 - 그레이트 소드"	/>
+		<msg	Index="3347"	costume_name="라이트세이버 - 차크람"	/>
+		<msg	Index="3348"	costume_name="헬포지 - 차크람"	/>
+		<msg	Index="33554540"	costume_name="헬포지 - 오브"	/>
+		<msg	Index="33554541"	costume_name="헬포지 - 카타나"	/>
+		<msg	Index="33554542"	costume_name="헬포지 - 블레이드"	/>
+		<msg	Index="33554543"	costume_name="헬포지 - 크리스탈"	/>
+		<msg	Index="33554544"	costume_name="헬포지 - 다이카타나"	/>
+		<msg	Index="33554545"	costume_name="헬포지 - 그레이트 소드"	/>
+		<msg	Index="33555129"	costume_name="싱싱수산 - 오브"	/>
+		<msg	Index="33555130"	costume_name="싱싱수산 - 카타나"	/>
+		<msg	Index="33555131"	costume_name="싱싱수산 - 블레이드"	/>
+		<msg	Index="33555132"	costume_name="싱싱수산 - 크리스탈"	/>
+		<msg	Index="33555133"	costume_name="싱싱수산 - 다이카타나"	/>
+		<msg	Index="33555134"	costume_name="싱싱수산 - 그레이트 소드"	/>
+		<msg	Index="33555135"	costume_name="싱싱수산 - 차크람"	/>
+		<msg	Index="33555178"	costume_name="블러드 스켈레톤 - 오브"	/>
+		<msg	Index="33555179"	costume_name="블러드 스켈레톤 - 카타나"	/>
+		<msg	Index="33555180"	costume_name="블러드 스켈레톤 - 블레이드"	/>
+		<msg	Index="33555181"	costume_name="블러드 스켈레톤 - 크리스탈"	/>
+		<msg	Index="33555182"	costume_name="블러드 스켈레톤 - 다이카타나"	/>
+		<msg	Index="33555183"	costume_name="블러드 스켈레톤 - 그레이트 소드"	/>
+		<msg	Index="33555184"	costume_name="블러드 스켈레톤 - 차크람"	/>
+		<msg	Index="33555192"	costume_name="호러 할로윈 - 차크람"	/>
+		<msg	Index="33555194"	costume_name="스노우 아이스 - 차크람"	/>
+		<msg	Index="33555264"	costume_name="스위트 캔디 - 차크람"	/>
+		<msg	Index="33555394"	costume_name="일렉트로니카 - 오브"	/>
+		<msg	Index="33555395"	costume_name="일렉트로니카 - 카타나"	/>
+		<msg	Index="33555396"	costume_name="일렉트로니카 - 블레이드"	/>
+		<msg	Index="33555397"	costume_name="일렉트로니카 - 크리스탈"	/>
+		<msg	Index="33555398"	costume_name="일렉트로니카 - 다이카타나"	/>
+		<msg	Index="33555399"	costume_name="일렉트로니카 - 그레이트 소드"	/>
+		<msg	Index="33555400"	costume_name="일렉트로니카 - 차크람"	/>
+		<msg	Index="33555624"	costume_name="체리블라썸 - 오브"	/>
+		<msg	Index="33555625"	costume_name="체리블라썸 - 카타나"	/>
+		<msg	Index="33555626"	costume_name="체리블라썸 - 블레이드"	/>
+		<msg	Index="33555627"	costume_name="체리블라썸 - 크리스탈"	/>
+		<msg	Index="33555628"	costume_name="체리블라썸 - 다이카타나"	/>
+		<msg	Index="33555629"	costume_name="체리블라썸 - 그레이트 소드"	/>
+		<msg	Index="33555630"	costume_name="체리블라썸 - 차크람"	/>
+		<msg	Index="33555687"	costume_name="금장룡 - 오브"	/>
+		<msg	Index="33555688"	costume_name="금장룡 - 카타나"	/>
+		<msg	Index="33555689"	costume_name="금장룡 - 블레이드"	/>
+		<msg	Index="33555690"	costume_name="금장룡 - 크리스탈"	/>
+		<msg	Index="33555691"	costume_name="금장룡 - 다이카타나"	/>
+		<msg	Index="33555692"	costume_name="금장룡 - 그레이트 소드"	/>
+		<msg	Index="33555693"	costume_name="금장룡 - 차크람"	/>
+		<msg	Index="33555701"	costume_name="데몬즈 본 - 오브"	/>
+		<msg	Index="33555702"	costume_name="데몬즈 본 - 카타나"	/>
+		<msg	Index="33555703"	costume_name="데몬즈 본 - 블레이드"	/>
+		<msg	Index="33555704"	costume_name="데몬즈 본 - 크리스탈"	/>
+		<msg	Index="33555705"	costume_name="데몬즈 본 - 다이카타나"	/>
+		<msg	Index="33555706"	costume_name="데몬즈 본 - 그레이트 소드"	/>
+		<msg	Index="33555707"	costume_name="데몬즈 본 - 차크람"	/>
+		<msg	Index="33555993"	costume_name="마법공학 - 오브"	/>
+		<msg	Index="33555994"	costume_name="마법공학 - 카타나"	/>
+		<msg	Index="33555995"	costume_name="마법공학 - 블레이드"	/>
+		<msg	Index="33555996"	costume_name="마법공학 - 크리스탈"	/>
+		<msg	Index="33555997"	costume_name="마법공학 - 다이카타나"	/>
+		<msg	Index="33555998"	costume_name="마법공학 - 그레이트 소드"	/>
+		<msg	Index="33555999"	costume_name="마법공학 - 차크람"	/>
+		<msg	Index="33556084"	costume_name="스노우 스타 - 차크람"	/>
+		<msg	Index="33556147"	costume_name="빛의 수호자 - 오브"	/>
+		<msg	Index="33556148"	costume_name="빛의 수호자 - 카타나"	/>
+		<msg	Index="33556149"	costume_name="빛의 수호자 - 블레이드"	/>
+		<msg	Index="33556150"	costume_name="빛의 수호자 - 크리스탈"	/>
+		<msg	Index="33556151"	costume_name="빛의 수호자 - 다이카타나"	/>
+		<msg	Index="33556152"	costume_name="빛의 수호자 - 그레이트 소드"	/>
+		<msg	Index="33556153"	costume_name="빛의 수호자 - 차크람"	/>
+		<msg	Index="33556277"	costume_name="크리스마스 무기 - 오브"	/>
+		<msg	Index="33556278"	costume_name="크리스마스 무기 - 카타나"	/>
+		<msg	Index="33556279"	costume_name="크리스마스 무기 - 블레이드"	/>
+		<msg	Index="33556280"	costume_name="크리스마스 무기 - 크리스탈"	/>
+		<msg	Index="33556281"	costume_name="크리스마스 무기 - 다이카타나"	/>
+		<msg	Index="33556282"	costume_name="크리스마스 무기 - 그레이트 소드"	/>
+		<msg	Index="33556283"	costume_name="크리스마스 무기 - 차크람"	/>
+		<msg	Index="33556456"	costume_name="데모나이트 Special Edition - 오브"	/>
+		<msg	Index="33556457"	costume_name="데모나이트 Special Edition - 카타나"	/>
+		<msg	Index="33556458"	costume_name="데모나이트 Special Edition - 블레이드"	/>
+		<msg	Index="33556459"	costume_name="데모나이트 Special Edition - 크리스탈"	/>
+		<msg	Index="33556460"	costume_name="데모나이트 Special Edition - 다이카타나"	/>
+		<msg	Index="33556461"	costume_name="데모나이트 Special Edition - 그레이트 소드"	/>
+		<msg	Index="33556462"	costume_name="데모나이트 Special Edition - 차크람"	/>
+		<msg	Index="33556651"	costume_name="스팀펑크 - 오브"	/>
+		<msg	Index="33556652"	costume_name="스팀펑크 - 카타나"	/>
+		<msg	Index="33556653"	costume_name="스팀펑크 - 블레이드"	/>
+		<msg	Index="33556654"	costume_name="스팀펑크 - 크리스탈"	/>
+		<msg	Index="33556655"	costume_name="스팀펑크 - 다이카타나"	/>
+		<msg	Index="33556656"	costume_name="스팀펑크 - 그레이트 소드"	/>
+		<msg	Index="33556657"	costume_name="스팀펑크 - 차크람"	/>
+		<msg	Index="33557578"	costume_name="드래고늄 오브"	/>
+		<msg	Index="33557579"	costume_name="드래고늄 카타나"	/>
+		<msg	Index="33557580"	costume_name="드래고늄 블레이드"	/>
+		<msg	Index="33557581"	costume_name="드래고늄 크리스탈"	/>
+		<msg	Index="33557582"	costume_name="드래고늄 다이카타나"	/>
+		<msg	Index="33557583"	costume_name="드래고늄 그레이트 소드"	/>
+		<msg	Index="33557584"	costume_name="드래고늄 차크람"	/>
+		<msg	Index="33558113"	costume_name="어린이 장난감 - 오브"	/>
+		<msg	Index="33558114"	costume_name="어린이 장난감 - 카타나"	/>
+		<msg	Index="33558115"	costume_name="어린이 장난감 - 블레이드"	/>
+		<msg	Index="33558116"	costume_name="어린이 장난감 - 크리스탈"	/>
+		<msg	Index="33558117"	costume_name="어린이 장난감 - 다이카타나"	/>
+		<msg	Index="33558118"	costume_name="어린이 장난감 - 그레이트 소드"	/>
+		<msg	Index="33558119"	costume_name="어린이 장난감 - 차크람"	/>
+		<msg	Index="33558145"	costume_name="픽셀 웨폰 - 오브"	/>
+		<msg	Index="33558146"	costume_name="픽셀 웨폰 - 카타나"	/>
+		<msg	Index="33558147"	costume_name="픽셀 웨폰 - 블레이드"	/>
+		<msg	Index="33558148"	costume_name="픽셀 웨폰 - 크리스탈"	/>
+		<msg	Index="33558149"	costume_name="픽셀 웨폰 - 다이카타나"	/>
+		<msg	Index="33558150"	costume_name="픽셀 웨폰 - 그레이트 소드"	/>
+		<msg	Index="33558151"	costume_name="픽셀 웨폰 - 차크람"	/>
+		<msg	Index="33558304"	costume_name="흑장룡 - 오브"	/>
+		<msg	Index="33558305"	costume_name="흑장룡 - 카타나"	/>
+		<msg	Index="33558306"	costume_name="흑장룡 - 블레이드"	/>
+		<msg	Index="33558307"	costume_name="흑장룡 - 크리스탈"	/>
+		<msg	Index="33558308"	costume_name="흑장룡 - 다이카타나"	/>
+		<msg	Index="33558309"	costume_name="흑장룡 - 그레이트 소드"	/>
+		<msg	Index="33558310"	costume_name="흑장룡 - 차크람"	/>
+		<msg	Index="33556374"	costume_name="나이트 워치 윙"	/>
+		<msg	Index="33556472"	costume_name="픽시 페어리 윙"	/>
+		<msg	Index="33556476"	costume_name="로보 트로카 윙"	/>
+		<msg	Index="33556569"	costume_name="골든 로즈리 윙"	/>
+		<msg	Index="33556571"	costume_name="이블 서큐브 윙"	/>
+		<msg	Index="33556573"	costume_name="프로즌 기어 윙"	/>
+		<msg	Index="33556575"	costume_name="뮤턴트 로드 윙"	/>
+		<msg	Index="33556577"	costume_name="포르타 로드 윙"	/>
+		<msg	Index="33556665"	costume_name="골든 챔피언 윙"	/>
+		<msg	Index="33556667"	costume_name="아쿠아리움 윙"	/>
+		<msg	Index="33556669"	costume_name="장난꾸러기 유령"	/>
+		<msg	Index="33556732"	costume_name="골드 가디언 윙"	/>
+		<msg	Index="33556734"	costume_name="포이즌 엣지 윙"	/>
+		<msg	Index="33556736"	costume_name="텐타클 머신 윙"	/>
+		<msg	Index="33556839"	costume_name="스타 플라이 윙(블루)"	/>
+		<msg	Index="33556841"	costume_name="스타 플라이 윙(옐로우)"	/>
+		<msg	Index="33556843"	costume_name="스타 플라이 윙(에메랄드)"	/>
+		<msg	Index="33556931"	costume_name="자유의 가디언 윙"	/>
+		<msg	Index="33557424"	costume_name="벚꽃 윙"	/>
+		<msg	Index="33558039"	costume_name="용맹의 날개"	/>
+		<msg	Index="33558047"	costume_name="숲의 요정 날개"	/>
+		<msg	Index="33558127"	costume_name="검은 나비 날개"	/>
+		<msg	Index="33558129"	costume_name="오색 나비 날개"	/>
+		<msg	Index="33558131"	costume_name="숲속의 나비 날개"	/>
+		<msg	Index="33558133"	costume_name="황혼의 나비 날개"	/>
+		<msg	Index="33558135"	costume_name="스테인글라스 나비 날개"	/>
+		<msg	Index="33558137"	costume_name="흰 나비 날개 "	/>
+		<msg	Index="33558139"	costume_name="붉은 화염 날개"	/>
+		<msg	Index="33558141"	costume_name="푸른 화염 날개"	/>
+		<msg	Index="33558143"	costume_name="트로피컬 윙"	/>
+		<msg	Index="33558159"	costume_name="깜짝 할로윈"	/>
+		<msg	Index="33558161"	costume_name="트럼프 메카닉 윙"	/>
+		<msg	Index="33556268"	costume_name="산타의 크리스마스 눈썰매"	/>
+		<msg	Index="33556269"	costume_name="할리 레드 데칼 바이크"	/>
+		<msg	Index="33556270"	costume_name="할리 블루 데칼 바이크"	/>
+		<msg	Index="33556271"	costume_name="아스트랄 트랜스포트 머신"	/>
+		<msg	Index="33556292"	costume_name="북청사자(백)"	/>
+		<msg	Index="33556294"	costume_name="북청사자(흑)"	/>
+		<msg	Index="33556296"	costume_name="북청사자(적)"	/>
+		<msg	Index="33556298"	costume_name="북청사자(청)"	/>
+		<msg	Index="33556341"	costume_name="초보 모험가 삐약이"	/>
+		<msg	Index="33556648"	costume_name="메카니컬 트론"	/>
+		<msg	Index="33556738"	costume_name="스팀펑크 레플리카"	/>
+		<msg	Index="33556831"	costume_name="하늘의 수호자 킹 레오"	/>
+		<msg	Index="33556851"	costume_name="나이트 드래곤"	/>
+		<msg	Index="33556853"	costume_name="레드 나이트 드래곤"	/>
+		<msg	Index="33556855"	costume_name="블랙 나이트 드래곤"	/>
+		<msg	Index="33556857"	costume_name="귀여운 꼬마 불사조"	/>
+		<msg	Index="33556873"	costume_name="자유의 바이크"	/>
+		<msg	Index="33556888"	costume_name="자유의 삐약이"	/>
+		<msg	Index="33556911"	costume_name="붉은빛 딱정이"	/>
+		<msg	Index="33556913"	costume_name="노란빛 딱정이"	/>
+		<msg	Index="33556915"	costume_name="초록빛 딱정이"	/>
+		<msg	Index="33556921"	costume_name="스컬 바이크"	/>
+		<msg	Index="33556923"	costume_name="유령 기사의 말"	/>
+		<msg	Index="33556933"	costume_name="왕실의 바이크"	/>
+		<msg	Index="33556935"	costume_name="왕실의 삐약이"	/>
+		<msg	Index="33558037"	costume_name="로열 삐약이"	/>
+		<msg	Index="33558246"	costume_name="자유의 슈퍼카"	/>
+		<msg	Index="946"	costume_name="꼬마 잭 쥬니어"	/>
+		<msg	Index="1021"	costume_name="갈리 쥬니어"	/>
+		<msg	Index="1022"	costume_name="레드 갈리 쥬니어"	/>
+		<msg	Index="1023"	costume_name="자이언트 비틀 쥬니어"	/>
+		<msg	Index="1024"	costume_name="니퍼러그 쥬니어"	/>
+		<msg	Index="1025"	costume_name="래비트혼 쥬니어"	/>
+		<msg	Index="1026"	costume_name="트로글로 쥬니어"	/>
+		<msg	Index="1027"	costume_name="트로글로 워리어 쥬니어"	/>
+		<msg	Index="1028"	costume_name="엘더 트로글로 쥬니어"	/>
+		<msg	Index="1029"	costume_name="맨티스 쥬니어"	/>
+		<msg	Index="1030"	costume_name="다이어 보어 쥬니어"	/>
+		<msg	Index="1031"	costume_name="머미 쥬니어"	/>
+		<msg	Index="1032"	costume_name="크랙 터틀 쥬니어"	/>
+		<msg	Index="1033"	costume_name="아르마쿠 쥬니어"	/>
+		<msg	Index="1045"	costume_name="리틀 페리 쥬니어"	/>
+		<msg	Index="1046"	costume_name="골렘 쥬니어"	/>
+		<msg	Index="1047"	costume_name="리틀 그리 쥬니어"	/>
+		<msg	Index="1048"	costume_name="큐티 라이 쥬니어"	/>
+		<msg	Index="1049"	costume_name="큐티 타이 쥬니어"	/>
+		<msg	Index="1050"	costume_name="카리스마 팬 쥬니어"	/>
+		<msg	Index="1051"	costume_name="팬시 자드 쥬니어"	/>
+		<msg	Index="1052"	costume_name="젠틀 패럿 쥬니어"	/>
+		<msg	Index="1053"	costume_name="펭 쥬니어"	/>
+		<msg	Index="1054"	costume_name="슈핑 쥬니어"	/>
+		<msg	Index="1055"	costume_name="루돌프 쥬니어"	/>
+		<msg	Index="1273"	costume_name="복돼지 쥬니어"	/>
+		<msg	Index="1274"	costume_name="황금 복돼지 쥬니어"	/>
+		<msg	Index="1490"	costume_name="차차 쥬니어"	/>
+		<msg	Index="1491"	costume_name="걱정곰 쥬니어"	/>
+		<msg	Index="1492"	costume_name="야옹검사 쥬니어"	/>
+		<msg	Index="1493"	costume_name="로보로보 쥬니어"	/>
+		<msg	Index="1494"	costume_name="울리 쥬니어"	/>
+		<msg	Index="1495"	costume_name="네바레스 허스키 쥬니어"	/>
+		<msg	Index="1541"	costume_name="삐로삐로 쥬니어"	/>
+		<msg	Index="1620"	costume_name="몰리 쥬니어"	/>
+		<msg	Index="1631"	costume_name="쿠키 쥬니어"	/>
+		<msg	Index="2245"	costume_name="귀여운 루돌프 쥬니어"	/>
+		<msg	Index="3047"	costume_name="안젤라 쥬니어"	/>
+		<msg	Index="3048"	costume_name="데빌로 쥬니어"	/>
+		<msg	Index="3049"	costume_name="드라카 쥬니어"	/>
+		<msg	Index="3438"	costume_name="아리 쥬니어"	/>
+		<msg	Index="3439"	costume_name="우리 쥬니어"	/>
+		<msg	Index="3440"	costume_name="써니 쥬니어"	/>
+		<msg	Index="3441"	costume_name="티니 쥬니어"	/>
+		<msg	Index="4081"	costume_name="메이 쥬니어"	/>
+		<msg	Index="4082"	costume_name="클라리스 쥬니어"	/>
+		<msg	Index="33554655"	costume_name="뼈로로 쥬니어"	/>
+		<msg	Index="33555177"	costume_name="해적양 쥬니어"	/>
+		<msg	Index="33555211"	costume_name="해적앵 쥬니어"	/>
+		<msg	Index="33555212"	costume_name="해적몽 쥬니어"	/>
+		<msg	Index="33555414"	costume_name="재봉틀 사자 쥬니어"	/>
+		<msg	Index="33556300"	costume_name="주먹왕 루루 쥬니어"	/>
+		<msg	Index="33556305"	costume_name="코코링 쥬니어"	/>
+		<msg	Index="33556370"	costume_name="발뚱이 쥬니어"	/>
+		<msg	Index="33558333"	costume_name="갈리"	/>
+		<msg	Index="33558334"	costume_name="레드 갈리"	/>
+		<msg	Index="33558335"	costume_name="자이언트 비틀"	/>
+		<msg	Index="33558336"	costume_name="니퍼러그"	/>
+		<msg	Index="33558337"	costume_name="래비트혼"	/>
+		<msg	Index="33558338"	costume_name="트로글로"	/>
+		<msg	Index="33558339"	costume_name="트로글로 워리어"	/>
+		<msg	Index="33558340"	costume_name="엘더 트로글로"	/>
+		<msg	Index="33558341"	costume_name="맨티스"	/>
+		<msg	Index="33558342"	costume_name="다이어 보어"	/>
+		<msg	Index="33558343"	costume_name="머미"	/>
+		<msg	Index="33558344"	costume_name="크랙 터틀"	/>
+		<msg	Index="33558345"	costume_name="아르마쿠"	/>
+		<msg	Index="33558346"	costume_name="꼬마 잭"	/>
+		<msg	Index="33558347"	costume_name="리틀 페리"	/>
+		<msg	Index="33558348"	costume_name="골렘 "	/>
+		<msg	Index="33558349"	costume_name="리틀 그리"	/>
+		<msg	Index="33558350"	costume_name="큐티 라이"	/>
+		<msg	Index="33558351"	costume_name="큐티 타이"	/>
+		<msg	Index="33558352"	costume_name="카리스마 팬"	/>
+		<msg	Index="33558353"	costume_name="팬시 자드"	/>
+		<msg	Index="33558354"	costume_name="젠틀 패럿"	/>
+		<msg	Index="33558355"	costume_name="펭"	/>
+		<msg	Index="33558356"	costume_name="슈핑"	/>
+		<msg	Index="33558357"	costume_name="루돌프"	/>
+		<msg	Index="33558358"	costume_name="복돼지"	/>
+		<msg	Index="33558359"	costume_name="황금 복돼지"	/>
+		<msg	Index="33558360"	costume_name="차차"	/>
+		<msg	Index="33558361"	costume_name="걱정곰"	/>
+		<msg	Index="33558362"	costume_name="야옹검사"	/>
+		<msg	Index="33558363"	costume_name="로보로보"	/>
+		<msg	Index="33558364"	costume_name="울리"	/>
+		<msg	Index="33558365"	costume_name="네바레스 허스키"	/>
+		<msg	Index="33558366"	costume_name="삐로삐로"	/>
+		<msg	Index="33558367"	costume_name="몰리"	/>
+		<msg	Index="33558368"	costume_name="쿠키"	/>
+		<msg	Index="33558369"	costume_name="귀여운 루돌프"	/>
+		<msg	Index="33558370"	costume_name="안젤라"	/>
+		<msg	Index="33558371"	costume_name="데빌로"	/>
+		<msg	Index="33558372"	costume_name="드라카"	/>
+		<msg	Index="33558373"	costume_name="아리"	/>
+		<msg	Index="33558374"	costume_name="우리"	/>
+		<msg	Index="33558375"	costume_name="써니"	/>
+		<msg	Index="33558376"	costume_name="티니"	/>
+		<msg	Index="33558377"	costume_name="메이"	/>
+		<msg	Index="33558378"	costume_name="클라리스"	/>
+		<msg	Index="33558379"	costume_name="뼈로로"	/>
+		<msg	Index="33558380"	costume_name="해적양"	/>
+		<msg	Index="33558381"	costume_name="해적앵"	/>
+		<msg	Index="33558382"	costume_name="해적몽"	/>
+		<msg	Index="33558383"	costume_name="재봉틀 사자"	/>
+		<msg	Index="33558384"	costume_name="주먹왕 루루"	/>
+		<msg	Index="33558385"	costume_name="코코링"	/>
+		<msg	Index="33558386"	costume_name="발뚱이"	/>
+		<msg	Index="33558429"	costume_name="미니 아이잔"	/>
+		<msg	Index="33558430"	costume_name="미니 엘레나"	/>
+		<msg	Index="33558431"	costume_name="미니 아리오넬"	/>
+		<msg	Index="33558432"	costume_name="미니 유안"	/>
+	</costume_name>
+</costume_message>

@@ -1,0 +1,93 @@
+<NPCShop_message>
+	<Shop Pool_ID="45">
+		<msg id="0" name="Baldus" tooltip="Token of Baldus"/>
+	</Shop>
+	<Shop Pool_ID="46">
+		<msg id="0" name="Core" tooltip="Devil's Token (High)"/>
+		<msg id="1" name="Material" tooltip="Devil's Token (High)"/>
+	</Shop>
+	<Shop Pool_ID="47">
+		<msg id="0" name="Core" tooltip="Devil's Token (Highest)"/>
+		<msg id="1" name="Material" tooltip="Devil's Token (Highest)"/>
+	</Shop>
+	<Shop Pool_ID="50">
+		<msg id="0" name="Entry Item" tooltip="Coupon"/>
+		<msg id="1" name="Honor" tooltip="Coupon"/>
+		<msg id="2" name="Myth" tooltip="Coupon"/>
+		<msg id="3" name="Transcendence" tooltip="Coupon"/>
+		<msg id="4" name="EXP" tooltip="Coupon"/>
+		<msg id="5" name="Others" tooltip="Special Coupon"/>
+	</Shop>
+	<Shop Pool_ID="53">
+		<msg id="0" name="Ordeal" tooltip="Token of Ordeal"/>
+	</Shop>
+	<npc_name>
+		<msg id="npc00-0050" cont="Remote Shop"/>
+		<msg id="npc00-0051" cont="Remote Item Shop"/>
+		<msg id="npc00-0182" cont="Guild Shop"/>
+		<msg id="npc00-0183" cont="PVP Shop"/>
+		<msg id="npc01-0004" cont="Prewitt"/>
+		<msg id="npc01-0005" cont="Simon"/>
+		<msg id="npc01-0006" cont="Keller"/>
+		<msg id="npc01-0007" cont="Deighton"/>
+		<msg id="npc01-0035" cont="Flasha"/>
+		<msg id="npc01-0044" cont="Guard Sebius"/>
+		<msg id="npc01-0045" cont="Ancient Ghost"/>
+		<msg id="npc01-0046" cont="Unon"/>
+		<msg id="npc01-0081" cont="Coupon Machine"/>
+		<msg id="npc01-0083" cont="Hirogley"/>
+		<msg id="npc01-0084" cont="Javern"/>
+		<msg id="npc02-0004" cont="Mezias"/>
+		<msg id="npc02-0005" cont="Dion"/>
+		<msg id="npc02-0006" cont="Sullivan"/>
+		<msg id="npc02-0007" cont="Eileen siblings"/>
+		<msg id="npc02-0078" cont="Lasha"/>
+		<msg id="npc03-0004" cont="Mitroff"/>
+		<msg id="npc03-0005" cont="Collins"/>
+		<msg id="npc03-0006" cont="Nodaka"/>
+		<msg id="npc03-0007" cont="Libert"/>
+		<msg id="npc03-0078" cont="Ahyidereun"/>
+		<msg id="npc04-0004" cont="Eite"/>
+		<msg id="npc04-0005" cont="Agris"/>
+		<msg id="npc04-0006" cont="Yerte"/>
+		<msg id="npc04-0007" cont="Hampric"/>
+		<msg id="npc04-0013" cont="Peticia"/>
+		<msg id="npc04-0014" cont="Chole"/>
+		<msg id="npc05-0004" cont="Najaba"/>
+		<msg id="npc05-0005" cont="Ryoung"/>
+		<msg id="npc05-0006" cont="Soyoung"/>
+		<msg id="npc05-0007" cont="Sally"/>
+		<msg id="npc09-0007" cont="Shop"/>
+		<msg id="npc109-0002" cont="Ellin"/>
+		<msg id="npc109-0003" cont="Kate"/>
+		<msg id="npc109-0017" cont="Olivia"/>
+		<msg id="npc109-0018" cont="Kyle"/>
+		<msg id="npc109-0050" cont="Remote Shop"/>
+		<msg id="npc11-0018" cont="Devil Merchant Incubo"/>
+		<msg id="npc11-0019" cont="Devil Merchant Secubo"/>
+		<msg id="npc110-0050" cont="Remote Shop"/>
+		<msg id="npc15-0050" cont="Remote Shop"/>
+		<msg id="npc15-0149" cont="Production Force Tower"/>
+		<msg id="npc15-0150" cont="Production Force Tower"/>
+		<msg id="npc158-0002" cont="Ellin"/>
+		<msg id="npc158-0003" cont="Kate"/>
+		<msg id="npc158-0017" cont="Olivia"/>
+		<msg id="npc158-0018" cont="Kyle"/>
+		<msg id="npc158-0050" cont="Remote Shop"/>
+		<msg id="npc159-0050" cont="Remote Shop"/>
+		<msg id="npc16-0002" cont="Ellin"/>
+		<msg id="npc16-0003" cont="Kate"/>
+		<msg id="npc16-0017" cont="Olivia"/>
+		<msg id="npc16-0018" cont="Kyle"/>
+		<msg id="npc16-0050" cont="Remote Shop"/>
+		<msg id="npc22-0003" cont="Le d'Song"/>
+		<msg id="npc22-0004" cont="Flie"/>
+		<msg id="npc22-0005" cont="Rippledy"/>
+		<msg id="npc22-0006" cont="Stefanie"/>
+		<msg id="npc22-0012" cont="Houta"/>
+		<msg id="npc22-0013" cont="Allonge"/>
+		<msg id="npc22-0014" cont="Panaki"/>
+		<msg id="npc22-0015" cont="Abram"/>
+		<msg id="npc23-0007" cont="Mutant"/>
+	</npc_name>
+</NPCShop_message>

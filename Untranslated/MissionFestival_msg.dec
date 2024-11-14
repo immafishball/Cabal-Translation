@@ -1,0 +1,44 @@
+<MissionFestival_message>
+	<MissionTitle_msg>
+	</MissionTitle_msg>
+	<Count_msg>
+	</Count_msg>
+	<Desc_msg>
+	</Desc_msg>
+	<MissionList_msg>
+		<Mission	Type="4"	Title_Index="4,5"	Icon="Title_6"	Desc_Index="4,5"	Count_Index="4,5"	/>
+		<Mission	Type="7"	Title_Index="8,9"	Icon="social_08"	Desc_Index="8,9"	Count_Index="8,9"	/>
+		<Mission	Type="9"	Title_Index="11,12,13"	Icon="Title_5"	Desc_Index="11,12,13"	Count_Index="11,12,13"	/>
+		<Mission	Type="17"	Title_Index="21,30"	Icon="Title_7"	Desc_Index="21,30"	Count_Index="21,30"	/>
+	</MissionList_msg>
+	<Drop_Location>
+		<Item_Location	Item_Index="33554732"	Dungeon_index="4276"	/>
+		<Item_Location	Item_Index="33555962"	Dungeon_index="4338"	/>
+		<Item_Location	Item_Index="33556336"	Dungeon_index="4346"	/>
+		<Item_Location	Item_Index="33555110"	Dungeon_index="4277"	/>
+		<Item_Location	Item_Index="33555111"	Dungeon_index="4280"	/>
+		<Item_Location	Item_Index="33555112"	Dungeon_index="4279"	/>
+		<Item_Location	Item_Index="33555113"	Dungeon_index="4278"	/>
+		<Item_Location	Item_Index="3343"	Dungeon_index="4098"	/>
+		<Item_Location	Item_Index="33554726"	Dungeon_index="4099"	/>
+	</Drop_Location>
+	<Monster_Location>
+		<Boss_Location	Monster_index="108"	World_index="8"	/>
+		<Boss_Location	Monster_index="109"	World_index="8"	/>
+		<Boss_Location	Monster_index="110"	World_index="8"	/>
+		<Boss_Location	Monster_index="111"	World_index="8"	/>
+		<Boss_Location	Monster_index="704"	World_index="6"	/>
+		<Boss_Location	Monster_index="919"	World_index="10"	/>
+		<Boss_Location	Monster_index="915"	World_index="10"	/>
+		<Boss_Location	Monster_index="913"	World_index="10"	/>
+		<Boss_Location	Monster_index="918"	World_index="10"	/>
+		<Boss_Location	Monster_index="1498"	World_index="11"	/>
+		<Boss_Location	Monster_index="1499"	World_index="11"	/>
+		<Boss_Location	Monster_index="1497"	World_index="11"	/>
+		<Boss_Location	Monster_index="1929"	World_index="12"	/>
+		<Boss_Location	Monster_index="2790"	World_index="22"	/>
+		<Boss_Location	Monster_index="2791"	World_index="22"	/>
+		<Boss_Location	Monster_index="2792"	World_index="22"	/>
+		<Boss_Location	Monster_index="2793"	World_index="22"	/>
+	</Monster_Location>
+</MissionFestival_message>

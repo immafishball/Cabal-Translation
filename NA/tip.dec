@@ -1,0 +1,531 @@
+<tip_msg>
+	<version index="2" />
+	<tip type="0" arg1="161" arg2="200" order="11" interval="900">
+		<msg id="1" cont="[Tip] Nation Reward will be applied for seven days according to the results of the Mission Battle on every Sunday." />
+		<msg id="10" cont="[Tip] When a Character / Server transfer service is used, the applied Blessing Bead effect will be removed." />
+		<msg id="11" cont="[Tip] If adding options to the 3rd slot fails, the additional 2nd option will be gone too." />
+		<msg id="12" cont="[Tip] Please do not share your account information with others for security reason." />
+		<msg id="13" cont="[Tip] Items used for Appearance change are to be destroyed." />
+		<msg id="14" cont="[Tip] Fatal attack of Battle Mode 3 will be activated after 4 successful normal attacks." />
+		<msg id="15" cont="[Tip] Killan's Ring can be equipped the characters above 105, and limited to 1 per character." />
+		<msg id="16" cont="[Tip] Stain Clones - the material of Battle Mode 3 skill books could be only obtained by Minesta Quest rewards." />
+		<msg id="17" cont="[Tip] Prideus' Bracelet may be obtained by a Hidden Quest reward of Alter of Siena B1F." />
+		<msg id="18" cont="[Tip] When a character owns a Mergaheph's Ring, receiving an additional one by 'Another Way to Break The Seal' quest is not allowed." />
+		<msg id="19" cont="[Tip] Drei Frame Armor is a unique item that adds benefits per number of it equipped by the character." />
+		<msg id="2" cont="[Tip] Damage Amplifiers adds more damages to skills during Mission War." />
+		<msg id="20" cont="[Tip] Sirius' Unbinding Stone is dropped by the Arcane Golem of Rage, the boss monster in Arcane Trace field." />
+		<msg id="20" cont="[Tip] Arcane Golem's Unbinding Stone is dropped by the Arcane Golem of Rage, the boss monster in Arcane Trace field." />
+		<msg id="21" cont="[Tip] Sirius' Unbinding Stone can be used from +10." />
+		<msg id="21" cont="[Tip] Arcane Golem's Unbinding Stone can be used from +10." />
+		<msg id="22" cont="[Tip] If Arcane Golem's Unbinding Stone use is failed, item will be destroyed and cannot be recovered." />
+		<msg id="23" cont="[Tip] WEXP to EXP exchange costs 300 WEXP from level 190." />
+		<msg id="25" cont="[Tip] WEXP to EXP exchange costs 300 WEXP from level 190." />
+		<msg id="3" cont="[Tip] WEXP to EXP exchange costs 300 WEXP from level 190." />
+		<msg id="4" cont="[Tip] During the appearance change duration, Account bind items will periodically be changed to Character bind status." />
+		<msg id="5" cont="[Tip] Please report account theft at Customer Service Center." />
+		<msg id="6" cont="[Tip] AXP can be acquired from winning scores at pure monster hunting or mission wars." />
+		<msg id="7" cont="[Tip] Use 'Lock Equipment' button in the upper right corner of inventory to lock your currently equipped equipment." />
+		<msg id="8" cont="[Tip] The Maximum Daily Alz System limits the maximum Alz you can obtain in a day." />
+		<msg id="9" cont="[Tip] The maximum critical rate by Rings are 32%, but it increases to 33% after level 200." />
+	</tip>
+	<tip type="0" arg1="131" arg2="160" order="11" interval="900">
+		<msg id="1" cont="[Tip] Additional DP must be acquired within 3 hours to avoid reset." />
+		<msg id="10" cont="[Tip] The Maximum Daily Alz System limits the maximum Alz you can obtain in a day." />
+		<msg id="11" cont="[Tip] Click Save chat history button[?] to save chat history in the chat entry window." />
+		<msg id="12" cont="[Tip] Prideus' Bracelet may be obtained by a Hidden Quest reward of Alter of Siena B1F." />
+		<msg id="13" cont="[Tip] If adding options to the 3rd slot fails, the additional 2nd option will be gone too." />
+		<msg id="14" cont="[Tip] Pressing 'Alt' while the mouse cursor is over an Equipment will show a comparison." />
+		<msg id="15" cont="[Tip] Killan's Ring can be equipped the characters above 105, and limited to 1 per character." />
+		<msg id="16" cont="[Tip] Fatal attack of Battle Mode 3 will be activated after 4 successful normal attacks." />
+		<msg id="17" cont="[Tip] Prideus' Bracelet may be obtained by a Hidden Quest reward of Alter of Siena B1F." />
+		<msg id="18" cont="[Tip] Damage Amplifier can be obtained by using craft request of Port Lux NPC Chloe." />
+		<msg id="19" cont="[Tip] Killian's Ring and Mergaheph's Ring cannot be owned at the same time." />
+		<msg id="2" cont="[Tip] Go to DP exchange dealer Peticia at Port Lux to purchase items with DP." />
+		<msg id="20" cont="[Tip] Stain Clones are character bound items, and can be unbound by using the Request System." />
+		<msg id="21" cont="[Tip] Battle Mode 3 can be used from 130Lv and Battle Style Grade 14." />
+		<msg id="22" cont="[Tip] Minesta's Charm can be upgraded by making a request, but both the charm and materials will be destroyed." />
+		<msg id="23" cont="[Tip] If Arcane Golem's Unbinding Stone use is failed, item will be destroyed and cannot be recovered." />
+		<msg id="3" cont="[Tip] AXP can be acquired from winning scores at pure monster hunting or mission wars." />
+		<msg id="4" cont="[Tip] Please report account theft at Customer Service Center." />
+		<msg id="5" cont="[Tip] WEXP can be used for purchasing cube items from Contribution Officer at the Mission War Lobby." />
+		<msg id="6" cont="[Tip] Killian's Ring and Mergaheph's Ring can be requested for craft through NPC Chloe." />
+		<msg id="7" cont="[Tip] When a character owns a Mergaheph's Ring, receiving an additional one by 'Another Way to Break The Seal' quest is not allowed." />
+		<msg id="8" cont="[Tip] View dungeon information, pause or abandon the dungeon from CABAL Menu > Dungeon." />
+		<msg id="9" cont="[Tip] When a item's appearance is changed, it will periodically have a Character Bind status regardless the previous status." />
+	</tip>
+	<tip type="0" arg1="101" arg2="130" order="11" interval="900">
+		<msg id="1" cont="[Tip] Contract mercenary cards can be obtained and used through quests at level 100." />
+		<msg id="10" cont="[Tip] If there is only 1 following Quest script, it can be skipped by Space Bar." />
+		<msg id="11" cont="[Tip] Click Save chat history button[?] to save chat history in the chat entry window." />
+		<msg id="12" cont="[Tip] View dungeon information, pause, or abandon the dungeon from CABAL Menu > Dungeon." />
+		<msg id="12" cont="[Tip] View dungeon information, pause or abandon the dungeon from CABAL Menu > Dungeon." />
+		<msg id="13" cont="[Tip] If adding options to the 3rd slot fails, the additional 2nd option will be gone too." />
+		<msg id="14" cont="[Tip] Use 'Lock Equipment' button in the upper right corner of inventory to lock your currently equipped equipment." />
+		<msg id="15" cont="[Tip] Killian's Ring and Mergaheph's Ring can be requested for craft through NPC Chloe." />
+		<msg id="16" cont="[Tip] When a character owns a Mergaheph's Ring, receiving an additional one by 'Another Way to Break The Seal' quest is not allowed." />
+		<msg id="17" cont="[Tip] Pressing 'Alt' while the mouse cursor is over an Equipment will show a comparison." />
+		<msg id="18" cont="[Tip] Items used for Appearance change are to be destroyed." />
+		<msg id="19" cont="[Tip] If there is only 1 following Quest script, it can be skipped by Space Bar" />
+		<msg id="2" cont="[Tip] Additional DP must be acquired within 3 hours to avoid reset." />
+		<msg id="20" cont="[Tip] Killian's Ring and Mergaheph's Ring cannot be owned at the same time." />
+		<msg id="21" cont="[Tip] Battle Mode 3 can be used from 130Lv and Battle Style Grade 14." />
+		<msg id="22" cont="[Tip] The Craft Energy necessary for crafting items charge at an increment of five per minute." />
+		<msg id="23" cont="[Tip] 'Battle Mode 3 Skill Book' can be obtained by complete reward of 'Lv.130 BSLV UP' quest." />
+		<msg id="3" cont="[Tip] DX dungeons are for single player mode available by difficulty, and are open to characters with battle style class 11 and above." />
+		<msg id="4" cont="[Tip] Please do not share your account information with others for security reason." />
+		<msg id="5" cont="[Tip] Go to DP exchange dealer Peticia at Port Lux to purchase items with DP." />
+		<msg id="6" cont="[Tip] Prideus' Bracelet may be obtained by a Hidden Quest reward of Alter of Siena B1F." />
+		<msg id="7" cont="[Tip] If connection is lost during single play in a dungeon, you can reenter within 10 minutes without using any additional entry items." />
+		<msg id="8" cont="[Tip] WEXP acquired from mission war can be exchanged by Officer Morrison at Port Lux." />
+		<msg id="9" cont="[Tip] Aura code can be changed through quests after purchasing Aura Transmuter from magic merchant at each town." />
+	</tip>
+	<tip type="0" arg1="71" arg2="100" order="11" interval="900">
+		<msg id="1" cont="[Tip] If connection is lost during single play in a dungeon, you can re-enter within 10 minutes without using any additional entry items." />
+		<msg id="10" cont="[Tip] 'Alt+LeftClick' to purchase multiple items from NPC shop." />
+		<msg id="11" cont="[Tip] Destroy epic items with more than 1 slot to acquire property scroll depending on the item class." />
+		<msg id="12" cont="[Tip] Press 'X' to open Temporary Inventory." />
+		<msg id="13" cont="[Tip] The appearance of equipment are changeable via Core Alchemists." />
+		<msg id="14" cont="[Tip] Extracting items are available by 'Item Extraction mode' on the bottom of the Character inventory." />
+		<msg id="15" cont="[Tip] The In-game Cash shop is available by 'N'" />
+		<msg id="16" cont="[Tip] Pressing 'Alt' while the mouse cursor is over an Equipment will show a comparison." />
+		<msg id="17" cont="[Tip] During the appearance change duration, Account bind items will periodically be changed to Character bind status." />
+		<msg id="18" cont="[Tip] Items used for Appearance change are to be destroyed." />
+		<msg id="19" cont="[Tip] Novice Guild characters which completes Lv. 100 Class level up quests will be automatically disbanded from the guild." />
+		<msg id="2" cont="[Tip] Additional DP must be acquired within 3 hours to avoid reset." />
+		<msg id="20" cont="[Tip] Damage Amplifiers add more damages to skills during the Mission War." />
+		<msg id="21" cont="[Tip] Quests in Quest Capsules are obtained by Right clicking the item." />
+		<msg id="22" cont="[Tip] If Minesta's Unbinding Stone fails, it will result in destroying the item, and the item cannot be recovered." />
+		<msg id="23" cont="[Tip] The higher the Craft Mastery Level, the higher the success rate of crafting an item." />
+		<msg id="24" cont="[Tip] Craft requests can be made with Alz or Chloe's Token." />
+		<msg id="25" cont="[Tip] Battle Mode 3 Skill Books can be obtained in the form of a Quest Reward after completing the Lv. 130 BSLV UP Special Training, #3." />
+		<msg id="3" cont="[Tip] Go to DP exchange dealer Peticia at Port Lux to purchase items with DP." />
+		<msg id="4" cont="[Tip] If there is only 1 following Quest script, it can be skipped by Space Bar." />
+		<msg id="5" cont="[Tip] Drag in the character selection window to change the character order." />
+		<msg id="6" cont="[Tip] Up to 5 quest windows can be displayed, be fixed or moved around." />
+		<msg id="7" cont="[Tip] Please do not share your account information with others for security reason." />
+		<msg id="8" cont="[Tip] Up to 9 Items sold to NPC shop can be repurchased within 3 hours after selling." />
+		<msg id="9" cont="[Tip] WEXP can be used for purchasing cube items from Contribution Officer at the mission war channel lobby." />
+	</tip>
+	<tip type="0" arg1="41" arg2="70" order="11" interval="900">
+		<msg id="1" cont="[Tip] View dungeon information, pause or abandon the dungeon from CABAL Menu > Dungeon." />
+		<msg id="10" cont="[Tip] Channel chat shortcut is '/C Your words' ." />
+		<msg id="11" cont="[Tip] To purchase a quantity of items from the NPC shop, 'Alt+Leftclick' on the item" />
+		<msg id="12" cont="[Tip] Give material item to Port Lux NPC Chloe for craft request." />
+		<msg id="13" cont="[Tip] The appearance of Armor / Weapons are changeable via Core Alchemists." />
+		<msg id="14" cont="[Tip] The In-game Cash shop is available by 'N'" />
+		<msg id="15" cont="[Tip] If there is only 1 following Quest script, it can be skipped by Space Bar." />
+		<msg id="16" cont="[Tip] Extracting items are available by 'Item Extraction mode' on the bottom of the Character inventory." />
+		<msg id="17" cont="[Tip] List of products you can request for craft becomes longer depending on amity of request system." />
+		<msg id="18" cont="[Tip] Achievements can be viewed by 'Shift+C'." />
+		<msg id="19" cont="[Tip] Please do not share your account information with others for security reason." />
+		<msg id="2" cont="[Tip] If connection is lost during single play in a dungeon, you can re-enter within 10 minutes without using any additional entry items." />
+		<msg id="20" cont="[Tip] Pressing 'Alt' while the mouse cursor is over an Equipment will show a comparison." />
+		<msg id="21" cont="[Tip] Drag in the character selection window to change the character order." />
+		<msg id="22" cont="[Tip] Press 'H' to use in-game help [Help System]." />
+		<msg id="23" cont="[Tip] 1 T-Point can be earned every 10 minutes by playing CABAL Online." />
+		<msg id="24" cont="[Tip] The Craft Energy necessary for crafting items is charge at an increment of five per minute." />
+		<msg id="3" cont="[Tip] Attack skills on the Quick Slots will be automatically used when Option > Auto Attack is checked" />
+		<msg id="4" cont="[Tip] Use '/Chat bubble search keyword' to search through personal shop item search." />
+		<msg id="5" cont="[Tip] To directly sell a item to NPC shop, 'Ctrl+Leftclick' on the item." />
+		<msg id="6" cont="[Tip] Up to 9 Items sold to NPC shop can be repurchased within 3 hours after selling." />
+		<msg id="7" cont="[Tip] If there's no Alz in inventory when you put items in warehouse, storage fee will be automatically deducted from the warehouse." />
+		<msg id="8" cont="[Tip] Recovery of quest items or re-proceeding with quests are available by Quest list > 'Give up' function." />
+		<msg id="9" cont="[Tip] Open the map(M) and Ctrl+Rightclick to display a location on the chat window." />
+	</tip>
+	<tip type="0" arg1="1" arg2="40" order="11" interval="900">
+		<msg id="1" cont="[Tip] Press Tab while in whisper mode(/W) to select recent whisper partners" />
+		<msg id="10" cont="[Tip] General chat shortcut is '/N Your words'" />
+		<msg id="11" cont="[Tip] Use the shortcut 'R Your words' to reply to the most recent whispering partner" />
+		<msg id="12" cont="[Tip] Press 'Shift+RightClick' to divide items" />
+		<msg id="13" cont="[Tip] Press 'Shift+LeftClick' to move the item to the next inventory." />
+		<msg id="14" cont="[Tip] Transaction chat shortcut is '/T Your words'" />
+		<msg id="15" cont="[Tip] Chat to all channels by '/M Your words' while having a Megaphone in the inventory." />
+		<msg id="16" cont="[Tip] Channel chat shortcut is '/C Your words' ." />
+		<msg id="17" cont="[Tip] New characters which does not reach level 4 within 24 hours will be disbanded from the Novice Guild automatically." />
+		<msg id="18" cont="[Tip] Use '/Shop' to open a personal shop." />
+		<msg id="19" cont="[Tip] The In-game Cash shop is available by 'N'" />
+		<msg id="2" cont="[Tip] Drag the skill icon from the skill window to add it in the quick slot" />
+		<msg id="20" cont="[Tip] Achievements can be viewed by 'Shift+C'." />
+		<msg id="21" cont="[Tip] Recovery of quest items or restarting quests are available in Quest list > 'Give up' function." />
+		<msg id="21" cont="[Tip] Recovery of quest items or re-proceeding with quests are available by Quest list > 'Give up' function." />
+		<msg id="22" cont="[Tip] Pressing 'Alt' while the mouse cursor is over an Equipment will show a comparison." />
+		<msg id="23" cont="[Tip] Premium Buff will be applied when you purchase Premium Service." />
+		<msg id="3" cont="[Tip] Attack skills on the Quick Slots will be automatically used when Option > Auto Attack is checked" />
+		<msg id="3" cont="[Tip] Attack skills on the Quick Slots will be automatically used when Option > Auto Attack is checked" />
+		<msg id="4" cont="[Tip] Scenario quests are essential and cannot be deleted." />
+		<msg id="5" cont="[Tip] Restore a deleted quest from Normal Quest - 'Deleted Quest List'" />
+		<msg id="6" cont="[Tip] Quest location can be checked with the exclamation mark(!) on the map." />
+		<msg id="7" cont="[Tip] Locations of monsters required for current quest(s) are shown as X on the map(M)." />
+		<msg id="8" cont="[Tip] Guild chat shortcut is '/G Your words'" />
+		<msg id="9" cont="[Tip] Comprehensive chat shortcut is '/L Your words'" />
+	</tip>
+	<tip type="1" arg1="21" arg2="59" order="1" interval="60">
+		<msg id="1" cont="[Tip] You can enter the Mission Battle Channel by clicking the Join Mission Battle button." />
+	</tip>
+	<tip type="10" arg1="10" arg2="0" order="10" interval="120">
+		<msg id="1" cont="[Tip] You have few Return Stones. You can buy Return Stones from Core Alchemists and Grocers in the town." />
+	</tip>
+	<tip type="11" arg1="8" arg2="0" order="11" interval="60">
+		<msg id="1" cont="[Tip] You have few Gem of Summons. You can buy Gems of Summons from the Grocers in the town." />
+	</tip>
+	<tip type="2" arg1="14400" arg2="" order="2" interval="0">
+		<msg id="1" cont="[Tip] 4 hours have passed. Playing the game for too long can have negative effects on your health. Please get some rest." />
+	</tip>
+	<tip type="2" arg1="10800" arg2="" order="2" interval="0">
+		<msg id="1" cont="[Tip] 3 hours have passed since you have logged in to CABAL Online. Please get some rest for your health." />
+	</tip>
+	<tip type="2" arg1="7200" arg2="" order="2" interval="0">
+		<msg id="1" cont="[Tip] 2 hours have passed since you have logged in to CABAL Online. Some rest and stretching are recommended." />
+	</tip>
+	<tip type="2" arg1="3600" arg2="" order="2" interval="0">
+		<msg id="1" cont="[Tip] 1 hour has passed since you have logged in to CABAL Online." />
+	</tip>
+	<tip type="3" arg1="125" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Forgotten Temple B2F and Forbidden Island dungeons become available from Lv. 125." />
+	</tip>
+	<tip type="3" arg1="120" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] From Lv. 120, AXP can be acquired, which enables equipping Rune items with AXP." />
+	</tip>
+	<tip type="3" arg1="115" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You can enter the Forgotten Temple B1 in the Forgotten Ruin from level 105, with the Muster Card: Forgotten Temple B1F." />
+	</tip>
+	<tip type="3" arg1="110" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] DX dungeons are for single player mode available with 3 difficulties - Easy, Medium, Hard." />
+	</tip>
+	<tip type="3" arg1="105" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You can enter Frozen Tower of Undead B2F in Undead Ground from Epaulet of the Dead (B2F) from level 105. " />
+	</tip>
+	<tip type="3" arg1="100" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Mercenary quests are available from the instructor NPC at each town." />
+	</tip>
+	<tip type="3" arg1="95" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Complete 'War Clouds' quest group first to select a different country." />
+	</tip>
+	<tip type="3" arg1="85" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] The quest 'Ring of Sealed Power of Mergaheph' is available from Core Alchemist in Bloody Ice." />
+	</tip>
+	<tip type="3" arg1="80" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] From Lv. 80, Undead Ground map becomes available at Ghost Zone in Bloody Ice." />
+	</tip>
+	<tip type="3" arg1="75" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] From Lv. 75, Ruina Station dungeon becomes available at Port Ruina." />
+	</tip>
+	<tip type="3" arg1="65" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] From Lv. 65, Lake in Dusk dungeon becomes available at Green Despair Moscutter Queen Zone." />
+	</tip>
+	<tip type="3" arg1="50" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Port Lux map will be available via Port Master Carter, in Green Despair." />
+	</tip>
+	<tip type="3" arg1="9" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] From Lv. 10, You can start using Agent Shop in Bloody Ice." />
+	</tip>
+	<tip type="3" arg1="200" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You have reached the highest level of CABAL Online and received the title of 'Nevareth Overload'." />
+	</tip>
+	<tip type="3" arg1="180" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Enough level to enter Arcane Trace map. Enter through Port Lux NPC Levenson and Reison." />
+	</tip>
+	<tip type="3" arg1="160" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You have reached the entry level of Porta Inferno. It is recommended to complete BSLV UP Special Training, #6 before entering." />
+	</tip>
+	<tip type="3" arg1="155" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You can enter the D.X. Dungeon Hazardous Valley in Green Despair with a  Nearly Hatched Egg from Lv. 155." />
+	</tip>
+	<tip type="3" arg1="150" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You can join the Mission Battle by nation." />
+	</tip>
+	<tip type="3" arg1="145" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You can enter Pontus Ferrum's Maquinas Outpost with a Hacked Code Disc from Lv. 145." />
+	</tip>
+	<tip type="3" arg1="140" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Pontus Ferrum may be entered by Fort. Ruina Mechamander Zone." />
+	</tip>
+	<tip type="3" arg1="135" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] From Lv. 135, Siena B1F and B2F become available at Mutant Forest." />
+	</tip>
+	<tip type="3" arg1="131" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] You can enter Illusion Castle Radiant Hall in Lakeside from Apocalypse of the Other Dimension from Lv. 130." />
+	</tip>
+	<tip type="3" arg1="130" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] Battle Mode 3 related quests can be proceeded after BSLV UP Special Training, #3 is completed." />
+	</tip>
+	<tip type="3" arg1="126" arg2="" order="3" interval="0">
+		<msg id="1" cont="[Tip] 'Ring sealed with Leth Tyrant's Power' quest is available from Forgotten Temple B2F dungeon." />
+	</tip>
+	<tip type="4" arg1="4220" arg2="" order="4" interval="1200">
+		<msg id="1" cont="[Tip] Bonus time will be added for Maquinas Outpost each time you defeat boss monsters." />
+	</tip>
+	<tip type="4" arg1="4099" arg2="" order="4" interval="3600">
+		<msg id="1" cont="[Tip] Hidden quests at Altar of Siena B2F only becomes available after defeating some boss monsters within certain time limit." />
+	</tip>
+	<tip type="4" arg1="4098" arg2="" order="4" interval="3600">
+		<msg id="1" cont="[Tip] Hidden quest 'Secret Space' is available when the user arrives to a certain place within a period of time after defeating Glutto." />
+	</tip>
+	<tip type="4" arg1="4097" arg2="" order="4" interval="3600">
+		<msg id="1" cont="[Tip] Forbidden Island may turn out to have a different boss monster depending on the quest selection NPC." />
+	</tip>
+	<tip type="4" arg1="294" arg2="" order="4" interval="2700">
+		<msg id="1" cont="[Tip] Orca, boss of Forgotten Temple B1F, transforms into stronger forms after certain period of time." />
+	</tip>
+	<tip type="4" arg1="293" arg2="" order="4" interval="7200">
+		<msg id="1" cont="[Tip] The hidden monster in Volcanic Citadel named Bricry can only be found after meeting certain requirements." />
+	</tip>
+	<tip type="4" arg1="253" arg2="" order="4" interval="7200">
+		<msg id="1" cont="[Tip] 'Killian's Limbic Tonsil Cell' is randomly available from the last boss monster of Tower of Undead B2F, Killian Grausten." />
+	</tip>
+	<tip type="4" arg1="218" arg2="" order="4" interval="7200">
+		<msg id="1" cont="[Tip] You can obtain Sealed Mergaheph's Ring at random from the Legendary Box, which is dropped when you kill Merrgaheph." />
+	</tip>
+	<tip type="4" arg1="194" arg2="" order="4" interval="3600">
+		<msg id="1" cont="[Tip] Fashik, boss monster of Lake in Dusk, is mostly spawned on the back side of the terrain." />
+	</tip>
+	<tip type="5" arg1="11" arg2="0" order="5" interval="0">
+		<msg id="1" cont="[Tip] Reach honor Lv. 12 to win the title 'Disciple'." />
+	</tip>
+	<tip type="5" arg1="15" arg2="2" order="5" interval="0">
+		<msg id="1" cont="[Tip] You can acquire achievement 'The Sovereign' when you reach Honor grade 20." />
+	</tip>
+	<tip type="5" arg1="15" arg2="1" order="5" interval="0">
+		<msg id="1" cont="[Tip] Reach Honor Lv. 20 to win the title 'The Sovereign'." />
+	</tip>
+	<tip type="5" arg1="13" arg2="0" order="5" interval="0">
+		<msg id="1" cont="[Tip] Reach honor Lv. 20 to win the title 'Strider of World'." />
+	</tip>
+	<tip type="5" arg1="10" arg2="-1" order="5" interval="0">
+		<msg id="1" cont="[Tip] You can acquire achievement 'The Road of Honor' when you reach Honor grade 11." />
+	</tip>
+	<tip type="6" arg1="3412" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete the BSLV UP special course to use up to 12 different types of buffs and increase the chance of Ring Slot Critical Rate to 33%." />
+	</tip>
+	<tip type="6" arg1="3411" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete the BSLV UP special course to use up to 12 different types of buffs and increase the chance of Ring Slot Critical Rate to 33%." />
+	</tip>
+	<tip type="6" arg1="3410" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete the BSLV UP special course to use up to 12 different types of buffs and increase the chance of Ring Slot Critical Rate to 33%." />
+	</tip>
+	<tip type="6" arg1="3365" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] BSLV UP special course completion gives 5,000 addition SP which enables to use SP 7 times." />
+	</tip>
+	<tip type="6" arg1="3364" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] BSLV UP special course completion gives 5,000 addition SP which enables to use SP 7 times." />
+	</tip>
+	<tip type="6" arg1="3363" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] BSLV UP special course completion gives 5,000 addition SP which enables to use SP 7 times." />
+	</tip>
+	<tip type="6" arg1="3362" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Quests from Quest capsules are not able to recover after giving up." />
+	</tip>
+	<tip type="6" arg1="3205" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Lv. 100 promotion quest has been completed. Now the title 'Colony Graduate' is available." />
+	</tip>
+	<tip type="6" arg1="3203" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Lv. 100 promotion quest has been completed. Now the title 'Colony Graduate' is available." />
+	</tip>
+	<tip type="6" arg1="3201" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Lv. 100 promotion quest has been completed. Now the title 'Colony Graduate' is available." />
+	</tip>
+	<tip type="6" arg1="3152" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] You have acquired the title 'Open the Era of Humans'." />
+	</tip>
+	<tip type="6" arg1="1342" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Use Craftsman's Token to add craft category." />
+	</tip>
+	<tip type="6" arg1="1307" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Quests from Quest capsules are not able to recover after giving up." />
+	</tip>
+	<tip type="6" arg1="1306" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Quests from Quest capsules are not able to recover after giving up." />
+	</tip>
+	<tip type="6" arg1="1305" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Quests from Quest capsules are not able to recover after giving up." />
+	</tip>
+	<tip type="6" arg1="789" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Mercenaries can be summoned with Gem of Summons appropriate for each of them in dungeons" />
+	</tip>
+	<tip type="6" arg1="785" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Mercenaries can be summoned with Gem of Summons appropriate for each of them in dungeons" />
+	</tip>
+	<tip type="6" arg1="781" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Mercenaries can be summoned with Gem of Summons appropriate for each of them in dungeons" />
+	</tip>
+	<tip type="6" arg1="777" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Mercenaries can be summoned with Gem of Summons appropriate for each of them in dungeons" />
+	</tip>
+	<tip type="6" arg1="773" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Mercenaries can be summoned with Gem of Summons appropriate for each of them in dungeons" />
+	</tip>
+	<tip type="6" arg1="769" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Mercenaries can be summoned with Gem of Summons appropriate for each of them in dungeons" />
+	</tip>
+	<tip type="6" arg1="760" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="759" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="758" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="757" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="756" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="751" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] BSLV UP special course completion gives 5,000 addition SP which enables to use SP 6 times." />
+	</tip>
+	<tip type="6" arg1="750" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] BSLV UP special course completion gives 5,000 addition SP which enables to use SP 6 times." />
+	</tip>
+	<tip type="6" arg1="749" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] BSLV UP special course completion gives 5,000 addition SP which enables to use SP 6 times." />
+	</tip>
+	<tip type="6" arg1="735" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="734" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="733" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="732" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="731" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="730" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="729" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="728" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="727" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="726" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="725" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="724" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="723" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="722" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="721" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="720" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="719" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="718" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="717" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Daily quests can be attempted again from 0:00 of the next day of the reporting date." />
+	</tip>
+	<tip type="6" arg1="696" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] You can join Mission war after completing 'Prelude' quest." />
+	</tip>
+	<tip type="6" arg1="611" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use trifle buffs on the skill of same class." />
+	</tip>
+	<tip type="6" arg1="610" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use trifle buffs on the skill of same class." />
+	</tip>
+	<tip type="6" arg1="609" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use trifle buffs on the skill of same class." />
+	</tip>
+	<tip type="6" arg1="608" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use up to 10 buffs." />
+	</tip>
+	<tip type="6" arg1="607" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use up to 10 buffs." />
+	</tip>
+	<tip type="6" arg1="606" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use up to 10 buffs." />
+	</tip>
+	<tip type="6" arg1="605" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use buff for 200% longer." />
+	</tip>
+	<tip type="6" arg1="604" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use buff for 200% longer." />
+	</tip>
+	<tip type="6" arg1="603" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use buff for 200% longer." />
+	</tip>
+	<tip type="6" arg1="602" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use double buffs on the skill of same class." />
+	</tip>
+	<tip type="6" arg1="601" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use double buffs on the skill of same class." />
+	</tip>
+	<tip type="6" arg1="600" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use double buffs on the skill of same class." />
+	</tip>
+	<tip type="6" arg1="599" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use up to 7 buffs." />
+	</tip>
+	<tip type="6" arg1="598" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use up to 7 buffs." />
+	</tip>
+	<tip type="6" arg1="597" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use up to 7 buffs." />
+	</tip>
+	<tip type="6" arg1="596" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use buff for 150% longer time." />
+	</tip>
+	<tip type="6" arg1="595" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use buff for 150% longer time." />
+	</tip>
+	<tip type="6" arg1="594" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use buff for 150% longer time." />
+	</tip>
+	<tip type="6" arg1="593" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use Battle mode 1 + combo skill simultaneously." />
+	</tip>
+	<tip type="6" arg1="592" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use Battle mode 1 + combo skill simultaneously." />
+	</tip>
+	<tip type="6" arg1="591" arg2="" order="6" interval="0">
+		<msg id="1" cont="[Tip] Complete BSLV UP special courses to use Battle mode 1 + combo skill simultaneously." />
+	</tip>
+	<tip type="7" arg1="4" arg2="-1" order="7" interval="0">
+		<msg id="1" cont="[Tip] You must be battle style Lv.6 to reach Skill Rank A. Expert." />
+	</tip>
+	<tip type="7" arg1="2" arg2="-1" order="7" interval="0">
+		<msg id="1" cont="[Tip] Skill experience can be acquired by attacking training dummies." />
+	</tip>
+	<tip type="8" arg1="50" arg2="20" order="8" interval="180">
+		<msg id="1" cont="[Tip] You have few HP potions." />
+	</tip>
+	<tip type="8" arg1="30" arg2="10" order="8" interval="90">
+		<msg id="1" cont="[Tip] You have few HP potions. You can buy HP potions from Core Alchemists and Grocers in the town." />
+	</tip>
+	<tip type="8" arg1="10" arg2="0" order="8" interval="60">
+		<msg id="1" cont="[Tip] You have few HP potions. You can buy HP potions from Core Alchemists and Grocers in the town." />
+	</tip>
+	<tip type="9" arg1="50" arg2="20" order="9" interval="180">
+		<msg id="1" cont="[Tip] You have few MP potions." />
+	</tip>
+	<tip type="9" arg1="30" arg2="10" order="9" interval="90">
+		<msg id="1" cont="[Tip] You have few MP potions. You can buy MP potions from Core Alchemists and Grocers in the town." />
+	</tip>
+	<tip type="9" arg1="10" arg2="0" order="9" interval="60">
+		<msg id="1" cont="[Tip] You have few MP potions. You can buy MP potions from Core Alchemists and Grocers in the town." />
+	</tip>
+</tip_msg>

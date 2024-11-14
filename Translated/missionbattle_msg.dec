@@ -1,0 +1,32 @@
+<missionbattle_message>
+	<version	index="1"	/>
+	<battle_map_msg>
+		<msg	id="battle_map01"	cont="Frozen Colosseum"	/>
+		<msg	id="battle_map02"	cont="Forest of Nostalgia"	/>
+	</battle_map_msg>
+	<mode_msg>
+		<msg	id="battle_mode01"	cont="Standard"	/>
+	</mode_msg>
+	<buff_shop_msg>
+		<msg	id="buffcode001"	cont="Attack Enhancement Lv. 1"	/>
+		<msg	id="buffcode002"	cont="Attack Enhancement Lv. 2"	/>
+		<msg	id="buffcode003"	cont="Attack Enhancement Lv. 3"	/>
+		<msg	id="buffcode004"	cont="Defense Enhancement Lv. 1"	/>
+		<msg	id="buffcode005"	cont="Defense Enhancement Lv. 2"	/>
+		<msg	id="buffcode006"	cont="Defense Enhancement Lv. 3"	/>
+		<msg	id="buffcode007"	cont="Enchant Attack (Lv. 1)"	/>
+		<msg	id="buffcode008"	cont="Enchant Attack (Lv. 2)"	/>
+		<msg	id="buffcode009"	cont="Enchant Defense (Lv. 1)"	/>
+		<msg	id="buffcode010"	cont="Enchant Defense (Lv. 2)"	/>
+		<msg	id="buffcode011"	cont="Enchant Critical (Lv. 1)"	/>
+		<msg	id="buffcode012"	cont="Enchant Critical (Lv. 2)"	/>
+		<msg	id="buffcode013"	cont="Enchant Resist (Lv. 1)"	/>
+		<msg	id="buffcode014"	cont="Enchant Resist (Lv. 2)"	/>
+	</buff_shop_msg>
+	<room_name_msg>
+		<msg	id="default_name001"	cont="Beginners Only"	/>
+		<msg	id="default_name002"	cont="Challenge Me!!"	/>
+		<msg	id="default_name003"	cont="Ready Set Go!!"	/>
+		<msg	id="default_name004"	cont="Teach me a Lesson"	/>
+	</room_name_msg>
+</missionbattle_message>

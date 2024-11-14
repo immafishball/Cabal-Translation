@@ -1,0 +1,14 @@
+<Myth_message>
+	<set_msg>
+		<msg	GradeID="1"	GradeName="¼¼¶óÇË"	/>
+		<msg	GradeID="2"	GradeName="ÄÉ·çºö"	/>
+		<msg	GradeID="3"	GradeName="¿ÀÆÄ´Ô"	/>
+		<msg	GradeID="4"	GradeName="µµ¹Ì´Ï¾ð"	/>
+		<msg	GradeID="5"	GradeName="¾ÈÁ©·ç½º"	/>
+		<msg	GradeID="6"	GradeName="¾ÆÅ©¿£Á©"	/>
+		<msg	GradeID="7"	GradeName="¶óÆÄ¿¤"	/>
+		<msg	GradeID="8"	GradeName="¿ì¸®¿¤"	/>
+		<msg	GradeID="9"	GradeName="¹ÌÄ«¿¤"	/>
+		<msg	GradeID="10"	GradeName="¸ÞÅ¸Æ®·Ð"	/>
+	</set_msg>
+</Myth_message>

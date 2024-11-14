@@ -1,0 +1,62 @@
+<overloadmastery_message>
+	<overloadmastery_name_msg>
+		<msg id="Overloadmastery_0001" cont="All Attack I" />
+		<msg id="Overloadmastery_0002" cont="Critical DMG I" />
+		<msg id="Overloadmastery_0003" cont="Attack Rate I" />
+		<msg id="Overloadmastery_0004" cont="Add. DMG I" />
+		<msg id="Overloadmastery_0005" cont="All Attack II" />
+		<msg id="Overloadmastery_0006" cont="Critical DMG II" />
+		<msg id="Overloadmastery_0007" cont="Accuracy I" />
+		<msg id="Overloadmastery_0008" cont="Ignore Resist Critical Rate" />
+		<msg id="Overloadmastery_0009" cont="Attack Rate II" />
+		<msg id="Overloadmastery_0010" cont="Penetration I" />
+		<msg id="Overloadmastery_0011" cont="All Attack III" />
+		<msg id="Overloadmastery_0012" cont="Accuracy II" />
+		<msg id="Overloadmastery_0013" cont="Add. DMG II" />
+		<msg id="Overloadmastery_0014" cont="Penetration II" />
+		<msg id="Overloadmastery_0015" cont="Defense I" />
+		<msg id="Overloadmastery_0016" cont="HP UP I" />
+		<msg id="Overloadmastery_0017" cont="Resist Knock Back" />
+		<msg id="Overloadmastery_0018" cont="Ignore Accuracy I" />
+		<msg id="Overloadmastery_0019" cont="DMG Reduction" />
+		<msg id="Overloadmastery_0020" cont="Resist Critical DMG" />
+		<msg id="Overloadmastery_0021" cont="Resist Down" />
+		<msg id="Overloadmastery_0022" cont="HP UP II" />
+		<msg id="Overloadmastery_0023" cont="Resist Stun" />
+		<msg id="Overloadmastery_0024" cont="Ignore Penetration I" />
+		<msg id="Overloadmastery_0025" cont="Defense II" />
+		<msg id="Overloadmastery_0026" cont="Resist Skill Amp." />
+		<msg id="Overloadmastery_0027" cont="Ignore Accuracy II" />
+		<msg id="Overloadmastery_0028" cont="Ignore Penetration II" />
+	</overloadmastery_name_msg>
+	<overloaddesc_msg>
+		<msg id="Overloadmasterydesc_0001" cont="$33#All Attack$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0002" cont="$33#Critical DMG$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0003" cont="$33#Attack Rate$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0004" cont="$33#Add. DMG$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0005" cont="$33#All Attack$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0006" cont="$33#Critical DMG$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0007" cont="$33#Accuracy$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0008" cont="$33#Ignore Resist Critical Rate$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0009" cont="$33#Attack Rate$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0010" cont="$33#Penetration$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0011" cont="$33#All Attack$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0012" cont="$33#Accuracy$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0013" cont="$33#Add. DMG$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0014" cont="$33#Penetration$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0015" cont="$33#Defense$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0016" cont="$33#Max HP$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0017" cont="$33#Resist Knock Back$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0018" cont="$33#Ignore Accuracy$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0019" cont="$33#DMG Reduction$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0020" cont="$33#Resist Critical DMG$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0021" cont="$33#Resist Down$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0022" cont="$33#Max HP$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0023" cont="$33#Resist Stun$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0024" cont="$33#Ignore Penetration$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0025" cont="$33#Defense$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0026" cont="$33#Resist Skill Amp.$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0027" cont="$33#Ignore Accuracy$ +$33#%s$_" />
+		<msg id="Overloadmasterydesc_0028" cont="$33#Ignore Penetration$ +$33#%s$_" />
+	</overloaddesc_msg>
+</overloadmastery_message>

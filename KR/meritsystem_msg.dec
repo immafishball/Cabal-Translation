@@ -1,0 +1,982 @@
+<meritsystem_message>
+	<category_name_msg>
+		<msg	id="meritcategory0001"	cont="회피 무시"	/>
+		<msg	id="meritcategory0002"	cont="적중 무시"	/>
+		<msg	id="meritcategory0003"	cont="피해감소 무시"	/>
+		<msg	id="meritcategory0004"	cont="관통 무시"	/>
+		<msg	id="meritcategory0005"	cont="맹렬한 기세"	/>
+		<msg	id="meritcategory0006"	cont="불굴의 의지"	/>
+		<msg	id="meritcategory0007"	cont="전장의 학살자"	/>
+		<msg	id="meritcategory0008"	cont="전장의 수호자"	/>
+		<msg	id="meritcategory0009"	cont="예리한 칼날"	/>
+		<msg	id="meritcategory0010"	cont="날렵한 회피"	/>
+		<msg	id="meritcategory0011"	cont="확고한 결의"	/>
+		<msg	id="meritcategory0012"	cont="결의 : 일격"	/>
+		<msg	id="meritcategory0013"	cont="결의 : 투혼"	/>
+		<msg	id="meritcategory0014"	cont="결의 : 심판"	/>
+		<msg	id="meritcategory0015"	cont="치명적 일격"	/>
+		<msg	id="meritcategory0016"	cont="일격 : 결의"	/>
+		<msg	id="meritcategory0017"	cont="일격 : 투혼"	/>
+		<msg	id="meritcategory0018"	cont="일격 : 심판"	/>
+		<msg	id="meritcategory0019"	cont="집념의 투혼"	/>
+		<msg	id="meritcategory0020"	cont="투혼 : 결의"	/>
+		<msg	id="meritcategory0021"	cont="투혼 : 일격"	/>
+		<msg	id="meritcategory0022"	cont="투혼 : 심판"	/>
+		<msg	id="meritcategory0023"	cont="강력한 심판"	/>
+		<msg	id="meritcategory0024"	cont="심판 : 결의"	/>
+		<msg	id="meritcategory0025"	cont="심판 : 일격"	/>
+		<msg	id="meritcategory0026"	cont="심판 : 투혼"	/>
+	</category_name_msg>
+	<mastery_name_msg>
+		<msg	id="meritmastery0001"	cont="적중 I"	/>
+		<msg	id="meritmastery0002"	cont="공격률 I"	/>
+		<msg	id="meritmastery0003"	cont="회피 무시 I"	/>
+		<msg	id="meritmastery0004"	cont="공격률 II"	/>
+		<msg	id="meritmastery0005"	cont="적중 II"	/>
+		<msg	id="meritmastery0006"	cont="회피 무시 II"	/>
+		<msg	id="meritmastery0007"	cont="공격률 III"	/>
+		<msg	id="meritmastery0008"	cont="적중 III"	/>
+		<msg	id="meritmastery0009"	cont="회피 무시 III"	/>
+		<msg	id="meritmastery0010"	cont="공격률 확장 I"	/>
+		<msg	id="meritmastery0011"	cont="적중 확장 I"	/>
+		<msg	id="meritmastery0012"	cont="공격률 확장 II"	/>
+		<msg	id="meritmastery0013"	cont="적중 확장 II"	/>
+		<msg	id="meritmastery0014"	cont="공격률 확장 III"	/>
+		<msg	id="meritmastery0015"	cont="적중 확장 III"	/>
+		<msg	id="meritmastery0016"	cont="회피 I"	/>
+		<msg	id="meritmastery0017"	cont="방어율 I"	/>
+		<msg	id="meritmastery0018"	cont="적중 무시 I"	/>
+		<msg	id="meritmastery0019"	cont="방어율 II"	/>
+		<msg	id="meritmastery0020"	cont="회피 II"	/>
+		<msg	id="meritmastery0021"	cont="적중 무시 II"	/>
+		<msg	id="meritmastery0022"	cont="회피 무시 상쇄 I"	/>
+		<msg	id="meritmastery0023"	cont="방어율 III"	/>
+		<msg	id="meritmastery0024"	cont="회피 III"	/>
+		<msg	id="meritmastery0025"	cont="적중 무시 III"	/>
+		<msg	id="meritmastery0026"	cont="회피 무시 상쇄 II"	/>
+		<msg	id="meritmastery0027"	cont="방어율 확장 I"	/>
+		<msg	id="meritmastery0028"	cont="회피 확장 I"	/>
+		<msg	id="meritmastery0029"	cont="방어율 확장 II"	/>
+		<msg	id="meritmastery0030"	cont="회피 확장 II"	/>
+		<msg	id="meritmastery0031"	cont="방어율 확장 III"	/>
+		<msg	id="meritmastery0032"	cont="회피 확장 III"	/>
+		<msg	id="meritmastery0033"	cont="관통 I"	/>
+		<msg	id="meritmastery0034"	cont="추가 데미지 I"	/>
+		<msg	id="meritmastery0035"	cont="피해감소 무시 I"	/>
+		<msg	id="meritmastery0036"	cont="관통 II"	/>
+		<msg	id="meritmastery0037"	cont="추가 데미지 II"	/>
+		<msg	id="meritmastery0038"	cont="피해감소 무시 II"	/>
+		<msg	id="meritmastery0039"	cont="관통 III"	/>
+		<msg	id="meritmastery0040"	cont="추가 데미지 III"	/>
+		<msg	id="meritmastery0041"	cont="피해감소 무시 III"	/>
+		<msg	id="meritmastery0042"	cont="추가 데미지 확장 I"	/>
+		<msg	id="meritmastery0043"	cont="관통 확장 I"	/>
+		<msg	id="meritmastery0044"	cont="추가 데미지 확장 II"	/>
+		<msg	id="meritmastery0045"	cont="관통 확장 II"	/>
+		<msg	id="meritmastery0046"	cont="추가 데미지 확장 III"	/>
+		<msg	id="meritmastery0047"	cont="관통 확장 III"	/>
+		<msg	id="meritmastery0048"	cont="피해감소 I"	/>
+		<msg	id="meritmastery0049"	cont="방어 I"	/>
+		<msg	id="meritmastery0050"	cont="관통 무시 I"	/>
+		<msg	id="meritmastery0051"	cont="방어 II"	/>
+		<msg	id="meritmastery0052"	cont="피해감소 II"	/>
+		<msg	id="meritmastery0053"	cont="관통 무시 II"	/>
+		<msg	id="meritmastery0054"	cont="피해감소 무시 상쇄 I"	/>
+		<msg	id="meritmastery0055"	cont="방어 III"	/>
+		<msg	id="meritmastery0056"	cont="피해감소 III"	/>
+		<msg	id="meritmastery0057"	cont="관통 무시 III"	/>
+		<msg	id="meritmastery0058"	cont="피해감소 무시 상쇄 II"	/>
+		<msg	id="meritmastery0059"	cont="방어 확장 I"	/>
+		<msg	id="meritmastery0060"	cont="피해감소 확장 I"	/>
+		<msg	id="meritmastery0061"	cont="방어 확장 II"	/>
+		<msg	id="meritmastery0062"	cont="피해감소 확장 II"	/>
+		<msg	id="meritmastery0063"	cont="방어 확장 III"	/>
+		<msg	id="meritmastery0064"	cont="피해감소 확장 III"	/>
+		<msg	id="meritmastery0065"	cont="모든 공격력 I"	/>
+		<msg	id="meritmastery0066"	cont="피해감소 무시 I"	/>
+		<msg	id="meritmastery0067"	cont="모든 공격력 II"	/>
+		<msg	id="meritmastery0068"	cont="피해감소 무시 II"	/>
+		<msg	id="meritmastery0069"	cont="모든 공격력 III"	/>
+		<msg	id="meritmastery0070"	cont="피해감소 무시 III"	/>
+		<msg	id="meritmastery0071"	cont="모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0072"	cont="크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0073"	cont="관통 I"	/>
+		<msg	id="meritmastery0074"	cont="모든 공격력 확장 I"	/>
+		<msg	id="meritmastery0075"	cont="피해감소 무시 확장 I"	/>
+		<msg	id="meritmastery0076"	cont="모든 공격력 확장 II"	/>
+		<msg	id="meritmastery0077"	cont="피해감소 무시 확장 II"	/>
+		<msg	id="meritmastery0078"	cont="모든 공격력 확장 III"	/>
+		<msg	id="meritmastery0079"	cont="피해감소 무시 확장 III"	/>
+		<msg	id="meritmastery0080"	cont="모든 스킬 증폭 확장 I"	/>
+		<msg	id="meritmastery0081"	cont="크리티컬 데미지 확장 I"	/>
+		<msg	id="meritmastery0082"	cont="관통 확장 I"	/>
+		<msg	id="meritmastery0083"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0084"	cont="HP I"	/>
+		<msg	id="meritmastery0085"	cont="관통 무시 I"	/>
+		<msg	id="meritmastery0086"	cont="HP II"	/>
+		<msg	id="meritmastery0087"	cont="관통무시 II"	/>
+		<msg	id="meritmastery0088"	cont="HP III"	/>
+		<msg	id="meritmastery0089"	cont="관통무시 III"	/>
+		<msg	id="meritmastery0090"	cont="방어력 I"	/>
+		<msg	id="meritmastery0091"	cont="방어력 II"	/>
+		<msg	id="meritmastery0092"	cont="HP 흡수상한 I"	/>
+		<msg	id="meritmastery0093"	cont="HP 확장 I"	/>
+		<msg	id="meritmastery0094"	cont="관통 무시 확장 I"	/>
+		<msg	id="meritmastery0095"	cont="HP 확장 II"	/>
+		<msg	id="meritmastery0096"	cont="관통 무시 확장 II"	/>
+		<msg	id="meritmastery0097"	cont="HP 확장 III"	/>
+		<msg	id="meritmastery0098"	cont="관통 무시 확장 III"	/>
+		<msg	id="meritmastery0099"	cont="방어력 확장 I"	/>
+		<msg	id="meritmastery0100"	cont="방어력 확장 II"	/>
+		<msg	id="meritmastery0101"	cont="HP 흡수상한 확장 I"	/>
+		<msg	id="meritmastery0102"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0103"	cont="관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0104"	cont="크리티컬 데미지 저항 무시 I"	/>
+		<msg	id="meritmastery0105"	cont="스킬 증폭 저항 무시 I"	/>
+		<msg	id="meritmastery0106"	cont="관통 무시 상쇄 II"	/>
+		<msg	id="meritmastery0107"	cont="크리티컬 데미지 저항 무시 II"	/>
+		<msg	id="meritmastery0108"	cont="스킬 증폭 저항 무시 II"	/>
+		<msg	id="meritmastery0109"	cont="관통 무시 상쇄 III"	/>
+		<msg	id="meritmastery0110"	cont="크리티컬 데미지 저항 무시 III"	/>
+		<msg	id="meritmastery0111"	cont="스킬 증폭 저항 무시 III"	/>
+		<msg	id="meritmastery0112"	cont="관통 무시 상쇄 확장 I"	/>
+		<msg	id="meritmastery0113"	cont="관통 무시 상쇄 확장 II"	/>
+		<msg	id="meritmastery0114"	cont="관통 무시 상쇄 확장 III"	/>
+		<msg	id="meritmastery0115"	cont="크리티컬 데미지 저항 무시 확장 I"	/>
+		<msg	id="meritmastery0116"	cont="크리티컬 데미지 저항 무시 확장 II"	/>
+		<msg	id="meritmastery0117"	cont="스킬 증폭 저항 무시 확장 I"	/>
+		<msg	id="meritmastery0118"	cont="스킬 증폭 저항 무시 확장 II"	/>
+		<msg	id="meritmastery0119"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0120"	cont="피해감소 무시 상쇄 I"	/>
+		<msg	id="meritmastery0121"	cont="크리티컬 데미지 저항 I"	/>
+		<msg	id="meritmastery0122"	cont="스킬 증폭저항 I"	/>
+		<msg	id="meritmastery0123"	cont="피해감소 무시 상쇄 II"	/>
+		<msg	id="meritmastery0124"	cont="크리티컬 데미지 저항 II"	/>
+		<msg	id="meritmastery0125"	cont="스킬 증폭저항 II"	/>
+		<msg	id="meritmastery0126"	cont="피해감소 무시 상쇄 III"	/>
+		<msg	id="meritmastery0127"	cont="크리티컬 데미지 저항 III"	/>
+		<msg	id="meritmastery0128"	cont="스킬 증폭저항 III"	/>
+		<msg	id="meritmastery0129"	cont="피해감소 I"	/>
+		<msg	id="meritmastery0130"	cont="피해감소 II"	/>
+		<msg	id="meritmastery0131"	cont="피해감소 무시 상쇄 확장 I"	/>
+		<msg	id="meritmastery0132"	cont="피해감소 무시 상쇄 확장 II"	/>
+		<msg	id="meritmastery0133"	cont="피해감소 무시 상쇄 확장 III"	/>
+		<msg	id="meritmastery0134"	cont="피해감소 확장 I"	/>
+		<msg	id="meritmastery0135"	cont="피해감소 확장 II"	/>
+		<msg	id="meritmastery0136"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0137"	cont="회피 무시 I"	/>
+		<msg	id="meritmastery0138"	cont="공격률 I"	/>
+		<msg	id="meritmastery0139"	cont="회피 무시 II"	/>
+		<msg	id="meritmastery0140"	cont="공격률 II"	/>
+		<msg	id="meritmastery0141"	cont="회피 무시 III"	/>
+		<msg	id="meritmastery0142"	cont="회피 무시 확장 I"	/>
+		<msg	id="meritmastery0143"	cont="회피 무시 확장 II"	/>
+		<msg	id="meritmastery0144"	cont="회피 무시 확장 III"	/>
+		<msg	id="meritmastery0145"	cont="공격률 확장 I"	/>
+		<msg	id="meritmastery0146"	cont="공격률 확장 II"	/>
+		<msg	id="meritmastery0147"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0148"	cont="적중 무시 I"	/>
+		<msg	id="meritmastery0149"	cont="방어율 I"	/>
+		<msg	id="meritmastery0150"	cont="적중 무시 II"	/>
+		<msg	id="meritmastery0151"	cont="방어율 II"	/>
+		<msg	id="meritmastery0152"	cont="적중 무시 III"	/>
+		<msg	id="meritmastery0153"	cont="적중 무시 확장 I"	/>
+		<msg	id="meritmastery0154"	cont="적중 무시 확장 II"	/>
+		<msg	id="meritmastery0155"	cont="적중 무시 확장 III"	/>
+		<msg	id="meritmastery0156"	cont="방어율 확장 I"	/>
+		<msg	id="meritmastery0157"	cont="방어율 확장 II"	/>
+		<msg	id="meritmastery0158"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0159"	cont="PvP 모든 공격력 I"	/>
+		<msg	id="meritmastery0160"	cont="PvP 방어력 I"	/>
+		<msg	id="meritmastery0161"	cont="PvP 관통 무시 I"	/>
+		<msg	id="meritmastery0162"	cont="PvP 모든 공격력 II"	/>
+		<msg	id="meritmastery0163"	cont="PvP 방어력 II"	/>
+		<msg	id="meritmastery0164"	cont="PvP 관통 무시 II"	/>
+		<msg	id="meritmastery0165"	cont="PvP 모든 공격력 III"	/>
+		<msg	id="meritmastery0166"	cont="PvP 방어력 III"	/>
+		<msg	id="meritmastery0167"	cont="PvP 관통 무시 III"	/>
+		<msg	id="meritmastery0168"	cont="PvE 모든 공격력 I"	/>
+		<msg	id="meritmastery0169"	cont="PvE 방어력 I"	/>
+		<msg	id="meritmastery0170"	cont="PvE 관통 무시 I"	/>
+		<msg	id="meritmastery0171"	cont="PvE 모든 공격력 II"	/>
+		<msg	id="meritmastery0172"	cont="PvE 방어력 II"	/>
+		<msg	id="meritmastery0173"	cont="PvE 관통 무시 II"	/>
+		<msg	id="meritmastery0174"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0175"	cont="결의 : 일격 확장"	/>
+		<msg	id="meritmastery0176"	cont="결의 : 투혼 확장"	/>
+		<msg	id="meritmastery0177"	cont="결의 : 심판 확장"	/>
+		<msg	id="meritmastery0178"	cont="PvP 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0179"	cont="크리티컬 데미지 저항 I"	/>
+		<msg	id="meritmastery0180"	cont="PvP 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0181"	cont="PvP 크리티컬 데미지 II"	/>
+		<msg	id="meritmastery0182"	cont="크리티컬 데미지 저항 II"	/>
+		<msg	id="meritmastery0183"	cont="PvP 일반 공격 데미지 증가 II"	/>
+		<msg	id="meritmastery0184"	cont="크리티컬 데미지 저항 III"	/>
+		<msg	id="meritmastery0185"	cont="PvP 일반 공격 데미지 증가 III"	/>
+		<msg	id="meritmastery0186"	cont="PvE 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0187"	cont="PvE 크리티컬 데미지 저항 무시 I"	/>
+		<msg	id="meritmastery0188"	cont="PvE 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0189"	cont="PvE 모든 공격력 I 확장"	/>
+		<msg	id="meritmastery0190"	cont="PvE 방어력 I 확장"	/>
+		<msg	id="meritmastery0191"	cont="PvE 관통 무시 I 확장"	/>
+		<msg	id="meritmastery0192"	cont="PvE 모든 공격력 II 확장"	/>
+		<msg	id="meritmastery0193"	cont="PvE 방어력 II 확장"	/>
+		<msg	id="meritmastery0194"	cont="PvE 관통 무시 II 확장"	/>
+		<msg	id="meritmastery0195"	cont="PvE 크리티컬 데미지 I 확장"	/>
+		<msg	id="meritmastery0196"	cont="PvE 크리티컬 데미지 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0197"	cont="PvE 일반 공격 데미지 증가 I 확장"	/>
+		<msg	id="meritmastery0198"	cont="PvP 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0199"	cont="스킬 증폭 저항 I"	/>
+		<msg	id="meritmastery0200"	cont="PvP 추가 데미지 I"	/>
+		<msg	id="meritmastery0201"	cont="PvP 모든 스킬 증폭 II"	/>
+		<msg	id="meritmastery0202"	cont="스킬 증폭 저항 II"	/>
+		<msg	id="meritmastery0203"	cont="PvP 추가 데미지 II"	/>
+		<msg	id="meritmastery0204"	cont="스킬 증폭 저항 III"	/>
+		<msg	id="meritmastery0205"	cont="PvP 추가 데미지 III"	/>
+		<msg	id="meritmastery0206"	cont="PvE 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0207"	cont="PvE 스킬 증폭 저항 무시 I"	/>
+		<msg	id="meritmastery0208"	cont="PvE 추가 데미지 I"	/>
+		<msg	id="meritmastery0209"	cont="PvE 모든 공격력 I 확장"	/>
+		<msg	id="meritmastery0210"	cont="PvE 방어력 I 확장"	/>
+		<msg	id="meritmastery0211"	cont="PvE 관통 무시 I 확장"	/>
+		<msg	id="meritmastery0212"	cont="PvE 모든 공격력 II 확장"	/>
+		<msg	id="meritmastery0213"	cont="PvE 방어력 II 확장"	/>
+		<msg	id="meritmastery0214"	cont="PvE 관통 무시 II 확장"	/>
+		<msg	id="meritmastery0215"	cont="PvE 모든 스킬 증폭 I 확장"	/>
+		<msg	id="meritmastery0216"	cont="PvE 스킬 증폭 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0217"	cont="PvE 추가 데미지 I 확장"	/>
+		<msg	id="meritmastery0218"	cont="PvP 관통 I"	/>
+		<msg	id="meritmastery0219"	cont="PvP 피해감소 I"	/>
+		<msg	id="meritmastery0220"	cont="PvP 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0221"	cont="PvP 관통 II"	/>
+		<msg	id="meritmastery0222"	cont="PvP 피해감소 II"	/>
+		<msg	id="meritmastery0223"	cont="PvP 관통 무시 상쇄 II"	/>
+		<msg	id="meritmastery0224"	cont="PvP 피해감소 III"	/>
+		<msg	id="meritmastery0225"	cont="PvP 관통 무시 상쇄 III"	/>
+		<msg	id="meritmastery0226"	cont="PvE 관통 I"	/>
+		<msg	id="meritmastery0227"	cont="PvE 피해감소 I"	/>
+		<msg	id="meritmastery0228"	cont="PvE 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0229"	cont="PvE 모든 공격력 I 확장"	/>
+		<msg	id="meritmastery0230"	cont="PvE 방어력 I 확장"	/>
+		<msg	id="meritmastery0231"	cont="PvE 관통 무시 I 확장"	/>
+		<msg	id="meritmastery0232"	cont="PvE 모든 공격력 II 확장"	/>
+		<msg	id="meritmastery0233"	cont="PvE 방어력 II 확장"	/>
+		<msg	id="meritmastery0234"	cont="PvE 관통 무시 II 확장"	/>
+		<msg	id="meritmastery0235"	cont="PvE 관통 I 확장"	/>
+		<msg	id="meritmastery0236"	cont="PvE 피해감소 I 확장"	/>
+		<msg	id="meritmastery0237"	cont="PvE 관통 무시 상쇄 I 확장"	/>
+		<msg	id="meritmastery0238"	cont="PvP 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0239"	cont="크리티컬 데미지 저항 I"	/>
+		<msg	id="meritmastery0240"	cont="PvP 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0241"	cont="PvP 크리티컬 데미지 II"	/>
+		<msg	id="meritmastery0242"	cont="크리티컬 데미지 저항 II"	/>
+		<msg	id="meritmastery0243"	cont="PvP 일반 공격 데미지 증가 II"	/>
+		<msg	id="meritmastery0244"	cont="PvP 크리티컬 데미지 III"	/>
+		<msg	id="meritmastery0245"	cont="크리티컬 데미지 저항 III"	/>
+		<msg	id="meritmastery0246"	cont="PvP 일반 공격 데미지 증가 III"	/>
+		<msg	id="meritmastery0247"	cont="PvE 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0248"	cont="PvE 크리티컬 데미지 저항 무시 I"	/>
+		<msg	id="meritmastery0249"	cont="PvE 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0250"	cont="PvE 크리티컬 데미지 II"	/>
+		<msg	id="meritmastery0251"	cont="PvE 크리티컬 데미지 저항 무시 II"	/>
+		<msg	id="meritmastery0252"	cont="PvE 일반 공격 데미지 증가 II"	/>
+		<msg	id="meritmastery0253"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0254"	cont="일격 : 결의 확장"	/>
+		<msg	id="meritmastery0255"	cont="일격 : 투혼 확장"	/>
+		<msg	id="meritmastery0256"	cont="일격 : 심판 확장"	/>
+		<msg	id="meritmastery0257"	cont="PvP 모든 공격력 I"	/>
+		<msg	id="meritmastery0258"	cont="PvP 방어력 I"	/>
+		<msg	id="meritmastery0259"	cont="PvP 관통 무시 I"	/>
+		<msg	id="meritmastery0260"	cont="PvP 모든 공격력 II"	/>
+		<msg	id="meritmastery0261"	cont="PvP 방어력 II"	/>
+		<msg	id="meritmastery0262"	cont="PvP 관통 무시 II"	/>
+		<msg	id="meritmastery0263"	cont="PvP 방어력 III"	/>
+		<msg	id="meritmastery0264"	cont="PvP 관통 무시 III"	/>
+		<msg	id="meritmastery0265"	cont="PvE 모든 공격력 I"	/>
+		<msg	id="meritmastery0266"	cont="PvE 방어력 I"	/>
+		<msg	id="meritmastery0267"	cont="PvE 관통 무시 I"	/>
+		<msg	id="meritmastery0268"	cont="PvE 크리티컬 데미지 I 확장"	/>
+		<msg	id="meritmastery0269"	cont="PvE 크리티컬 데미지 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0270"	cont="PvE 일반 공격 데미지 증가 I 확장"	/>
+		<msg	id="meritmastery0271"	cont="PvE 크리티컬 데미지 II 확장"	/>
+		<msg	id="meritmastery0272"	cont="PvE 크리티컬 데미지 저항 무시 II 확장"	/>
+		<msg	id="meritmastery0273"	cont="PvE 일반 공격 데미지 증가 II 확장"	/>
+		<msg	id="meritmastery0274"	cont="PvE 모든 공격력 I 확장"	/>
+		<msg	id="meritmastery0275"	cont="PvE 방어력 I 확장"	/>
+		<msg	id="meritmastery0276"	cont="PvE 관통 무시 I 확장"	/>
+		<msg	id="meritmastery0277"	cont="PvP 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0278"	cont="스킬 증폭 저항 I"	/>
+		<msg	id="meritmastery0279"	cont="PvP 추가 데미지 I"	/>
+		<msg	id="meritmastery0280"	cont="PvP 모든 스킬 증폭 II"	/>
+		<msg	id="meritmastery0281"	cont="스킬 증폭 저항 II"	/>
+		<msg	id="meritmastery0282"	cont="PvP 추가 데미지 II"	/>
+		<msg	id="meritmastery0283"	cont="스킬 증폭 저항 III"	/>
+		<msg	id="meritmastery0284"	cont="PvP 추가 데미지 III"	/>
+		<msg	id="meritmastery0285"	cont="PvE 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0286"	cont="PvE 스킬 증폭 저항 무시 I"	/>
+		<msg	id="meritmastery0287"	cont="PvE 추가 데미지 I"	/>
+		<msg	id="meritmastery0288"	cont="PvE 크리티컬 데미지 I 확장"	/>
+		<msg	id="meritmastery0289"	cont="PvE 크리티컬 데미지 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0290"	cont="PvE 일반 공격 데미지 증가 I 확장"	/>
+		<msg	id="meritmastery0291"	cont="PvE 크리티컬 데미지 II 확장"	/>
+		<msg	id="meritmastery0292"	cont="PvE 크리티컬 데미지 저항 무시 II 확장"	/>
+		<msg	id="meritmastery0293"	cont="PvE 일반 공격 데미지 증가 II 확장"	/>
+		<msg	id="meritmastery0294"	cont="PvE 모든 스킬 증폭 I 확장"	/>
+		<msg	id="meritmastery0295"	cont="PvE 스킬 증폭 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0296"	cont="PvE 추가 데미지 I 확장"	/>
+		<msg	id="meritmastery0297"	cont="PvP 관통 I"	/>
+		<msg	id="meritmastery0298"	cont="PvP 피해감소 I"	/>
+		<msg	id="meritmastery0299"	cont="PvP 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0300"	cont="PvP 관통 II"	/>
+		<msg	id="meritmastery0301"	cont="PvP 피해감소 II"	/>
+		<msg	id="meritmastery0302"	cont="PvP 관통 무시 상쇄 II"	/>
+		<msg	id="meritmastery0303"	cont="PvP 피해감소 III"	/>
+		<msg	id="meritmastery0304"	cont="PvP 관통 무시 상쇄 III"	/>
+		<msg	id="meritmastery0305"	cont="PvE 관통 I"	/>
+		<msg	id="meritmastery0306"	cont="PvE 피해감소 I"	/>
+		<msg	id="meritmastery0307"	cont="PvE 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0308"	cont="PvE 크리티컬 데미지 I 확장"	/>
+		<msg	id="meritmastery0309"	cont="PvE 크리티컬 데미지 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0310"	cont="PvE 일반 공격 데미지 증가 I 확장"	/>
+		<msg	id="meritmastery0311"	cont="PvE 크리티컬 데미지 II 확장"	/>
+		<msg	id="meritmastery0312"	cont="PvE 크리티컬 데미지 저항 무시 II 확장"	/>
+		<msg	id="meritmastery0313"	cont="PvE 일반 공격 데미지 증가 II 확장"	/>
+		<msg	id="meritmastery0314"	cont="PvE 관통 I 확장"	/>
+		<msg	id="meritmastery0315"	cont="PvE 피해감소 I 확장"	/>
+		<msg	id="meritmastery0316"	cont="PvE 관통 무시 상쇄 I 확장"	/>
+		<msg	id="meritmastery0317"	cont="PvP 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0318"	cont="스킬 증폭 저항 I"	/>
+		<msg	id="meritmastery0319"	cont="PvP 추가 데미지 I"	/>
+		<msg	id="meritmastery0320"	cont="PvP 모든 스킬 증폭 II"	/>
+		<msg	id="meritmastery0321"	cont="스킬 증폭 저항 II"	/>
+		<msg	id="meritmastery0322"	cont="PvP 추가 데미지 II"	/>
+		<msg	id="meritmastery0323"	cont="PvP 모든 스킬 증폭 III"	/>
+		<msg	id="meritmastery0324"	cont="스킬 증폭 저항 III"	/>
+		<msg	id="meritmastery0325"	cont="PvP 추가 데미지 III"	/>
+		<msg	id="meritmastery0326"	cont="PvE 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0327"	cont="PvE 스킬 증폭 저항 무시 I"	/>
+		<msg	id="meritmastery0328"	cont="PvE 추가 데미지 I"	/>
+		<msg	id="meritmastery0329"	cont="PvE 모든 스킬 증폭 II"	/>
+		<msg	id="meritmastery0330"	cont="PvE 스킬 증폭 저항 무시 II"	/>
+		<msg	id="meritmastery0331"	cont="PvE 추가 데미지 II"	/>
+		<msg	id="meritmastery0332"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0333"	cont="투혼 : 결의 확장"	/>
+		<msg	id="meritmastery0334"	cont="투혼 : 일격 확장"	/>
+		<msg	id="meritmastery0335"	cont="투혼 : 심판 확장"	/>
+		<msg	id="meritmastery0336"	cont="PvP 모든 공격력 I"	/>
+		<msg	id="meritmastery0337"	cont="PvP 방어력 I"	/>
+		<msg	id="meritmastery0338"	cont="PvP 관통 무시 I"	/>
+		<msg	id="meritmastery0339"	cont="PvP 모든 공격력 II"	/>
+		<msg	id="meritmastery0340"	cont="PvP 방어력 II"	/>
+		<msg	id="meritmastery0341"	cont="PvP 관통 무시 II"	/>
+		<msg	id="meritmastery0342"	cont="PvP 방어력 III"	/>
+		<msg	id="meritmastery0343"	cont="PvP 관통 무시 III"	/>
+		<msg	id="meritmastery0344"	cont="PvE 모든 공격력 I"	/>
+		<msg	id="meritmastery0345"	cont="PvE 방어력 I"	/>
+		<msg	id="meritmastery0346"	cont="PvE 관통 무시 I"	/>
+		<msg	id="meritmastery0347"	cont="PvE 모든 스킬 증폭 I 확장"	/>
+		<msg	id="meritmastery0348"	cont="PvE 스킬 증폭 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0349"	cont="PvE 추가 데미지 I 확장"	/>
+		<msg	id="meritmastery0350"	cont="PvE 모든 스킬 증폭 II 확장"	/>
+		<msg	id="meritmastery0351"	cont="PvE 스킬 증폭 저항 무시 II 확장"	/>
+		<msg	id="meritmastery0352"	cont="PvE 추가 데미지 II 확장"	/>
+		<msg	id="meritmastery0353"	cont="PvE 모든 공격력 I 확장"	/>
+		<msg	id="meritmastery0354"	cont="PvE 방어력 I 확장"	/>
+		<msg	id="meritmastery0355"	cont="PvE 관통 무시 I 확장"	/>
+		<msg	id="meritmastery0356"	cont="PvP 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0357"	cont="크리티컬 데미지 저항 I"	/>
+		<msg	id="meritmastery0358"	cont="PvP 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0359"	cont="PvP 크리티컬 데미지 II"	/>
+		<msg	id="meritmastery0360"	cont="크리티컬 데미지 저항 II"	/>
+		<msg	id="meritmastery0361"	cont="PvP 일반 공격 데미지 증가 II"	/>
+		<msg	id="meritmastery0362"	cont="크리티컬 데미지 저항 III"	/>
+		<msg	id="meritmastery0363"	cont="PvP 일반 공격 데미지 증가 III"	/>
+		<msg	id="meritmastery0364"	cont="PvE 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0365"	cont="PvE 크리티컬 데미지 저항 무시 I"	/>
+		<msg	id="meritmastery0366"	cont="PvE 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0367"	cont="PvE 모든 스킬 증폭 I 확장"	/>
+		<msg	id="meritmastery0368"	cont="PvE 스킬 증폭 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0369"	cont="PvE 추가 데미지 I 확장"	/>
+		<msg	id="meritmastery0370"	cont="PvE 모든 스킬 증폭 II 확장"	/>
+		<msg	id="meritmastery0371"	cont="PvE 스킬 증폭 저항 무시 II 확장"	/>
+		<msg	id="meritmastery0372"	cont="PvE 추가 데미지 II 확장"	/>
+		<msg	id="meritmastery0373"	cont="PvE 크리티컬 데미지 I 확장"	/>
+		<msg	id="meritmastery0374"	cont="PvE 크리티컬 데미지 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0375"	cont="PvE 일반 공격 데미지 증가 I 확장"	/>
+		<msg	id="meritmastery0376"	cont="PvP 관통 I"	/>
+		<msg	id="meritmastery0377"	cont="PvP 피해감소 I"	/>
+		<msg	id="meritmastery0378"	cont="PvP 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0379"	cont="PvP 관통 II"	/>
+		<msg	id="meritmastery0380"	cont="PvP 피해감소 II"	/>
+		<msg	id="meritmastery0381"	cont="PvP 관통 무시 상쇄 II"	/>
+		<msg	id="meritmastery0382"	cont="PvP 피해감소 III"	/>
+		<msg	id="meritmastery0383"	cont="PvP 관통 무시 상쇄 III"	/>
+		<msg	id="meritmastery0384"	cont="PvE 관통 I"	/>
+		<msg	id="meritmastery0385"	cont="PvE 피해감소 I"	/>
+		<msg	id="meritmastery0386"	cont="PvE 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0387"	cont="PvE 모든 스킬 증폭 I 확장"	/>
+		<msg	id="meritmastery0388"	cont="PvE 스킬 증폭 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0389"	cont="PvE 추가 데미지 I 확장"	/>
+		<msg	id="meritmastery0390"	cont="PvE 모든 스킬 증폭 II 확장"	/>
+		<msg	id="meritmastery0391"	cont="PvE 스킬 증폭 저항 무시 II 확장"	/>
+		<msg	id="meritmastery0392"	cont="PvE 추가 데미지 II 확장"	/>
+		<msg	id="meritmastery0393"	cont="PvE 관통 I 확장"	/>
+		<msg	id="meritmastery0394"	cont="PvE 피해감소 I 확장"	/>
+		<msg	id="meritmastery0395"	cont="PvE 관통 무시 상쇄 I 확장"	/>
+		<msg	id="meritmastery0396"	cont="PvP 관통 I"	/>
+		<msg	id="meritmastery0397"	cont="PvP 피해감소 I"	/>
+		<msg	id="meritmastery0398"	cont="PvP 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0399"	cont="PvP 관통 II"	/>
+		<msg	id="meritmastery0400"	cont="PvP 피해감소 II"	/>
+		<msg	id="meritmastery0401"	cont="PvP 관통 무시 상쇄 II"	/>
+		<msg	id="meritmastery0402"	cont="PvP 관통 III"	/>
+		<msg	id="meritmastery0403"	cont="PvP 피해감소 III"	/>
+		<msg	id="meritmastery0404"	cont="PvP 관통 무시 상쇄 III"	/>
+		<msg	id="meritmastery0405"	cont="PvE 관통 I"	/>
+		<msg	id="meritmastery0406"	cont="PvE 피해감소 I"	/>
+		<msg	id="meritmastery0407"	cont="PvE 관통 무시 상쇄 I"	/>
+		<msg	id="meritmastery0408"	cont="PvE 관통 II"	/>
+		<msg	id="meritmastery0409"	cont="PvE 피해감소 II"	/>
+		<msg	id="meritmastery0410"	cont="PvE 관통 무시 상쇄 II"	/>
+		<msg	id="meritmastery0411"	cont="스페셜 마스터리 확장"	/>
+		<msg	id="meritmastery0412"	cont="심판 : 결의 확장"	/>
+		<msg	id="meritmastery0413"	cont="심판 : 일격 확장"	/>
+		<msg	id="meritmastery0414"	cont="심판 : 투혼 확장"	/>
+		<msg	id="meritmastery0415"	cont="PvP 모든 공격력 I"	/>
+		<msg	id="meritmastery0416"	cont="PvP 방어력 I"	/>
+		<msg	id="meritmastery0417"	cont="PvP 관통 무시 I"	/>
+		<msg	id="meritmastery0418"	cont="PvP 모든 공격력 II"	/>
+		<msg	id="meritmastery0419"	cont="PvP 방어력 II"	/>
+		<msg	id="meritmastery0420"	cont="PvP 관통 무시 II"	/>
+		<msg	id="meritmastery0421"	cont="PvP 방어력 III"	/>
+		<msg	id="meritmastery0422"	cont="PvP 관통 무시 III"	/>
+		<msg	id="meritmastery0423"	cont="PvE 모든 공격력 I"	/>
+		<msg	id="meritmastery0424"	cont="PvE 방어력 I"	/>
+		<msg	id="meritmastery0425"	cont="PvE 관통 무시 I"	/>
+		<msg	id="meritmastery0426"	cont="PvE 관통 I 확장"	/>
+		<msg	id="meritmastery0427"	cont="PvE 피해감소 I 확장"	/>
+		<msg	id="meritmastery0428"	cont="PvE 관통 무시 상쇄 I 확장"	/>
+		<msg	id="meritmastery0429"	cont="PvE 관통 II 확장"	/>
+		<msg	id="meritmastery0430"	cont="PvE 피해감소 II 확장"	/>
+		<msg	id="meritmastery0431"	cont="PvE 관통 무시 상쇄 II 확장"	/>
+		<msg	id="meritmastery0432"	cont="PvE 모든 공격력 I 확장"	/>
+		<msg	id="meritmastery0433"	cont="PvE 방어력 I 확장"	/>
+		<msg	id="meritmastery0434"	cont="PvE 관통 무시 I 확장"	/>
+		<msg	id="meritmastery0435"	cont="PvP 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0436"	cont="크리티컬 데미지 저항 I"	/>
+		<msg	id="meritmastery0437"	cont="PvP 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0438"	cont="PvP 크리티컬 데미지 II"	/>
+		<msg	id="meritmastery0439"	cont="크리티컬 데미지 저항 II"	/>
+		<msg	id="meritmastery0440"	cont="PvP 일반 공격 데미지 증가 II"	/>
+		<msg	id="meritmastery0441"	cont="크리티컬 데미지 저항 III"	/>
+		<msg	id="meritmastery0442"	cont="PvP 일반 공격 데미지 증가 III"	/>
+		<msg	id="meritmastery0443"	cont="PvE 크리티컬 데미지 I"	/>
+		<msg	id="meritmastery0444"	cont="PvE 크리티컬 데미지 저항 무시 I"	/>
+		<msg	id="meritmastery0445"	cont="PvE 일반 공격 데미지 증가 I"	/>
+		<msg	id="meritmastery0446"	cont="PvE 관통 I 확장"	/>
+		<msg	id="meritmastery0447"	cont="PvE 피해감소 I 확장"	/>
+		<msg	id="meritmastery0448"	cont="PvE 관통 무시 상쇄 I 확장"	/>
+		<msg	id="meritmastery0449"	cont="PvE 관통 II 확장"	/>
+		<msg	id="meritmastery0450"	cont="PvE 피해감소 II 확장"	/>
+		<msg	id="meritmastery0451"	cont="PvE 관통 무시 상쇄 II 확장"	/>
+		<msg	id="meritmastery0452"	cont="PvE 크리티컬 데미지 I 확장"	/>
+		<msg	id="meritmastery0453"	cont="PvE 크리티컬 데미지 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0454"	cont="PvE 일반 공격 데미지 증가 I 확장"	/>
+		<msg	id="meritmastery0455"	cont="PvP 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0456"	cont="스킬 증폭 저항 I"	/>
+		<msg	id="meritmastery0457"	cont="PvP 추가 데미지 I"	/>
+		<msg	id="meritmastery0458"	cont="PvP 모든 스킬 증폭 II"	/>
+		<msg	id="meritmastery0459"	cont="스킬 증폭 저항 II"	/>
+		<msg	id="meritmastery0460"	cont="PvP 추가 데미지 II"	/>
+		<msg	id="meritmastery0461"	cont="스킬 증폭 저항 III"	/>
+		<msg	id="meritmastery0462"	cont="PvP 추가 데미지 III"	/>
+		<msg	id="meritmastery0463"	cont="PvE 모든 스킬 증폭 I"	/>
+		<msg	id="meritmastery0464"	cont="PvE 스킬 증폭 저항 무시 I"	/>
+		<msg	id="meritmastery0465"	cont="PvE 추가 데미지 I"	/>
+		<msg	id="meritmastery0466"	cont="PvE 관통 I 확장"	/>
+		<msg	id="meritmastery0467"	cont="PvE 피해감소 I 확장"	/>
+		<msg	id="meritmastery0468"	cont="PvE 관통 무시 상쇄 I 확장"	/>
+		<msg	id="meritmastery0469"	cont="PvE 관통 II 확장"	/>
+		<msg	id="meritmastery0470"	cont="PvE 피해감소 II 확장"	/>
+		<msg	id="meritmastery0471"	cont="PvE 관통 무시 상쇄 II 확장"	/>
+		<msg	id="meritmastery0472"	cont="PvE 모든 스킬 증폭 I 확장"	/>
+		<msg	id="meritmastery0473"	cont="PvE 스킬 증폭 저항 무시 I 확장"	/>
+		<msg	id="meritmastery0474"	cont="PvE 추가 데미지 I 확장"	/>
+	</mastery_name_msg>
+	<mastery_desc_msg>
+		<msg	id="masterydesc0001"	cont="미션전쟁 내에서 캐릭터의 $34#적중$을 상승시킵니다._$34#적중 확장 I$를 배우면 던전이나 필드에서도 적중이 상승합니다._"	/>
+		<msg	id="masterydesc0002"	cont="미션전쟁 내에서 캐릭터의 $34#공격률$을 상승시킵니다._$34#공격률 확장 I$를 배우면 던전이나 필드에서도 공격률이 상승합니다._"	/>
+		<msg	id="masterydesc0003"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#회피를 무시$하고 공격합니다."	/>
+		<msg	id="masterydesc0004"	cont="미션전쟁 내에서 캐릭터의 $34#공격률$을 상승시킵니다._만약 $34#공격률 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#공격률 확장 II$를 배우면 던전이나 필드에서도 공격률이 상승합니다._"	/>
+		<msg	id="masterydesc0005"	cont="미션전쟁 내에서 캐릭터의 $34#적중$을 상승시킵니다._만약 $34#적중 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#적중 확장 II$를 배우면 던전이나 필드에서도 공격률이 상승합니다._"	/>
+		<msg	id="masterydesc0006"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#회피를 무시$하고 공격합니다._만약 $34#회피 무시 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0007"	cont="미션전쟁 내에서 캐릭터의 $34#공격률$을 상승시킵니다._만약 $34#공격률 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#공격률 확장 III$를 배우면 던전이나 필드에서도 공격률이 상승합니다._"	/>
+		<msg	id="masterydesc0008"	cont="미션전쟁 내에서 캐릭터의 $34#적중$을 상승시킵니다._만약 $34#적중 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#적중 확장 III$를 배우면 던전이나 필드에서도 적중이 상승합니다._"	/>
+		<msg	id="masterydesc0009"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#회피를 무시$하고 공격합니다._만약 $34#회피 무시 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0010"	cont="공격률 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0011"	cont="적중 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0012"	cont="공격률 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0013"	cont="적중 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0014"	cont="공격률 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0015"	cont="적중 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0016"	cont="미션전쟁 내에서 캐릭터의 $34#회피$를 상승시킵니다._$34#회피 확장 I$를 배우면 던전이나 필드에서도 회피가 상승합니다._"	/>
+		<msg	id="masterydesc0017"	cont="미션전쟁 내에서 캐릭터의 $34#방어율$을 상승시킵니다._$34#방어율 확장 I$를 배우면 던전이나 필드에서도 방어율이 상승합니다._"	/>
+		<msg	id="masterydesc0018"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#적중을 무시$하고 공격 받습니다."	/>
+		<msg	id="masterydesc0019"	cont="미션전쟁 내에서 캐릭터의 $34#방어율$을 상승시킵니다._만약 $34#방어율 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#방어율 확장 II$를 배우면 던전이나 필드에서도 방어율이 상승합니다._"	/>
+		<msg	id="masterydesc0020"	cont="미션전쟁 내에서 캐릭터의 $34#회피$를 상승시킵니다._만약 $34#회피 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#회피 확장 II$를 배우면 던전이나 필드에서도 회피가 상승합니다._"	/>
+		<msg	id="masterydesc0021"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#적중을 무시$하고 공격 받습니다._만약 $34#적중 무시 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0022"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#회피 무시를 상쇄$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0023"	cont="미션전쟁 내에서 캐릭터의 $34#방어율$을 상승시킵니다._만약 $34#방어율 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#방어율 확장 III$를 배우면 던전이나 필드에서도 방어율이 상승합니다._"	/>
+		<msg	id="masterydesc0024"	cont="미션전쟁 내에서 캐릭터의 $34#회피$를 상승시킵니다._만약 $34#회피 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#회피 확장 III$를 배우면 던전이나 필드에서도 회피가 상승합니다._"	/>
+		<msg	id="masterydesc0025"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#적중을 무시$하고 공격 받습니다._만약 $34#적중 무시 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0026"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#회피 무시를 상쇄$하고 공격 받습니다._만약 $34#회피 무시 상쇄 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0027"	cont="방어율 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0028"	cont="회피 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0029"	cont="방어율 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0030"	cont="회피 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0031"	cont="방어율 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0032"	cont="회피 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0033"	cont="미션전쟁 내에서 캐릭터의 $34#관통$을 상승시킵니다._$34#관통 확장 I$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0034"	cont="미션전쟁 내에서 캐릭터의 $34#추가 데미지$를 상승시킵니다._$34#추가 데미지 확장 I$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0035"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#피해감소를 무시$하고 공격합니다."	/>
+		<msg	id="masterydesc0036"	cont="미션전쟁 내에서 캐릭터의 $34#관통$을 상승시킵니다._만약 $34#관통 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#관통 확장 II$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0037"	cont="미션전쟁 내에서 캐릭터의 $34#추가 데미지$를 상승시킵니다._만약 $34#추가 데미지 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#추가 데미지 확장 II$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0038"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#피해감소를 무시$하고 공격합니다._만약 $34#피해감소 무시 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0039"	cont="미션전쟁 내에서 캐릭터의 $34#관통$을 상승시킵니다._만약 $34#관통 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#관통 확장 III$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0040"	cont="미션전쟁 내에서 캐릭터의 $34#추가 데미지$를 상승시킵니다._만약 $34#추가 데미지 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#추가 데미지 확장 III$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0041"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#피해감소를 무시$하고 공격합니다._만약 $34#피해감소 무시 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0042"	cont="추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0043"	cont="관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0044"	cont="추가 데미지 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0045"	cont="관통 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0046"	cont="추가 데미지 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0047"	cont="관통 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0048"	cont="미션전쟁 내에서 캐릭터의 $34#피해감소$를 상승시킵니다._$34#피해감소 확장 I$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0049"	cont="미션전쟁 내에서 캐릭터의 $34#방어$를 상승시킵니다._$34#방어 확장 I$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0050"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0051"	cont="미션전쟁 내에서 캐릭터의 $34#방어$를 상승시킵니다._만약 $34#방어 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#방어 확장 II$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0052"	cont="미션전쟁 내에서 캐릭터의 $34#피해감소$를 상승시킵니다._만약 $34#피해감소 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#피해감소 확장 II$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0053"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#관통을 무시$하고 공격 받습니다._만약 $34#관통 무시 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0054"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#피해감소 무시를 상쇄$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0055"	cont="미션전쟁 내에서 캐릭터의 $34#방어$를 상승시킵니다._만약 $34#방어 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#방어 확장 III$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0056"	cont="미션전쟁 내에서 캐릭터의 $34#피해감소$를 상승시킵니다._만약 $34#피해감소 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다._$34#피해감소 확장 III$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0057"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#관통을 무시$하고 공격 받습니다._만약 $34#관통 무시 II$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0058"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#피해감소 무시를 상쇄$하고 공격 받습니다._만약 $34#피해감소 무시 상쇄 I$이 최대 레벨일 경우 능력치가 추가로 상승합니다."	/>
+		<msg	id="masterydesc0059"	cont="방어 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0060"	cont="피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0061"	cont="방어 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0062"	cont="피해감소 II를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0063"	cont="방어 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0064"	cont="피해감소 III를 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0065"	cont="미션전쟁 내에서 캐릭터의 $34#모든 공격력$을 상승시킵니다._$34#모든 공격력 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0066"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#피해감소를 무시$하고 공격합니다._$34#피해감소 무시 확장 I$를 배우면 던전이나 필드에서도 피해감소 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0067"	cont="미션전쟁 내에서 캐릭터의 $34#모든 공격력$을 상승시킵니다._$34#모든 공격력 확장 II$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0068"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#피해감소를 무시$하고 공격합니다._$34#피해감소 무시 확장 II$를 배우면 던전이나 필드에서도 피해감소 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0069"	cont="미션전쟁 내에서 캐릭터의 $34#모든 공격력$을 상승시킵니다._$34#모든 공격력 확장 III$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0070"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#피해감소를 무시$하고 공격합니다._$34#피해감소 무시 확장 III$를 배우면 던전이나 필드에서도 피해감소 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0071"	cont="미션전쟁 내에서 캐릭터의 $34#모든 스킬 증폭$을 상승시킵니다._$34#모든 스킬 증폭 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0072"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지$를 상승시킵니다._$34#크리티컬 데미지 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0073"	cont="미션전쟁 내에서 캐릭터의 $34#관통$을 상승시킵니다._$34#관통 확장 I$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0074"	cont="모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0075"	cont="피해감소 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0076"	cont="모든 공격력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0077"	cont="피해감소 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0078"	cont="모든 공격력 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0079"	cont="피해감소 무시 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0080"	cont="모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0081"	cont="크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0082"	cont="관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0083"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0084"	cont="미션전쟁 내에서 캐릭터의 $34#HP$를 상승시킵니다._$34#HP 확장 I$를 배우면 던전이나 필드에서도 HP가 상승합니다._"	/>
+		<msg	id="masterydesc0085"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#관통을 무시$하고 공격 받습니다._$34#관통 무시 확장 I$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0086"	cont="미션전쟁 내에서 캐릭터의 $34#HP$를 상승시킵니다._$34#HP 확장 II$를 배우면 던전이나 필드에서도 HP가 상승합니다._"	/>
+		<msg	id="masterydesc0087"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#관통을 무시$하고 공격 받습니다._$34#관통 무시 확장 II$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0088"	cont="미션전쟁 내에서 캐릭터의 $34#HP$를 상승시킵니다._$34#HP 확장 III$를 배우면 던전이나 필드에서도 HP가 상승합니다._"	/>
+		<msg	id="masterydesc0089"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#관통을 무시$하고 공격 받습니다._$34#관통 무시 확장 III$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0090"	cont="미션전쟁 내에서 캐릭터의 $34#방어력$을 상승시킵니다._$34#방어력 확장 I$를 배우면 던전이나 필드에서도 방어력이 상승합니다._"	/>
+		<msg	id="masterydesc0091"	cont="미션전쟁 내에서 캐릭터의 $34#방어력$을 상승시킵니다._$34#방어력 확장 II$를 배우면 던전이나 필드에서도 방어력이 상승합니다._"	/>
+		<msg	id="masterydesc0092"	cont="미션전쟁 내에서 캐릭터의 $34#HP 흡수상한$을 상승시킵니다._$34#HP 흡수상항 확장 I$를 배우면 던전이나 필드에서도 HP 흡수상한이 상승합니다._"	/>
+		<msg	id="masterydesc0093"	cont="HP I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0094"	cont="관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0095"	cont="HP II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0096"	cont="관통 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0097"	cont="HP III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0098"	cont="관통 무시 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0099"	cont="방어 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0100"	cont="방어 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0101"	cont="HP 흡수상한 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0102"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0103"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#관통 무시를 상쇄$하고 공격합니다._$34#관통 무시 상쇄 확장 I$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0104"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#크리티컬 데미지 저항을 무시$하고 공격합니다._$34#크리티컬 데미지 저항 무시 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0105"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#스킬 증폭 저항을 무시$하고 공격합니다._$34#스킬 증폭 저항 무시 확장 I$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0106"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#관통 무시를 상쇄$하고 공격합니다._$34#관통 무시 상쇄 확장 II$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0107"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#크리티컬 데미지 저항을 무시$하고 공격합니다._$34#크리티컬 데미지 저항 무시 확장 II$를 배우면 던전이나 필드에서도 크리티컬 데미지 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0108"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#스킬 증폭 저항을 무시$하고 공격합니다._$34#스킬 증폭 저항 무시 확장 II$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0109"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#관통 무시를 상쇄$하고 공격합니다._$34#관통 무시 상쇄 확장 III$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0110"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#크리티컬 데미지 저항을 무시$하고 공격합니다._"	/>
+		<msg	id="masterydesc0111"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#스킬 증폭 저항을 무시$하고 공격합니다._"	/>
+		<msg	id="masterydesc0112"	cont="관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0113"	cont="관통 무시 상쇄 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0114"	cont="관통 무시 상쇄 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0115"	cont="크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0116"	cont="크리티컬 데미지 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0117"	cont="스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0118"	cont="스킬 증폭 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0119"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0120"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#피해감소 무시를 상쇄$하고 공격받습니다.$34#피해감소 무시 상쇄 확장 I$를 배우면 던전이나 필드에서도 피해감소 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0121"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0122"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0123"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#피해감소 무시를 상쇄$하고 공격받습니다.$34#피해감소 무시 상쇄 확장 II$를 배우면 던전이나 필드에서도 피해감소 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0124"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0125"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0126"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#피해감소 무시를 상쇄$하고 공격받습니다.$34#피해감소 무시 상쇄 확장 III$를 배우면 던전이나 필드에서도 피해감소 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0127"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0128"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0129"	cont="미션전쟁 내에서 캐릭터의 $34#피해감소$를 상승시킵니다._$34#피해감소 확장 I$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0130"	cont="미션전쟁 내에서 캐릭터의 $34#피해감소$를 상승시킵니다._$34#피해감소 확장 II$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0131"	cont="피해감소 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0132"	cont="피해감소 무시 상쇄 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0133"	cont="피해감소 무시 상쇄 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0134"	cont="피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0135"	cont="피해감소 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0136"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0137"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#회피를 무시$하고 공격합니다._$34#회피 무시 확장 I$를 배우면 던전이나 필드에서도 회피 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0138"	cont="미션전쟁 내에서 캐릭터의 $34#공격률$을 상승시킵니다._$34#공격률 확장 I$를 배우면 던전이나 필드에서도 공격률이 상승합니다._"	/>
+		<msg	id="masterydesc0139"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#회피를 무시$하고 공격합니다._$34#회피 무시 확장 II$를 배우면 던전이나 필드에서도 회피 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0140"	cont="미션전쟁 내에서 캐릭터의 $34#공격률$을 상승시킵니다._$34#공격률 확장 II$를 배우면 던전이나 필드에서도 공격률이 상승합니다._"	/>
+		<msg	id="masterydesc0141"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#회피를 무시$하고 공격합니다._$34#회피 무시 확장 III$를 배우면 던전이나 필드에서도 회피 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0142"	cont="회피 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0143"	cont="회피 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0144"	cont="회피 무시 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0145"	cont="공격률 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0146"	cont="공격률 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0147"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0148"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#적중을 무시$하고 공격 받습니다._$34#적중 무시 확장 I$를 배우면 던전이나 필드에서도 적중 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0149"	cont="미션전쟁 내에서 캐릭터의 $34#방어율$을 상승시킵니다._$34#방어율 확장 I$를 배우면 던전이나 필드에서도 방어율이 상승합니다._"	/>
+		<msg	id="masterydesc0150"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#적중을 무시$하고 공격 받습니다._$34#적중 무시 확장 II$를 배우면 던전이나 필드에서도 적중 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0151"	cont="미션전쟁 내에서 캐릭터의 $34#방어율$을 상승시킵니다._$34#방어율 확장 II$를 배우면 던전이나 필드에서도 방어율이 상승합니다._"	/>
+		<msg	id="masterydesc0152"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#적중을 무시$하고 공격 받습니다._$34#적중 무시 확장 III$를 배우면 던전이나 필드에서도 적중 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0153"	cont="적중 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0154"	cont="적중 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0155"	cont="적중 무시 III을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0156"	cont="방어율 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0157"	cont="방어율 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0158"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0159"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0160"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0161"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0162"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0163"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0164"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0165"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0166"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0167"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0168"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 공격력$을 상승시킵니다._$34#PvE 모든 공격력 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0169"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 방어력$을 상승시킵니다._$34#PvE 방어력 확장 I$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0170"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvE 관통을 무시$하고 공격 받습니다._$34#PvE 관통 무시 확장 I$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0171"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 공격력$을 상승시킵니다._$34#PvE 모든 공격력 확장 II$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0172"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 방어력$을 상승시킵니다._$34#PvE 방어 확장 II$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0173"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvE 관통을 무시$하고 공격 받습니다._$34#PvE 관통 무시 확장 II$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0174"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0175"	cont="결의 : 일격 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0176"	cont="결의 : 투혼 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0177"	cont="결의 : 심판 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0178"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0179"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0180"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0181"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0182"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0183"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0184"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0185"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0186"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 크리티컬 데미지$를 상승시킵니다._$34#PvE 크리티컬 데미지 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0187"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 크리티컬 데미지 저항을 무시$하고 공격합니다._$34#PvE 크리티컬 데미지 저항 무시 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0188"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 일반 공격 데미지$를 상승시킵니다._$34#PvE 일반 공격 데미지 확장 I$를 배우면 던전이나 필드에서도 일반 공격 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0189"	cont="PvE 모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0190"	cont="PvE 방어력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0191"	cont="PvE 관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0192"	cont="PvE 모든 공격력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0193"	cont="PvE 방어력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0194"	cont="PvE 관통 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0195"	cont="PvE 크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0196"	cont="PvE 크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0197"	cont="PvE 일반 공격 데미지 증가 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0198"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0199"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0200"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0201"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0202"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0203"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0204"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0205"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0206"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 스킬 증폭$을 상승시킵니다._$34#PvE 모든 스킬 증폭 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0207"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 스킬 증폭 저항을 무시$하고 공격합니다._$34#PvE 스킬 증폭 저항 무시 확장 I$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0208"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 추가 데미지$를 상승시킵니다._$34#PvE 추가 데미지 확장 I$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0209"	cont="PvE 모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0210"	cont="PvE 방어력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0211"	cont="PvE 관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0212"	cont="PvE 모든 공격력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0213"	cont="PvE 방어력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0214"	cont="PvE 관통 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0215"	cont="PvE 모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0216"	cont="PvE 스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0217"	cont="PvE 추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0218"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0219"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0220"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0221"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0222"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0223"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0224"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0225"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0226"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 관통$을 상승시킵니다._$34#PvE 관통 확장 I$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0227"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 피해감소$를 상승시킵니다._$34#PvE 피해감소 확장 I$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0228"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 관통 무시를 상쇄$하고 공격합니다._$34#PvE 관통 무시 상쇄 확장 I$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0229"	cont="PvE 모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0230"	cont="PvE 방어력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0231"	cont="PvE 관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0232"	cont="PvE 모든 공격력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0233"	cont="PvE 방어력 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0234"	cont="PvE 관통 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0235"	cont="PvE 관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0236"	cont="PvE 피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0237"	cont="PvE 관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0238"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0239"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0240"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0241"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0242"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0243"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0244"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0245"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0246"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0247"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 크리티컬 데미지$를 상승시킵니다._$34#PvE 크리티컬 데미지 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0248"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 크리티컬 데미지 저항을 무시$하고 공격합니다._$34#PvE 크리티컬 데미지 저항 무시 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0249"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 일반 공격 데미지$를 상승시킵니다._$34#PvE 일반 공격 데미지 확장 I$를 배우면 던전이나 필드에서도 일반 공격 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0250"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 크리티컬 데미지$를 상승시킵니다._$34#PvE 크리티컬 데미지 확장 II$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0251"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 크리티컬 데미지 저항을 무시$하고 공격합니다._$34#PvE 크리티컬 데미지 저항 무시 확장 II$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0252"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 일반 공격 데미지$를 상승시킵니다._$34#PvE 일반 공격 데미지 확장 II$를 배우면 던전이나 필드에서도 일반 공격 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0253"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0254"	cont="일격 : 결의 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0255"	cont="일격 : 투혼 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0256"	cont="결의 : 심판 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0257"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0258"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0259"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0260"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0261"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0262"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0263"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0264"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0265"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 공격력$을 상승시킵니다._$34#PvE 모든 공격력 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0266"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 방어력$을 상승시킵니다._$34#PvE 방어력 확장 I$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0267"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvE 관통을 무시$하고 공격 받습니다._$34#PvE 관통 무시 확장 I$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0268"	cont="PvE 크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0269"	cont="PvE 크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0270"	cont="PvE 일반 공격 데미지 증가 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0271"	cont="PvE 크리티컬 데미지 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0272"	cont="PvE 크리티컬 데미지 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0273"	cont="PvE 일반 공격 데미지 증가 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0274"	cont="PvE 모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0275"	cont="PvE 방어력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0276"	cont="PvE 관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0277"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0278"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0279"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0280"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0281"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0282"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0283"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0284"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0285"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 스킬 증폭$을 상승시킵니다._$34#PvE 모든 스킬 증폭 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0286"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 스킬 증폭 저항을 무시$하고 공격합니다._$34#PvE 스킬 증폭 저항 무시 확장 I$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0287"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 추가 데미지$를 상승시킵니다._$34#PvE 추가 데미지 확장 I$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0288"	cont="PvE 크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0289"	cont="PvE 크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0290"	cont="PvE 일반 공격 데미지 증가 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0291"	cont="PvE 크리티컬 데미지 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0292"	cont="PvE 크리티컬 데미지 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0293"	cont="PvE 일반 공격 데미지 증가 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0294"	cont="PvE 모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0295"	cont="PvE 스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0296"	cont="PvE 추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0297"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0298"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0299"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0300"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0301"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0302"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0303"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0304"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0305"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 관통$을 상승시킵니다._$34#PvE 관통 확장 I$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0306"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 피해감소$를 상승시킵니다._$34#PvE 피해감소 확장 I$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0307"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 관통 무시를 상쇄$하고 공격합니다._$34#PvE 관통 무시 상쇄 확장 I$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0308"	cont="PvE 크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0309"	cont="PvE 크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0310"	cont="PvE 일반 공격 데미지 증가 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0311"	cont="PvE 크리티컬 데미지 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0312"	cont="PvE 크리티컬 데미지 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0313"	cont="PvE 일반 공격 데미지 증가 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0314"	cont="PvE 관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0315"	cont="PvE 피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0316"	cont="PvE 관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0317"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0318"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0319"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0320"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0321"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0322"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0323"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0324"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0325"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0326"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 스킬 증폭$을 상승시킵니다._$34#PvE 모든 스킬 증폭 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0327"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 스킬 증폭 저항을 무시$하고 공격합니다._$34#PvE 스킬 증폭 저항 무시 확장 I$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0328"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 추가 데미지$를 상승시킵니다._$34#PvE 추가 데미지 확장 I$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0329"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 스킬 증폭$을 상승시킵니다._$34#PvE 모든 스킬 증폭 확장 II$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0330"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 스킬 증폭 저항을 무시$하고 공격합니다._$34#PvE 스킬 증폭 저항 무시 확장 II$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0331"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 추가 데미지$를 상승시킵니다._$34#PvE 추가 데미지 확장 II$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0332"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0333"	cont="투혼 : 결의 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0334"	cont="투혼 : 일격 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0335"	cont="투혼 : 심판 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0336"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0337"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0338"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0339"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0340"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0341"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0342"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0343"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0344"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 공격력$을 상승시킵니다._$34#PvE 모든 공격력 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0345"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 방어력$을 상승시킵니다._$34#PvE 방어력 확장 I$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0346"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvE 관통을 무시$하고 공격 받습니다._$34#PvE 관통 무시 확장 I$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0347"	cont="PvE 모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0348"	cont="PvE 스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0349"	cont="PvE 추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0350"	cont="PvE 모든 스킬 증폭 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0351"	cont="PvE 스킬 증폭 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0352"	cont="PvE 추가 데미지 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0353"	cont="PvE 모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0354"	cont="PvE 방어력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0355"	cont="PvE 관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0356"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0357"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0358"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0359"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0360"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0361"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0362"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0363"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0364"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 크리티컬 데미지$를 상승시킵니다._$34#PvE 크리티컬 데미지 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0365"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 크리티컬 데미지 저항을 무시$하고 공격합니다._$34#PvE 크리티컬 데미지 저항 무시 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0366"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 일반 공격 데미지$를 상승시킵니다._$34#PvE 일반 공격 데미지 확장 I$를 배우면 던전이나 필드에서도 일반 공격 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0367"	cont="PvE 모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0368"	cont="PvE 스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0369"	cont="PvE 추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0370"	cont="PvE 모든 스킬 증폭 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0371"	cont="PvE 스킬 증폭 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0372"	cont="PvE 추가 데미지 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0373"	cont="PvE 크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0374"	cont="PvE 크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0375"	cont="PvE 일반 공격 데미지 증가 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0376"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0377"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0378"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0379"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0380"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0381"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0382"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0383"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0384"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 관통$을 상승시킵니다._$34#PvE 관통 확장 I$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0385"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 피해감소$를 상승시킵니다._$34#PvE 피해감소 확장 I$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0386"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 관통 무시를 상쇄$하고 공격합니다._$34#PvE 관통 무시 상쇄 확장 I$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0387"	cont="PvE 모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0388"	cont="PvE 스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0389"	cont="PvE 추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0390"	cont="PvE 모든 스킬 증폭 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0391"	cont="PvE 스킬 증폭 저항 무시 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0392"	cont="PvE 추가 데미지 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0393"	cont="PvE 관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0394"	cont="PvE 피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0395"	cont="PvE 관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0396"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0397"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0398"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0399"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0400"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0401"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0402"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 관통$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0403"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 피해감소$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0404"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvP 관통 무시를 상쇄$하고 공격합니다._"	/>
+		<msg	id="masterydesc0405"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 관통$을 상승시킵니다._$34#PvE 관통 확장 I$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0406"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 피해감소$를 상승시킵니다._$34#PvE 피해감소 확장 I$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0407"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 관통 무시를 상쇄$하고 공격합니다._$34#PvE 관통 무시 상쇄 확장 I$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0408"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 관통$을 상승시킵니다._$34#PvE 관통 확장 II$를 배우면 던전이나 필드에서도 관통이 상승합니다._"	/>
+		<msg	id="masterydesc0409"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 피해감소$를 상승시킵니다._$34#PvE 피해감소 확장 II$를 배우면 던전이나 필드에서도 피해감소가 상승합니다._"	/>
+		<msg	id="masterydesc0410"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 관통 무시를 상쇄$하고 공격합니다._$34#PvE 관통 무시 상쇄 확장 II$를 배우면 던전이나 필드에서도 관통 무시 상쇄가 상승합니다._"	/>
+		<msg	id="masterydesc0411"	cont="스페셜 마스터리를 활성화합니다.$34#스페셜 마스터리의 능력치는 던전과 필드에서도 적용$됩니다._"	/>
+		<msg	id="masterydesc0412"	cont="심판 : 결의 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0413"	cont="심판 : 일격 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0414"	cont="심판 : 투혼 카테고리를 활성화합니다._"	/>
+		<msg	id="masterydesc0415"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0416"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0417"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0418"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 공격력$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0419"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0420"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0421"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 방어$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0422"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvP 관통을 무시$하고 공격 받습니다._"	/>
+		<msg	id="masterydesc0423"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 공격력$을 상승시킵니다._$34#PvE 모든 공격력 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0424"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 방어력$을 상승시킵니다._$34#PvE 방어력 확장 I$를 배우면 던전이나 필드에서도 방어가 상승합니다._"	/>
+		<msg	id="masterydesc0425"	cont="미션전쟁 내에서 나를 공격하는 상대의 $34#PvE 관통을 무시$하고 공격 받습니다._$34#PvE 관통 무시 확장 I$를 배우면 던전이나 필드에서도 관통 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0426"	cont="PvE 관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0427"	cont="PvE 피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0428"	cont="PvE 관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0429"	cont="PvE 관통 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0430"	cont="PvE 피해감소 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0431"	cont="PvE 관통 무시 상쇄 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0432"	cont="PvE 모든 공격력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0433"	cont="PvE 방어력 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0434"	cont="PvE 관통 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0435"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0436"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0437"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0438"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 크리티컬 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0439"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0440"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0441"	cont="미션전쟁 내에서 캐릭터의 $34#크리티컬 데미지 저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0442"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 일반 공격 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0443"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 크리티컬 데미지$를 상승시킵니다._$34#PvE 크리티컬 데미지 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0444"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 크리티컬 데미지 저항을 무시$하고 공격합니다._$34#PvE 크리티컬 데미지 저항 무시 확장 I$를 배우면 던전이나 필드에서도 크리티컬 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0445"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 일반 공격 데미지$를 상승시킵니다._$34#PvE 일반 공격 데미지 확장 I$를 배우면 던전이나 필드에서도 일반 공격 데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0446"	cont="PvE 관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0447"	cont="PvE 피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0448"	cont="PvE 관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0449"	cont="PvE 관통 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0450"	cont="PvE 피해감소 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0451"	cont="PvE 관통 무시 상쇄 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0452"	cont="PvE 크리티컬 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0453"	cont="PvE 크리티컬 데미지 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0454"	cont="PvE 일반 공격 데미지 증가 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0455"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0456"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0457"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0458"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 모든 스킬 증폭$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0459"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0460"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0461"	cont="미션전쟁 내에서 캐릭터의 $34#스킬 증폭저항$을 상승시킵니다._"	/>
+		<msg	id="masterydesc0462"	cont="미션전쟁 내에서 캐릭터의 $34#PvP 추가 데미지$를 상승시킵니다._"	/>
+		<msg	id="masterydesc0463"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 모든 스킬 증폭$을 상승시킵니다._$34#PvE 모든 스킬 증폭 확장 I$를 배우면 던전이나 필드에서도 모든 공격력이 상승합니다._"	/>
+		<msg	id="masterydesc0464"	cont="미션전쟁 내에서 내가 공격하는 대상의 $34#PvE 스킬 증폭 저항을 무시$하고 공격합니다._$34#PvE 스킬 증폭 저항 무시 확장 I$를 배우면 던전이나 필드에서도 스킬 증폭 저항 무시가 상승합니다._"	/>
+		<msg	id="masterydesc0465"	cont="미션전쟁 내에서 캐릭터의 $34#PvE 추가 데미지$를 상승시킵니다._$34#PvE 추가 데미지 확장 I$를 배우면 던전이나 필드에서도 추가데미지가 상승합니다._"	/>
+		<msg	id="masterydesc0466"	cont="PvE 관통 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0467"	cont="PvE 피해감소 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0468"	cont="PvE 관통 무시 상쇄 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0469"	cont="PvE 관통 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0470"	cont="PvE 피해감소 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0471"	cont="PvE 관통 무시 상쇄 II을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0472"	cont="PvE 모든 스킬 증폭 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0473"	cont="PvE 스킬 증폭 저항 무시 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+		<msg	id="masterydesc0474"	cont="PvE 추가 데미지 I을 $34#던전과 필드에서도 적용$합니다._"	/>
+	</mastery_desc_msg>
+</meritsystem_message>

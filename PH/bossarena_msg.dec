@@ -1,0 +1,6 @@
+<cabal_BossArena_message>
+	<BossArena_msg>
+		<msg id="name_0000" cont="Baldus" />
+		<msg id="tooltip_0000" cont="$32#Death Knight Baldus$\Feature: Offensive, Use insect bomb\Time Limit: 2min" />
+	</BossArena_msg>
+</cabal_BossArena_message>

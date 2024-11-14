@@ -1,0 +1,63 @@
+
+<forcewing_message>
+	<wing_skill_msg>
+		<msg	slot="0"	cont="포스 윙 : 노멀"/>
+		<msg	slot="1"	cont="포스 윙 : 레어"/>
+		<msg	slot="2"	cont="포스 윙 : 유니크"/>
+		<msg	slot="3"	cont="포스 윙 : 에픽"/>
+		<msg	slot="4"	cont="포스 윙 : 마스터"/>
+		<msg	slot="5"	cont="포스 윙 : 레전더리"/>
+	 </wing_skill_msg > 
+	<wing_training_msg>
+		<msg	t_slot="0"	cont="1번 훈련"/>
+		<msg	t_slot="1"	cont="2번 훈련"/>
+		<msg	t_slot="2"	cont="3번 훈련"/>
+		<msg	t_slot="3"	cont="4번 훈련"/>
+		<msg	t_slot="4"	cont="5번 훈련"/>
+		<msg	t_slot="5"	cont="6번 훈련"/>
+		<msg	t_slot="6"	cont="7번 훈련"/>
+		<msg	t_slot="7"	cont="8번 훈련"/>
+		<msg	t_slot="8"	cont="9번 훈련"/>
+		<msg	t_slot="9"	cont="10번 훈련"/>
+		<msg	t_slot="10"	cont="11번 훈련"/>
+		<msg	t_slot="11"	cont="12번 훈련"/>
+	 </wing_training_msg > 
+	<random_grade_msg>
+		<msg	grade="1"	cont="1등급"/>
+		<msg	grade="2"	cont="2등급"/>
+		<msg	grade="3"	cont="3등급"/>
+		<msg	grade="4"	cont="4등급"/>
+		<msg	grade="5"	cont="5등급"/>
+		<msg	grade="6"	cont="6등급"/>
+		<msg	grade="1"	cont="1등급"/>
+		<msg	grade="2"	cont="2등급"/>
+		<msg	grade="3"	cont="3등급"/>
+		<msg	grade="4"	cont="4등급"/>
+		<msg	grade="5"	cont="5등급"/>
+		<msg	grade="6"	cont="6등급"/>
+		<msg	grade="1"	cont="1등급"/>
+		<msg	grade="2"	cont="2등급"/>
+		<msg	grade="3"	cont="3등급"/>
+		<msg	grade="4"	cont="4등급"/>
+		<msg	grade="5"	cont="5등급"/>
+		<msg	grade="6"	cont="6등급"/>
+		<msg	grade="1"	cont="1등급"/>
+		<msg	grade="2"	cont="2등급"/>
+		<msg	grade="3"	cont="3등급"/>
+		<msg	grade="4"	cont="4등급"/>
+		<msg	grade="5"	cont="5등급"/>
+		<msg	grade="6"	cont="6등급"/>
+		<msg	grade="1"	cont="1등급"/>
+		<msg	grade="2"	cont="2등급"/>
+		<msg	grade="3"	cont="3등급"/>
+		<msg	grade="4"	cont="4등급"/>
+		<msg	grade="5"	cont="5등급"/>
+		<msg	grade="6"	cont="6등급"/>
+		<msg	grade="1"	cont="1등급"/>
+		<msg	grade="2"	cont="2등급"/>
+		<msg	grade="3"	cont="3등급"/>
+		<msg	grade="4"	cont="4등급"/>
+		<msg	grade="5"	cont="5등급"/>
+		<msg	grade="6"	cont="6등급"/>
+	 </random_grade_msg > 
+</forcewing_message>

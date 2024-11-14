@@ -1,0 +1,94 @@
+
+<NPCShop_message>
+		<Shop	Pool_ID="45"	>
+			<msg	id="0"	name="발두스"	tooltip="발두스의 토큰"	/>
+		</Shop>
+		<Shop	Pool_ID="46"	>
+			<msg	id="0"	name="코어"	tooltip="악마의 증표 (상급)"	/>
+			<msg	id="1"	name="재료"	tooltip="악마의 증표 (상급)"	/>
+		</Shop>
+		<Shop	Pool_ID="47"	>
+			<msg	id="0"	name="코어"	tooltip="악마의 증표 (최상급)"	/>
+			<msg	id="1"	name="재료"	tooltip="악마의 증표 (최상급)"	/>
+		</Shop>
+		<Shop	Pool_ID="50"	>
+			<msg	id="0"	name="입장권"	tooltip="스페셜 교환권"	/>
+			<msg	id="1"	name="명예"	tooltip="스페셜 교환권"	/>
+			<msg	id="2"	name="신화"	tooltip="스페셜 교환권"	/>
+			<msg	id="3"	name="초월"	tooltip="스페셜 교환권"	/>
+			<msg	id="4"	name="단련"	tooltip="스페셜 교환권"	/>
+			<msg	id="5"	name="기타"	tooltip="스페셜 교환권"	/>
+		</Shop>
+		<Shop	Pool_ID="53"	>
+			<msg	id="0"	name="시련"	tooltip="시련의 증표"	/>
+		</Shop>
+		<npc_name>
+			<msg	id="npc00-0050"	cont="리모트샵"	/>
+			<msg	id="npc01-0004"	cont="프뤼트"	/>
+			<msg	id="npc01-0005"	cont="사이먼"	/>
+			<msg	id="npc01-0006"	cont="켈러"	/>
+			<msg	id="npc01-0007"	cont="데이튼"	/>
+			<msg	id="npc01-0044"	cont="세비어스"	/>
+			<msg	id="npc01-0045"	cont="고대의 유령"	/>
+			<msg	id="npc01-0046"	cont="유논"	/>
+			<msg	id="npc01-0081"	cont="교환머신"	/>
+			<msg	id="npc01-0083"	cont="히로글리"	/>
+			<msg	id="npc01-0035"	cont="플라샤"	/>
+			<msg	id="npc01-0084"	cont="자베른"	/>
+			<msg	id="npc02-0004"	cont="메치아스"	/>
+			<msg	id="npc02-0005"	cont="디온"	/>
+			<msg	id="npc02-0006"	cont="설리반"	/>
+			<msg	id="npc02-0007"	cont="에일렌 남매"	/>
+			<msg	id="npc02-0078"	cont="라샤"	/>
+			<msg	id="npc03-0004"	cont="미트로프"	/>
+			<msg	id="npc03-0005"	cont="콜린즈"	/>
+			<msg	id="npc03-0006"	cont="노다카"	/>
+			<msg	id="npc03-0007"	cont="리베트"	/>
+			<msg	id="npc03-0078"	cont="아이데른"	/>
+			<msg	id="npc04-0004"	cont="에이트"	/>
+			<msg	id="npc04-0005"	cont="아그리스"	/>
+			<msg	id="npc04-0006"	cont="예르트"	/>
+			<msg	id="npc04-0007"	cont="햄프릭"	/>
+			<msg	id="npc04-0013"	cont="페티샤"	/>
+			<msg	id="npc04-0014"	cont="클로이"	/>
+			<msg	id="npc05-0004"	cont="나자바"	/>
+			<msg	id="npc05-0005"	cont="령"	/>
+			<msg	id="npc05-0006"	cont="소영"	/>
+			<msg	id="npc05-0007"	cont="샐리"	/>
+			<msg	id="npc09-0007"	cont="상점"	/>
+			<msg	id="npc15-0050"	cont="리모트샵"	/>
+			<msg	id="npc15-0149"	cont="생산포스타워"	/>
+			<msg	id="npc15-0150"	cont="생산포스타워"	/>
+			<msg	id="npc16-0002"	cont="엘린"	/>
+			<msg	id="npc16-0003"	cont="케이트"	/>
+			<msg	id="npc16-0017"	cont="올리비아"	/>
+			<msg	id="npc16-0018"	cont="카일"	/>
+			<msg	id="npc16-0050"	cont="리모트샵"	/>
+			<msg	id="npc23-0007"	cont="뮤턴트"	/>
+			<msg	id="npc00-0051"	cont="원격 캐쉬 샵"	/>
+			<msg	id="npc00-0182"	cont="길드상점"	/>
+			<msg	id="npc110-0050"	cont="리모트샵"	/>
+			<msg	id="npc109-0002"	cont="엘린"	/>
+			<msg	id="npc109-0003"	cont="케이트"	/>
+			<msg	id="npc109-0017"	cont="올리비아"	/>
+			<msg	id="npc109-0018"	cont="카일"	/>
+			<msg	id="npc109-0050"	cont="리모트샵"	/>
+			<msg	id="npc22-0003"	cont="리두송"	/>
+			<msg	id="npc22-0004"	cont="플리에"	/>
+			<msg	id="npc22-0005"	cont="리플디"	/>
+			<msg	id="npc22-0006"	cont="스테파니"	/>
+			<msg	id="npc22-0012"	cont="후타"	/>
+			<msg	id="npc22-0013"	cont="알롱제"	/>
+			<msg	id="npc22-0014"	cont="파나키"	/>
+			<msg	id="npc22-0015"	cont="아부람"	/>
+			<msg	id="npc11-0018"	cont="악마 상인 인큐보"	/>
+			<msg	id="npc11-0019"	cont="악마 상인 서큐보"	/>
+			<msg	id="npc158-0002"	cont="엘린"	/>
+			<msg	id="npc158-0003"	cont="케이트"	/>
+			<msg	id="npc158-0017"	cont="올리비아"	/>
+			<msg	id="npc158-0018"	cont="카일"	/>
+			<msg	id="npc158-0050"	cont="리모트샵"	/>
+			<msg	id="npc159-0050"	cont="리모트샵"	/>
+			<msg	id="npc00-0183"	cont="PVP상점"	/>
+		</npc_name>
+</NPCShop_message>

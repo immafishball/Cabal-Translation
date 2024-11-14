@@ -1,0 +1,855 @@
+<craft_message>
+	<version	index="1"	/>
+	<craft_category_msg>
+		<msg	id="category01"	cont="장인의 오브"	/>
+		<msg	id="category02"	cont="장인의 크리스탈"	/>
+		<msg	id="category03"	cont="장인의 카타나"	/>
+		<msg	id="category04"	cont="장인의 블레이드"	/>
+		<msg	id="category05"	cont="장인의 다이카타나"	/>
+		<msg	id="category06"	cont="장인의 그레이트소드"	/>
+		<msg	id="category07"	cont="장인의 건틀렛 (WA)"	/>
+		<msg	id="category08"	cont="장인의 그리브 (WA)"	/>
+		<msg	id="category09"	cont="장인의 바이저 (WA)"	/>
+		<msg	id="category10"	cont="장인의 플레이트 (WA)"	/>
+		<msg	id="category11"	cont="장인의 글러브 (FA)"	/>
+		<msg	id="category12"	cont="장인의 부츠 (FA)"	/>
+		<msg	id="category13"	cont="장인의 헤드기어 (FA)"	/>
+		<msg	id="category14"	cont="장인의 코트 (FA)"	/>
+		<msg	id="category15"	cont="장인의 핸드 (BL)"	/>
+		<msg	id="category16"	cont="장인의 슈즈 (BL)"	/>
+		<msg	id="category17"	cont="장인의 헤드피스 (BL)"	/>
+		<msg	id="category18"	cont="장인의 슈트 (BL)"	/>
+		<msg	id="category19"	cont="링"	/>
+		<msg	id="category20"	cont="아뮬렛"	/>
+		<msg	id="category21"	cont="명인의 오브"	/>
+		<msg	id="category22"	cont="명인의 크리스탈"	/>
+		<msg	id="category23"	cont="명인의 카타나"	/>
+		<msg	id="category24"	cont="명인의 블레이드"	/>
+		<msg	id="category25"	cont="명인의 다이카타나"	/>
+		<msg	id="category26"	cont="명인의 그레이트소드"	/>
+		<msg	id="category27"	cont="명인의 건틀렛 (WA)"	/>
+		<msg	id="category28"	cont="명인의 그리브 (WA)"	/>
+		<msg	id="category29"	cont="명인의 바이저 (WA)"	/>
+		<msg	id="category30"	cont="명인의 플레이트 (WA)"	/>
+		<msg	id="category31"	cont="명인의 글러브 (FA)"	/>
+		<msg	id="category32"	cont="명인의 부츠 (FA)"	/>
+		<msg	id="category33"	cont="명인의 헤드기어 (FA)"	/>
+		<msg	id="category34"	cont="명인의 코트 (FA)"	/>
+		<msg	id="category35"	cont="명인의 핸드 (BL)"	/>
+		<msg	id="category36"	cont="명인의 슈즈 (BL)"	/>
+		<msg	id="category37"	cont="명인의 헤드피스 (BL)"	/>
+		<msg	id="category38"	cont="명인의 슈트 (BL)"	/>
+		<msg	id="category39"	cont="장인의 건틀렛 (FS)"	/>
+		<msg	id="category40"	cont="장인의 그리브 (FS)"	/>
+		<msg	id="category41"	cont="장인의 바이저 (FS)"	/>
+		<msg	id="category42"	cont="장인의 플레이트 (FS)"	/>
+		<msg	id="category43"	cont="장인의 건틀렛 (GL)"	/>
+		<msg	id="category44"	cont="장인의 그리브 (GL)"	/>
+		<msg	id="category45"	cont="장인의 바이저 (GL)"	/>
+		<msg	id="category46"	cont="장인의 플레이트 (GL)"	/>
+		<msg	id="category47"	cont="장인의 글러브 (FB)"	/>
+		<msg	id="category48"	cont="장인의 부츠 (FB)"	/>
+		<msg	id="category49"	cont="장인의 헤드기어 (FB)"	/>
+		<msg	id="category50"	cont="장인의 코트 (FB)"	/>
+		<msg	id="category51"	cont="장인의 핸드(WI)"	/>
+		<msg	id="category52"	cont="장인의 슈즈 (WI)"	/>
+		<msg	id="category53"	cont="장인의 헤드피스 (WI)"	/>
+		<msg	id="category54"	cont="장인의 슈트 (WI)"	/>
+		<msg	id="category55"	cont="명인의 건틀렛 (FS)"	/>
+		<msg	id="category56"	cont="명인의 그리브 (FS)"	/>
+		<msg	id="category57"	cont="명인의 바이저 (FS)"	/>
+		<msg	id="category58"	cont="명인의 플레이트 (FS)"	/>
+		<msg	id="category59"	cont="명인의 건틀렛 (GL)"	/>
+		<msg	id="category60"	cont="명인의 그리브 (GL)"	/>
+		<msg	id="category61"	cont="명인의 바이저 (GL)"	/>
+		<msg	id="category62"	cont="명인의 플레이트 (GL)"	/>
+		<msg	id="category63"	cont="명인의 글러브 (FB)"	/>
+		<msg	id="category64"	cont="명인의 부츠 (FB)"	/>
+		<msg	id="category65"	cont="명인의 헤드기어 (FB)"	/>
+		<msg	id="category66"	cont="명인의 코트 (FB)"	/>
+		<msg	id="category67"	cont="명인의 핸드 (WI)"	/>
+		<msg	id="category68"	cont="명인의 슈즈 (WI)"	/>
+		<msg	id="category69"	cont="명인의 헤드피스 (WI)"	/>
+		<msg	id="category70"	cont="명인의 슈트 (WI)"	/>
+		<msg	id="category71"	cont="장인의 차크람"	/>
+		<msg	id="category72"	cont="명인의 차크람"	/>
+		<msg	id="category73"	cont="명인의 글러브 (FG)"	/>
+		<msg	id="category74"	cont="명인의 부츠 (FG)"	/>
+		<msg	id="category75"	cont="명인의 헤드기어 (FG)"	/>
+		<msg	id="category76"	cont="명인의 코트 (FG)"	/>
+		<msg	id="category77"	cont="장인의 글러브 (FG)"	/>
+		<msg	id="category78"	cont="장인의 부츠 (FG)"	/>
+		<msg	id="category79"	cont="장인의 헤드기어 (FG)"	/>
+		<msg	id="category80"	cont="장인의 코트 (FG)"	/>
+		<msg	id="category81"	cont="장인의 핸드(DM)"	/>
+		<msg	id="category82"	cont="장인의 슈즈 (DM)"	/>
+		<msg	id="category83"	cont="장인의 헤드피스 (DM)"	/>
+		<msg	id="category84"	cont="장인의 슈트 (DM)"	/>
+		<msg	id="category85"	cont="명인의 핸드 (DM)"	/>
+		<msg	id="category86"	cont="명인의 슈즈 (DM)"	/>
+		<msg	id="category87"	cont="명인의 헤드피스 (DM)"	/>
+		<msg	id="category88"	cont="명인의 슈트 (DM)"	/>
+	</craft_category_msg>
+	<craft_grade_msg>
+		<msg	id="grade001"	cont="블루스틴"	/>
+		<msg	id="grade002"	cont="블루스틴"	/>
+		<msg	id="grade003"	cont="블루스틴 (달인)"	/>
+		<msg	id="grade004"	cont="페리스틴"	/>
+		<msg	id="grade005"	cont="페리스틴"	/>
+		<msg	id="grade006"	cont="페리스틴 (달인)"	/>
+		<msg	id="grade007"	cont="아쿠아"	/>
+		<msg	id="grade008"	cont="아쿠아"	/>
+		<msg	id="grade009"	cont="아쿠아 (달인)"	/>
+		<msg	id="grade010"	cont="라피스"	/>
+		<msg	id="grade011"	cont="라피스"	/>
+		<msg	id="grade012"	cont="라피스 (달인)"	/>
+		<msg	id="grade013"	cont="토파즈"	/>
+		<msg	id="grade014"	cont="토파즈"	/>
+		<msg	id="grade015"	cont="토파즈 (달인)"	/>
+		<msg	id="grade016"	cont="시그메탈"	/>
+		<msg	id="grade017"	cont="시그메탈"	/>
+		<msg	id="grade018"	cont="시그메탈 (달인)"	/>
+		<msg	id="grade019"	cont="미스릴"	/>
+		<msg	id="grade020"	cont="미스릴"	/>
+		<msg	id="grade021"	cont="미스릴 (달인)"	/>
+		<msg	id="grade022"	cont="블루스틴"	/>
+		<msg	id="grade023"	cont="블루스틴"	/>
+		<msg	id="grade024"	cont="블루스틴 (달인)"	/>
+		<msg	id="grade025"	cont="티타니움"	/>
+		<msg	id="grade026"	cont="티타니움"	/>
+		<msg	id="grade027"	cont="티타니움 (달인)"	/>
+		<msg	id="grade028"	cont="섀도우 티타니움"	/>
+		<msg	id="grade029"	cont="섀도우 티타니움"	/>
+		<msg	id="grade030"	cont="섀도우 티타니움 (달인)"	/>
+		<msg	id="grade031"	cont="오스미움"	/>
+		<msg	id="grade032"	cont="오스미움"	/>
+		<msg	id="grade033"	cont="오스미움 (달인)"	/>
+		<msg	id="grade034"	cont="레드 오스미움"	/>
+		<msg	id="grade035"	cont="레드 오스미움"	/>
+		<msg	id="grade036"	cont="레드 오스미움 (달인)"	/>
+		<msg	id="grade037"	cont="시그메탈"	/>
+		<msg	id="grade038"	cont="시그메탈"	/>
+		<msg	id="grade039"	cont="시그메탈 (달인)"	/>
+		<msg	id="grade040"	cont="미스릴"	/>
+		<msg	id="grade041"	cont="미스릴"	/>
+		<msg	id="grade042"	cont="미스릴 (달인)"	/>
+		<msg	id="grade043"	cont="블루스틴 (WA)"	/>
+		<msg	id="grade044"	cont="블루스틴 (FS)"	/>
+		<msg	id="grade045"	cont="블루스틴 (WA)"	/>
+		<msg	id="grade046"	cont="블루스틴 (FS)"	/>
+		<msg	id="grade047"	cont="블루스틴 (WA) (달인)"	/>
+		<msg	id="grade048"	cont="블루스틴 (FS) (달인)"	/>
+		<msg	id="grade049"	cont="티타니움 (WA)"	/>
+		<msg	id="grade050"	cont="티타니움 (FS)"	/>
+		<msg	id="grade051"	cont="티타니움 (WA)"	/>
+		<msg	id="grade052"	cont="티타니움 (FS)"	/>
+		<msg	id="grade053"	cont="티타니움 (WA) (달인)"	/>
+		<msg	id="grade054"	cont="티타니움 (FS) (달인)"	/>
+		<msg	id="grade055"	cont="섀도우 티타니움 (WA)"	/>
+		<msg	id="grade056"	cont="섀도우 티타니움 (FS)"	/>
+		<msg	id="grade057"	cont="섀도우 티타니움 (WA)"	/>
+		<msg	id="grade058"	cont="섀도우 티타니움 (FS)"	/>
+		<msg	id="grade059"	cont="섀도우 티타니움 (WA) (달인)"	/>
+		<msg	id="grade060"	cont="섀도우 티타니움 (FS) (달인)"	/>
+		<msg	id="grade061"	cont="오스미움 (WA)"	/>
+		<msg	id="grade062"	cont="오스미움 (FS)"	/>
+		<msg	id="grade063"	cont="오스미움 (WA)"	/>
+		<msg	id="grade064"	cont="오스미움 (FS)"	/>
+		<msg	id="grade065"	cont="오스미움 (WA) (달인)"	/>
+		<msg	id="grade066"	cont="오스미움 (FS) (달인)"	/>
+		<msg	id="grade067"	cont="샤인가드 (WA)"	/>
+		<msg	id="grade068"	cont="샤인가드 (FS)"	/>
+		<msg	id="grade069"	cont="샤인가드 (WA)"	/>
+		<msg	id="grade070"	cont="샤인가드 (FS)"	/>
+		<msg	id="grade071"	cont="샤인가드 (WA) (달인)"	/>
+		<msg	id="grade072"	cont="샤인가드 (FS) (달인)"	/>
+		<msg	id="grade073"	cont="시그메탈 (WA)"	/>
+		<msg	id="grade074"	cont="시그메탈 (FS)"	/>
+		<msg	id="grade075"	cont="시그메탈 (WA)"	/>
+		<msg	id="grade076"	cont="시그메탈 (FS)"	/>
+		<msg	id="grade077"	cont="시그메탈 (WA) (달인)"	/>
+		<msg	id="grade078"	cont="시그메탈 (FS) (달인)"	/>
+		<msg	id="grade079"	cont="미스릴 (WA)"	/>
+		<msg	id="grade080"	cont="미스릴 (FS)"	/>
+		<msg	id="grade081"	cont="미스릴 (WA)"	/>
+		<msg	id="grade082"	cont="미스릴 (FS)"	/>
+		<msg	id="grade083"	cont="미스릴 (WA) (달인)"	/>
+		<msg	id="grade084"	cont="미스릴 (FS) (달인)"	/>
+		<msg	id="grade085"	cont="블루스틴 (FB)"	/>
+		<msg	id="grade086"	cont="블루스틴 (FA)"	/>
+		<msg	id="grade087"	cont="블루스틴 (FB)"	/>
+		<msg	id="grade088"	cont="블루스틴 (FA)"	/>
+		<msg	id="grade089"	cont="블루스틴 (FB) (달인)"	/>
+		<msg	id="grade090"	cont="블루스틴 (FA) (달인)"	/>
+		<msg	id="grade091"	cont="티타니움 (FB)"	/>
+		<msg	id="grade092"	cont="티타니움 (FA)"	/>
+		<msg	id="grade093"	cont="티타니움 (FB)"	/>
+		<msg	id="grade094"	cont="티타니움 (FA)"	/>
+		<msg	id="grade095"	cont="티타니움 (FB) (달인)"	/>
+		<msg	id="grade096"	cont="티타니움 (FA) (달인)"	/>
+		<msg	id="grade097"	cont="섀도우 티타니움 (FB)"	/>
+		<msg	id="grade098"	cont="섀도우 티타니움 (FA)"	/>
+		<msg	id="grade099"	cont="섀도우 티타니움 (FB)"	/>
+		<msg	id="grade100"	cont="섀도우 티타니움 (FA)"	/>
+		<msg	id="grade101"	cont="섀도우 티타니움 (FB) (달인)"	/>
+		<msg	id="grade102"	cont="섀도우 티타니움 (FA) (달인)"	/>
+		<msg	id="grade103"	cont="오스미움 (FB)"	/>
+		<msg	id="grade104"	cont="오스미움 (FA)"	/>
+		<msg	id="grade105"	cont="오스미움 (FB)"	/>
+		<msg	id="grade106"	cont="오스미움 (FA)"	/>
+		<msg	id="grade107"	cont="오스미움 (FB) (달인)"	/>
+		<msg	id="grade108"	cont="오스미움 (FA) (달인)"	/>
+		<msg	id="grade109"	cont="테라그레이스 (FB)"	/>
+		<msg	id="grade110"	cont="테라그레이스 (FA)"	/>
+		<msg	id="grade111"	cont="테라그레이스 (FB)"	/>
+		<msg	id="grade112"	cont="테라그레이스 (FA)"	/>
+		<msg	id="grade113"	cont="테라그레이스 (FB) (달인)"	/>
+		<msg	id="grade114"	cont="테라그레이스 (FA) (달인)"	/>
+		<msg	id="grade115"	cont="시그메탈 (FB)"	/>
+		<msg	id="grade116"	cont="시그메탈 (FA)"	/>
+		<msg	id="grade117"	cont="시그메탈 (FB)"	/>
+		<msg	id="grade118"	cont="시그메탈 (FA)"	/>
+		<msg	id="grade119"	cont="시그메탈 (FB) (달인)"	/>
+		<msg	id="grade120"	cont="시그메탈 (FA) (달인)"	/>
+		<msg	id="grade121"	cont="미스릴 (FB)"	/>
+		<msg	id="grade122"	cont="미스릴 (FA)"	/>
+		<msg	id="grade123"	cont="미스릴 (FB)"	/>
+		<msg	id="grade124"	cont="미스릴 (FA)"	/>
+		<msg	id="grade125"	cont="미스릴 (FB) (달인)"	/>
+		<msg	id="grade126"	cont="미스릴 (FA) (달인)"	/>
+		<msg	id="grade127"	cont="블루스틴 (BL)"	/>
+		<msg	id="grade128"	cont="블루스틴 (WI)"	/>
+		<msg	id="grade129"	cont="블루스틴 (BL)"	/>
+		<msg	id="grade130"	cont="블루스틴 (WI)"	/>
+		<msg	id="grade131"	cont="블루스틴 (BL) (달인)"	/>
+		<msg	id="grade132"	cont="블루스틴 (WI) (달인)"	/>
+		<msg	id="grade133"	cont="티타니움 (BL)"	/>
+		<msg	id="grade134"	cont="티타니움 (WI)"	/>
+		<msg	id="grade135"	cont="티타니움 (BL)"	/>
+		<msg	id="grade136"	cont="티타니움 (WI)"	/>
+		<msg	id="grade137"	cont="티타니움 (BL) (달인)"	/>
+		<msg	id="grade138"	cont="티타니움 (WI) (달인)"	/>
+		<msg	id="grade139"	cont="섀도우 티타니움 (BL)"	/>
+		<msg	id="grade140"	cont="섀도우 티타니움 (WI)"	/>
+		<msg	id="grade141"	cont="섀도우 티타니움 (BL)"	/>
+		<msg	id="grade142"	cont="섀도우 티타니움 (WI)"	/>
+		<msg	id="grade143"	cont="섀도우 티타니움 (BL) (달인)"	/>
+		<msg	id="grade144"	cont="섀도우 티타니움 (WI) (달인)"	/>
+		<msg	id="grade145"	cont="오스미움 (BL)"	/>
+		<msg	id="grade146"	cont="오스미움 (WI)"	/>
+		<msg	id="grade147"	cont="오스미움 (BL)"	/>
+		<msg	id="grade148"	cont="오스미움 (WI)"	/>
+		<msg	id="grade149"	cont="오스미움 (BL) (달인)"	/>
+		<msg	id="grade150"	cont="오스미움 (WI) (달인)"	/>
+		<msg	id="grade151"	cont="미스틱 (BL)"	/>
+		<msg	id="grade152"	cont="미스틱 (WI)"	/>
+		<msg	id="grade153"	cont="미스틱 (BL)"	/>
+		<msg	id="grade154"	cont="미스틱 (WI)"	/>
+		<msg	id="grade155"	cont="미스틱 (BL) (달인)"	/>
+		<msg	id="grade156"	cont="미스틱 (WI) (달인)"	/>
+		<msg	id="grade157"	cont="시그메탈 (BL)"	/>
+		<msg	id="grade158"	cont="시그메탈 (WI)"	/>
+		<msg	id="grade159"	cont="시그메탈 (BL)"	/>
+		<msg	id="grade160"	cont="시그메탈 (WI)"	/>
+		<msg	id="grade161"	cont="시그메탈 (BL) (달인)"	/>
+		<msg	id="grade162"	cont="시그메탈 (WI) (달인)"	/>
+		<msg	id="grade163"	cont="미스릴 (BL)"	/>
+		<msg	id="grade164"	cont="미스릴 (WI)"	/>
+		<msg	id="grade165"	cont="미스릴 (BL)"	/>
+		<msg	id="grade166"	cont="미스릴 (WI)"	/>
+		<msg	id="grade167"	cont="미스릴 (BL) (달인)"	/>
+		<msg	id="grade168"	cont="미스릴 (WI) (달인)"	/>
+		<msg	id="grade169"	cont="링 제작 하급"	/>
+		<msg	id="grade170"	cont="링 제작 중급"	/>
+		<msg	id="grade171"	cont="링 제작 상급"	/>
+		<msg	id="grade172"	cont="링 제작 최상급"	/>
+		<msg	id="grade173"	cont="아뮬렛 제작 하급"	/>
+		<msg	id="grade174"	cont="아뮬렛 제작 중급"	/>
+		<msg	id="grade175"	cont="아뮬렛 제작 상급"	/>
+		<msg	id="grade176"	cont="아뮬렛 제작 최상급"	/>
+		<msg	id="grade177"	cont="블루스틴"	/>
+		<msg	id="grade178"	cont="블루스틴"	/>
+		<msg	id="grade179"	cont="블루스틴 (달인)"	/>
+		<msg	id="grade180"	cont="티타니움"	/>
+		<msg	id="grade181"	cont="티타니움"	/>
+		<msg	id="grade182"	cont="티타니움 (달인)"	/>
+		<msg	id="grade183"	cont="섀도우 티타니움"	/>
+		<msg	id="grade184"	cont="섀도우 티타니움"	/>
+		<msg	id="grade185"	cont="섀도우 티타니움 (달인)"	/>
+		<msg	id="grade186"	cont="오스미움"	/>
+		<msg	id="grade187"	cont="오스미움"	/>
+		<msg	id="grade188"	cont="오스미움 (달인)"	/>
+		<msg	id="grade189"	cont="레드 오스미움"	/>
+		<msg	id="grade190"	cont="레드 오스미움"	/>
+		<msg	id="grade191"	cont="레드 오스미움 (달인)"	/>
+		<msg	id="grade192"	cont="시그메탈"	/>
+		<msg	id="grade193"	cont="시그메탈"	/>
+		<msg	id="grade194"	cont="시그메탈 (달인)"	/>
+		<msg	id="grade195"	cont="미스릴"	/>
+		<msg	id="grade196"	cont="미스릴"	/>
+		<msg	id="grade197"	cont="미스릴 (달인)"	/>
+		<msg	id="grade198"	cont="블루스틴 (GL)"	/>
+		<msg	id="grade199"	cont="블루스틴 (GL)"	/>
+		<msg	id="grade200"	cont="블루스틴 (GL) (달인)"	/>
+		<msg	id="grade201"	cont="티타니움 (GL)"	/>
+		<msg	id="grade202"	cont="티타니움 (GL)"	/>
+		<msg	id="grade203"	cont="티타니움 (GL) (달인)"	/>
+		<msg	id="grade204"	cont="섀도우 티타니움 (GL)"	/>
+		<msg	id="grade205"	cont="섀도우 티타니움 (GL)"	/>
+		<msg	id="grade206"	cont="섀도우 티타니움 (GL) (달인)"	/>
+		<msg	id="grade207"	cont="오스미움 (GL)"	/>
+		<msg	id="grade208"	cont="오스미움 (GL)"	/>
+		<msg	id="grade209"	cont="오스미움 (GL) (달인)"	/>
+		<msg	id="grade210"	cont="샤인가드 (GL)"	/>
+		<msg	id="grade211"	cont="샤인가드 (GL)"	/>
+		<msg	id="grade212"	cont="샤인가드 (GL) (달인)"	/>
+		<msg	id="grade213"	cont="시그메탈 (GL)"	/>
+		<msg	id="grade214"	cont="시그메탈 (GL)"	/>
+		<msg	id="grade215"	cont="시그메탈 (GL) (달인)"	/>
+		<msg	id="grade216"	cont="미스릴 (GL)"	/>
+		<msg	id="grade217"	cont="미스릴 (GL)"	/>
+		<msg	id="grade218"	cont="미스릴 (GL) (달인)"	/>
+		<msg	id="grade219"	cont="아크리디움"	/>
+		<msg	id="grade220"	cont="아크리디움"	/>
+		<msg	id="grade221"	cont="아크리디움"	/>
+		<msg	id="grade222"	cont="아크리디움"	/>
+		<msg	id="grade223"	cont="아크리디움 (WA)"	/>
+		<msg	id="grade224"	cont="아크리디움 (FS)"	/>
+		<msg	id="grade225"	cont="아크리디움 (WA)"	/>
+		<msg	id="grade226"	cont="아크리디움 (FS)"	/>
+		<msg	id="grade227"	cont="아크리디움 (GL)"	/>
+		<msg	id="grade228"	cont="아크리디움 (GL)"	/>
+		<msg	id="grade229"	cont="아크리디움 (FB)"	/>
+		<msg	id="grade230"	cont="아크리디움 (FA)"	/>
+		<msg	id="grade231"	cont="아크리디움 (FB)"	/>
+		<msg	id="grade232"	cont="아크리디움 (FA)"	/>
+		<msg	id="grade233"	cont="아크리디움 (BL)"	/>
+		<msg	id="grade234"	cont="아크리디움 (WI)"	/>
+		<msg	id="grade235"	cont="아크리디움 (BL)"	/>
+		<msg	id="grade236"	cont="아크리디움 (WI)"	/>
+		<msg	id="grade237"	cont="아크리디움"	/>
+		<msg	id="grade238"	cont="아크리디움"	/>
+		<msg	id="grade239"	cont="블루스틴 (FG)"	/>
+		<msg	id="grade240"	cont="블루스틴 (FG)"	/>
+		<msg	id="grade241"	cont="블루스틴 (FG) (달인)"	/>
+		<msg	id="grade242"	cont="티타니움 (FG)"	/>
+		<msg	id="grade243"	cont="티타니움 (FG)"	/>
+		<msg	id="grade244"	cont="티타니움 (FG) (달인)"	/>
+		<msg	id="grade245"	cont="섀도우 티타니움 (FG)"	/>
+		<msg	id="grade246"	cont="섀도우 티타니움 (FG)"	/>
+		<msg	id="grade247"	cont="섀도우 티타니움 (FG) (달인)"	/>
+		<msg	id="grade248"	cont="오스미움 (FG)"	/>
+		<msg	id="grade249"	cont="오스미움 (FG)"	/>
+		<msg	id="grade250"	cont="오스미움 (FG) (달인)"	/>
+		<msg	id="grade251"	cont="테라그레이스 (FG)"	/>
+		<msg	id="grade252"	cont="테라그레이스 (FG)"	/>
+		<msg	id="grade253"	cont="테라그레이스 (FG) (달인)"	/>
+		<msg	id="grade254"	cont="시그메탈 (FG)"	/>
+		<msg	id="grade255"	cont="시그메탈 (FG)"	/>
+		<msg	id="grade256"	cont="시그메탈 (FG) (달인)"	/>
+		<msg	id="grade257"	cont="미스릴 (FG)"	/>
+		<msg	id="grade258"	cont="미스릴 (FG)"	/>
+		<msg	id="grade259"	cont="미스릴 (FG) (달인)"	/>
+		<msg	id="grade260"	cont="아크리디움 (FG)"	/>
+		<msg	id="grade261"	cont="아크리디움 (FG)"	/>
+		<msg	id="grade262"	cont="팔라디움"	/>
+		<msg	id="grade263"	cont="팔라디움"	/>
+		<msg	id="grade264"	cont="팔라디움"	/>
+		<msg	id="grade265"	cont="팔라디움"	/>
+		<msg	id="grade266"	cont="팔라디움 (WA)"	/>
+		<msg	id="grade267"	cont="팔라디움 (FS)"	/>
+		<msg	id="grade268"	cont="팔라디움 (WA)"	/>
+		<msg	id="grade269"	cont="팔라디움 (FS)"	/>
+		<msg	id="grade270"	cont="팔라디움 (GL)"	/>
+		<msg	id="grade271"	cont="팔라디움 (GL)"	/>
+		<msg	id="grade272"	cont="팔라디움 (FB)"	/>
+		<msg	id="grade273"	cont="팔라디움 (FA)"	/>
+		<msg	id="grade274"	cont="팔라디움 (FB)"	/>
+		<msg	id="grade275"	cont="팔라디움 (FA)"	/>
+		<msg	id="grade276"	cont="팔라디움 (BL)"	/>
+		<msg	id="grade277"	cont="팔라디움 (WI)"	/>
+		<msg	id="grade278"	cont="팔라디움 (BL)"	/>
+		<msg	id="grade279"	cont="팔라디움 (WI)"	/>
+		<msg	id="grade280"	cont="팔라디움"	/>
+		<msg	id="grade281"	cont="팔라디움"	/>
+		<msg	id="grade282"	cont="팔라디움 (FG)"	/>
+		<msg	id="grade283"	cont="팔라디움 (FG)"	/>
+		<msg	id="grade284"	cont="블루스틴 (DM)"	/>
+		<msg	id="grade285"	cont="블루스틴 (DM)"	/>
+		<msg	id="grade286"	cont="블루스틴 (DM) (달인)"	/>
+		<msg	id="grade287"	cont="티타니움 (DM)"	/>
+		<msg	id="grade288"	cont="티타니움 (DM)"	/>
+		<msg	id="grade289"	cont="티타니움 (DM) (달인)"	/>
+		<msg	id="grade290"	cont="섀도우 티타니움 (DM)"	/>
+		<msg	id="grade291"	cont="섀도우 티타니움 (DM)"	/>
+		<msg	id="grade292"	cont="섀도우 티타니움 (DM) (달인)"	/>
+		<msg	id="grade293"	cont="오스미움 (DM)"	/>
+		<msg	id="grade294"	cont="오스미움 (DM)"	/>
+		<msg	id="grade295"	cont="오스미움 (DM) (달인)"	/>
+		<msg	id="grade296"	cont="미스틱 (DM)"	/>
+		<msg	id="grade297"	cont="미스틱 (DM)"	/>
+		<msg	id="grade298"	cont="미스틱 (DM) (달인)"	/>
+		<msg	id="grade299"	cont="시그메탈 (DM)"	/>
+		<msg	id="grade300"	cont="시그메탈 (DM)"	/>
+		<msg	id="grade301"	cont="시그메탈 (DM) (달인)"	/>
+		<msg	id="grade302"	cont="미스릴 (DM)"	/>
+		<msg	id="grade303"	cont="미스릴 (DM)"	/>
+		<msg	id="grade304"	cont="미스릴 (DM) (달인)"	/>
+		<msg	id="grade305"	cont="아크리디움 (DM)"	/>
+		<msg	id="grade306"	cont="아크리디움 (DM)"	/>
+		<msg	id="grade307"	cont="팔라디움 (DM)"	/>
+		<msg	id="grade308"	cont="팔라디움 (DM)"	/>
+	</craft_grade_msg>
+	<craft_mainoption_msg>
+		<msg	id="mainoption01"	cont="크리티컬 확률"	/>
+		<msg	id="mainoption02"	cont="크리티컬 데미지"	/>
+		<msg	id="mainoption03"	cont="모든 스킬 증폭"	/>
+		<msg	id="mainoption04"	cont="방어력"	/>
+		<msg	id="mainoption05"	cont="링 오브 파이터 (하급)"	/>
+		<msg	id="mainoption06"	cont="링 오브 세이지 (하급)"	/>
+		<msg	id="mainoption07"	cont="링 오브 챔피언 (하급)"	/>
+		<msg	id="mainoption08"	cont="링 오브 럭 (하급)"	/>
+		<msg	id="mainoption09"	cont="크리티컬 링 (하급)"	/>
+		<msg	id="mainoption10"	cont="장인의 링"	/>
+		<msg	id="mainoption11"	cont="링 오브 파이터 (중급)"	/>
+		<msg	id="mainoption12"	cont="링 오브 세이지 (중급)"	/>
+		<msg	id="mainoption13"	cont="링 오브 챔피언 (중급)"	/>
+		<msg	id="mainoption14"	cont="링 오브 럭 (중급)"	/>
+		<msg	id="mainoption15"	cont="크리티컬 링 (중급)"	/>
+		<msg	id="mainoption16"	cont="링 (중급)"	/>
+		<msg	id="mainoption17"	cont="링 오브 파이터 (상급)"	/>
+		<msg	id="mainoption18"	cont="링 오브 세이지 (상급)"	/>
+		<msg	id="mainoption19"	cont="링 오브 챔피언 (상급)"	/>
+		<msg	id="mainoption20"	cont="링 오브 럭 (상급)"	/>
+		<msg	id="mainoption21"	cont="크리티컬 링 (상급)"	/>
+		<msg	id="mainoption22"	cont="링 (상급)"	/>
+		<msg	id="mainoption23"	cont="링 오브 파이터 (최상급)"	/>
+		<msg	id="mainoption24"	cont="링 오브 세이지 (최상급)"	/>
+		<msg	id="mainoption25"	cont="링 오브 챔피언 (최상급)"	/>
+		<msg	id="mainoption26"	cont="링 오브 럭 (최상급)"	/>
+		<msg	id="mainoption27"	cont="크리티컬 링 (최상급)"	/>
+		<msg	id="mainoption28"	cont="링 (최상급)"	/>
+		<msg	id="mainoption29"	cont="장인의 아뮬렛"	/>
+		<msg	id="mainoption30"	cont="아뮬렛 오브 가드 (하급)"	/>
+		<msg	id="mainoption31"	cont="아뮬렛 오브 페인 (하급)"	/>
+		<msg	id="mainoption32"	cont="뱀파이어릭 아뮬렛 (하급)"	/>
+		<msg	id="mainoption33"	cont="어뎁트 아뮬렛 (하급)"	/>
+		<msg	id="mainoption34"	cont="아뮬렛 (중급)"	/>
+		<msg	id="mainoption35"	cont="아뮬렛 오브 가드 (중급)"	/>
+		<msg	id="mainoption36"	cont="아뮬렛 오브 페인 (중급)"	/>
+		<msg	id="mainoption37"	cont="뱀파이어릭 아뮬렛 (중급)"	/>
+		<msg	id="mainoption38"	cont="어뎁트 아뮬렛 (중급)"	/>
+		<msg	id="mainoption39"	cont="아뮬렛 (상급)"	/>
+		<msg	id="mainoption40"	cont="아뮬렛 오브 가드 (상급)"	/>
+		<msg	id="mainoption41"	cont="아뮬렛 오브 페인 (상급)"	/>
+		<msg	id="mainoption42"	cont="뱀파이어릭 아뮬렛 (상급)"	/>
+		<msg	id="mainoption43"	cont="어뎁트 아뮬렛 (상급)"	/>
+		<msg	id="mainoption44"	cont="아뮬렛 (최상급)"	/>
+		<msg	id="mainoption45"	cont="아뮬렛 오브 가드 (최상급)"	/>
+		<msg	id="mainoption46"	cont="아뮬렛 오브 페인 (최상급)"	/>
+		<msg	id="mainoption47"	cont="뱀파이어릭 아뮬렛 (최상급)"	/>
+		<msg	id="mainoption48"	cont="어뎁트 아뮬렛 (최상급)"	/>
+		<msg	id="mainoption49"	cont="HP"	/>
+		<msg	id="mainoption50"	cont="크리티컬 확률 저항"	/>
+		<msg	id="mainoption51"	cont="스킬 증폭 저항"	/>
+		<msg	id="mainoption52"	cont="크리티컬 데미지 저항"	/>
+	</craft_mainoption_msg>
+	<request_name_msg>
+		<msg	id="request0001"	cont="워리어 배틀모드3 (1단계)"	/>
+		<msg	id="request0002"	cont="워리어 배틀모드3 (2단계)"	/>
+		<msg	id="request0003"	cont="워리어 배틀모드3 (3단계)"	/>
+		<msg	id="request0004"	cont="블레이더 배틀모드3 (1단계)"	/>
+		<msg	id="request0005"	cont="블레이더 배틀모드3 (2단계)"	/>
+		<msg	id="request0006"	cont="블레이더 배틀모드3 (3단계)"	/>
+		<msg	id="request0007"	cont="위저드 배틀모드3 (1단계)"	/>
+		<msg	id="request0008"	cont="위저드 배틀모드3 (2단계)"	/>
+		<msg	id="request0009"	cont="위저드 배틀모드3 (3단계)"	/>
+		<msg	id="request0010"	cont="포스 아처 배틀모드3 (1단계)"	/>
+		<msg	id="request0011"	cont="포스 아처 배틀모드3 (2단계)"	/>
+		<msg	id="request0012"	cont="포스 아처 배틀모드3 (3단계)"	/>
+		<msg	id="request0013"	cont="포스 실더 배틀모드3 (1단계)"	/>
+		<msg	id="request0014"	cont="포스 실더 배틀모드3 (2단계)"	/>
+		<msg	id="request0015"	cont="포스 실더 배틀모드3 (3단계)"	/>
+		<msg	id="request0016"	cont="포스 블레이더 배틀모드3 (1단계)"	/>
+		<msg	id="request0017"	cont="포스 블레이더 배틀모드3 (2단계)"	/>
+		<msg	id="request0018"	cont="포스 블레이더 배틀모드3 (3단계)"	/>
+		<msg	id="request0019"	cont="신소재 개발지원 (일일퀘스트)"	/>
+		<msg	id="request0020"	cont="코인 로또 (포가튼 루인) x 1"	/>
+		<msg	id="request0021"	cont="코인 로또 (레이크 사이드) x 1"	/>
+		<msg	id="request0022"	cont="코인 로또 (뮤턴트 포레스트) x 1"	/>
+		<msg	id="request0023"	cont="코인 로또 (폰투스 페룸) x 1"	/>
+		<msg	id="request0024"	cont="코인 로또 (포르타 인페르노) x 1"	/>
+		<msg	id="request0025"	cont="코인 로또 (아케인 트레이스) x 1"	/>
+		<msg	id="request0026"	cont="바이크 에픽 컨버터 박스(중급)"	/>
+		<msg	id="request0027"	cont="바이크 에픽 컨버터 박스(상급)"	/>
+		<msg	id="request0028"	cont="바이크 에픽 컨버터 박스(최상급)"	/>
+		<msg	id="request0029"	cont="익스트림 코어 포켓(일반) I"	/>
+		<msg	id="request0030"	cont="리페어 키트 박스"	/>
+		<msg	id="request0031"	cont="주시의 거울 (브론즈)"	/>
+		<msg	id="request0032"	cont="주시의 거울 (실버)"	/>
+		<msg	id="request0033"	cont="익스트림 코어 포켓(일반) II"	/>
+		<msg	id="request0034"	cont="글래디에이터 배틀모드3 (1단계)"	/>
+		<msg	id="request0035"	cont="글래디에이터 배틀모드3 (2단계)"	/>
+		<msg	id="request0036"	cont="글래디에이터 배틀모드3 (3단계)"	/>
+		<msg	id="request0037"	cont="아스트랄 보드 카드 - K Violet  I"	/>
+		<msg	id="request0038"	cont="아스트랄 보드 카드 - K Violet  II"	/>
+		<msg	id="request0039"	cont="포스 거너 배틀모드3 (1단계)"	/>
+		<msg	id="request0040"	cont="포스 거너 배틀모드3 (2단계)"	/>
+		<msg	id="request0041"	cont="포스 거너 배틀모드3 (3단계)"	/>
+		<msg	id="request0042"	cont="스킬북 (아쿠아 오러)"	/>
+		<msg	id="request0043"	cont="스킬북 (아이스 오러)"	/>
+		<msg	id="request0044"	cont="스킬북 (플레임 오러)"	/>
+		<msg	id="request0045"	cont="스킬북 (라이트닝 오러)"	/>
+		<msg	id="request0046"	cont="고급 보석함"	/>
+		<msg	id="request0047"	cont="바이크 에픽 컨버터 박스(초월급)"	/>
+		<msg	id="request0048"	cont="고급 여행 가방"	/>
+		<msg	id="request0049"	cont="다크 메이지 배틀모드3 (1단계)"	/>
+		<msg	id="request0050"	cont="다크 메이지 배틀모드3 (2단계)"	/>
+		<msg	id="request0051"	cont="다크 메이지 배틀모드3 (3단계)"	/>
+		<msg	id="request0101"	cont="플라즈마 써킷 x 5"	/>
+		<msg	id="request0102"	cont="익스텐더 써킷 x 5"	/>
+		<msg	id="request0103"	cont="소드 데미지 증폭제(1급) x 100"	/>
+		<msg	id="request0104"	cont="매직 데미지 증폭제(1급) x 100"	/>
+		<msg	id="request0105"	cont="익스트랙트 포션(힘) x 5"	/>
+		<msg	id="request0106"	cont="익스트랙트 포션(민첩) x 5"	/>
+		<msg	id="request0107"	cont="익스트랙트 포션(지능) x 5"	/>
+		<msg	id="request0108"	cont="다이아몬드 큐브 x 1"	/>
+		<msg	id="request0109"	cont="사파이어 참 강화 (1단계)"	/>
+		<msg	id="request0110"	cont="루비 참 강화 (1단계)"	/>
+		<msg	id="request0111"	cont="에메랄드 참 강화 (1단계)"	/>
+		<msg	id="request0112"	cont="봉인된 메르가헤프의 반지"	/>
+		<msg	id="request0113"	cont="킬리안의 반지"	/>
+		<msg	id="request0114"	cont="매터리얼 코어(티타니움) x 20"	/>
+		<msg	id="request0115"	cont="쿼츠 코어(페리스틴) x 20"	/>
+		<msg	id="request0116"	cont="지도의 한조각 x 1"	/>
+		<msg	id="request0117"	cont="머스터 카드 : 루이나 스테이션 x 1"	/>
+		<msg	id="request0118"	cont="스테인 클론 세트 x 1"	/>
+		<msg	id="request0119"	cont="앰버 참 강화 (1단계)"	/>
+		<msg	id="request0120"	cont="템푸스의 반지"	/>
+		<msg	id="request0121"	cont="희귀한 머스터 카드 : 포가튼 템플 B2F x1"	/>
+		<msg	id="request0122"	cont="각성한 타일런트의 반지"	/>
+		<msg	id="request0123"	cont="특별한 섬의 나침반 x1"	/>
+		<msg	id="request0124"	cont="봉인된 시에나의 팔찌"	/>
+		<msg	id="request0125"	cont="소드 데미지 증폭제(1급) 변환"	/>
+		<msg	id="request0126"	cont="매직 데미지 증폭제(1급) 변환"	/>
+		<msg	id="request0127"	cont="혼돈과 파멸의 탈리스만"	/>
+		<msg	id="request0128"	cont="룬 슬롯 익스텐더"	/>
+		<msg	id="request0129"	cont="아메시스트 참 강화 (1단계)"	/>
+		<msg	id="request0130"	cont="귀속이 해제된 명예의 큐브(하급)"	/>
+		<msg	id="request0131"	cont="귀속이 해제된 명예의 큐브(중급)"	/>
+		<msg	id="request0132"	cont="귀속이 해제된 명예의 큐브(상급)"	/>
+		<msg	id="request0133"	cont="귀속이 해제된 명예의 큐브(최상급)"	/>
+		<msg	id="request0134"	cont="AP 세이버 (5000/5000)"	/>
+		<msg	id="request0135"	cont="닥터 마젤의 반지"	/>
+		<msg	id="request0136"	cont="영롱한 닉스의 보석"	/>
+		<msg	id="request0137"	cont="포스 에센스 x 1"	/>
+		<msg	id="request0138"	cont="에센스 룬(힘 ll)"	/>
+		<msg	id="request0139"	cont="에센스 룬(크리티컬 확률 저항)"	/>
+		<msg	id="request0140"	cont="봉인된 락샤의 브로치"	/>
+		<msg	id="request0141"	cont="에센스 룬(민첩 ll)"	/>
+		<msg	id="request0142"	cont="봉인된 투르마칸의 팔찌"	/>
+		<msg	id="request0143"	cont="에센스 룬(지능 ll)"	/>
+		<msg	id="request0144"	cont="봉인된 페리우스의 귀걸이"	/>
+		<msg	id="request0145"	cont="봉인된 가이아포스 아뮬렛"	/>
+		<msg	id="request0146"	cont="봉인된 테라포스 아뮬렛"	/>
+		<msg	id="request0147"	cont="특성 개방 물약"	/>
+		<msg	id="request0148"	cont="영롱한 데미지 증폭제(1급) x 100"	/>
+		<msg	id="request0149"	cont="혼탁한 망자의 반지"	/>
+		<msg	id="request0150"	cont="헤카톤의 반지"	/>
+		<msg	id="request0201"	cont="플라즈마 써킷 x 10"	/>
+		<msg	id="request0202"	cont="익스텐더 써킷 x 10"	/>
+		<msg	id="request0203"	cont="업그레이드 코어(크리스탈) x 5"	/>
+		<msg	id="request0204"	cont="포스 코어(크리스탈) x 5"	/>
+		<msg	id="request0205"	cont="소드 데미지 증폭제(2급) x 100"	/>
+		<msg	id="request0206"	cont="매직 데미지 증폭제(2급) x 100"	/>
+		<msg	id="request0207"	cont="사파이어 참 강화 (2단계)"	/>
+		<msg	id="request0208"	cont="루비 참 강화 (2단계)"	/>
+		<msg	id="request0209"	cont="에메랄드 참 강화 (2단계)"	/>
+		<msg	id="request0210"	cont="컨센트레이션 포션(하급) x 5"	/>
+		<msg	id="request0211"	cont="리플렉스 포션(하급) x 5"	/>
+		<msg	id="request0212"	cont="바이탈 포션(하급) x 5"	/>
+		<msg	id="request0213"	cont="샤프니스 포션(하급) x 5"	/>
+		<msg	id="request0214"	cont="마나컨덴스 포션(하급) x 5"	/>
+		<msg	id="request0215"	cont="매터리얼 코어(섀도우 티타니움) x 20"	/>
+		<msg	id="request0216"	cont="쿼츠 코어(아쿠아) x 20"	/>
+		<msg	id="request0217"	cont="망자의 에펄릿 x 1"	/>
+		<msg	id="request0218"	cont="어둠의 인장 x 1"	/>
+		<msg	id="request0219"	cont="카트리지 룰렛(중급) x 1"	/>
+		<msg	id="request0220"	cont="앰버 참 강화 (2단계)"	/>
+		<msg	id="request0221"	cont="소드 데미지 증폭제(2급) 변환"	/>
+		<msg	id="request0222"	cont="매직 데미지 증폭제(2급) 변환"	/>
+		<msg	id="request0223"	cont="아메시스트 참 강화 (2단계)"	/>
+		<msg	id="request0224"	cont="포스 에센스 x 2"	/>
+		<msg	id="request0225"	cont="업그레이드 코어 세트(하급) x 1"	/>
+		<msg	id="request0226"	cont="업그레이드 코어 세트(중급) x 1"	/>
+		<msg	id="request0227"	cont="업그레이드 코어 세트(상급) x 1"	/>
+		<msg	id="request0228"	cont="업그레이드 코어 세트(최상급) x 1"	/>
+		<msg	id="request0229"	cont="업그레이드 코어 세트(초월급) x 1"	/>
+		<msg	id="request0230"	cont="카오스 코어 세트 x 1"	/>
+		<msg	id="request0231"	cont="디바인 스톤 세트 x 1"	/>
+		<msg	id="request0232"	cont="영롱한 데미지 증폭제(2급) x 100"	/>
+		<msg	id="request0301"	cont="업그레이드 코어(크리스탈) x 10"	/>
+		<msg	id="request0302"	cont="포스 코어(크리스탈) x 10"	/>
+		<msg	id="request0303"	cont="소드 데미지 증폭제(3급) x 100"	/>
+		<msg	id="request0304"	cont="매직 데미지 증폭제(3급) x 100"	/>
+		<msg	id="request0305"	cont="사파이어 참 강화 (3단계)"	/>
+		<msg	id="request0306"	cont="루비 참 강화 (3단계)"	/>
+		<msg	id="request0307"	cont="에메랄드 참 강화 (3단계)"	/>
+		<msg	id="request0308"	cont="컨센트레이션 포션(중급) x 5"	/>
+		<msg	id="request0309"	cont="리플렉스 포션(중급) x 5"	/>
+		<msg	id="request0310"	cont="바이탈 포션(중급) x 5"	/>
+		<msg	id="request0311"	cont="샤프니스 포션(중급) x 5"	/>
+		<msg	id="request0312"	cont="마나컨덴스 포션(중급) x 5"	/>
+		<msg	id="request0313"	cont="바이탈 리젠 포션(하급) x 5"	/>
+		<msg	id="request0314"	cont="하드니스 포션(하급) x 5"	/>
+		<msg	id="request0315"	cont="스트라이크 포션(하급) x 5"	/>
+		<msg	id="request0316"	cont="매터리얼 코어(오스미움) x 20"	/>
+		<msg	id="request0317"	cont="쿼츠 코어(라피스) x 20"	/>
+		<msg	id="request0318"	cont="망자의 에펄릿(B2F) Part1 x 1"	/>
+		<msg	id="request0319"	cont="머스터 카드 : 포가튼 템플 B1F x 1"	/>
+		<msg	id="request0320"	cont="플레임 다이스(중급) x 1"	/>
+		<msg	id="request0321"	cont="다크 다이스(중급) x 1"	/>
+		<msg	id="request0322"	cont="홀리 다이스(중급) x 1"	/>
+		<msg	id="request0323"	cont="에어 다이스(중급) x 1"	/>
+		<msg	id="request0324"	cont="썬더 다이스(중급) x 1"	/>
+		<msg	id="request0325"	cont="블러디 다이스(중급) x 1"	/>
+		<msg	id="request0326"	cont="어스 다이스(중급) x 1"	/>
+		<msg	id="request0327"	cont="아쿠아 다이스(중급) x 1"	/>
+		<msg	id="request0328"	cont="소울 다이스(중급) x 1"	/>
+		<msg	id="request0329"	cont="앰버 참 강화 (3단계)"	/>
+		<msg	id="request0330"	cont="소드 데미지 증폭제(3급) 변환"	/>
+		<msg	id="request0331"	cont="매직 데미지 증폭제(3급) 변환"	/>
+		<msg	id="request0332"	cont="아메시스트 참 강화 (3단계)"	/>
+		<msg	id="request0333"	cont="포스 에센스 x 3"	/>
+		<msg	id="request0334"	cont="업그레이드 코어 세트(하급) x 3"	/>
+		<msg	id="request0335"	cont="업그레이드 코어 세트(중급) x 3"	/>
+		<msg	id="request0336"	cont="업그레이드 코어 세트(상급) x 3"	/>
+		<msg	id="request0337"	cont="업그레이드 코어 세트(최상급) x 3"	/>
+		<msg	id="request0338"	cont="업그레이드 코어 세트(초월급) x 3"	/>
+		<msg	id="request0339"	cont="카오스 코어 세트 x 3"	/>
+		<msg	id="request0340"	cont="디바인 스톤 세트 x 3"	/>
+		<msg	id="request0341"	cont="영롱한 데미지 증폭제(3급) x 100"	/>
+		<msg	id="request0401"	cont="소드 데미지 증폭제(4급) x 100"	/>
+		<msg	id="request0402"	cont="매직 데미지 증폭제(4급) x 100"	/>
+		<msg	id="request0403"	cont="사파이어 참 강화 (4단계)"	/>
+		<msg	id="request0404"	cont="루비 참 강화 (4단계)"	/>
+		<msg	id="request0405"	cont="에메랄드 참 강화 (4단계)"	/>
+		<msg	id="request0406"	cont="컨센트레이션 포션(상급) x 5"	/>
+		<msg	id="request0407"	cont="리플렉스 포션(상급) x 5"	/>
+		<msg	id="request0408"	cont="바이탈 포션(상급) x 5"	/>
+		<msg	id="request0409"	cont="샤프니스 포션(상급) x 5"	/>
+		<msg	id="request0410"	cont="마나컨덴스 포션(상급) x 5"	/>
+		<msg	id="request0411"	cont="바이탈 리젠 포션(중급) x 5"	/>
+		<msg	id="request0412"	cont="하드니스 포션(중급) x 5"	/>
+		<msg	id="request0413"	cont="스트라이크 포션(중급) x 5"	/>
+		<msg	id="request0414"	cont="퓨리 포션(소) x 5"	/>
+		<msg	id="request0415"	cont="소드 마스터 포션(하급) x 5"	/>
+		<msg	id="request0416"	cont="매직 마스터 포션(하급) x 5"	/>
+		<msg	id="request0417"	cont="이베이젼 포션(하급) x 5"	/>
+		<msg	id="request0418"	cont="매터리얼 코어(레드 오스미움) x 20"	/>
+		<msg	id="request0419"	cont="쿼츠 코어(토파즈) x 20"	/>
+		<msg	id="request0420"	cont="환영의 묵시록 사본 x 1"	/>
+		<msg	id="request0421"	cont="시에나의 문장 B1F x 1"	/>
+		<msg	id="request0422"	cont="카트리지 룰렛(상급) x 1"	/>
+		<msg	id="request0423"	cont="앰버 참 강화 (4단계)"	/>
+		<msg	id="request0424"	cont="익스트림 코어 포켓(레어)"	/>
+		<msg	id="request0425"	cont="소드 데미지 증폭제(4급) 변환"	/>
+		<msg	id="request0426"	cont="매직 데미지 증폭제(4급) 변환"	/>
+		<msg	id="request0427"	cont="아메시스트 참 강화 (4단계)"	/>
+		<msg	id="request0428"	cont="포스 에센스 x 4"	/>
+		<msg	id="request0429"	cont="업그레이드 코어 세트(하급) x 8"	/>
+		<msg	id="request0430"	cont="업그레이드 코어 세트(중급) x 8"	/>
+		<msg	id="request0431"	cont="업그레이드 코어 세트(상급) x 8"	/>
+		<msg	id="request0432"	cont="업그레이드 코어 세트(최상급) x 8"	/>
+		<msg	id="request0433"	cont="업그레이드 코어 세트(초월급) x 8"	/>
+		<msg	id="request0434"	cont="카오스 코어 세트 x 8"	/>
+		<msg	id="request0435"	cont="디바인 스톤 세트 x 8"	/>
+		<msg	id="request0436"	cont="영롱한 데미지 증폭제(4급) x 100"	/>
+		<msg	id="request0501"	cont="소드 데미지 증폭제(5급) x 100"	/>
+		<msg	id="request0502"	cont="매직 데미지 증폭제(5급) x 100"	/>
+		<msg	id="request0503"	cont="사파이어 참 강화 (5단계)"	/>
+		<msg	id="request0504"	cont="루비 참 강화 (5단계)"	/>
+		<msg	id="request0505"	cont="에메랄드 참 강화 (5단계)"	/>
+		<msg	id="request0506"	cont="컨센트레이션 포션(최상급) x 5"	/>
+		<msg	id="request0507"	cont="리플렉스 포션(최상급) x 5"	/>
+		<msg	id="request0508"	cont="바이탈 포션(최상급) x 5"	/>
+		<msg	id="request0509"	cont="샤프니스 포션(최상급) x 5"	/>
+		<msg	id="request0510"	cont="마나컨덴스 포션(최상급) x 5"	/>
+		<msg	id="request0511"	cont="바이탈 리젠 포션(상급) x 5"	/>
+		<msg	id="request0512"	cont="하드니스 포션(상급) x 5"	/>
+		<msg	id="request0513"	cont="스트라이크 포션(상급) x 5"	/>
+		<msg	id="request0514"	cont="퓨리 포션(중) x 5"	/>
+		<msg	id="request0515"	cont="소드 마스터 포션(중급) x 5"	/>
+		<msg	id="request0516"	cont="매직 마스터 포션(중급) x 5"	/>
+		<msg	id="request0517"	cont="이베이젼 포션(중급) x 5"	/>
+		<msg	id="request0518"	cont="업그레이드 코어(하급) x 1"	/>
+		<msg	id="request0519"	cont="포스 코어(하급) x 1"	/>
+		<msg	id="request0520"	cont="매터리얼 코어(시그메탈) x 20"	/>
+		<msg	id="request0521"	cont="쿼츠 코어(시그메탈) x 20"	/>
+		<msg	id="request0522"	cont="길 잃은 섬의 나침반 x 1"	/>
+		<msg	id="request0523"	cont="시에나의 문장 B2F x 1"	/>
+		<msg	id="request0524"	cont="플레임 다이스(상급) x 1"	/>
+		<msg	id="request0525"	cont="다크 다이스(상급) x 1"	/>
+		<msg	id="request0526"	cont="홀리 다이스(상급) x 1"	/>
+		<msg	id="request0527"	cont="에어 다이스(상급) x 1"	/>
+		<msg	id="request0528"	cont="썬더 다이스(상급) x 1"	/>
+		<msg	id="request0529"	cont="블러디 다이스(상급) x 1"	/>
+		<msg	id="request0530"	cont="어스 다이스(상급) x 1"	/>
+		<msg	id="request0531"	cont="아쿠아 다이스(상급) x 1"	/>
+		<msg	id="request0532"	cont="소울 다이스(상급) x 1"	/>
+		<msg	id="request0533"	cont="앰버 참 강화 (5단계)"	/>
+		<msg	id="request0534"	cont="카오스 코어 x 1"	/>
+		<msg	id="request0535"	cont="소드 데미지 증폭제(5급) 변환"	/>
+		<msg	id="request0536"	cont="매직 데미지 증폭제(5급) 변환"	/>
+		<msg	id="request0537"	cont="아메시스트 참 강화 (5단계)"	/>
+		<msg	id="request0538"	cont="디바인 스톤 x 1"	/>
+		<msg	id="request0539"	cont="포스 에센스 x 5"	/>
+		<msg	id="request0540"	cont="업그레이드 코어 세트(하급) x 15"	/>
+		<msg	id="request0541"	cont="업그레이드 코어 세트(중급) x 15"	/>
+		<msg	id="request0542"	cont="업그레이드 코어 세트(상급) x 15"	/>
+		<msg	id="request0543"	cont="업그레이드 코어 세트(최상급) x 15"	/>
+		<msg	id="request0544"	cont="업그레이드 코어 세트(초월급) x 15"	/>
+		<msg	id="request0545"	cont="카오스 코어 세트 x 15"	/>
+		<msg	id="request0546"	cont="디바인 스톤 세트 x 15"	/>
+		<msg	id="request0547"	cont="영롱한 데미지 증폭제(5급) x 100"	/>
+		<msg	id="request0601"	cont="소드 데미지 증폭제(6급) x 100"	/>
+		<msg	id="request0602"	cont="매직 데미지 증폭제(6급) x 100"	/>
+		<msg	id="request0603"	cont="사파이어 참 강화 (6단계)"	/>
+		<msg	id="request0604"	cont="루비 참 강화 (6단계)"	/>
+		<msg	id="request0605"	cont="에메랄드 참 강화 (6단계)"	/>
+		<msg	id="request0606"	cont="바이탈 리젠 포션(최상급) x 5"	/>
+		<msg	id="request0607"	cont="하드니스 포션(최상급) x 5"	/>
+		<msg	id="request0608"	cont="스트라이크 포션(최상급) x 5"	/>
+		<msg	id="request0609"	cont="퓨리 포션(대) x 5"	/>
+		<msg	id="request0610"	cont="소드 마스터 포션(상급) x 5"	/>
+		<msg	id="request0611"	cont="매직 마스터 포션(상급) x 5"	/>
+		<msg	id="request0612"	cont="이베이젼 포션(상급) x 5"	/>
+		<msg	id="request0613"	cont="업그레이드 코어(하급) x 5"	/>
+		<msg	id="request0614"	cont="포스 코어(하급) x 5"	/>
+		<msg	id="request0615"	cont="업그레이드 코어(중급) x 1"	/>
+		<msg	id="request0616"	cont="포스 코어(중급) x 1"	/>
+		<msg	id="request0617"	cont="퍼펙트 코어(하급) x 1"	/>
+		<msg	id="request0618"	cont="슬롯 익스텐더(하급) x 1"	/>
+		<msg	id="request0619"	cont="매터리얼 코어(미스릴) x 20"	/>
+		<msg	id="request0620"	cont="쿼츠 코어(미스릴) x 20"	/>
+		<msg	id="request0621"	cont="이계의 묵시록 x 1"	/>
+		<msg	id="request0622"	cont="머스터 카드 : 포가튼 템플 B2F x 1"	/>
+		<msg	id="request0623"	cont="카트리지 룰렛(최상급) x 1"	/>
+		<msg	id="request0624"	cont="귀속 해제석 큐브(중급) x 1"	/>
+		<msg	id="request0625"	cont="앰버 참 강화 (6단계)"	/>
+		<msg	id="request0626"	cont="익스트림 코어 포켓(에픽)"	/>
+		<msg	id="request0627"	cont="카오스 코어 x 3"	/>
+		<msg	id="request0628"	cont="소드 데미지 증폭제(6급) 변환"	/>
+		<msg	id="request0629"	cont="매직 데미지 증폭제(6급) 변환"	/>
+		<msg	id="request0630"	cont="아메시스트 참 강화 (6단계)"	/>
+		<msg	id="request0631"	cont="디바인 스톤 x 3"	/>
+		<msg	id="request0632"	cont="귀속이 해제된 공훈패 x 1"	/>
+		<msg	id="request0633"	cont="강화 등급 하락 방지 보조제(디바인)"	/>
+		<msg	id="request0634"	cont="파괴 방지 보조제 - 혼돈 벨트"	/>
+		<msg	id="request0635"	cont="파괴 방지 보조제 - 혼돈의 탈리스만"	/>
+		<msg	id="request0636"	cont="파괴 방지 보조제 - 커넬리언"	/>
+		<msg	id="request0637"	cont="파괴 방지 보조제 - 혼돈의 아르카나"	/>
+		<msg	id="request0638"	cont="파괴 방지 보조제 - 질서의 아르카나"	/>
+		<msg	id="request0639"	cont="파괴 방지 보조제 - 수호의 아르카나"	/>
+		<msg	id="request0640"	cont="귀속이 해제된 공훈패 x 127"	/>
+		<msg	id="request0641"	cont="업그레이드 코어 세트(하급) x 30"	/>
+		<msg	id="request0642"	cont="업그레이드 코어 세트(중급) x 30"	/>
+		<msg	id="request0643"	cont="업그레이드 코어 세트(상급) x 30"	/>
+		<msg	id="request0644"	cont="업그레이드 코어 세트(최상급) x 30"	/>
+		<msg	id="request0645"	cont="업그레이드 코어 세트(초월급) x 30"	/>
+		<msg	id="request0646"	cont="카오스 코어 세트 x 30"	/>
+		<msg	id="request0647"	cont="디바인 스톤 세트 x 30"	/>
+		<msg	id="request0648"	cont="파괴 방지 보조제 - 이어링"	/>
+		<msg	id="request0649"	cont="파괴 방지 보조제 - 아뮬렛"	/>
+		<msg	id="request0650"	cont="파괴 방지 보조제 - 브레이슬릿"	/>
+		<msg	id="request0651"	cont="영롱한 데미지 증폭제(6급) x 100"	/>
+		<msg	id="request0701"	cont="사파이어 참 강화 (7단계)"	/>
+		<msg	id="request0702"	cont="루비 참 강화 (7단계)"	/>
+		<msg	id="request0703"	cont="에메랄드 참 강화 (7단계)"	/>
+		<msg	id="request0704"	cont="소드 마스터 포션(최상급) x 5"	/>
+		<msg	id="request0705"	cont="매직 마스터 포션(최상급) x 5"	/>
+		<msg	id="request0706"	cont="이베이젼 포션(최상급) x 5"	/>
+		<msg	id="request0707"	cont="업그레이드 코어(중급) x 5"	/>
+		<msg	id="request0708"	cont="포스 코어(중급) x 5"	/>
+		<msg	id="request0709"	cont="업그레이드 코어(상급) x 1"	/>
+		<msg	id="request0710"	cont="포스 코어(상급) x 1"	/>
+		<msg	id="request0711"	cont="퍼펙트 코어(하급) x 2"	/>
+		<msg	id="request0712"	cont="슬롯 익스텐더(하급) x 2"	/>
+		<msg	id="request0713"	cont="퍼펙트 코어(중급) x 1"	/>
+		<msg	id="request0714"	cont="슬롯 익스텐더(중급) x 1"	/>
+		<msg	id="request0715"	cont="바이크 슬롯 컨버터(중급) x 1"	/>
+		<msg	id="request0716"	cont="바이크 슬롯 컨버터(상급) x 1"	/>
+		<msg	id="request0717"	cont="해킹된 코드 디스크 x 1"	/>
+		<msg	id="request0718"	cont="플레임 다이스(최상급) x 1"	/>
+		<msg	id="request0719"	cont="다크 다이스(최상급) x 1"	/>
+		<msg	id="request0720"	cont="홀리 다이스(최상급) x 1"	/>
+		<msg	id="request0721"	cont="에어 다이스(최상급) x 1"	/>
+		<msg	id="request0722"	cont="썬더 다이스(최상급) x 1"	/>
+		<msg	id="request0723"	cont="블러디 다이스(최상급) x 1"	/>
+		<msg	id="request0724"	cont="어스 다이스(최상급) x 1"	/>
+		<msg	id="request0725"	cont="아쿠아 다이스(최상급) x 1"	/>
+		<msg	id="request0726"	cont="소울 다이스(최상급) x 1"	/>
+		<msg	id="request0727"	cont="귀속 해제석 큐브(상급) x 1"	/>
+		<msg	id="request0728"	cont="앰버 참 강화 (7단계)"	/>
+		<msg	id="request0729"	cont="바이크 슬롯 컨버터(최상급) x 1"	/>
+		<msg	id="request0730"	cont="카오스 코어 x 5"	/>
+		<msg	id="request0731"	cont="소드 데미지 증폭제(7급) x 100"	/>
+		<msg	id="request0732"	cont="매직 데미지 증폭제(7급) x 100"	/>
+		<msg	id="request0733"	cont="소드 데미지 증폭제(7급) 변환"	/>
+		<msg	id="request0734"	cont="매직 데미지 증폭제(7급) 변환"	/>
+		<msg	id="request0735"	cont="매터리얼 코어(아크리디움) x 20"	/>
+		<msg	id="request0736"	cont="레이지 포션(대) x 5"	/>
+		<msg	id="request0737"	cont="쿼츠 코어(아크리디움) x 20"	/>
+		<msg	id="request0738"	cont="아메시스트 참 강화 (7단계)"	/>
+		<msg	id="request0739"	cont="디바인 스톤 x 5"	/>
+		<msg	id="request0740"	cont="귀속이 해제된 공훈패 x 5"	/>
+		<msg	id="request0741"	cont="바이크 슬롯 컨버터(초월급) x 1"	/>
+		<msg	id="request0742"	cont="영롱한 데미지 증폭제(7급) x 100"	/>
+		<msg	id="request0801"	cont="업그레이드 코어(상급) x 5"	/>
+		<msg	id="request0802"	cont="포스 코어(상급) x 5"	/>
+		<msg	id="request0803"	cont="업그레이드 코어(최상급) x 1"	/>
+		<msg	id="request0804"	cont="포스 코어(최상급) x 1"	/>
+		<msg	id="request0805"	cont="퍼펙트 코어(중급) x 2"	/>
+		<msg	id="request0806"	cont="슬롯 익스텐더(중급) x 2"	/>
+		<msg	id="request0807"	cont="퍼펙트 코어(상급) x 1"	/>
+		<msg	id="request0808"	cont="슬롯 익스텐더(상급) x 1"	/>
+		<msg	id="request0809"	cont="귀속 해제석 큐브(최상급) x 1"	/>
+		<msg	id="request0810"	cont="사파이어 참 합성 (루비)"	/>
+		<msg	id="request0811"	cont="사파이어 참 합성 (에메랄드)"	/>
+		<msg	id="request0812"	cont="사파이어 참 합성 (앰버)"	/>
+		<msg	id="request0813"	cont="루비 참 합성 (사파이어)"	/>
+		<msg	id="request0814"	cont="루비 참 합성 (에메랄드)"	/>
+		<msg	id="request0815"	cont="루비 참 합성 (앰버)"	/>
+		<msg	id="request0816"	cont="에메랄드 참 합성 (사파이어)"	/>
+		<msg	id="request0817"	cont="에메랄드 참 합성 (루비)"	/>
+		<msg	id="request0818"	cont="에메랄드 참 합성 (앰버)"	/>
+		<msg	id="request0819"	cont="앰버 참 합성 (사파이어)"	/>
+		<msg	id="request0820"	cont="앰버 참 합성 (루비)"	/>
+		<msg	id="request0821"	cont="앰버 참 합성 (에메랄드)"	/>
+		<msg	id="request0822"	cont="카오스 코어 x 7"	/>
+		<msg	id="request0823"	cont="아메시스트 참 합성 (루비)"	/>
+		<msg	id="request0824"	cont="아메시스트 참 합성 (에메랄드)"	/>
+		<msg	id="request0825"	cont="아메시스트 참 합성 (앰버)"	/>
+		<msg	id="request0826"	cont="아메시스트 참 합성 (사파이어)"	/>
+		<msg	id="request0827"	cont="사파이어 참 합성 (퍼플)"	/>
+		<msg	id="request0828"	cont="루비 참 합성 (퍼플)"	/>
+		<msg	id="request0829"	cont="에메랄드 참 합성 (퍼플)"	/>
+		<msg	id="request0830"	cont="앰버 참 합성 (퍼플)"	/>
+		<msg	id="request0831"	cont="디바인 스톤 x 7"	/>
+		<msg	id="request0832"	cont="귀속이 해제된 공훈패 x 10"	/>
+		<msg	id="request0833"	cont="소드 데미지 증폭제(8급) x 100"	/>
+		<msg	id="request0834"	cont="매직 데미지 증폭제(8급) x 100"	/>
+		<msg	id="request0835"	cont="소드 데미지 증폭제(8급) 변환"	/>
+		<msg	id="request0836"	cont="매직 데미지 증폭제(8급) 변환"	/>
+		<msg	id="request0837"	cont="영롱한 데미지 증폭제(8급) x 100"	/>
+		<msg	id="request0901"	cont="퍼펙트 코어(상급) x 2"	/>
+		<msg	id="request0902"	cont="슬롯 익스텐더(상급) x 2"	/>
+		<msg	id="request0903"	cont="퍼펙트 코어(최상급) x 1"	/>
+		<msg	id="request0904"	cont="슬롯 익스텐더(최상급) x 1"	/>
+		<msg	id="request0905"	cont="업그레이드 코어(최상급) x 5"	/>
+		<msg	id="request0906"	cont="포스 코어(최상급) x 5"	/>
+		<msg	id="request0907"	cont="익스트림 코어 포켓(유니크)"	/>
+		<msg	id="request0908"	cont="카오스 코어 x 10"	/>
+		<msg	id="request0909"	cont="디바인 스톤 x 10"	/>
+	</request_name_msg>
+</craft_message>

@@ -1,0 +1,36 @@
+
+<Heil_message>
+	<season_msg>
+		<msg	id="1"	desc="헤일의 연구 : 조사"	/>
+		<msg	id="2"	desc="헤일의 연구 : 관찰"	/>
+		<msg	id="3"	desc="헤일의 연구 : 가설 설정"	/>
+	</season_msg>
+	<clue_rank>
+		<msg	id="1"	desc="최종 조립 (1등급)"	/>
+		<msg	id="2"	desc="영구 동력 (2등급)"	/>
+		<msg	id="3"	desc="전체 기동 (3등급)"	/>
+		<msg	id="4"	desc="운용 (4등급)"	/>
+		<msg	id="5"	desc="공격 (5등급)"	/>
+	</clue_rank>
+	<change_group>
+		<msg	id="41"	desc="무기 속성주문서(하급)"	/>
+		<msg	id="42"	desc="무기 속성주문서(중급)"	/>
+		<msg	id="43"	desc="무기 속성주문서(상급)"	/>
+		<msg	id="44"	desc="무기 속성주문서(최상급)"	/>
+		<msg	id="45"	desc="방어구 속성주문서(하급)"	/>
+		<msg	id="46"	desc="방어구 속성주문서(중급)"	/>
+		<msg	id="47"	desc="방어구 속성주문서(상급)"	/>
+		<msg	id="48"	desc="방어구 속성주문서(최상급)"	/>
+		<msg	id="49"	desc="업그레이드 코어(하급)"	/>
+		<msg	id="50"	desc="업그레이드 코어(중급)"	/>
+		<msg	id="51"	desc="업그레이드 코어(상급)"	/>
+		<msg	id="52"	desc="업그레이드 코어(최상급)"	/>
+		<msg	id="53"	desc="업그레이드 코어(초월급)"	/>
+		<msg	id="54"	desc="카오스 코어"	/>
+		<msg	id="55"	desc="디바인 스톤"	/>
+		<msg	id="56"	desc="무기/방어구 속성주문서(최상급)"	/>
+		<msg	id="57"	desc="무기/방어구 속성주문서(상급)"	/>
+		<msg	id="58"	desc="무기/방어구 속성주문서(중급)"	/>
+		<msg	id="59"	desc="무기/방어구 속성주문서(하급)"	/>
+	</change_group>
+</Heil_message>

@@ -1,0 +1,6457 @@
+1@ OK
+2@ Authentication
+13669@ Capella
+13670@ Central Sanctum
+13671@ Lower Sanctum
+13672@ Procyon
+7245@ Login
+7246@ Save ID
+7368@ Soft Keyboard
+7248@ Account Login
+10@ Exit
+11@ OK
+12@ Save ID
+13@ Soft Keyboard
+14@ ID
+15@ Password
+16@ Log In
+7249@ Exit Game
+6393@ Exit
+6394@ Confirmation
+6395@ Save ID
+6396@ security keyboard
+6397@ ID
+6398@ Password
+6399@ Log In
+3742@ Exit
+3743@ Confirmation
+3744@ Save ID
+3745@ Soft Keyboard
+3746@ ID
+3747@ Password
+3748@ Log In
+13412@ LOGIN
+7515@ BGM ON/OFF
+17@ Exit
+18@ Confirmation
+19@ Save ID
+20@ Soft Keyboard
+21@ ID
+22@ Password
+23@ Log In
+3948@ Exit
+3949@ OK
+3950@ Save ID
+3951@ Soft Keyboard
+3954@ Log In
+3952@ ID
+3953@ Password
+7634@ OK
+7635@ Auto Log-out Notice
+6746@ Lv.
+9702@ Lv.
+7251@ Powerful swordsmanship, the best melee fighter
+7252@ Weapons
+7253@ Great Sword / Daikatana
+7254@ Armors
+7255@ Armor Suit Set
+7256@ Difficulty
+7258@ Warrior
+7378@ Exit Game
+7376@ Create Character
+7259@ Magic Type
+7260@ Sword Type
+7263@ Wizard
+7264@ Force Archer
+7265@ Force Gunner
+12006@ Dark Mage
+7266@ Warrior
+7267@ Blader
+7268@ Force Shielder
+7269@ Force Blader
+7270@ Gladiator
+7389@ Previous Screen
+7390@ Set Appearance
+7271@ Character Name
+7273@ Rotate View
+7402@ Exit Game
+7401@ Create Character
+7277@ Reset Setting
+7278@ Gender
+7279@ Face
+7280@ Hair Style
+7281@ Hair Color
+7282@ Set Character
+7405@ Previous Screen
+7406@ Create Character
+3750@ Cancel
+3755@ MePIN Code
+3778@ Cancel
+3736@ OK
+3737@ MEPIN
+3762@ Confirmation
+3758@ Cancel
+3759@ Mobile Login
+3760@ Nick Name
+3761@ USB Login
+3763@ Connect your USB taken to log in
+38@ OK
+39@ OTP
+954@ OK
+955@ Challenge Code :
+956@ Dynamic Password
+8973@ 1,136:0
+40@ 2,9:6,71:3
+7285@ 0,2:8
+7288@ Character List
+11922@ 1
+11923@ 2
+7439@ Previous Screen
+7440@ Start
+11925@ 0,173:16
+11930@ 0,173:16
+11926@ OK
+11927@ Edit Character Location
+11928@ 1
+11929@ 2
+7290@ Created on
+7291@ 2012.12.12
+7292@ Current Location
+7293@ Bloody Ice
+7294@ Channel 5
+7295@ Busy
+7296@ Prometheus Server
+7430@ Exit Game
+7429@ Select Character
+11780@ 2,1:5
+11781@ Server Select
+7636@ Log out
+7637@ Enter Server
+7638@  
+7302@ Exit Game
+13893@ Reward
+13948@ 1,198:0
+13949@ 1,198:0
+14008@ 1 / 3
+14014@ 1/25
+14009@ Daily Mission
+14011@ Daily Mission Count
+14012@ Weekly Mission
+14013@ Weekly Mission Count
+13947@ Mission
+13946@ Mission
+13945@ 1,199:0
+13923@ Reward
+13973@ Receive All
+13966@ Receive reward
+13967@ Receive reward
+13994@ Purchase
+13987@ Normal
+13988@ Premium
+13992@ MAX
+14007@ 50 / 50
+13971@ Step
+13995@ * Gained reward will be given at $1#Inventory$
+13998@ 50
+13999@ Normal Event Pass
+14001@ 50 / 50
+14002@ - Daily missions reset at 05:00 every day.
+14003@ - Weekly Mission will be reset
+14004@    05:00 initialized.
+14006@ Until December 30, 2023
+14027@ Event Pass : Clue in the abyss
+14045@ Reward Info
+13974@ Close
+13969@ UP
+3318@ :
+10880@ 2,165:3
+6796@ 777
+6797@ HP :
+6798@ 100%
+6799@ 100%
+6800@ HP :
+6801@ Blue Seal Stone
+6802@ Red Seal Stone
+65@ Invite Member
+66@ Invitation Rule
+67@ Looting Rule
+68@ Expel Member
+69@ Delegate Leadership
+70@ Leave Party
+2572@ Resurrect Party Member
+71@ Search Party
+2577@ Summon Party Member
+2811@ Warp to Party Members
+2576@ Resurrect Party Member
+2581@ Summon Party Member
+2585@ Warp to Party Members
+72@ Invite Member
+73@ Invite Member
+74@ Looting Rule
+75@ Search Party
+76@ Leave Party
+2575@ Resurrect Party Member
+2580@ Summon Party Member
+2584@ Warp to Party Members
+2573@ Resurrect Party Member
+77@ Register Recruit
+78@ Recruit Off
+2578@ Summon Party Member
+2582@ Warp to Party Members
+79@ Party Leader
+80@ All Members
+81@ Search Party
+82@ Register Recruit
+83@ Cancel Recruit
+11639@ Exit
+2653@ 0,73:2,73:5,73:5,75:1
+10062@ HP
+10063@ MP
+10064@ SP
+10065@ /
+10066@ /
+10067@ /
+10068@ /
+10069@ BP
+10070@ HP
+10071@ MP
+10072@ SP
+10073@ /
+10074@ /
+10075@ /
+10076@ Death Penalty
+10077@ BP
+10078@ /
+94@ 1,29:0,36:0,37:0,29:0
+95@ 1,0:0
+96@ 1,0:0
+97@ 1,0:0
+98@ 1,29:0,31:0,32:0,33:0,29:0
+99@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+100@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+101@ 1,0:0
+102@ 1,0:0
+103@ 1,0:0
+104@ 1,0:0
+105@ 1,0:0
+7303@ Create Character
+11931@ Create Character
+11787@ 2, 66:10
+11788@ 1,1:0
+8801@ 1,136:0
+2654@ 2, 74:5
+5938@ 1,0:0
+7668@ Achievement Rank
+7669@ Summary
+7670@ Title
+7671@ 2,78:2
+7672@ 2,79:10
+7673@ Achievements
+7674@ Category
+7675@ Details
+7676@ Achievements
+7677@ Summary
+7678@ Title
+7679@ 2,78:2
+7680@ 2,82:1
+7681@ Achievement Rank
+7682@ Category
+7683@ Ranking
+7684@ Ranking
+7685@ Level
+7686@ Character
+7687@ Guild
+7688@ Ach. Points
+7689@ Achievements
+7690@ Achievement Rank
+7691@ Title
+7693@ 2,76:1
+7694@ 2,77:3
+7695@ Summary
+7696@ General Info
+7697@ My Achievements
+7698@ Total Points
+7699@ Total
+7700@ Ranking
+11786@ Recent Achievements
+7701@ Achievements
+7702@ Achievement Rank
+7703@ Summary
+7704@ 2,81:3
+7706@ Title
+7707@ Received Title
+7708@ Registered Title
+11628@ Total Title Stat
+11629@ Title Shown
+11630@ Guild Title
+11631@ Bringer/Guardian Title
+11632@ Event Title
+7709@ Achievement
+7710@ Close
+11827@ 2,176:4
+11828@ 2,174:20
+11829@ 2,175:5
+11830@ Time Accumulated
+11831@ Acquired Awakening pts
+11832@ Awakened Stats
+11833@ Lv.1
+11834@ Lv.2
+11835@ Lv.3
+11836@ Stage 4
+11837@ Stage 5
+11838@ (0min)
+11839@ (5min)
+11840@ Awakened Aura Mode
+5939@ Change Battle Style
+5940@ Select Battle Style
+5941@ Skill and Rune Information
+5942@ Battle Mode
+5943@ Essence
+5944@ Blended
+5945@ Current Battle Style :
+5946@ Please select Battle Style
+5947@ Battle Style Information
+5948@ Select Battle Style
+5949@ Explanation
+5950@ Default
+5951@ Change
+5952@ Items will be given after changing Battle Style
+5953@ All stats will be reset
+5954@ Explanation
+5955@ - Aura Mode will not change
+5956@ except for Battle Style related skills
+5958@ - Decreased stats will be returned as points
+5959@ according to selected Battle Style
+5960@ - Skills will be deleted
+5961@ - Some Runes will change automatically
+5962@ (Attack Rune II wont be changed)
+5963@ according to selected Battle Style
+5964@ - Achievement, Honor Point
+5965@ for A.Expert rank and above
+6014@ - Attack Skill books will be given
+6015@ will not change
+6016@ will not change
+5966@ Skill Books
+5967@ No
+5968@ Yes
+6318@ Enter
+6319@ Close
+6321@ Arena Shop
+6344@ 1,118:0
+6527@ 999,999,999
+6579@ 999,999
+6349@ 999,999
+6345@ Character Info
+6346@ Season Top Score
+6347@ Season Total Score
+6348@ Daily Top Score
+6577@ Daily Reward
+6351@ Daily Top Score will be added when Season Target is met
+6352@ Only top ranking character will be registered in ranking.
+6537@ 30,000,000(134th)
+8663@ 999,999 tokens
+6556@ 3,000
+6532@ WI Dingdong-dong Kindergarten
+6542@ 999,999 tokens
+6354@ Season Ranking
+6355@ Remaining Time
+6356@ Registered Character
+6357@ Season Total Score
+6358@ Season Reward
+6559@ Season Target Score
+8664@ Daily Ranking Reward
+6359@ 00day(s) 00hour(s) 00minute(s) left
+6363@ Season Boss
+8665@ Season Ranking
+8666@ Season Record
+8667@ Reward List
+8668@ 2,119:10
+8669@ *Rank reset everyday.
+8670@ You can't enter when determining the ranking.
+8671@ *Renewal time : 2 hr
+8672@ Ranking
+8673@ Character
+8674@ Daily Rank
+8675@ Highest Point
+8676@ Daily Rank
+6429@ Season Record
+6430@ Reward List
+6426@ 2,119:10
+6427@ Ranking will reset on every season(1 week)
+6428@ You can't enter when determining the ranking.
+6574@ Renewal date: Daily 23:59
+6431@ Ranking
+6432@ Character
+6433@ Season Ranking
+6434@ Total Score
+8677@ Daily Rank
+6438@ Season Ranking
+6439@ Reward List
+6435@ 2,120:10
+6436@ 20160516 ~ 20160522
+6437@ Only ranking 1 week prior are recorded.
+6440@ Ranking
+6441@ Character
+6442@ Season Record
+6443@ Total Score
+8678@ Daily Rank
+6447@ Season Ranking
+6448@ Season Record
+6444@ 2,121:10
+6445@ Daily Reward will be sent to mail when Season Target is achieved
+6446@ Season Reward will be sent through mail when season ends
+6449@ Rank/Date
+6450@ Reward Item
+6451@ Reward List
+6353@ Ranking and Reward
+6462@ Legend Arena (Baldus)
+8326@ Add Buddy
+8327@ Add Group
+8328@ Block List
+8329@ Request List
+8332@ Buddy
+8333@ Buddy Point
+8334@ Buddy List
+8335@ 2,7:10
+8336@ Add Block
+8337@ Buddy List
+8338@ Request List
+8339@ Buddy
+8340@ Block List
+8341@ 2,7:10
+8342@ Add Buddy
+8343@ Accept All
+8344@ Cancel All
+8345@ Decline All
+8346@ Buddy List
+8347@ Block List
+8348@ Buddy
+8349@ Received Buddy Request
+8350@ Sent Buddy Request
+8351@ 2,7:9
+8352@ 2,7:9
+8353@ Request List
+11508@ Event Inventory
+11509@ Inbox
+11510@ Close
+11512@ Receive
+11513@ Receive All
+11514@ Cash Inventory
+11515@ Reward Item
+11516@ Next Reward Item
+11517@ Reward Item
+11518@ Next Reward Item
+11519@ Mail & Cash / Event Inventory
+13604@ Enter
+13605@ Close
+13606@ 1,191:0
+13607@ 1st Ranking Character
+13608@ 134th
+13609@ 3,000,000
+13610@ Season Ranking
+13611@ Remaining Time
+13612@ Registered Character
+13613@ Season Top Score
+13614@ Ranking
+13615@ Recent Record
+13668@ Start the next season
+13616@ 00day(s) 00hour(s) 00minute(s) left
+13617@ 3,000,000
+13618@ Dungeon Info
+13619@ Reward List
+13620@ 1,192:0
+13621@ Ranking
+13622@ Character
+13623@ Season Ranking
+13624@ Score
+13625@ Level
+13626@ Season Ranking
+13627@ 1,193:0
+13628@ Minimum Points
+13629@ Reward Item
+13630@ Reward List
+13631@ Ranking and Reward
+13632@ Dungeon Challenge
+13666@ Remaining Time
+13633@ Finish Dungeon
+13634@ Move to next stage
+13635@ Complete the Stage 5
+13636@ Monster Killed Score
+13637@ 00Score
+13638@ Complete Score
+13639@ 00Score
+13640@ Time Bonus
+13641@ 00Score
+13642@ Total Score
+13643@ 00Score
+13644@ Confirmation
+13645@ Finish Dungeon
+13646@ Progress Phase
+13647@ Stage 15
+13648@ Final Score
+13649@ 00Score
+13650@ Reward
+13652@ Applied Buff Effect
+13653@ 999,999,999
+13654@ Lv.1
+7306@ Cancel
+7307@ OK
+7308@ Owner Confirmation Procedure
+7309@ Enter your password again.
+7224@ 2,63:38
+7225@ Normal
+7226@ Gladiator Rank 21
+7227@ Honor Rank
+7228@ WExp
+7229@ W.Rank
+7230@ STR
+7231@ INT
+7232@ DEX
+7233@ STR
+7234@ INT
+7235@ DEX
+7236@ Point
+7237@ Honor Point
+7238@ AP
+7239@ (
+7240@ )
+7241@ DP
+7242@ Auto Set
+7243@ Detail Stats
+7244@ Character
+163@ Craft Item
+164@ Professional Craft
+165@ Required Materials
+166@ QTY
+167@ Craft
+168@ Craft Item
+169@ Craft
+170@ 2,20:10
+171@ Required Materials
+172@ QTY
+173@ Professional Craft
+174@ Craft
+5931@ Character stat
+12781@ ATK Stats
+12782@ DEF Stats
+12783@ Other Stats
+12784@ ATK Stats
+12785@ DEF Stats
+12786@ Other Stats
+6079@ Character stat
+5935@ 2,117:38
+5936@ 2,117:38
+5937@ 2,117:38
+11659@ Dungeon
+11660@ Events
+11661@ Special
+11662@ World
+11663@ 1
+11664@ 2
+11665@ 3
+11666@ 4
+11667@ 2,151:15
+11668@ 2,152:15
+11669@ 2,153:15
+11670@ Complete List
+11671@ Seal
+11672@ Event Mission Progress
+11673@ Resist Critical DMG +10%
+11674@ List
+11675@ Reward
+11676@ Boss
+11677@ Boss
+11678@ Events
+11679@ Special
+11680@ World
+11681@ 1
+11682@ 2
+11683@ 3
+11684@ 4
+11685@ 2,151:15
+11686@ 2,152:15
+11687@ 2,153:15
+11688@ Complete List
+11689@ Seal
+11690@ Lake in Dusk Completion Status
+11691@ Resist Critical DMG +10%
+11692@ List
+11693@ Reward
+11694@ Dungeon
+11695@ Boss
+11696@ Dungeon
+11697@ Special
+11698@ World
+11700@ 1
+11701@ 2
+11702@ 3
+11703@ 4
+11704@ 2,151:15
+11705@ 2,152:15
+11706@ 2,153:15
+11707@ Complete List
+11708@ Event Mission Progress
+11709@ Resist Critical DMG +10%
+11710@ List
+11711@ Reward
+11712@ Events
+11713@ Boss
+11714@ Dungeon
+11715@ Events
+11716@ World
+11717@ 1
+11718@ 2
+11719@ 3
+11720@ 4
+11721@ 2,151:15
+11722@ 2,152:15
+11723@ 2,153:15
+11724@ Complete List
+11725@ Seal
+11726@ Upgrade Progress
+11727@ Resist Critical DMG +10%
+11728@ List
+11729@ Reward
+11730@ Special
+11731@ Dungeon
+11732@ Boss
+11733@ Events
+11734@ Special
+11735@ 1
+11736@ 2
+11737@ 3
+11738@ 4
+11739@ 2,151:15
+11740@ 2,152:15
+11741@ 2,153:15
+11742@ Complete List
+11743@ Seal
+11744@ Bloody Ice Completion Status
+11745@ Critical DMG +1%
+11746@ List
+11747@ Reward
+11748@ World
+11749@ Collection
+3230@ Craft
+3256@ Stop
+7800@ Change craft item
+3239@ Craftable items
+3237@ Craft slot(Use/Possessed)
+3240@ Craft result
+3247@ Required Material
+3248@ QTY
+3249@ Select grade
+3250@ Type
+3241@ Craft
+3289@ /
+3322@ (
+3323@ )
+3238@ Production
+3268@ 2,83:4
+6673@ Register
+6674@ Request
+6675@ Request All
+6676@ Complete All
+11453@ Search
+6681@ Result
+6682@ Required Material
+6683@ 0
+6684@ Repeat
+6685@ 0
+6686@ 0
+6687@ (
+6688@ )
+6689@ ,
+6690@ Register Fee
+6691@ Request
+6694@ 2,40:8
+6695@ 2,42:8
+7310@ No
+7311@ Yes
+7312@ Delete Character
+7313@ Character data including items will be deleted.
+7314@ Please confirm character deletion.
+7315@ Character Delete
+7316@ No
+7317@ Yes
+7318@ Delete Character
+7319@ Please confirm character deletion.
+7320@ Please keep in mind that you cannot restore
+7321@ Character Delete
+7322@ OK
+7323@  
+7324@ The character has been successfully deleted.
+7325@ Character Deleted
+13677@ Close
+13678@ Enter
+13679@ Boss
+13680@ Party
+13681@ Reward
+13682@ Single
+13683@ Item List
+13684@ Item List
+13685@ Type
+13686@ Item Name
+13687@ Items
+13688@ Boss
+13689@ Items
+13690@ Reward
+13691@ Single
+13692@ Record
+13693@ Dungeon Clear Record
+13694@ Ranking
+13695@ Character
+13696@ Record
+13697@ Party
+13698@ Boss
+13699@ Items
+13700@ Party
+13701@ Reward
+13702@ Single
+13703@ Record
+13704@ Dungeon Clear Record
+13705@ Ranking
+13706@ Character
+13707@ Record
+13708@ Change Daily Rewards
+13709@ Time
+13710@ 2,91:10
+13711@ Sun
+13712@ Mon
+13713@ Tue
+13714@ Wed
+13715@ Thu
+13716@ Fri
+13717@ Sat
+13718@ Daily Reward
+13719@ Daily Reward
+13720@ Day
+13721@ Mon
+13722@ Tue
+13723@ Wed
+13724@ Thu
+13725@ Fri
+13726@ Sat
+13727@ Time
+13728@ Boss
+13729@ Items
+13730@ Party
+13731@ Single
+13732@ Reward
+13733@ Next Reward
+13734@ Reward List
+13735@ Items
+13736@ Party
+13737@ Reward
+13738@ Single
+13739@ Boss
+13740@ Boss List
+13741@ Boss List
+13742@ 2,15:7
+14692@ Information
+14693@ Recommended Combat Power
+14694@ Obtained DP
+14695@ Required BP
+14696@ Entry Level
+14697@ Class Rank
+14698@ Maximum Users
+14699@ Exploration Point
+13750@ Entry Item
+13751@ Select Difficulty
+13752@ Select World/Dungeon
+13753@ 2,102:100
+13754@ 2,69:30
+14733@ Chance Info.
+7767@ * Changed remaining time will reset at 0 o'clock everyday.
+7768@ * You cannot change beyond 0 o' clock next day.
+7769@ Alz
+7770@ Refill
+7771@ Cancel
+7772@ Price
+7773@ Refill Time
+7774@ Refill Playing time
+7775@ Dungeon Group Information
+7776@ Select Currency
+7777@ Remaining Time
+7778@ Remaining Time after Refill
+2054@ Location
+261@ Accumulated DP
+2053@ Dungeon Information
+2055@ Class Rank
+2056@ Close
+2622@ DP
+2057@ Enter Item
+2058@ Entry Level
+2059@ Max Member
+2060@ Dungeon
+2067@ Accessible Dungeons
+13375@ MXP
+13376@ Acquisition Dungeon
+2061@ 2, 68:10
+13757@ Information
+13758@ Items
+13759@ Boss
+13760@ Boss List
+13856@ Chaos Arena
+13857@ DX
+13858@ ETC
+13859@ Mission
+13860@ Myth
+13861@ All
+13862@ All
+13863@ DX
+13864@ ETC
+13865@ Mission
+13866@ Myth
+13867@ Chaos Arena
+13868@ All
+13869@ Chaos Arena
+13870@ ETC
+13871@ Mission
+13872@ Myth
+13873@ DX
+13874@ All
+13875@ Chaos Arena
+13876@ DX
+13877@ Mission
+13878@ Myth
+13879@ ETC
+13880@ All
+13881@ Chaos Arena
+13882@ DX
+13883@ ETC
+13884@ Myth
+13885@ Mission
+13886@ All
+13887@ Chaos Arena
+13888@ DX
+13889@ ETC
+13890@ Mission
+13891@ Myth
+13786@ Boss
+13787@ Items
+13788@ Recommended Combat Power
+13789@ Information
+13790@ Obtained DP
+13791@ Required BP
+13792@ Entry Level
+13793@ Class Rank
+13794@ Maximum Users
+14690@ Exploration Point
+13795@ Boss
+13796@ Information
+13797@ Item List
+13798@ Type
+13799@ Item Name
+13800@ Items
+13801@ 1,196:0
+13802@ 2,102:100
+13803@ Current DP
+13804@ Entry Item
+13805@ Dungeon Information
+13809@ Reward of the Day
+13807@ 1,195:0
+13756@ Dungeon Story
+13377@ MXP Attainable Dungeons
+7779@ Playtime information
+7780@ Remaining Time
+7803@ Using EXP beads (No time deduction)
+13378@ * You cannot obtain the MXP anymore
+13379@ when the time left 0.
+13380@ *MXP will apply differently to the
+13381@ existing dungeon's EXP.
+13382@ count will not be refilled.
+13383@ * Even if play time is refilled, dungeon entry
+7781@ * You cannot enter dungeon when
+7782@ remaining time is 0.
+7787@ * Playing time will reset at 0 o'clock everyday.
+7801@ * Dungeon play time will not be deducted
+7802@ when Blessing Bead - EXP (100%) or higher is used.
+10090@ count will not be refilled.
+10091@ * Even if play time is refilled, dungeon entry
+191@ 2,26:1,27:2,28:5
+2191@ Periodical Service
+2198@ Other Benefits
+2193@ General Info
+2202@ Other Benefits
+2204@ Periodical Service
+2203@ General Info
+2199@ General Info
+2200@ Periodical Service
+2201@ Other Benefits
+192@ PC Point
+193@ Information
+14734@ 1,210:0
+14735@ Bulk Receive
+14736@ 1,212:0
+14737@ 1,211:0
+14738@ 50 / 50
+14739@ Grade
+14740@ > Rewards are delivered in $1#Inventory$.
+14741@ 50
+14742@ Abyss Clue: General
+14743@ 50 / 50
+14744@ n days left
+14745@ Event Pass
+14746@ Pass Period: 2024.01.01~2024.01.30
+14747@ * Daily missions are reset at $1#10:00$ every day.
+14748@ * Weekly missions are reset at $1#Wed 10:00$ every week.
+14749@ Season Mission
+14750@ Close
+14751@ UP
+14752@ Receive
+14753@ Received
+14754@ Buy
+14755@ General
+14756@ Premium
+14757@ MAX
+13954@ Cancel
+13955@ Use
+14028@ Purchase Step Score
+13956@ Step Score
+13957@ Purchase amount
+13958@ Force Gem
+13959@ Result
+13960@ /
+14018@ 100
+13961@ Step
+14020@ 2
+14019@ 3
+13963@ Score
+14022@ 140
+14023@ 150
+14021@ ()
+14024@ ()
+14025@ * If you use Score Purchase, Force Gem will be consumed.
+14026@ * Score Purchase Limit will be reset on every 05:00.
+13979@ Purchase 450
+14029@ Benefits for using Premium
+14030@ 1. Gain Premium Reward and Premium Completion Reward
+14031@ 2. Immediately granted the strong buff skill
+14032@ Purchase Premium
+11498@ Cash Inventory
+11499@ Inbox
+11500@ Close
+11502@ Receive
+11503@ Receive All
+11504@ Receive Item
+11505@ *Item will be deleted if not received within expiration date.
+11506@ Event Inventory
+11507@ Mail & Cash / Event Inventory
+11592@ Normal
+11593@ Training
+11594@ Growth
+11595@ Transcendence
+11596@ Auto Level UP
+11597@ Force Wing EXP
+11598@ Grade
+11599@ Force Wing Information
+11600@ Level
+11601@ Level Up
+11602@ Skill
+11603@ Stats
+11604@ HP
+11605@ All Attack
+11606@ Defense
+11608@ Training
+11609@ Normal
+11610@ Attack Training
+11611@ Defense Training
+11612@ War Training
+11613@ Training Point
+11614@ 2,132:3
+11615@ ForceWing
+11616@ Close
+8775@ Close
+8776@ Dungeon Open
+8777@ 1,139:0
+8778@ Guild Name :
+8779@ Guild Level :
+8780@ Select Guild Dungeon
+8781@ Guild Dungeon Introduction
+8782@ Guild Dungeon Difficulty & Reward
+8783@ Open Count :
+8784@ Open Guild Dungeon
+12837@ Dismiss Party
+12838@ Enter Dungeon
+12839@ Exit Dungeon
+12840@ Join Party
+12841@ Leave Party
+12842@ Unable to Join
+12843@ Seach Guild
+12844@ Guild
+12845@ Manage Request
+12846@ Mission Festival
+12847@ Guild Treasure
+12849@ Delete
+12850@ Delete
+12851@ Delete
+12852@ Receive
+12853@ Receive
+12854@ Receive
+12857@ 1,138:0
+12858@ 1,137:0
+12860@ Select Guild Dungeon
+12861@ Guild Activity
+12862@ Guild Dungeon
+12863@ Open Reward Box
+12864@ Dungeon Reward
+12865@ Enter Count
+12866@ Receive All
+12867@ Receive
+12868@ Seach Guild
+12869@ Guild Dungeon
+12870@ Guild
+12871@ Manage Request
+12872@ Mission Festival
+12873@ Guild Weekly Ranking
+12877@ 1,148:0
+12878@ Guild Activity
+12879@ Guild Treasure
+12880@ Weekly Treasure Points
+12881@ Created Treasure
+12882@ Guild Golden Treasure
+12883@ Daily Minimum Points
+12884@ Receivable
+12885@ Guild Activity
+12886@ Guild
+12887@ Manage Request
+12888@ Mission Festival
+12889@ 1,130:0
+12890@ Seach Guild
+12891@ Sort
+12892@ Ranking
+12893@ Nation
+12894@ Level
+12895@ Guild Name
+12896@ Guild Master
+12897@ Mark
+12898@ Guild Create Date
+12899@ Ranking
+12900@ Nation
+12901@ Level
+12902@ Guild Name
+12903@ Guild Master
+12904@ Mark
+12905@ Guild Create Date
+12906@ Join Request
+12907@ Search Condition
+12908@ Search Condition
+12909@ Search by Name
+12910@ Search by Name
+12912@ Guild Activity
+12913@ Seach Guild
+12914@ Manage Request
+12915@ Mission Festival
+12916@ 2,129:10
+12917@ Guild Master
+12918@ Guild Info
+12919@ Guild Notification
+12920@ Guild Members
+12921@ Guild
+12922@ Guild Create Date
+12923@ Guild Member
+12924@ Guild Point
+12925@ Guild Activity
+12926@ Seach Guild
+12927@ Guild
+12928@ Mission Festival
+12929@ 1,131:0
+12930@ Manage Request
+12931@ Sort
+12932@ Requesting character
+12933@ Attack/Defense Power
+12934@ Request Info
+12935@ Join Request Date
+12936@ Accept
+12937@ Ranking
+12938@ Nation
+12939@ Level
+12940@ Guild Name
+12941@ Guild Master
+12942@ Mark
+12943@ Guild Create Date
+12945@ Participate event
+12947@ Unable to Participate
+12950@ Complete
+12951@ Give up
+12952@ Start
+12955@ Guild Activity
+12956@ Seach Guild
+12957@ Guild
+12958@ Manage Request
+12959@ Receive Reward
+12960@ Period Ended
+12971@ 2,140:1
+12972@ Event Info
+12973@ Reward(pt) Info
+12974@ Reward (Ranking)
+12975@ Mission Festival
+12976@ Ranking
+12977@ Score
+12978@ Missions
+12979@ My Info
+12980@ Mission List
+12981@ [Event Condition]
+12982@ 1. Join a guild before the event starts.
+12983@ 2. No character in the account joined the event.
+12984@ You have to join the event to see the mission list.
+12985@ You are not in a guild.
+12986@ Calculating event result...
+12987@ Achievement Rank
+12988@ Receive in
+12989@ * Mission Festival reward items are sent to Event Inventory.
+12990@ Season Result
+12991@ Reward
+12992@ My Score
+12993@ Individual Ranking
+12994@ Result
+12995@ Preparing for event....
+13002@ Guild
+13003@ Close
+13004@ Guild Menu
+14726@ Chance Info.
+8434@ Close
+8435@ Search
+8436@ Search Condition
+8437@ Search Condition
+8438@ Interest
+8439@ Play Time
+8440@ Guild Level
+8441@ Join Level Limit
+8442@ Dungeon
+8443@ War
+8444@ Item
+8445@ Social Gathering
+8446@ Novice
+8447@ Weekly
+8448@ Late Hours
+8449@ Early Hour
+8450@ Weekdays
+8451@ Weekend
+8452@ Close
+8453@ Request
+8454@ Guild Info
+8455@ Guild Create Date
+8456@ Guild Member
+8457@ Guild Master
+8458@ Guild Info
+8459@ Characteristics
+8460@ Interest
+8461@ Play Time
+8462@ Join Level Limit
+8463@ Guild Introduction
+8464@ Would you like to join this guild?
+8465@ Close
+8466@ Register
+8467@ Guild Advertisement
+8468@ Guild Create Date
+8469@ Guild Member
+8470@ Guild Master
+8471@ Guild Info
+8472@ Characteristics
+8473@ Interest
+8474@ Play Time
+8475@ Join Level Limit
+8476@ Guild Introduction
+8477@ Dungeon
+8478@ War
+8479@ Items
+8480@ Social Gathering
+8481@ Novice
+8482@ Weekly
+8483@ Late Hours
+8484@ Early Hour
+8485@ Weekdays
+8486@ Weekend
+8487@ Close
+8488@ Request
+8489@ Dungeon
+8490@ War
+8491@ Item
+8492@ Social Gathering
+8493@ Novice
+8494@ Weekly
+8495@ Late Hours
+8496@ Early Hour
+8497@ Weekdays
+8498@ Weekend
+8499@ Request Info
+8500@ My Request
+8501@ Interest
+8502@ Play Time
+8503@ Introduction
+8504@ Character
+8505@ Battle Style
+8506@ Attack Power/Defense Power
+8507@ Close
+8508@ Request Info
+8509@ My Request
+8510@ Interest
+8511@ Play Time
+8512@ Introduction
+8513@ Character
+8514@ Battle Style
+8515@ Attack Power/Defense Power
+195@ List
+196@ Help
+197@ 2,13:25
+13656@ 2,126:4
+13657@ 2,127:21
+13658@ Honor Medal
+13659@ Medal Score
+13660@ 99.999%
+13661@ Normal
+13662@ Luminous Hero
+13663@ Lv 40
+13664@ Luminous Hero
+14720@ Chance Info.
+15207@ Equipment
+12269@ Alz
+12270@ Inventory
+12279@ Pet
+12280@ Experience
+12281@ Displayed Pet
+12282@ Pet Extender
+12283@ Pet in use
+12284@ General
+12285@ Covenant
+12286@ Trust
+12301@ Option Applied
+12302@ Displayed
+12303@ Costume
+15018@ Link Weapon
+209@ 0, 34:200
+11484@ Delete All
+11485@ Sent Mail
+11486@ Show unread only
+11487@ 2,38:10
+11488@ Received Mail
+11489@ Received Mail
+11490@ Delete All
+11491@ 2,39:10
+11492@ Sent Mail
+11493@ Cash Inventory
+11494@ Event Inventory
+11495@ Write Mail
+11496@ Inbox
+11497@ Mail & Cash / Event Inventory
+1883@ Invite Guild Member
+1884@ Write Mail
+210@ Whisper
+211@ Invite Party
+212@ Request Trade
+213@ Add Buddy
+214@ Follow
+215@ Request PvP
+2024@ View Equipment
+6260@ Add Block
+3682@ Invite Guild Member
+3683@ Write Mail
+3684@ Whisper
+3685@ Invite Party
+3686@ Request Trade
+3687@ Add Buddy
+3688@ Follow
+3689@ Request PvP
+3690@ View Equipment
+3691@ Guild Battle
+6261@ Add Block
+216@ Personal Shop
+217@ Roll a Dice
+218@ Dance
+219@ Look for Party
+220@ Cancel LFP
+2497@ No
+2498@ Yes
+2500@ Would you create the Special Character?
+7452@ Create Special Character
+3330@ Ladder
+3331@ Ranking
+3332@ Standard
+3333@ History
+3488@ Recent Match
+3620@ > Details
+3624@ Items
+3623@ Details
+3646@ 2,88:5
+3645@ 2,87:10
+3787@ Participate
+3786@ Team
+3794@ Exit
+3785@ Ready
+3795@ Cancel Ready
+3334@ Battle Search
+3335@ Cancel Search
+3336@ History
+3337@ Ranking
+3338@ Standard
+3452@ Ladder Battle
+3453@ My Info
+3454@ Team Member Info
+3456@ Map Info
+3457@ Team A Start Point
+3458@ Team B Start Point
+3459@ Neutral Monster
+3461@ Ladder
+3462@ Participate Member
+3463@ Winning Score
+3464@ Time Limit
+3652@ (
+3653@ )
+3784@ 2,90:6
+3341@ History
+3342@ Ladder
+3343@ Standard
+3492@ Search
+3344@ Ranking
+3489@ Map
+3490@ Server
+3491@ Battle Style
+3627@ Ranking
+3630@ Rating
+3631@ Server
+3632@ Level
+3633@ Character
+3634@ Record
+3644@ 2,89:10
+3345@ History
+3346@ Ladder
+3347@ Ranking
+3348@ Instant Enter
+3478@ Enter
+3479@ Enter
+3480@ Enter
+3481@ Enter
+3482@ Enter
+3483@ Enter
+3484@ Enter
+3485@ Enter
+3486@ Enter
+3487@ Enter
+3351@ Create Room
+3352@ Refresh
+3467@ Standard
+3468@ My Info
+3471@ Room No.
+3472@ Room Title
+3473@ Map
+3474@ Mode
+3475@ Member
+3476@ Status
+3589@ Next
+3601@ Current
+3612@ /
+3358@ Mission Battle
+3515@ Purchase
+3516@ Cancel
+3517@ 2,86:6
+3963@ Point
+3518@ Buff Shop
+7165@ Cancel
+7166@ OK
+7167@ Honor Medal Grant Option
+7168@ Option will be granted on open slot
+7169@ WExp
+7170@ 100
+7171@ Random Option will be applied
+7173@ AP
+7174@ 100
+7175@ Cancel
+7176@ OK
+7177@ Honor Medal Slot Open
+7178@ Open the chosen slot
+7179@ item01
+7180@ item02
+7181@ Cancel
+7182@ Reset Honor Medal Reward Stat
+7183@ Reset Reward Stat acquired by Medal
+7184@ Select :
+7185@ Captain
+7186@ Cancel
+7187@ OK
+7188@ Seal Honor Medal Option
+7189@ Seal Medal Option safely
+7190@ Select :
+7191@ Captain
+14940@ Character Information
+14941@ Items
+14942@ Quests & Achievements
+14943@ Dungeons and Locations
+14944@ System
+14945@ Community
+14946@ Achievements
+14947@ Mercenary
+14948@ Platinum Buff
+14949@ Anima Mastery
+14950@ Buddy
+14951@ Character
+14952@ Cash Inventory
+14953@ Challenge Mission
+14954@ Dungeon
+14955@ Guild
+14956@ Honor Medal
+14957@ Heil's Research Support
+14958@ Mail
+14959@ Myth Mastery
+14960@ Overlord Mastery
+14961@ Party
+14962@ Item Shop
+14963@ Skill
+14964@ Skill Transcendence
+14965@ Giftbox (Special)
+14966@ Stellar Link
+14967@ Merit Mastery
+14968@ Transformation
+14969@ Collection
+14970@ Costume
+14971@ Item Enchant
+14972@ Event Inventory
+14973@ Craft
+14974@ Help
+14975@ Inventory
+14976@ Soul Ability
+14977@ Jukebox
+14978@ Exploration
+14979@ Map
+14980@ System Menu
+14981@ Quest
+15165@ Integrated Presets
+236@ Buddy
+237@ Guild
+239@ Party
+2722@ Facebook
+240@ Twitter
+2723@ Upload to Web
+2724@ SNS Page
+241@ Normal
+242@ Title
+243@ Craft
+244@ Professional Craft
+2065@ Exit Dungeon
+2064@ Dungeon Info
+2063@ Pause Dungeon
+245@ Essence
+246@ Blended
+247@ Sub Skills
+248@ All Attack
+249@ Special Skills
+250@ Reinforce
+13512@ Normal
+13513@ Training
+13515@ 2,189:10
+13516@ 2,188:1
+13517@ Apply
+13518@ Level
+13519@ 1
+13520@ 1
+13521@ Max Level
+13522@ Stats
+13523@ Stat Name
+13524@ Stat Value
+13525@ 0
+13526@ Training Points
+13527@ -1
+13528@ 20
+13529@ 0
+13530@ Grade
+13531@ Level
+13532@ Training Points
+13533@ Quantity of Points
+13534@ Grade
+13535@ Level
+13536@ Training Effect
+13537@ Training
+13538@ Arrival Skill
+13539@ Training
+13540@ Transcendence
+13541@ Normal
+13542@ Auto Level UP
+13543@ Force Wing EXP
+13544@ %
+13545@ Level Up
+13546@ Force Wing Information
+13547@ Grade
+13548@ Level
+13549@ HP
+13550@ All Attack
+13551@ Defense
+13552@ Grade
+13553@ Level
+13554@ HP
+13555@ All Attack
+13556@ Defense
+13557@ Skill Name
+13558@ Level
+13559@ Skill Name
+13560@ Level
+13561@ Skill
+13562@ ForceWing
+14841@ Honor Grade Achieved
+14842@ Skill Rank Achieved
+14843@ Level Achieved
+14844@ TIP. The number displayed on the item show the changes of Combat Power when equiping that item.
+14845@ Lv.
+14846@ 1,213:0
+14847@ Honor Grade Achieved
+14848@ Level Achieved
+14849@ Skill Rank Achieved
+14850@ TIP. Obtain Skill EXP by completing quests or hitting Training Dummy.
+14851@ 1,214:0
+14852@ Level Achieved
+14853@ Skill Rank Achieved
+14854@ Honor Grade Achieved
+14855@ TIP. By reaching Honor Grade 20, Honor Medal is available.
+14856@ Honor
+14857@ 1,215:0
+14858@ Close
+14859@ Newbie Support
+455@ Functions to Delete
+456@ Pet Untrain Kit
+457@ Cancel
+458@ Function Delete
+6823@ Pet Untrain
+6827@ Pet Fake Lion
+6829@ Lv 19
+6830@ Pet Untrain Kit
+6838@ Result
+6864@ [Tip] Reset entire slot on the tab
+6824@ Pet Untrain
+6825@ Cancel
+6831@ Normal
+6835@ Covenant
+6836@ Trust
+6837@ Transcendence
+6826@ Untrain
+15166@ Presetzone
+5086@ History
+5087@ Training
+5088@ Ranking
+14077@ Searching Competition
+14078@ PVP Shop
+5102@ Match
+5103@ My Info
+14079@ 1. Battle will be in 3 vs 3 format.
+14080@ 2. Battle will be going through without the no-item, and
+14081@ Battle Mode it unavailable.
+14082@ 3. PVP Battle Ticket is required when you enter the Competition.
+14083@ 4. The first team to get 10 kills within the time limit
+14084@ or the most kills after the time limit is over wins.
+14085@ 5. Competition can be matched only at
+14086@ 11:00 ~ 13:00, 20:00~22:00.
+14087@ PVP Battle
+14088@ Help
+14089@ Battlefield Info
+14090@ Time Limit
+14091@ Victory Killed
+14092@ Participant/s
+14093@ 6 users
+14094@ 10 kills
+14095@ 10 min
+14104@ Penta Montes
+14105@ 6. You will gain the reward as your competition result,
+14109@ and the special title will be given by the ranking.
+5009@ Match
+5011@ Training
+5010@ Ranking
+5012@ History
+5013@ Recent Match
+5014@ Recent MVP
+5017@ 2, 112:5
+5018@ 2, 106:5
+5059@ Match
+5058@ History
+5060@ Ranking
+5061@ Instant Enter
+5072@ Create Room
+5073@ Refresh
+5316@ 2,113:10
+5074@ Training
+5075@ My Info
+5082@ Next
+5084@ /
+5170@ Previous
+5317@ Status
+5318@ Member
+5319@ Time
+5320@ Mode
+5321@ Room Title
+5322@ Room No.
+5331@ Kill
+5044@ Match
+5043@ History
+5045@ Training
+5046@ Search
+5047@ Ranking
+5048@ Map
+5049@ Server
+5050@ Battle Style
+5051@ Ranking
+5052@ Weekly Points
+5053@ Server
+5054@ Level
+5055@ Character
+5056@ Record
+5057@ 2,107:10
+5085@ PvP Zone
+2633@ In Progress
+2634@ Give up
+2635@ Normal
+2636@ Scenario
+2637@ View again
+2638@ 0,5:20,5:20
+2639@ Normal
+2640@ Delete
+2641@ In Progress
+2666@ Restore
+2642@ Scenario
+2643@ View again
+2645@ 2,72:4
+2646@ Scenario
+2647@ In Progress
+2648@ Normal
+2649@ View again
+3329@ Scenario Quest Notice
+2650@ 2,6:4
+2651@ Quest
+271@ Channel
+272@ Request Party
+273@ Party Member
+274@ Party Register
+275@ Register Cancel
+276@ Recruit Message
+277@ Search Party
+278@ Party Leader
+279@ 2, 53:16
+280@ Search Party
+12325@ General
+12326@ DP
+12327@ Repurchase
+12328@ Dungeon
+12329@ Repurchase
+12330@ Shop
+12331@ Repurchase
+12332@ Recover
+12333@ Recover
+12334@ Recover
+12335@ Recover
+12336@ Recover
+12337@ Recover
+12338@ Recover
+12339@ Recover
+12340@ Recover
+12341@ General
+12342@ Dungeon
+12343@ Repurchase
+10615@ Preview
+10616@ Purchase Package
+10617@ 2,157:5
+10618@ 2,158:5
+10619@ Package Item List
+10620@ Remaining Time
+10621@ Included Product
+10622@ QTY
+10623@ Option
+10624@ Period of Use
+10625@ 2,100:5
+10626@ Cash Shop
+10627@ Cash Refill
+10628@ Open Window
+10629@ Fantastic Pandora's Box
+12344@ General
+12345@ Repurchase
+12346@ Shop
+12347@ Repurchase
+12348@ Recover
+12349@ Recover
+12350@ Recover
+12351@ Recover
+12352@ Recover
+12353@ Recover
+12354@ Recover
+12355@ Recover
+12356@ Recover
+12357@ General
+10207@ Preview
+10361@ Camera Zoom Level
+10362@ Lv.1
+10363@ Lv.2
+10364@ Lv.3
+10208@ Close
+2860@ Shop
+295@ Sub Skills
+296@ Reinforce
+297@ Special Skills
+298@ Skill
+299@ Skill Rank
+300@ Rank Up Condition
+301@ Skill EXP
+302@ Skill Point
+303@ Attack Skill Slot (In Use/Total)
+304@ Attack Skills
+305@ 2,3:5
+306@ All Attack
+307@ Reinforce
+308@ Special Skills
+309@ Skill
+310@ Skill Rank
+311@ Rank Up Condition
+312@ Skill EXP
+313@ Skill Point
+314@ Sub Skill Slot (In Use/Total)
+315@ Sub Skills
+316@ 2,3:5
+317@ Attack Skills
+318@ Sub Skills
+319@ Special Skills
+320@ Skill
+3693@ Skill Rank
+3694@ Rank Up Condition
+3695@ Skill EXP
+3696@ Skill Point
+322@ Reinforce
+323@ 2,0:1,3:10,0:1,3:10
+324@ Attack Skills
+325@ Sub Skills
+326@ Reinforce
+327@ Skill
+328@ Special Skills
+11882@ 2,0:1,4:1,0:1,4:1,0:1,4:1,0:1,178:1,4:1,177:1,4:1,0:1,4:3,0:1,4:5,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:22
+11895@ Skill Transcendence Train
+15113@ Characteristic opening point
+11896@ Battle Mode
+11897@ Transcendence Type Point
+11900@ Transcendence Passive Skill
+11901@ Skill
+11902@ Skill Transcendence
+11903@ 2,179:20
+11904@ Close
+12787@ AP
+12788@ Essence
+12789@ Essence Slot (In Use/Total)
+12790@ Soul ability
+12791@ 2,59:5
+12792@ Blended
+12793@ Karma
+12794@ Blended Slot (In Use/Total)
+12795@ Blended
+12796@ Soul ability
+12797@ 2,60:3
+12798@ Karma
+12799@ Essence
+12800@ AP
+12801@ Karma
+12802@ Karma slot(In Use/Total)
+12803@ Soul ability
+12804@ 2,186:5
+12805@ Blended
+12806@ Essence
+6367@ 2,122:4
+6368@ 999,999,999
+6369@ Coupon Shop
+12358@ Insert Amount
+12359@ Cancel
+12360@ OK
+12361@ Ready
+12362@ Trade
+12363@ Ready
+347@ Build with Alz
+348@ Build with Point
+349@ 2,44:5
+350@ Control Panel
+13447@ Strategy Map
+13448@ Member List
+13449@ Entry Rank
+13450@ Waiting Rank
+13451@ Insufficient Combat Power
+13452@ Equipment Change
+13453@ Information
+351@ Grant Command
+352@ Score Info
+353@ Invite Party
+354@ 2,45:10
+355@ Member List
+356@ Party Info
+357@ Find my Character
+358@ Extend Party member
+359@ Grant Command
+360@ Invite Party
+361@ Party Info
+362@ 2,46:10
+363@ Member List
+364@ Score Info
+365@ Find my Character
+12321@ Alz
+12322@ Warehouse
+161@ Warehouse
+10190@ Purchase
+10191@ Purchase
+10192@ Purchase
+11905@ OLV
+6382@ Purchase
+6383@ Purchase
+12364@ OK
+12365@ I
+12366@ II
+12367@ III
+12368@ IV
+12369@ V
+12370@ VI
+12371@ VII
+12372@ VIII
+12373@ I
+12374@ II
+12375@ III
+12376@ IV
+12377@ V
+12378@ VI
+12379@ VII
+12380@ VIII
+12389@ Item Auto Sort Setting
+12390@ Inventory
+12391@ Warehouse
+5346@ Information
+5347@ Premium Blessing Bead
+5348@ Information
+5744@ Customized Blessing Bead
+5793@ Total Force Gem
+5794@ Will you use selected bead?
+5795@ [DC                % ]
+5796@ 0
+5797@ Blessing Bead
+5349@ Apply All
+5350@ No
+5351@ Yes
+5352@ 1,103:0
+5353@ 1,104:0
+5798@ 1,115:0
+5800@ 1,116:0
+15144@ {0}'s Campfire
+15145@ ※You will receive a buff when leaving the campfire.
+15146@ Campfire duration {0} remaining
+15147@ Campfire Ongoing Effect
+15148@ Campfire Buff
+15149@ Campfire
+15151@ Participant
+15153@ Leave
+15154@ Extinguish Fire
+15155@ {0}'s Campfire
+15156@ Campfire duration {0} remaining
+15157@ Campfire
+15158@ Participant
+15159@ Leave
+15160@ Extinguish Fire
+6558@ 3,000
+6370@ 999,999,999
+6371@ 0:00
+429@ CASH Refill
+430@ Cash refill
+431@ One-Click CASH refill
+432@ Refill
+433@ Cancel
+434@ One-Click CASH refill
+435@ Select refill amount
+436@ Enter One-Click Password
+10694@ Reward (Rank)
+10726@ 2,162:4
+10695@ Challenge Mission Info
+10698@ Remaining score for next rank
+10699@ Mission Score
+10700@ Mission Rank
+10696@ Challenge Mission List
+10697@ Challenge Mission
+10701@ Close
+10702@ Close
+10703@ Receive Reward
+10725@ 2,163:5
+10704@ Required points
+10705@ Optional Reward
+10706@ Reward (Challenge Mission)
+10707@ Guaranteed Reward
+10718@ [Ranking Reward Info]
+10719@ 1. Receive reward when reaching each rank.
+10720@ 2. $1#Guaranteed Reward x1$ and $1#Optional Reward x1$ for each rank.
+10721@ 3. Receive all with $1#Receive Reward$ button.
+10722@ 4. Reward will be sent to $1#Event Inventory$.
+949@ Core Upgrading
+950@ Quantity
+951@ Cancel
+952@ OK
+2045@ Core Upgrading
+2046@ Quantity
+2047@ Cancel
+2048@ Confirmation
+14897@ Apply Appearance
+14899@ Item
+14900@ Registration
+14901@ Force Wing
+14902@ Ride
+14903@ Pet
+14904@ Preview Options
+14905@ Costume
+14923@ 2, 200:15
+12323@ Costume Warehouse
+379@ Item Upgrade
+380@ Auto Register
+381@ Items
+382@ Cores
+383@ Result
+3779@ Upgrade Point
+223@ Alz
+384@ Item Upgrade
+11527@ Register Safeguard
+11528@ Item Upgrade
+11529@ Items
+11530@  
+11531@ Result
+11532@  
+11533@  
+11534@  
+11535@ Upgrade Point
+11536@  
+11537@ Enchant Safeguard (Highest)
+11538@  
+11539@ Applied
+11540@ Success Rate
+11541@  
+11542@  
+11543@  
+11545@  
+11546@ Alz
+11547@ Item Upgrade
+14718@ Chance Info.
+5306@ Core Register
+5217@ Item Upgrade
+5218@ Alz
+5219@ Item Upgrade
+5220@ Item
+5221@ Cores
+5222@ Result
+5223@ Upgrade Point
+12807@ Close
+12808@ Guild Treasure Information
+12809@ [Join Condition]
+12810@ 1. $1#'Participating character' must be set as 'main character'$.
+12811@ [Guild Golden Treasure]
+12812@ 1. Guild Golden Treasure point is earned each time guild treasure list is created.
+12813@ 2. Points will not be saved if you dont receive Guild Golden Treasure
+12814@ [Guild Treasure List]
+12815@ 1. If $1#guild treasure acquisition condition$ are met during game play, a message will appear to receive guild treasure
+12816@ 2. If you want to acquire it, you can spend $1#BP(Battle Pont)$ to create guild treasure.
+12817@ 3. Created Treasure list will be shown to $1#all guild members$.
+12818@ 4. You cannot add to treasure list if you've reached the $1#maximum treasure count$
+12819@ [How to Make Guild Treasure]
+12820@ 1. $9#[Battle]$ Earn points from mission wars.
+12821@ 2. $3#[Upgrade]$ Reach certain upgrade grades or obtain an enhancement point above a certain number.
+12822@ 3. $38#[Dungeon]$ Clear dungeon.
+12823@ * You cannot gain guild treasure in some dungeons regardless of size.
+12824@ Eternal Chaos Arena, Glacies Inferna, Legend Arena
+12825@ Weakened Ruina Station, Weakened Frozen Tower of Undead(B1F), Flame Dimension
+12826@ [Condition of receiving the guild treasure]
+12827@ 1. You need to obtain $1#Daily Minimum points$ to receive the guild treasure.
+12828@ 2. Daily Minimum point will be reset every day.
+12829@ 3. Guild treasure list will continue creating if you do not reach the daily minimum points.
+12830@ [Rule]
+12831@ 1. $1#Guild Main Character$ is kept until leaving the guild.
+12832@ 2. Unreceived guild treasures will be deleted automatically when leaving the guild.
+12833@ 3. The available time for receiving the Guild Treasure is 30 hours.
+12834@ 4. The list of guild treasures not received within the time available will be automatically deleted.
+12835@ [Guild Treasure]
+12836@ 1. Various items can be acquired in common according to the activities of guild members.
+3879@ Ranking
+3882@ Guild Name
+3883@ Guild Master
+3884@ Guild Score
+3897@ Event goal
+3880@ Ranking
+3881@ 2,98:10
+13454@ /
+14704@ Close
+14705@ Extreme Upgrade
+14706@ Item
+14707@ Extreme Core
+14708@ Upgrade Result
+14709@ Extreme Level
+14710@ Upgrade Fee
+14711@ Alz
+14712@ Registered Core Lv.
+14713@ Lv
+14714@ Level Up
+14715@ Broken
+14716@ Reset
+14717@ Extreme Upgrade
+14432@ Assembled Parts
+14433@ Item name
+14434@ MagicTech
+14435@ Upgrading Parts
+14436@ Unique Parts
+14437@ Assembly
+14438@ Stop
+14439@ Upgrade
+14440@ Auto-Upgrade
+14441@ 1,206:0
+14442@ 1,207:0
+14443@ *Attempt to Upgrade automatically,
+14444@ until successful or Alz is insufficient.
+14445@ Fee
+14446@ 10,000,000 Alz
+14447@ Max. Level
+14448@ Lv. 10
+14449@ Max. Ability
+14450@ Magic Attack +50
+14451@ Success Rate
+14452@ 100%
+14453@ Lv. 1
+14454@ Magic Attack +5
+14729@ Chance Info.
+4761@ /
+4762@ /
+9703@ Close
+9704@ Mission Festival Info
+9705@ [Join Condition]
+9706@ 1. You have to $1#join the guild and set the main character$ before the event.
+9707@ 2. If all characters in account do not participate in current event session,
+9709@ must $1#join the guild before event starts$
+9988@ You can still participate even if you set $1# Guild Character$ late.
+9710@ [Run Event]
+9711@ 1. Guild $1#shares mission list$.
+9712@ 2. Guild members choose missions from the mission list to complete.
+9713@ 3. You can $1#earn guild point$ by clearing guild missions.
+9714@ 4. When the event ends, rewards are given based on the total guild points earned by guild members.
+9715@ [Event Period]
+9716@ 1. Mission Festival is held for a week.
+9717@ [Reward]
+9718@ 1. Point Reward : Reward is based on total guild points and will add up as guild $1#achieves each required score$.
+9719@ 2. Guild Ranking Reward : Reward is given to the $1#Top guilds$ with high guild points earned.
+9720@ 3. Individual Ranking Reward : Reward given to the $1#Top Players$ who have scored high guild points.
+9721@ 4. Rewards can be earned during $1#Reward Period$ after event is over.
+9722@ [Rule]
+9723@ 1. Mission counts are used when you start mission.
+9724@ 2. If you do not have remaining mission attempts, you cannot begin the mission.
+9725@ 3. Mission counts as failed if not completed within time limit
+9726@ 4. $1#Guild Master$ and $1#Guild Manager$ can delete missions.
+9727@ 5. If you start or delete a mission, it will be $1#recreated in another mission$ after a certain amount of time.
+9728@ 6. Mission Count will not be restored for failed or abandoned mission
+9729@ 7. $1#Cannot participate again in event$ even after leaving and re-joining the guild during the event.
+9306@ Individual
+9310@ 2,143:1
+9311@ Ranking
+9312@ Guild Name
+9313@ Guild Point
+9314@ Guild
+9315@ [Guild Rank Info]
+9316@ 1. List of $1#Top 30 Guild$ with highest guild points.
+9317@ * Guild ranking is updated every 1 hour.
+9318@ 4. Guilds that meet the minimum requirements are marked in $1#Yellow$.
+9319@ Guild
+9323@ 2,147:1
+9324@ Ranking
+9325@ Guild Name
+9326@ Score
+9327@ Individual
+9328@ Mission Count
+9329@ Character Name
+9330@ [Individual Ranking Information]
+9332@ * Individual Ranking resets every hour
+9334@ - Qualified players are listed in $1#Yellow$.
+9335@ Close
+9336@ Ranking
+9337@ Close
+9338@ 2,144:1
+9339@ Ranking
+9340@ Character Name
+9341@ Score
+9342@ Contribution Ranking
+9343@ Mission Count
+9344@ [Contribution Ranking Info]
+9345@ 1. Guild points that guild members earned and number of missions completed.
+9346@ 2. Only the participating guild members are displayed.
+9347@ * Contribution ranking will update every hour.
+9348@ 3. Guild points required for Points Reward are $1#sum of points$ earned by all guild members.
+9349@ Individual
+9350@ 2,142:1
+9351@ Ranking
+9352@ Reward
+9353@ Guild
+9354@ [Guild Ranking Reward Information]
+9355@ 3. You can receive $1#all 5 items for guild ranking rewards.$
+9356@ * Ranking reward items are $1#sent to Event Inventory$ after the event.
+9357@ Guild
+9358@ 2,146:1
+9359@ Ranking
+9360@ Reward
+9361@ Individual
+9362@ [Individual Ranking Reward Information]
+9363@ 2. If the score is the same, players can receive a number of rewards on the same rank.
+9364@ 3. You can receive $1#all 5 items$ of individual ranking reward.
+9365@ * Ranking reward items are $1#sent to Event Inventory$ after the event.
+9366@ Close
+9367@ Reward (Ranking)
+9368@ Close
+9369@ Receive Reward
+9370@ 2,141:1
+9371@ Required points
+9372@ Optional Reward
+9373@ Reward(pt) Info
+9374@ Guaranteed Reward
+9375@ [Reward(pt) Info]
+9376@ 1. Reward for each grade can be received when if guild reaches required guild point.
+9377@ 2. Only guild members who have $1#completed more than 1 mission$.
+9378@ 3. You can receive $1#Guaranteed Reward x1$ and $1#Optional Reward x1$ for each rank.
+9379@ 4. Reward(pt) can be earned during $1#Reward Period$ after event is over.
+11887@ Cancel
+11888@ Use
+11889@ Item Use
+11890@ Quantity
+11891@ 0
+11892@ Result
+11893@ /
+11894@ Total Application Period
+15097@ Cancel
+15098@ use
+15099@ Use Coupon
+15100@ Quantity used
+15101@ 0
+15102@ Results of using
+15103@ /
+15104@ Total Acquired
+9170@ Cancel
+9171@ Use
+9172@ Item Use
+9173@ Quantity
+9174@ 0
+9175@ Result
+9176@ /
+5193@ /
+11789@ World Ruler Boss
+11790@ Close
+11791@ Undisclosed Boss
+11792@ Undisclosed Boss
+11793@ Undisclosed Boss
+11794@ Undisclosed Boss
+11795@ Undisclosed Boss
+11796@ Undisclosed Boss
+11797@ Undisclosed Boss
+11798@ Undisclosed Boss
+11799@ Undisclosed Boss
+11800@ Undisclosed Boss
+11644@ Individual Target P
+11645@ Individual Obtained P
+11655@ Arrival of Ruler Boss
+11656@ Boss Emerge
+6465@ Close
+6466@ Warning
+6467@ Open Random Box
+6468@ Result
+6469@ Fantastic Pandora's Box
+6470@ 50
+6471@ 500
+6472@ Force Gems are consumed when opening Random Boxes and up to 99 boxes that can be opened are shown.
+6473@ Cannot open if there isn't 2x4 space available in inventory.
+6474@ Gauge accumulates as you open each box and you may open a special Random Box when the gauge is full.
+6475@ The gauge and open button for Special Random Boxes are shown in a different color.
+6476@ Special Box:
+6477@ (Maintain untill 12:33)
+6478@ Untill special box:
+6479@ Quantity is reset when you use all Special Random Boxes.
+6480@ If you don't reopen for a while the gauge and quantity are both reset.
+6481@ 2
+6482@ times left
+6483@ 3
+6484@ left
+6485@ Random Box Open
+10717@ 2,161:5
+10689@ Remaining Time
+10690@ Name
+10691@ Price
+10692@ Secret Shop
+14730@ Chance Info.
+14133@ Select All
+14136@ Possession Amount
+14137@ Purchase total
+14370@ Shopping Cart
+14134@ Buy
+14328@ I agree.
+14324@ 2,204:5
+14329@ *If you purchase a costume with mileage or Forcegems
+14330@ $1#Non-refundable$.
+14142@ (55/55)
+14140@ 5,000
+14141@ 5,000
+14138@ 5,000
+14139@ 5,000
+11906@ Cancel
+11907@ OK
+11908@ Transcendence Type Level Up
+11909@ Learning Cost :
+11910@ Acquired Stats :
+11911@ Cancel
+11912@ OK
+11913@ Reset Transcendence Type
+11914@ Reset Transcendence Type
+11915@ Reset Cost :
+11916@ Are you sure to reset type using your balance?
+11917@ Cancel
+11918@ OK
+11919@ Unlock Transcendence Type
+11920@ Learning Cost :
+7326@ Cancel
+7328@ Confirmation
+7329@ Enter Sub Password
+7330@ Sub Password
+7331@ Cancel
+7332@ OK
+7334@ Enter Sub Password
+7335@ Sub Password
+7336@ Cancel
+7337@ OK
+7338@ Enter (4~10 letters)
+7339@ Check Password
+7340@ Sub Password
+7484@ Cancel
+7485@ Confirmation
+7486@ Enter (4~10 letters)
+7487@ Check Password
+7488@ Sub Password
+7489@ Cancel
+7491@ Confirmation
+7492@ Enter Sub Password
+7493@ Sub Password
+7341@ Set Sub Password
+7342@ Set Sub Password
+7343@ Change Sub Password
+7344@ Change Sub Password
+7345@ Delete Sub Password
+7346@ Delete Sub Password
+7347@ Change Question/Answer
+7348@ Change Question/Answer
+7349@ Set Sub Password
+7494@ Set Sub Password
+7495@ Set Sub Password
+7496@ Change Sub Password
+7497@ Change Sub Password
+7498@ Delete Sub Password
+7499@ Delete Sub Password
+7500@ Change Question/Answer
+7501@ Change Question/Answer
+7502@ Set Sub Password
+13397@ Close
+13398@ 2,187:10
+13399@ Dungeon of the Day
+13400@ Additional Reward Information
+13401@ Today Dungeon
+13402@ [Dungeon of the Day]
+13403@ 1. $1#Additional Reward can be obtained$ from Dungeon of the Day excepts for the original reward.
+13404@ 2. Information regarding Additional Reward can be checked through $1#Giftbox Icon$.
+13405@ 3. Dungeon of the Day $1#will be reset every midnight$ and new dungeon will be selected.
+15167@ Total Preset
+15168@ Integrated Preset List
+15169@ Confirm
+15170@ 2,216:4
+6703@ Cancel Evaulation
+6704@ Quantity
+6705@ Cancel
+6706@ OK
+6707@ Class 6
+6708@ Reset evaluation for selected rank(s)
+6709@ Class 1
+6710@ Class 5
+6711@ Class 4
+6712@ Class 2
+6713@ Class 3
+6714@ Class 7
+6715@ ea
+4370@ Merit Medal Evaluation
+4371@ Quantity
+4372@ Cancel
+4373@ Confirmation
+4379@ ea
+13455@ Check Equipment
+13456@ 2,190:10
+13457@ Mission War Entry Information
+13458@ Mission War Entry Combat Power
+13459@ Equipment with no stat applied
+13460@ Mission War Combat Power Criteria
+13461@ Current Combat Power
+13462@ Available to enter
+13463@ Not available to enter
+4496@ /
+13673@ Individual Target P
+13674@ Individual Obtained P
+13675@ Agent of Observer
+13676@ Appearance of Agent
+5368@ 0 %
+5369@ 0 %
+10771@ 2,164:20
+9939@ Mission Items
+9940@ Registered Item
+10080@ * Item will be removed when registered for mission.
+9941@ Item Name
+9942@ Register QTY
+9944@ 10000 / 10000
+10860@ Quantity
+10861@ 10000 / 10000
+10862@ (     10000)
+9945@ Auto Refill
+9946@ Close
+9947@ Register
+9948@ Register Item
+10863@ Seal completed Collection.
+10864@ Would you like to seal Collection?
+10865@ Seal Collection
+10866@ Close
+10867@ Confirmation
+10868@ Apply sealed Collection.
+10869@ Apply Collection
+10870@ Close
+10871@ Confirmation
+14169@ Close
+14170@ Costume Information
+14125@ Cancel
+14126@ OK
+14321@ 2, 201:3
+14117@ (55/55)
+14224@ Duplicate Possession Costume
+14225@ Fixed-term costume
+14116@ Select All
+14227@ Costumes that can be registered
+14322@ 2, 202:3
+14119@ (55/55)
+14228@ Costumes that can be registered
+14232@ Fixed-term Costume
+14118@ Select All
+14231@ Duplicate Possession Costume
+14323@ 2, 203:3
+14235@ (55/55)
+14233@ Costumes that can be registered
+14234@ Duplicate Possession Costume
+14236@ Select All
+14237@ Fixed-term costume
+14123@ I agree.
+14114@ Among the costumes in the inventory, $1#costumes that can be worn by the currently connected character$ can be registered.
+14115@ $1#If you register a costume$ with slot expansion and attribute/epic options, you will get $1#sentences$ with the same options.
+14122@ When registering a costume, the costume cannot be returned.
+14219@ 99,999,999
+14220@ Acquired mileage
+14238@ Costume Registration
+14146@ Close
+14152@ Buy
+14144@ Possession Amount
+14145@ Purchase total
+14371@ Buy Costume
+14244@ I agree.
+14325@ 2,205:5
+14239@ Among the costumes being previewed, there is $1#unregistered costume$.
+14240@ Would you like to buy?
+14241@ Upon purchase, unregistered costumes can be applied $1#immediately$.
+14242@ *If you purchase a costume with mileage or POS Gems,
+14243@ $1#Non-refundable$.
+14148@ 5,000
+14149@ 5,000
+14150@ 5,000
+14151@ 5,000
+393@ Confirmation
+394@ New Dungeon
+395@ You may enter the new dungeon
+396@ Please talk to the NPC.
+4361@ Dimension Port Service
+4362@ Close
+4363@ Extend
+3905@ 2,99:10
+3901@ 10 recent rewards are shown
+3902@ Reward Details
+3904@ Guild Reward
+405@ Guild Warehouse
+406@ Sort current tap
+407@ Auto Stack Item(s)
+2964@ Alz
+408@ You can check recent 100 cases.
+409@ Usage History
+410@ View Warehouse
+411@ Guild Warehouse
+412@ 2,62:100
+413@ Close
+414@ Receive All
+415@ Extract Item
+416@ Please move your item from temporary inventory
+14455@ Close
+14456@ Magic Tech Guide
+14457@ [Magical Tech]
+14458@ 1. You can use magic engineering to strengthen special equipment made of parts.
+14459@ [Assembly]
+14460@ 1. You can give $1#random options to empty parts through assembly.
+14461@ 2. Assembly succeeds with a 100% probability, and the granted options can be $1#reset$ through the coordination function.
+14462@ [Enhancement]
+14463@ 1. Strengthens the $1#option of the equipment's unique parts and assembled parts.
+14464@ 2. The maximum enhancement level of parts varies depending on the equipment.
+14465@ 3. When reinforcement fails, $1#reinforcement level is maintained$ without increasing.
+14466@ [Automatic Enhancement]
+14467@ 1. When you check automatic enhancement and click the enhancement button, enhancement will proceed automatically.
+14468@ 2. Automatic reinforcement can be stopped by clicking the $1#Stop button.
+14469@ 3. If $1#reinforcement material runs out or $1#reinforcement is successful, $1#automatic reinforcement stops.
+14470@ [Attunement]
+14471@ 1. This is a function that allows you to reset the $1# option of assembled parts.
+14472@ 2. You can grant $1#by selecting the desired option among the pre/post tuning options for the parts.
+14473@ 3. When adjusting the enhanced option, the enhancement level of the $1#option remains the same.
+14474@ 4. Tuning can be attempted $1#5times for each assembled part.
+14475@ 5. Equipment that has not selected a result after a tuning attempt cannot be $1#equipped or traded$.
+14476@ [Reset tuning count]
+14477@ 1. If the number of adjustments available is exhausted, you can reset the number by consuming $1#Force Gem.
+14478@ 2. Initialization is possible only $1#once for each part, and upon $1#initialization, the number of adjustments possible is restored to 5.
+2108@ PC Point
+2102@ PC Point Shop
+3660@ Personal Inventory
+417@ Confirmation
+418@ Quest Complete
+419@ You have completed the quest objective.
+420@ Please talk to the NPC.
+421@ OK
+422@ New Quest
+423@ A new quest is now available.
+424@ Please talk to the NPC.
+11811@ Receivable Item
+11812@ Boss Information
+11813@ Close
+11814@ 2,171:1
+11817@ Rank Reward
+11818@ Ruler Boss Raid Result
+11819@ Participation Reward
+10679@ Cancel
+10680@ Purchase
+10681@ Confirm Purchase
+10682@ Purchase Price
+10683@ Cancel
+10684@ Refresh
+10685@ Refresh
+10687@ can refresh the list.
+10688@ Would you like to refresh item list?
+9949@ Transform
+9950@ Can change into registered monster.
+10872@ Transformation Card
+10873@ Location
+10874@ Close
+9951@ 0,156:6
+14484@ Tuning
+14485@ 20
+14486@ OK
+14487@ Lv. 2
+14488@ Critical Damage +2%
+14489@ After Tuning
+14490@ Lv. 2
+14491@ Magic Attack +10
+14492@ Before Tuning
+14493@ Tunable Recharges Count
+14494@ (1/1)
+14495@ Tunable Count
+14496@ (5/5)
+14497@ Random options will be granted when tuning. Select Before / After Option.
+14498@ Changing the option will not affect the $1#enhancement level$ of the part option.
+14499@ Please select the option you wish to apply.
+14629@ Even if you select the Before Tuning, the count will still be decreased.
+14500@ Fee
+14501@ 10,000,000 Alz
+14502@ Artifact of Midnight (20/20)
+14503@ Tuning
+14504@ Lv. 2
+14505@ Magic Attack +10
+3299@ View Equipment
+3298@ Add Buddy
+3302@ Write Mail
+3301@ Invite Party
+3303@ Whisper
+425@ Disagree
+426@ Agree
+427@ Agree
+428@ Agreement
+15115@ Fields and Dungeons
+15116@ Mission War
+15117@ Mission War
+15118@ Fields and Dungeons
+15119@ Close
+15120@ Select use of amplifier
+15121@ Level 1
+15122@ Level 2
+15123@ Level 3
+15124@ Level 4
+15125@ Level 5
+15126@ Level 6
+15127@ Level 7
+15128@ Level 8
+15129@ Damage Booster
+7573@ Cancel
+7574@ OK
+7575@ AP Saver
+7576@ Save AP to AP Saver
+7577@ Storable AP
+7578@ Save AP :
+7579@ Remaining AP after saving
+7580@ AP Saver(0/100)
+7581@ AP Saver(0/500)
+7582@ AP Saver(0/700)
+7583@ Quantity
+5833@ Search
+5834@ Search
+5835@ Register
+5836@ Category
+5837@ Category
+5838@ Price
+5839@ Price
+5840@ Name
+5841@ Name
+5842@ QTY
+5843@ QTY
+5844@ 2, 56:110
+5845@ 2,54:15
+5846@ Purchase
+5847@ Function
+5848@ Favorites
+5851@ Refresh
+5852@ Refresh
+5853@ Register
+5854@ Register
+5855@ Name
+5856@ Name
+5857@ Price
+5858@ Price
+5859@ QTY
+5860@ QTY
+5861@ Status
+5862@ Status
+5863@ Purchase
+5864@ 1, 57:5
+5865@ Alz
+6084@ Register
+6085@ Register Item
+6086@ Function
+6087@ Selling
+6088@ Expired
+6089@ Sold
+6090@ Total Quantity
+6091@ (Price x Quantity)
+6092@ Sales Fee (5%)
+6093@ Period
+6094@ Net sales
+6095@ Register QTY
+6096@ Price
+6097@ Alz
+6098@ Alz
+6099@ Alz
+6100@ Alz
+6101@ Alz
+5886@ Adjust fee :
+5887@ [CABAL]
+5888@ Trade
+6154@ Close
+6155@ Dazzlement
+6156@ Transcendence
+6157@ Trust
+6158@ 0,70:6
+6159@ Covenant
+6160@ Covenant
+6161@ Transcendence
+6162@ Trust
+6163@ 0,70:6
+6164@ Dazzlement
+7721@ Cancel
+6165@ Manage
+6166@ Covenant
+6167@ Dazzlement
+6168@ Trust
+6169@ 0,70:6
+6170@ Transcendence
+6171@ Covenant
+6172@ Dazzlement
+6173@ Transcendence
+6174@ 0,70:6
+6175@ Trust
+6176@ Mercenary
+481@ Unsummon
+482@ Mercenary Info
+474@ Cancel
+475@ Confirmation
+476@ Block Player
+477@ Cancel
+478@ OK
+479@ Buddy Name
+483@ Cancel
+484@ OK
+485@ Guild Invitation
+486@ Cancel
+487@ OK
+488@ Invitation Permission
+489@ Expulsion Permission
+490@ Guild Add Group
+491@ Group Name
+492@ Permissions
+493@ Cancel
+494@ OK
+495@ Group Name
+2879@ Cancel
+2880@ OK
+2881@ Buddy Message
+2882@ Edit Buddy Message
+2884@ Delete Block Player
+496@ Edit Memo
+497@ Change Group Info
+498@ Delete Group
+499@ Delete Group
+500@ Delete Buddy
+2026@ View Equipment
+2303@ Write Mail
+501@ Edit Memo
+502@ Invite Party
+503@ Whisper
+2885@ Edit Buddy Message
+504@ Add Guild Member
+505@ Delete Group
+506@ Change group source
+3328@ Edit Guild Message
+11463@ Invite Party
+11464@ Entrust Guild Master
+11465@ Whisper
+11466@ Expel from Guild
+11467@ Add Buddy
+11468@ View Equipment
+11469@ Write Mail
+11470@ Edit Memo
+11471@ Expel from Guild
+11472@ Invite Party
+11473@ Whisper
+11474@ Add Buddy
+11475@ View Equipment
+11476@ Write Mail
+11477@ Edit Memo
+11478@ Whisper
+11479@ Invite Party
+11480@ Add Buddy
+11481@ View Equipment
+11482@ Write Mail
+11483@ Edit Memo
+516@ Group? Add Buddy
+517@ Delete Group
+518@ Change Name
+519@ Cancel
+520@ Confirmation
+521@ Delete Block Player
+522@ Delete Block Player
+523@ Once the target is released, you will be able to do chat.
+524@ Would you like to release the target from your Block List?
+525@ No
+526@ Yes
+527@ Delete Buddy
+528@ Delete Buddy
+529@ Would you like to delete the target from your Buddy List?
+530@ No
+531@ Yes
+532@ Disband Guild
+533@ The guild will be disbanded.
+534@ You can disband the guild after expelling every Guild Member.
+535@ Are you sure that you want to disband your guild?
+536@ No
+537@ Yes
+538@ Delete Guild Group
+539@ Delete Guild Group
+540@ Would you like to delete the guild group from the guild list?
+543@ No
+544@ Yes
+545@ Delete Buddy Group
+546@ Delete Buddy Group
+547@ Everyone in this group will be removed from your Buddy List.
+548@ Would you like to delete the group from your Buddy List?
+549@ No
+550@ Yes
+551@ Leave Guild
+552@ Leave Guild
+553@ Are you sure that you want to leave this guild?
+10881@ Guild main character will reset after leaving the guild.
+3324@ Cancel
+3325@ Confirmation
+3326@ Guild Message
+3327@ Edit Guild Message
+559@ No
+560@ Yes
+561@ Expel Guild Member
+562@ Expel Guild Member
+563@ Are you sure that you want to expel guild member?
+564@ Cancel
+565@ Confirmation
+566@ Entrust Guild Master
+567@ Entrust Guild Master
+568@ The guildmaster authority will be entrusted to the target.
+569@ Cancel
+570@ Confirmation
+571@ Edit Buddy Memo
+572@ Edit Buddy Memo
+11459@ Cancel
+11460@ Confirmation
+11461@ Edit Guild Member Memo
+11462@ Edit Guild Member Memo
+573@ Cancel
+574@ OK
+575@ Invitation Permission
+576@ Expulsion Permission
+577@ Change Guild Group
+578@ Group Name
+579@ Permissions
+580@ Confirmation
+581@ Cancel
+582@ New Group Name
+5487@ OK
+5488@ Bead Customizing period expired
+5489@ Bead Customizing period expired
+5490@ Customizing Bead has expired
+583@ OK
+584@ Blessing Bead period expired
+585@ Blessing Bead has expired
+586@ Blessing Bead has expired; item will disappear
+6581@ Cancel
+6582@ Confirmation
+6583@ Count
+6584@ Receive Item
+6588@ /
+6306@ Cancel
+6307@ Confirmation
+6308@ Ask no more
+6309@ Item Shop Guide
+6310@ Please keep your character safe while using Item Shop.
+6311@ Otherwise, your character can be attacked
+6312@ while you are using Item Shop.
+600@ Cancel
+601@ OK
+602@ Change Kit
+603@ Cancel
+604@ Change Style
+605@ 2,43:5
+606@ Change Kit
+607@ OK
+608@ Level Up Guide
+609@ Gain 5 points for each level
+376@ Add Buddy
+2025@ View Equipment
+1885@ Invite Guild Member
+377@ Invite Party
+2304@ Write Mail
+6259@ Add Block
+378@ Whisper
+616@ Cancel
+617@ Confirmation
+618@ Participate channel chatting
+619@ Cancel
+620@ Confirmation
+621@ Enter private chat channel password
+3530@ Channel
+3531@ Guild
+3532@ Shout
+3533@ Megaphone
+3534@ Normal
+3535@ Party
+3536@ Nation Megaphone
+3537@ Trade
+3538@ Whisper
+3896@ Cancel
+3885@ Apply
+3886@ Adjust fee
+3887@ Adjust fee
+3888@ Adjustment range
+3894@ Adjustment count
+3895@ Adjustment stand by
+630@ Craft Item
+631@ Required Materials
+632@ Craft Item
+633@ Craft Item
+634@ Required Materials
+635@ Craft Item
+636@ Craft Item
+637@ Required Materials
+638@ Craft Item
+639@ Confirmation
+640@ Character Death Penalty
+641@ Your character has received a death penalty.
+642@ You will be released by gaining EXP
+643@ No
+644@ Yes
+645@ Drop Item
+646@ High valued Item. Please think carefully before selling.
+647@ Are you sure that you want to drop this valuable item?
+11624@ Confirmation
+11625@ Periodic Item Expired
+11626@ Your Periodic item has been expired.
+11627@ Following item will disappear due to period expiration.
+654@ [Enter World/Dungeon]
+655@ [Cancel]
+656@ 2,15:10
+657@ Select World/Dungeon
+658@ Warp
+2099@ Single
+2075@ Party
+2100@ Party
+2101@ Single
+2071@ Ranking
+2072@ Dungeon Clear Record
+2073@ Character
+2074@ Record
+2070@ 2,69:10
+2078@ Record
+659@ No
+660@ Yes
+661@ Exit Game
+662@ Exit Game
+663@ Are you sure that you want to exit the game?
+2616@ Close
+2620@ Equip in max
+2617@ Grant Option
+2615@ Items
+263@ Sub SkillsItem
+264@ / 10
+265@ Cost
+266@ Success Rate
+267@ Alz
+268@ %
+269@ Fixed Option Scroll
+270@ Random Option Scroll
+260@ Force Core
+14702@ If the 3rd slot fails,
+14703@ the granted option in 2nd slot will be removed.
+2614@ Add Item Option
+11617@ Cancel
+11618@ Confirmation
+11619@ Force Wing Level Up
+11620@ Following material will be used.
+7991@ Cancel
+7992@ Confirmation
+7993@ Show Force Wing
+7994@ Show All
+7995@ Only show my Force Wing
+7996@ Hide Show All
+8000@ Force Wing Option
+10346@ Close
+10347@ Transcendence
+10348@ Using the transcendence material to upgrade one level.
+10349@ Force Wing Transcendence
+8572@ No
+8573@ Yes
+8574@ 1,135:0
+8575@ Force Wing Training
+8576@ Training
+8578@ Training Time :
+8581@ Training Cost :
+8582@ Training Material :
+8583@ Training Point :
+8587@ Training Result
+8610@ Cancel
+8611@ Reset Training
+8612@ Reset Force Wing Training
+8613@ Points :
+8978@ Roll a Dice
+8979@ OK
+8980@ Guild Dungeon Completed!
+8981@ Guild Dungeon Reward
+8982@ Dungeon
+8790@ Expel Party Member
+8930@ Create
+8931@ Cancel
+8932@ OK
+8933@ Create Group
+8934@ Group Name
+8935@ Withdraw Alz
+8936@ Find Item
+8937@ Guild Itemshop
+8938@ Guild Invitation
+8939@ Group Name
+8940@ Change Group Info
+8941@ Withdraw Alz
+8942@ Find Item
+8943@ Guild Itemshop
+8944@ Invite Guild Member
+8359@ Invite Guild Member
+8360@ Edit Notice
+8361@ Create Group
+8362@ Seal Warehouse
+8363@ Change Guild Name
+8364@ Disband Guild
+8365@ Leave Guild
+8366@ Guild Ranking
+8518@ Guild Advertisement
+700@ Cancel
+701@ Confirmation
+702@ Confirmation
+703@ QTY to store
+704@ Store Item
+705@ Amount to Retrieve
+706@ Deliver item
+6815@ Cancel
+6816@ Confirmation
+6817@ Confirmation
+6818@ Qty. to Store
+6819@ Store Item
+6820@ Amount to Retrieve
+6821@ Deliver item
+7623@ Cancel
+7624@ OK
+7625@ Deposit Amount
+7626@ Sales Fee
+7627@ Requested Deposit Amount
+7628@ Net Deposit Amount
+710@ Cancel
+711@ OK
+712@ Withdrawal Amount
+10092@ Guild Treasure Unavailable
+10093@ Guild treasure acquisition condition not achieved.
+10094@ [Battle]
+10095@ or not enough BP.
+10096@ Achieve Mission War Point
+10097@ Guild treasure when condition is met
+10098@ Can be received.
+10099@ BP
+10100@ Guild treasure achieve condition not qualified.
+10101@ Not joined in guild
+10102@ [Battle]
+10103@ Not guild main character.
+10104@ Achieve Mission War Point
+10105@ Set main character in guild
+10106@ If you play, Guild Treasure
+10107@ Can be received.
+10108@ Guild Treasure can be received!
+10109@ BP
+10110@ [Battle]
+10111@ Confirm to receive Guild Treasure?
+10112@ Receive Treasure
+14591@ Unable to obtain guild treasure
+14592@ Dungeon without guild treasure acquired
+14593@ [Dungeon]
+14594@ Clear dungeon
+14595@ BP
+14596@ Guild treasure conditions not met
+14597@ [Dungeon]
+14598@ This is not the guild representative character.
+14599@ Clear dungeon
+14600@ Guild treasure achieve condition not qualified
+14601@ BP
+14602@ [Dungeon]
+14603@ Would you like to acquire the guild treasure?
+14604@ Acquire treasure
+14645@ Mandarat's Legacy
+14646@ Legacy Exploration
+14647@ Level Limit
+14648@ Minimum level not reached.
+14623@ Madarat's Legacy
+14624@ Weekly Exploration Completed
+14626@ Exploration Pt.
+14627@ Exploration Lv.
+14628@ No. of Explr.
+14605@ Madarat's Legacy
+14606@ Exploration Pt.
+14607@ Dungeon not acquired
+14608@ Exploration Pt.
+14609@ Exploration Lv.
+14610@ No. of Explr.
+14611@ Mandarat's Legacy
+14612@ Exploration Point
+14613@ Exploration Point
+14614@ Would you like to acquire Exploration Pt.?
+14615@ Exploration Lv.
+14616@ No. of Explr.
+14617@ Acquire Pt.
+14649@ Unable to obtain guild treasure
+14650@ The conditions for obtaining guild treasure have not been met.
+14651@ [Dungeon]
+14652@ or BP is insufficient.
+14653@ Clear dungeon
+14654@ When the conditions are met, the guild treasure is
+14655@ You can obtain
+14656@ BP
+14657@ Guild treasure conditions not met
+14658@ You have not joined the guild or
+14659@ [Dungeon]
+14660@ This is not the guild representative character.
+14661@ Clear dungeon
+14662@ If you play, you will receive guild treasures.
+14663@ Join the guild and become the representative character.
+14664@ You can obtain
+14665@ The conditions for obtaining guild treasure have been met!
+14666@ BP
+14667@ [Dungeon]
+14668@ Would you like to acquire the guild treasure?
+14669@ Acquire treasure
+10134@ Guild Treasure Unavailable
+10135@ Guild treasure acquisition condition is not achieved.
+10136@ [Upgrade]
+10137@ Normal Upgrade/Chaos Upgrade/
+10138@ or not enough BP.
+10139@ Divine Upgrade/Extreme Upgrade/
+10140@ Upgrade Point
+10141@ Guild treasure when condition is met
+10142@ Can be received.
+10143@ BP
+10144@ Guild treasure achieve condition not qualified.
+10145@ Not joined in guild
+10146@ [Upgrade]
+10147@ Normal Upgrade/Chaos Upgrade/
+10148@ Not guild main character
+10149@ Divine Upgrade/Extreme Upgrade/
+10150@ Upgrade Point
+10151@ Set main character in guild
+10152@ If you play, Guild Treasure
+10153@ Can be received.
+10154@ Guild Treasure can be received!
+10155@ BP
+10156@ [Upgrade]
+10157@ Confirm to receive Guild Treasure?
+10158@ Receive Treasure
+9598@ 1,150:0
+9599@ 1,149:0
+9600@ Close
+9601@ Guild Weekly Ranking
+9602@ Ranking
+9603@ Level
+9604@ Character
+9605@ Treasure score
+9606@ Created Treasure
+9607@ Treasure Score
+9608@ Weekly Treasure Point
+9609@ Type of Created Treasure
+9610@ Guild Weekly Ranking
+10089@ * Guild Weekly Rank is reset every Monday noon (PM 12:00).
+713@ Cancel
+714@ Confirmation
+715@ Guild Notification
+716@ Guild Introduction
+717@ Guild Homepage
+718@ Guild Information
+719@ [Cancel]
+720@ [Guild Create]
+721@ - Guild Name Limits : Less than 20 characters
+722@ - Guild Max Member : 30 ~ 150
+723@ - Max Guild Group : 16
+724@ - Guild Invitation is through Guild Master or members
+725@ with 'Invitation Permission'
+726@ can recruit new guild members
+727@ Enter Guild Name
+728@ Guide to creating a guild
+729@ (Different according to Guild Level)
+730@ Creating Guild
+731@ Cancel
+732@ Confirmation
+733@ Change Guild Name
+735@ Current Guild Name
+736@ New Guild Name
+737@ Cancel
+738@ Change
+739@ Change Guild Name
+740@ Current Guild Name:
+741@ New Guild Name:
+742@ Would you like to change Guild Name?
+9524@ No
+9525@ Yes
+9526@ Set Guild Main Character
+9527@ Set as guild main character
+9528@ *Current Character
+744@ 2,8:4
+747@ Lv. Appropriate Area
+748@ Party Member
+749@ Available
+750@ Warp Gate
+751@ Officer
+752@ Instructor
+753@ Grocer
+754@ Magic Shop
+755@ Warehouse
+756@ Agent Shop
+757@ Events
+758@ Rune Agent
+2588@ Unlimited Warp
+759@ Dungeon Entrance
+252@ In Progress Quest
+253@ Quest Mission
+2603@ Save Coordinates
+743@ GPS
+3304@ Alliance point
+3305@ Enemy point
+3306@ Neutral point
+3307@ Battle point
+3308@ 1
+3309@ 2
+3310@ 3
+3311@ 4
+3312@ 5
+3313@ 6
+3314@ 7
+3698@ Cancel
+3699@ OK
+3700@ Request Guild Battle
+3703@ Request Guild Battle
+3701@ Target Guild
+3702@ Winning Kill Count
+3704@ /        1,000
+14059@ [Protection Target Item]
+14060@ Only $1#Weapons, Armors, Accessories, Pets, Costumes$ can be protected.
+14061@ [Display Protected Item Amount]
+14062@ The number of items being protected, if you have a protected item.
+14063@ will be displayed in $1#green$ to the left of the quantity used.
+14064@ [What is Item Protection?]
+14065@ This is a function that prevents items from accidentally disappearing
+14066@ by blocking all uses except moving in the $1#inventory and equipment window$.
+14067@ [Setting Protection]
+14068@ 1. Click the Protection Setting Mode in Inventory
+14069@ 2. If you click the items that you want to protect at $1#Equipment Window, Inventory$,
+14070@ item will be selected.
+14071@ (Click the selected item again to deselect it.)
+14072@ 3. Re-click the Protection Setting Mode button
+14073@ to finish the protection mode after selecting.
+14074@ 4. Selected item will be set as protected item.
+14075@ Protection Mode Help
+1980@ Cancel
+1981@ OK
+1982@ Purchase QTY
+1983@ Purchase Item
+2791@ /
+1535@ Cancel
+1536@ OK
+1537@ Register QTY
+1538@ Register Item
+1539@ /
+1540@ Enter item QTY to register
+1986@ Cancel
+1987@ Confirmation
+1988@ Sale QTY
+1989@ Item Sale
+2034@ Sale Price
+2033@ Alz
+2808@ /
+760@ Cancel
+761@ Item Extraction
+762@ Item Extraction
+1895@ Cancel
+1896@ Agree
+1897@ Item Extraction
+3497@ Confirmation
+3498@ Divide Items
+3499@ No. of Items per Stack
+3500@ Stack No
+3501@ ea
+3502@ Stack
+3503@ /
+3505@ Stack
+1104@ Cancel
+1105@ Delete
+1106@ Remove Option
+1107@ All of Options below will be removed.
+3791@ Cancel
+3792@ Participate
+3793@ Participate
+3359@ Cancel
+3360@ Create
+3395@ Private
+3394@ Public
+3361@ Create Room
+3393@ Room Title
+3447@ Select Map
+3448@ Select Mode
+3507@ Cancel
+3508@ Participate
+3511@ Enter
+3613@ Resurrecting
+3922@ Alliance
+3923@ Character Info
+3928@ Enemy
+3929@ Character Info
+3946@ 2,93:5
+3947@ 2,92:5
+3647@ Cancel
+3651@ Close
+3648@ Search Match
+3650@ Current Progress
+3654@ Search Time
+3371@ Cancel
+3399@ Move Team
+3372@ Exit
+3373@ Ready
+3374@ Start
+3362@ Mission Battle
+3363@ Team A
+3364@ Team B
+3451@ /
+3614@ Battle Time
+3615@ Winning Score
+3617@ Map
+3618@ Mode
+3495@ 2, 84:5
+3496@ 2, 85:5
+10820@ Cancel
+10821@ Item Extraction
+10822@ Item Extraction
+10823@ Target Item
+10824@ 1, 166:0
+10825@ 1, 167:0
+10826@ Cancel
+10827@ Agree
+10828@ Item Extraction
+10829@ Target Item
+10830@ 1, 168:0
+10831@ Close
+10832@ Item Extract Result
+786@ 2,18:10,19:5
+787@ 2,10:10
+825@ NPC
+826@ NPC
+827@ Success Rate
+828@ Cost
+829@ Blended Runes
+830@ Essence Rune and Core for crafting will be disposed.
+831@ Material
+832@ 2,61:5
+833@ Craft
+834@ Try again
+835@ Crafting in progress
+2843@ Set Expiration Date
+2822@ My Item
+2823@ Appearance Material
+2824@ Cost
+2825@ Alz
+2847@ [Select other type of Upgrade]
+2838@ Restore Appearance
+2837@ Change Appearance
+2839@ NPC
+836@ I would like to join the Capella
+837@ I would like to join the Procyon
+838@ Let me think about it.
+839@ Currently, many of Nevareth warriors
+840@ Both confederations are similar
+841@ in numbers. however, if you join
+842@ $4#less Honor points$ in $4#hunting$ and $4#in a war$
+843@ than people in the other confederation.
+844@ are debating which confederation.
+845@ That means, you can not be benefiting
+846@ by joining a confederation with more members.
+847@ you will have a chance of gaining
+848@ a confederation with more members,
+849@ NPC
+850@ [NPC Exclusive Function]
+851@ [Quest]
+852@ 2,10:10
+853@ NPC
+854@ Accept Additional Reward
+855@ 2,22:1,23:1,22:1,24:1,22:1,25:2
+856@ Additional Quest Reward
+857@ NPC
+858@ NPC
+859@ [Accept Dungeon Reward]
+860@ Dungeon Reward
+861@ Item
+862@ Skill
+863@ Normal
+864@ Please choose a quest reward.
+865@ Ask no more
+866@ No
+867@ Yes
+868@ Purchase Item
+869@ Purchase item
+870@ Are you sure that you want to purchase the item?
+871@ No
+872@ Yes
+873@ Trained Skill
+874@ You have trained it already.
+875@ Purchase it anyway?
+876@ You can't use this book to train it again.
+877@ All Attack
+878@ Sub Skills
+879@ Reinforce
+880@ NPC
+881@ Show Available Skills Only
+882@ 2,10:10
+883@ NPC
+884@ 2,11:10
+885@ Leave
+886@ NPC
+887@ Event Reward
+888@ Goal Info
+889@ Participate
+890@ Receive Reward
+891@ Close
+892@ View achievable goal
+893@ 2,58:20
+894@ NPC
+895@ 2,11:8,21:4
+896@ NPC Exclusive Function
+897@ Leave
+898@ Hello?
+899@ $5#[NPC Ability]$ means unique abilities
+900@ such as item shops or skill trainings.
+901@ $5#[Quest]$ means quests you can
+902@ receive. The progress of a quest will
+903@ Let me introduce you NPC abilities.
+904@ be displayed as $5#(Start)$, $5#(In progress)$,
+905@ $5#(Complete)$. How can I help you?
+906@ NPC
+11132@ Cancel
+11133@ OK
+11134@ Set to default
+11135@ Sound
+11136@ Game
+11137@ Display
+11138@ Chatting
+11139@ Key Bindings
+11140@ Macro
+11141@ Graphic
+11142@ Resolution
+11143@ Refresh Rate
+11144@ Graphic Processing
+11145@ Multi Sampling
+11146@ Font
+11147@ Resolution
+11148@ Korean
+11149@ English/Number
+11150@ Hello~ 1234567
+11151@ Hello Test sentence
+11152@ Preferences
+11153@ Mission War
+11154@ Weather Effect
+11155@ Distortion Effect
+11156@ Gamma
+11157@ Shadow
+11158@ Water Effect
+11159@ Blur
+11160@ Range of View
+11161@ Effect
+11162@ Normal
+11163@ Normal
+11164@ Weather Effect
+11165@ Distortion Effect
+11166@ Gamma
+11167@ Shadow
+11168@ Water Effect
+11169@ Blur
+11170@ Range of View
+11171@ Effect
+11172@ Mission War
+11174@ Advanced Graphic Effect (Advised to check with recommended spec or above)
+11175@ Set to default
+11176@ Preferences
+11177@ Game
+11178@ Display
+11179@ Chatting
+11180@ Key Bindings
+11181@ Macro
+11182@ Show Jukebox(J) on screen
+11183@ Whisper Notice
+11184@ Mute
+11185@ Listen to game sound over inactivated window
+11186@ Mute Microphone
+11187@ My voice on
+11188@ Push To Talk
+11190@ Voice Chat
+11191@ Buffer Size
+11192@ Encoding Formats
+11193@ Sound Effect
+11194@ BGM
+11195@ Jukebox
+11196@ Sound
+11197@ Amp. microphone
+11198@ Sound
+11199@ Set to default
+11200@ Preferences
+11201@ Sound
+11202@ Display
+11203@ Chatting
+11204@ Key Bindings
+11205@ Macro
+11206@ Whisper
+11207@ Trade
+11208@ Party
+11209@ Auto Attack
+11210@ PVP
+11211@ Shout
+11212@ Dash/Blink to Cursor
+11213@ Mouse pointer fixed when rotate view
+11214@ Lock Quick Slot
+11215@ Allow basic attack during auto attack
+11216@ Allow Equipment View
+11217@ Use ESC to open system menu
+11218@ Fade Step to Cursor
+11219@ Enable Global Hotkey
+11220@ Help Notice ON
+11221@ Limit Max. Zoom Out
+11222@ Allow Item Combination with Shift+Left Click
+11223@ Forced PK
+11224@ Move sideway while right-clicking
+11225@ Stabilize Image
+11226@ Show Skill Animation
+11227@ Rotate Camera by touch the frame by mouse
+11228@ Send Whisper by right-click character name
+11229@ Character Function
+11230@ Skill Option
+11231@ etc
+11232@ Camera
+11233@ Set Option
+11234@ Game
+11235@ Set to default
+11236@ Preferences
+11237@ Sound
+11238@ Game
+11239@ Chatting
+11240@ Key Bindings
+11241@ Macro
+11242@ Display
+11360@ 2,170:10
+11259@ Fixed UI window
+11260@ Mission War
+11261@ Display
+11262@ Adjust UI Size
+11263@ UI settings
+11264@ Normal
+11265@ Player Name
+11266@ Monster Name
+11267@ NPC Name
+11268@ Item Name
+11269@ Character HP Bar
+11270@ Monster HP gage
+11271@ Guild Name/Emblem
+11272@ Dialog Bubble
+11273@ Combo UI on Top
+11274@ Title
+11275@ Display Total HP gage
+11276@ Display Shortcut on Minimap
+11277@ Show instructions on Item Information
+11278@ Fixed UI window
+11279@ Normal
+11280@ Display
+11281@ Adjust UI Size
+11282@ UI settings
+11283@ Mission War
+13335@ Set to default
+13336@ Display
+13337@ Preferences
+13338@ Sound
+13339@ Game
+13340@ Key Bindings
+13341@ Macro
+13342@ Obtained Alz
+13343@ Chat Background Fix
+13344@ Channel
+13345@ Change Chat type with Ctrl + Tab
+13346@ Disregard On/Offline Messages
+13347@ Gain EXP
+13348@ Guild
+13349@ Item Obtained
+13350@ Shout
+13351@ Click character name and link in the Chat window
+13352@ Obtained MXP
+13353@ Normal
+13354@ Gain OXP
+13355@ Party
+13356@ System Message
+13357@ System Chat Window Fix
+13358@ Trade
+13359@ Show Tip-messages
+13360@ Whisper
+13361@ Disregard Whispers from Enemy
+13362@ Chat Message
+13363@ Channel Chat
+13364@ System Message
+13365@ Chat Option
+13366@ Transparency
+13367@ Channel Name
+13368@ Password
+13369@ Chat Window
+13370@ System Window
+13371@ Chat Window
+13372@ Chat Line
+13373@ System Window
+13374@ Chatting
+11325@ Set to default
+11326@ Display
+11327@ Preferences
+11328@ Sound
+11329@ Game
+11330@ Chatting
+11331@ Macro
+11332@ 2, 64:1,65:10,64:1,65:10,64:1,65:20,64:1,65:15,64:1,65:10,64:1,65:10,64:1,65:10,64:1,65:15,64:1,65:15,64:1,65:10,64:1,65:26
+11333@ Hotkey Setting
+11334@ Delete existing Hotkey with Back Space button
+11335@ Existing Hotkey has been overwritten.
+11336@ Key Bindings
+11337@ Set to default
+11338@ Display
+11339@ Preferences
+11340@ Sound
+11341@ Game
+11342@ Chatting
+11343@ Key Bindings
+11344@ Set Macro
+11345@ Delete existing Hotkey with Back Space button
+11346@ Change Hotkey Macro in Key Bindings
+11347@ Hotkeys
+11348@ Text
+11349@ Macro
+11350@ Option
+1030@ Cancel
+1031@ OK
+1032@ Normal Items
+1033@ Free Looting
+1034@ By Order
+1035@ Leader Only
+1036@ Bind Items
+1037@ Roll a Dice
+1038@ Immediate Settlement
+1039@ Party Option
+14930@ Cancellation
+14931@ Check
+14932@ Change Pet name
+14933@ Current Name
+14934@ No nickname.
+14935@ Name to change
+14936@ Pet Name Card
+14937@ Mileage
+14938@ ※ If you have a pet name card
+14939@ Consume pet name cards first.
+1046@ Confirmation
+1047@ PK Penalty
+1048@ You cannot talk to NPCs and use Warp Portals.
+6782@ Application Period
+6783@ Platinum Buff
+6784@ Grade
+6785@ Normal Price
+6786@ Discounted Price
+6787@ [Discount %]
+14700@ Maximum applicable period.
+6788@ Stats
+6789@ Applicable Period
+6790@ Platinum Information
+6791@ Remaining Time
+6792@ Platinum Buff
+6793@ Cancel
+6794@ Apply
+1049@ Cancel
+1050@ OK
+1051@ Coat Astral Bike
+1052@ Coat your Astral Bike using paint.
+1053@ Change the Color of your Astral Bike
+1054@ by using 1 Astral Bike Coating Kit.
+1055@ Would you like to continue?
+1944@ Cancel
+1945@ Reset
+1946@ Stat Reset
+1947@ The character's stat will be changed as below.
+1948@ STR
+1949@ INT
+1950@ DEX
+1951@ Point
+1056@ Connecting ...
+1057@ Connecting ...
+1058@ Loading ...
+1059@ Waiting to Warp
+6628@ Purchase
+6629@ Close
+6630@  
+6631@ On Sale
+6632@ Vendor
+6633@ Start
+6634@ Stop
+6635@ Close
+6636@ Update
+6645@  
+6646@ Premium Shop
+12182@ Select All
+6647@ Selling
+6648@ Selling
+6649@ Vendor
+1071@ OK
+1072@ Cancel
+1073@ Character Name
+1074@ No
+1075@ Yes
+1076@ Leave Party
+1077@ You have decided to leave the party.
+1078@ Are you sure that you want to leave the party?
+1079@ Cancel
+1080@ Confirmation
+1081@ Expel Member
+1082@ You have decided to expel the party member.
+1083@ Are you sure that you want to expel the party member?
+14098@ Cancel
+14099@ Search Matching
+14100@ Progress
+14101@ Searching for Competitors...
+14102@ Searching Time
+14103@ Matching has been succeeded. Move to battlefield...
+5327@ 2, 114:7
+5328@ 2, 114:7
+5201@ Team A
+5203@ Team B
+5216@ Betting
+5225@ Alz
+5226@ Betting opens for 30s before PvP Starts
+5114@ Create
+5113@ Cancel
+5307@ Yes
+5171@ Apply
+5308@ No
+5172@ Unapplied
+5174@ No
+5175@ Yes
+5115@ Private
+5116@ Public
+5117@ Create Room
+5118@ Room Title
+5119@ Select Map
+5120@ Select Mode
+5168@ Select Time
+5169@ Kill Count
+5176@ No Item Mode
+5177@ Battle Mode
+5178@ Spectator Mode
+5189@ Cancel
+5190@ Participate
+5191@ Enter
+5149@ Cancel
+5150@ Move Team
+5151@ Exit
+5152@ Ready
+5153@ Start
+5154@ PvP Battle
+5155@ Team A
+5156@ Team B
+5157@ /
+5158@ Battle Time
+5159@ Kill Count
+5160@ Spectator
+5161@ Mode
+5332@ /
+5333@ Battle
+5162@ 2, 109:5
+5163@ 2, 109:5
+5144@ Character Info
+5146@ Character Info
+5194@ OK
+5148@ 2, 108:7
+5147@ 2, 110:7
+5142@ Resurrecting
+1095@ Challenge
+2312@ Exit
+1096@ Mission Penalty :
+1097@ Dungeon
+1098@ Cancel Dungeon Entry
+1099@ You have decided to exit without trying the dungeon.
+1100@ You have decided to return to the dungeon entrance.
+1101@ Would you like to continue?
+1102@ Cancel
+1103@ OK
+2518@ OK
+1108@ Quest Dungeon Failed
+1109@ Mission Penalty
+1110@ Dungeon
+14618@ Roll a Dice
+14619@ Exit
+14620@ Stay
+14621@ Quest dungeon passed!
+14622@ Dungeon
+14670@ Roll a dice
+14671@ Exit
+14672@ Stay
+14673@ Quest dungeon passed!
+14681@ Dungeon
+1114@ OK
+1115@ Register Item
+1116@ Quantity
+1117@ Cancel
+1118@ OK
+1119@ Use Rename Card
+1120@ Change your character name using the Rename Card.
+1121@ Current Name
+1122@ New Name
+2874@ Cancel
+2875@ OK
+11883@ Cancel
+11884@ OK
+11885@ Cancel
+11886@ OK
+1123@ Request Party
+1124@ Whisper
+1125@ Cancel
+1126@ Register
+1127@ Party Register
+1128@ Recruit Message
+1129@ Party Member
+4437@ Normal
+4438@ AP
+4435@ Shop
+1130@ No
+1131@ Yes
+1943@ Ask no more
+1132@ Item Sale
+1135@ No
+1136@ Yes
+1137@ Ask no more
+1138@ Item Sale
+1139@ This item is expensive. Are you sure to sell it?
+1141@ No
+1142@ Yes
+1143@ Ask no more
+1144@ Purchase Item
+1145@ Purchase Item
+1146@ Are you sure that you want to purchase the item?
+1147@ No
+1148@ Yes
+1149@ Ask no more
+1150@ Purchase Item
+1151@ Purchase Price :
+1152@ No
+1153@ Yes
+1154@ Purchase Item
+1155@ High valued Item. Please think carefully before selling.
+1156@ Cancel
+1157@ Confirmation
+1158@ Notice
+1159@ This is a notice regarding selling Quest Items to NPC shops.
+1160@ If you sell your Quest Items,
+1161@ You may not be able to proceed with your quests.
+1162@ Would you like to continue?
+1163@ Cancel
+1164@ OK
+1165@ Delete a Skill
+1166@ You have decided to delete the skill.
+1167@ Would you like to completely delete the skill?
+1168@ Confirmation
+1169@ Confirmation
+1170@ New Skills
+1171@ Learn New Skills
+1172@ You can learn new skills from instructors in towns.
+1173@ No
+1174@ Yes
+1175@ Untrain Skills
+1176@ You have decided to untrain your skill.
+1177@ Would you like to lower the skill's level by untraining?
+6313@ Cancel
+6314@ Confirmation
+6315@ Ask no more
+6316@ Notice
+6317@ Please use in safe area
+2731@ SNS
+2733@ Homepage
+2735@ Twitter
+2736@ Post
+2793@ Post
+2737@ Facebook
+2738@ Name
+2740@ Facebook
+2742@ Twitter
+2743@ Post
+2744@ Homepage
+2745@ Upload a screenshot to the User Gallery
+251@ Title :
+2747@ Facebook
+2748@ Homepage
+2750@ Post
+2751@ Twitter
+2752@ Twitter ID
+2753@ Close
+1178@ Confirmation
+1179@ Item Distribution
+1180@ Quantity
+1181@ Cancel
+1182@ Confirmation
+1183@ Force Core Slot Extend
+1184@ Use a Slot Extender.
+1185@ Using 1 Slot Extender will add 1 more slot
+1186@ for the item's Force Core.
+1187@ However, the item will be bound to you.
+1188@ Cancel
+1189@ Cancel
+1190@ Trade Confirm
+1191@ OK
+1192@ Trade Confirm
+1193@ Are you ready to start the trade?
+1194@ Please remember, once you confirm a trade, you cannot
+1195@ change the target items or the amount of Alz.
+1196@ Would you like to continue?
+1197@ Trade Confirm
+1198@ Would you like to complete trading?
+1199@ Please double check character name, items,
+1200@ and the amount of Alz.
+1201@ Similar name to the name in the buddy list or the guild member list.
+1205@ Cancel
+1206@ OK
+1207@ Trade Amount
+14506@ OK
+14507@ Close
+14508@ Tuning count recharge
+14509@ Would you like to recharge the tuning count?
+14510@ Number of tuning possible after charging: 5 times
+14511@ Consumed Force Gems cannot be refunded.
+1211@ Cancel
+1212@ OK
+1213@ Item Upgrade
+1214@ Upgrade the item by using Core Enhancer.
+1215@ Increase the selected Upgrade Core's success chance
+1216@ by using Core Enhancer.
+2796@ Cancel
+2797@ OK
+2798@ Amount Stored
+2799@ Store Items
+2800@ Sales Fee
+2801@ Alz
+2789@ /
+2802@ Cancel
+2803@ OK
+2804@ Amount to Retrieve
+2805@ Search Item
+2806@ Sales Fee
+2809@ 0
+2807@ Alz
+2790@ /
+208@ Exchange Honor Point
+2212@ EXP Exchange
+2214@ WExp Exchange
+2218@ Skill EXP Exchange
+2215@ You can exchange the items below with WEXP.
+371@ Current WEXP :
+2221@ WEXP Required:
+2223@ Cancel
+2222@ Confirmation
+1217@ Cancel
+1218@ OK
+1219@ Notice
+1220@ This is a notice regarding selling Quest Items to NPC shops.
+1221@ In case of storing Quest Items in your personal Warehouse,
+1222@ You may not be able to proceed with your quests.
+1223@ Would you like to continue?
+7617@ Cancel
+7618@ OK
+7619@ Deposit Amount
+7620@ Sales Fee
+7621@ Requested Deposit Amount
+7622@ Net Deposit Amount
+1227@ Cancel
+1228@ OK
+1229@ Withdrawal Amount
+10817@ Purchase
+11880@ Awakened Aura
+11881@ Aura
+15131@ Cancel
+15132@ OK
+15133@ Storage Quantity
+15134@ Amplifier storage
+15135@ /
+15136@ OK
+15137@ Take out the amplifier
+15138@ Number of items per bundle
+15139@ Number of bundles
+15140@ dogs
+15141@ bundle
+15142@ /
+15143@ bundle
+1910@ Cancel
+1911@ OK
+1912@ Add to Favorites
+1913@ Name the Favorites link.
+1916@ Cancel
+1917@ OK
+1918@ Delete the Favorites link
+1919@ Delete the Favorites link.
+372@ Would you like to delete the Favorite link of the icon?
+1926@ Delete
+1925@ Rename
+1924@ Search
+1920@ Cancel
+1921@ OK
+1922@ Rename
+1923@ Rename the Favorites link.
+6177@ Craft Mercenary
+6178@ Rank Up
+6179@ Reinforce
+6180@ Craft Mercenary
+6181@ Manage Mercenary
+6182@ *Mercenary Benefits
+6183@ Required Items
+6184@ Craft
+6185@ *Craft Mercenary Card
+6186@ *Craft requires Piece(s) of Mercenary
+6187@ *Success Rate: 100%
+6188@ Piece(s)
+6189@ Auto Register
+6190@ Mercenary Rank Up
+6191@ Auto Register
+6192@ Craft
+6193@ Reinforce
+6194@ Mercenary Rank Up
+6195@ Manage Mercenary
+6196@ Training Stone
+6197@ *Added Benefits
+6198@ Required Items
+6199@ Rank Up
+6200@ *Rank Up requires Training Stone(s)
+6201@ *Success Rate: 100%
+6202@ *Only Lv.10 Mercenary can Rank Up
+6216@ Level will be reset to 1
+6203@ Upgrade Mercenary
+6204@ Auto Register
+6205@ Craft
+6206@ Rank Up
+6207@ Upgrade Mercenary
+6208@ Manage Mercenary
+6209@ *Mercenary Lv. will increase
+6210@ Required Items
+6211@ Reinforce
+6212@ *Upgrade Mercenary Lv.
+6213@ *Upgrade requires Piece(s) of Mercenary
+6214@ *Success Rate: 100%
+6215@ Piece(s)
+15161@ Campfire Participants
+15162@ Close
+15163@ 1,218:0
+1230@ Cancel
+1231@ OK
+1232@ Leave chat channel
+1233@ Leave chat channel
+1234@ Would you like to leave the chat channel?
+1235@ Channel Name :
+1236@ Cancel
+1237@ OK
+1238@ Create chat channel
+1239@ Channel Name
+1240@ Password
+1241@ Please enter a chat channel title and password.
+1242@ OK
+1243@ Create chat channel
+1244@ Channel Name :
+1245@ Channel Password :
+1246@ You have successfully created the chat channel.
+1886@ Confirmation
+1905@ No
+1904@ Yes
+1892@ Please select the method of revival.
+1893@ Your character has been defeated.
+1908@ Using the Honorable Circle.
+1909@ Honorable Circle
+1901@ Your character has been defeated.
+1902@ You have no Odd Circle.
+1888@ sec
+3416@ Confirmation
+3417@ No
+3418@ Yes
+3419@ sec
+3424@ Do you want to allow a Party Member to resurrect you?
+3425@ Resurrect Party Member
+3420@ Your character has been defeated.
+3421@ There are currently no items available for use
+3422@ Your character has been defeated.
+3423@ Please select the method of revival.
+4395@ Confirmation
+4396@ No
+4397@ Yes
+4398@ sec
+4399@ Do you want to allow a Party Member to resurrect you?
+4400@ Resurrect Party Member
+4401@ Your character has been defeated.
+4402@ There are currently no items available for use
+4403@ Your character has been defeated.
+4404@ Please select the method of revival.
+1270@ No
+1271@ Yes
+1272@ Would you like to participate?
+1273@ Event reward can only be received according to the
+1274@ limited numbers set for the reward.
+1275@ Remaining Reward Qty:
+1276@ Event
+1277@ No
+1278@ Yes
+1279@ Would you like to participate?
+1280@ Event reward can only be received according to the
+1281@ limited numbers set for the reward.
+1282@ Remaining Reward Qty:
+1283@ Event
+8598@ 2,133:3
+3769@ Close
+3770@ Summon
+3771@ Select how to summon
+3772@ Summon Legacy Guardian
+2812@ Warp to Party Members
+2813@ Target
+2814@ Location
+2815@ Warp to location of Party Member
+2816@ No
+2817@ Yes
+2583@ Warp to Party Members
+2595@ Target
+2596@ Location
+2606@ Warp to location of Party Member
+1906@ No
+2356@ Sender
+2270@ Title
+2271@ Attached Item
+2272@ Attached Alz
+2273@ Read
+2274@ Close
+2279@ Delete
+2281@ Next
+2280@ Prev
+2278@ Reply
+2368@ Recipient
+2267@ Title
+373@ Attached Item
+374@ Attached Alz
+2372@ Read
+2373@ Close
+2374@ Delete
+2375@ Next
+2376@ Prev
+2269@ Recipient
+2378@ Title
+2379@ Attached Item
+2380@ Attached Alz
+2262@ Write
+2819@ Close
+2818@ Send
+1284@ Immediate Settlement
+1285@ Give up
+1286@ Bid
+1287@ Bid
+1288@ Roll a Dice
+1289@ Give up
+1290@ Roll a Dice
+1291@ Roll a Dice
+1292@ Cancel
+1293@ Confirmation
+1294@ Sale Price
+1295@ Cancel
+1296@ Confirmation
+1297@ Auto complete
+1298@ Purchase Price
+7516@ Cancel
+7517@ Purchase Item
+7518@  
+7519@  
+7520@  
+7521@  
+7522@ Purchase Price
+7523@ OK
+1299@ Cancel
+1300@ OK
+1301@ Change Item Price
+1302@ You have decided to change the item price.
+1303@ Are you sure that you want to change the item price?
+1304@ Cancel
+1305@ OK
+1306@ Closing Personal Shop
+1307@ You are closing your Personal Shop.
+1308@ Would you like to close your Personal Shop?
+1309@ (When you close your shop, the items registered
+1310@ on selling list will be moved to you inventory.)
+1311@ Cancel
+1312@ OK
+1313@ Stop Selling Mode
+1314@ You are stopping Selling Mode.
+1315@ Would you like to stop Selling Mode?
+1316@  
+1317@  
+2754@ Screenshot
+2755@ Attach
+2756@ Close
+614@ No
+652@ Yes
+392@ Purchase Item
+672@ Purchase Price
+5294@ Cancel
+5295@ OK
+5296@ Purchase Item
+5297@ Purchase QTY
+5298@ Purchase Price
+5299@ QTY Condition
+5300@ Cancel
+5301@ OK
+5302@ Purchase Item
+5303@ Purchase QTY
+5304@ Purchase Price
+5305@ QTY Condition
+13811@ Cancel
+13812@ OK
+13813@ Purchase Item
+13814@ Purchase QTY
+13815@ Purchase Price
+13816@ QTY Condition
+13817@ You cannot refund or exchange the items
+13818@ after receiving the purchased items from cash inventory.
+11440@ Cancel
+11441@ OK
+11442@ Purchase Item
+11443@ Purchase QTY
+11444@ Purchase Price
+11445@ Currency Balance
+1332@ Ready
+1333@ Ready
+2521@ Twitter
+2523@ Attach
+2522@ Close
+2524@ Tweet
+2525@ Screen Shot
+2528@ Screen Shot
+2537@ Close
+2536@ Post
+2532@ Tweet
+2533@ Twitter ID
+1334@ No
+1335@ Yes
+1336@ Ask no more
+1337@ Use Warp Stone
+1338@ Move to Nation Reward Warp
+1339@ Warp Stone will be used for a defeated nation
+1340@ when using Nation Reward Warp.
+1341@ Wish to use Nation Reward Warp?
+15070@ Applying
+14924@ 5,000
+14925@ 5,000
+14926@ 5,000
+14927@ 5,000
+3255@ Add
+3272@ Craft Item
+3269@ 2,41:8
+3223@ Complete
+1342@ Hotkey 1
+1343@ Hotkey 2
+1344@ Not Bound
+1345@ Not Bound
+14479@ Lv. 1
+14480@ Magic Attack +5
+14482@ Lv. 1
+14483@ Magic Attack +5
+1346@ Item Type
+1347@ Recommended Class
+5185@ MVP
+14928@ 5,000
+14929@ 5,000
+11448@ Cancel
+11449@ OK
+11450@ Count
+11451@ Receive Item
+11452@ /
+8588@ Complete Immediately
+8589@ Close
+8590@ 1,134:0
+8591@ Start Force Wing Training
+8592@ Training
+8594@ Remaining Time
+8595@ Deathblow UP
+8597@ Training Result
+10082@ Enter Dungeon
+10084@ Guild Dungeon
+2560@ Help
+2564@ Close
+2563@ List
+2565@ Help Notice ON
+2571@ Help
+3706@ OK
+3705@ Cancel
+3707@ Purchase QTY
+3708@ Purchase Item
+3709@ /
+3711@ Purchase Price
+3713@ Cancel
+3712@ OK
+3719@ Ask no more
+3715@ Purchase Item
+3718@ Would you like to purchase item?
+3717@ Purchase Price
+6294@ Cancel
+6295@ Confirmation
+6296@ Ask no more
+6297@ Item Sale
+6298@ Expensive Item. Are you sure you want to sell?
+6299@ Sale Price
+6300@ Cancel
+6301@ OK
+6302@ Ask no more
+6303@ Item Sale
+6304@ Item cannot be restored. Still sell?
+6305@ Sale Price
+14861@ LV.
+14862@ Skill Rank
+14863@ Honor Grade
+14864@ Grade
+2966@ 1,172:1
+11820@ Total Title
+2960@ View More
+3143@ Buy
+3144@ Buy
+1350@ 1,54:0,55:0
+1351@ 1,0:0
+3145@ Receive
+3146@ Receive
+3147@ Cancel
+3148@ Change
+3149@ Register
+8367@ 1,7:0
+9952@ 1,0:0
+9953@ Lake in Dusk
+9954@ 100%
+9955@ 1,0:0
+9956@ Need Cores...More and More!
+9957@ (3333/3333)
+9958@ (0/1)
+9959@ (0/100)
+9960@ (0/100)
+9961@ (0/10)
+9962@ (3/10)
+9963@ 1,0:0
+9964@ Receive Reward
+9965@ X 200
+13950@ Complete
+13951@ Process
+14015@ Consume Alz
+14016@ 1,000,000
+14017@ 10 Points
+14758@ Complete
+14759@ Progress
+14760@ Consumed Alz
+14761@ 1,000,000
+14762@ 10pts.
+14763@ 1,0:0
+14764@ Abbys Clue
+14765@ 1
+13991@ 1
+8803@ 1,139:0
+8804@ Change Level
+10723@ 1,129:0
+8354@ 1,130:0
+8355@ Request
+9672@ 1,150:0
+9673@ 1,149:0
+8356@ 1,131:0
+8357@ View
+8358@ Cancel Request
+8791@ 1,137:0
+9529@ 1,148:0
+9530@ Receive
+12106@ 16 / 13
+12107@ Insert
+1363@ 1,13:0
+3519@ Use Score
+1368@ 1,0:0
+5227@ MVP
+5229@ MVP
+5313@ Enter
+5809@ Enter
+2655@ 1,6:0,17:0
+2656@ 1,72:0,17:0
+11823@ 1,139:0
+1370@ Repeat the Ending Scroll
+14794@ 1
+1373@ Alz(Point)
+1374@ 1,45:0
+1375@ 1,50:0
+1376@ 1,0:0
+1377@ 0
+1378@ 1
+1379@ 2
+1380@ 3
+1381@ 4
+1382@ 5
+1383@ 6
+1384@ 7
+1385@ 8
+1386@ 9
+1387@ `
+1388@ -
+1389@ =
+1390@ \
+1391@ q
+1392@ w
+1393@ e
+1394@ r
+1395@ t
+1396@ y
+1397@ u
+1398@ i
+1399@ o
+1400@ p
+1401@ a
+1402@ s
+1403@ d
+1404@ f
+1405@ g
+1406@ h
+1407@ j
+1408@ k
+1409@ l
+1410@ z
+1411@ x
+1412@ c
+1413@ v
+1414@ b
+1415@ n
+1416@ m
+1417@ [
+1418@ ]
+1419@ ;
+1420@ '
+1421@ ,
+1422@ .
+1423@ /
+15218@ Add Friend
+15217@ Invite to Party
+8616@ Complete Training Immediately
+8617@ Force Gem
+8618@ Complete Force Wing Training Immediately
+8619@ Force Gem needed to complete the training
+8620@ No
+8621@ Yes
+14425@ Combine Items
+14426@ Divide Qty.
+14427@ Equip
+14428@ Link to Chat
+14429@ Move to next Tab
+14430@ Collection Search
+14431@ Use
+1424@ Delegate Leadership
+1425@ Expel Member
+1426@ Authorize right to invite
+1427@ Deprive right to invite
+2961@ Achievement Info
+15039@ 2, 217:15
+15041@ conversion
+15042@ Extract
+15043@ Slot Stats
+15044@ Anima Mastery Preset
+15045@ Detailed abilities
+15046@ Anima Mastery
+15047@ storage slot
+15048@ Slot Stats
+15049@ Force Essence
+15050@ cost
+15051@ Conversion Kit
+15052@ Reset Kit
+15053@ Conversion Kit
+15054@ Extraction Kit
+15055@ general
+15056@ Contract
+15057@ trust
+15058@ Transcendence
+15059@ (normal)
+15060@ general
+15061@ Contract
+15062@ trust
+15063@ Transcendence
+15064@ unlocked
+15065@ unlocked
+15066@ unlocked
+15067@ unlocked
+15068@ Probability Information
+11751@ Dungeon
+11752@ Special
+11753@ World
+11754@ 2,154:4
+11755@ 2,155:4
+11756@ Boss
+11757@ Collection Complete Stats
+11758@ Boss
+11759@ Special
+11760@ World
+11761@ 2,154:20
+11762@ 2,155:4
+11763@ Dungeon
+11764@ Collection Complete Stats
+11765@ Boss
+11766@ Dungeon
+11767@ World
+11768@ 2,154:4
+11769@ 2,155:4
+11770@ Special
+11771@ Collection Complete Stats
+11772@ Boss
+11773@ Dungeon
+11774@ Special
+11775@ 2,154:4
+11776@ 2,155:4
+11777@ World
+11778@ Collection Complete Stats
+11779@ Collection Completion List
+5716@ Equipment Info
+11396@ Option Applied Costume
+11397@ Displayed Costume
+11408@ Honor
+11409@ Linked Weapon
+11410@ Dialog Bubble
+11411@ Jewel Cube
+14637@ Option Applied Costume
+14638@ Artifact
+13327@ Gained EXP
+13328@ Insufficient EXP
+13329@ Death Penalty
+13417@ Gained EXP
+13418@ Insufficient EXP
+13419@ Death Penalty
+13420@ AXP
+13426@ AXP
+13427@ OXP
+13432@ AXP
+13434@ MXP
+12008@ Cancel
+12009@ OK
+12010@ Ask no more
+12011@ Insert complete
+12012@ Info to insert Item
+12013@ When Item is inserted, the item will be deleted
+12014@ Inserted Item will not be returned.
+12429@ Find Clues
+12430@ 2020.11 ~ 2020.12
+12431@ 1,182:111
+12432@ Clue Lv.
+12433@ Character
+12434@ Guild
+12435@ Clue Provider
+12436@ Level
+12437@ [Clue Provider]
+12438@ 1. The 'Clue Provider' is only for players drawn through 'Find Clues'.
+12439@ 2. 'Clue Finders' can be viewed only when 'Heil's Research Support' has $1#ended$.
+12440@ Clue Provider
+12441@ [Info to find Clue]
+12442@ 1. 'Clue finding' starts after $1#Heil's Research Support$ ends.
+12443@ 2. Only users that have gained $1#more than 7$ 'Decoded Circuits' can join 'Clue Finding'
+12444@ 3. Draw winners will be selected out of users who have gained 'Decoded Circuits' for $1#more than 7$ times.
+12445@ 4. To selected users in draw, a $1#'Clue Reward'$ by each Lv. will be sent to the event inventory.
+12446@ Find Clues
+12447@ Class 1
+12448@ Class 2
+12449@ Class 3
+12450@ Class 4
+12451@ Class 5
+12452@ Clue - Final Assembly
+12453@ 2,000,000,000
+12454@ Clue - Permanent Power
+12455@ 600,000,000
+12456@ 300,000,000
+12457@ Clue - Complete Operation
+12458@ 100,000,000
+12459@ Clue - Manage
+12460@ 70,000,000
+12461@ Clue - Attack
+12462@ Item name
+12463@ Close
+12464@ 1,180;5
+12050@ Close
+12051@ [Join Condition]
+12052@ 1. Only $1#Accounts that have a Guild Main Character$ may join Heil's Research Support.
+12053@ 2. If a Guild Main Character is set in the account, $1#other characters in the same account$ also will
+12054@ 3. Only characters that are $1#Lv.180 and above$ may join.
+12055@ Can join Heil's Research Support
+12056@ [Run Event]
+12057@ 1.  $1#Yellow Gage above$ will be filled when materials displayed have been inserted.
+12058@ 2. When $1#Gauge is filled $, users can receive a $1#'Circuit Reward'$ from Heil's Res. Support.
+12059@ 3. $1#1 'Decoded Circuit' will be accumul.$ when receiving Heil's Res. Support Reward 10 times.
+12060@ 4. Out of users who have gained more than 7 'Decod. Circuits' after Heil's Res. Support has ended,
+12061@ $1#Will give 'Clue Reward'$ randomly by draw.
+12062@ [Run Event]
+12063@ 1. Heil's Research will be held in a total of $1#3 Seasons$.
+12064@ [Rule]
+12065@ 1. Can only view up to 10 recent $1#decoded circuits$.
+12066@ 2. Clue finding will be drawn by $1#'Guild Main Character$.
+12067@ 3. If $1#Guild is dissolved or you withdraw$ during period, you cannot use Heil's Research Support.
+12068@ However, if you re-join a guild and set a main char., you can $1#continue$ with Heil's Res. Support.
+12393@ 4. When materials are inserted, for a certain % a $1#Bonus multiple$ will be applied to prev. gauge.
+12394@ 5. A $1#Spec. Circ. Reward.$ can be gained from circ. reward by a small chance.
+12069@ Info for Heil's Research Support
+12070@ [Reward]
+12071@ 1. Circuit Reward: given by opening 10 circuits displayed on Heil's Res. Support.
+12072@ 2. Clue Reward: given by draw after Heil's Res. Support ends.
+12073@ 3. Rewards will be sent to Inv. and will be kept for 7 days after 1st time received.
+12074@ 4. Clue reward will be given depending on the $1#Clue Lv.$.
+12403@ 30/30
+12404@ Clues Found
+12405@ Clue - Final Assembly
+12406@ 1,181:10
+12407@ 1,180:10
+12408@ Season
+12409@ Heil's Research Support
+12410@ Season
+12411@ Decoded Circuit
+12412@ Tot. no. of decod. circ.
+12413@ What Heil is looking for
+12414@ 3900050
+12415@ 8508002
+12416@ Electronic Circuit
+12417@ 00Days 00H 00M Left
+12418@ Insert Material
+12419@ My info
+12420@ Find Clues
+12421@ Close
+12422@ Out of the Circuits that Heil has completed studying
+12423@ Contains ancient clue
+12424@ Now selecting a Circuit
+12425@ Congratulations
+12426@ Clue -The final assemble discoverer is
+12427@ Name
+12428@ .
+14732@ Chance Info.
+12100@ Cancel
+12101@ Reset Materials
+12102@ Reset Materials
+12103@ 5 Forcegem
+12104@ by using
+12105@ Will you reset inserted items?
+1432@ Item Info
+14518@ Close
+14639@ Legacy Exploration in progress
+14640@ Exploration Pt.
+14641@ Exploration Lv.
+14642@ No. of Explr.
+14643@ Legacy Exploration Results
+14644@ Mandarat's Legacy
+14526@ Receive
+14527@ Receive
+14528@ Receive
+14529@ Receive
+14530@ Receive
+14531@ Receive
+14532@ Receive
+14533@ Receive
+14534@ Receive
+14535@ Receive
+13043@ 2,184:10
+13044@ Grade Information
+13045@ Statistics
+13046@ 2,185:10
+13047@ Statistics
+13048@ Grade Information
+13393@ OPEN
+13394@ OPEN
+13395@ OPEN
+13396@ OPEN
+13392@ The Path of Belief
+13241@ Myth Level (MLv)
+13242@ Resurrection Points
+13243@ Myth Mastery
+13244@ Myth Points
+13245@ Property Slot
+13246@ Myth Point
+13247@ Stats
+13248@ Stat Value
+13249@ Level
+13250@ Holy Power
+13251@ Transformation
+13252@ Granted
+13254@ Resurrection
+14728@ Chance Info.
+13034@ Stats
+13035@ Stat Value
+13036@ Level
+13037@ * You need Fragment of Memory to restore the property.
+14894@ (Divine Power)
+13038@ Property Transformation
+13039@ Property Transformation has suceeded.
+13040@ Close
+13041@ Recover
+13005@ Stats
+13006@ Stat Value
+13007@ Level
+13008@ Grant Property
+13009@ Suceeded to grant the property.
+13010@ Close
+13011@ Close
+13012@ [Unlock the Myth Mastery]
+13013@ 1. It will be unlocked once you complete the quest $1#Beyond the Limits$ when you reach OLv.100
+13014@ [MXP]
+13015@ 1. MXP can be obtained from the $1#dungeon that can obtain the MXP$.
+13016@ 2. Information regarding the dungeon can obtain the MXP can be checkd from $1#Cabal Menu - Dungeon$.
+13017@ [MLv]
+13018@ 1. You can level up the MLv by acquiring the Myth EXP(MXP).
+13019@ 2. You will get the $1#Myth Point$ once you level up the MLv.
+13020@ 3. It can level up until MLv.100 as maximum.
+13021@ [Resurrection]
+13022@ 1. You can reset the Level once your level is above MLv 95.
+13023@ 2. Forcegem will be consumed if you resurrect at Lv. 95~99,
+13024@ If you reach Lv.100, you can resurrect without any costs.
+13025@ 3. As you repeat the resurrection, required EXP will be increased a little.
+13416@ 4. $1#Fragment of Memory(Account Binding) X 30$ to inventory when you resurrect.
+13026@ [Obtain Property]
+13027@ 1. You can obtain the property by each slot by consuming the Myth points.
+13028@ 2. Slot can be divided in 3 types. (Attack, Mixed, Defense)
+13029@ 3. Obtained property can be changed by reusing the points.
+13030@ [Grade]
+13031@ 1. Grade Points (Holy Power) will be granted as the level of the obtained property.
+13032@ 2. Grade will be changed as the points, and can obtain the special reward.
+13033@ Myth Mastery Guide
+13255@ Resurrection Returned Point
+13256@ Resurrection Session Bonus
+13257@ *There will be a cost if you resurrect before the full level,
+13258@ All points gained from level up will be returned.
+13259@ Reset the MLv.
+13413@ Reward
+13415@ Fragment of Memory(Account Binding) X 30
+13260@ Resurrection
+13261@ Cancel
+13563@ Change
+13564@ Maintain
+13565@ Apply
+13566@ 3
+13567@ Grade
+13568@ Grade Name
+13569@ Stats
+13570@ Critical DMG
+13571@ 10%
+13572@ Penetration
+13573@ 360
+13574@ Grade
+13575@ ?
+13576@ Stat
+13577@ ?
+13578@ ?
+13579@ Set Arrival Stat
+13580@ Set Arrival Stat
+13581@ Essence of Wing will be consumed.
+13582@ Set Arrival Stat
+13583@ You have obtained the Arrival Stat below.
+14727@ Chance Info.
+1433@ Resting Experience Point
+12735@ Link Transformation
+12746@ Link Transformation
+12477@ Stellar Imprint
+12492@ 10
+12493@ 18
+12494@ 24
+12495@ 36
+12496@ 50
+12749@ Stellar Imprint
+12498@ Link Transformation
+12571@ 1, 183:40
+12499@ Imprint
+12598@ Desire
+12599@ Grief
+12600@ Rage
+12601@ Oblivion
+12602@ Emptiness
+12603@ Link
+12604@ Stellar
+12605@ Stellar Force
+12607@ Stat
+12608@ Stat Value
+12585@ Material name
+12586@ ( / )
+12500@ Imprint
+12501@ Link
+12502@ Stellar
+12503@ Stellar Force
+12726@ Imprint Effect
+12727@ Link Effect
+12765@ Stellar Link
+12509@ Close
+12510@ [Composition and Materials of Stellar Link]
+12511@ 1. Stellar Link consists of Stellar, and Stellar Force.
+12512@ -Link is a distinguished name, and you can obtain the Link Effect if you satisfy the fixed conditions.
+12751@ 2. You can obtain the Link, Stellar, and Stellar Force at the Stellar Link by using Stellar Imprint.
+12513@ and Stellar Force is a stat value of corresponding Stellar.
+12514@ -Stellar is a stat that could be obtained by Stellar Imprint,
+12516@ - If you click 'Imprint' after selecting the quantity of $1#Luminous : Selena$ which is a material of $1#Stellar Imprint$,
+12517@ you can randomly obtain the Link, Stellar, or Stellar Force.
+12518@ 3. You can change the Link Property at the $1#Link Transformation$.
+12519@ -Choose the $1#Link Property$ at the Link Transformation, and click the 'Imprint' button,
+12520@ then you can obtain the Link Property by consuming the $1#Luminous : Sole$.
+12521@ [Unlock Stellar Link]
+12522@ 1. Stellar Link can be unlocked after completing the Quest $1#The Force that Meteor Brings$.
+12530@ Guide on Stellar Link
+12754@ [Link Effect]
+12755@ 1. You can obtain the Link Effect if every $1#Link Property$ of the Stellar Slot is on the same line.
+12756@ - Link Property can be randomly obtained by Stellar Imprint, or Link Transformation.
+12757@ But the Link Effect will be unraveled if the fixed condition for Link Effect is not met.
+12758@ [Others]
+12759@ 1. As you add more materials to the $1#Stellar Link$, the probability of Link, Stellar, and the Stellar will be increased.
+12760@ - Stellar : Increases the probability of obtaining the upper Stellar.
+12763@ - Stellar Force : Increases the probability of obtaining the higher value of Stellar Force.
+12764@ - Link Property : Increases the probability of obtaining the upper Link Property.
+12536@ Close
+12537@ [Join Condition]
+12538@ 1. Only $1#Accounts that have a Guild Main Character$ may join Heil's Research Support.
+12539@ 2. If a Guild Main Character is set in the account, $1#other characters in the same account$ also will
+12540@ 3. Only characters that are $1#Lv.180 and above$ may join.
+12541@ Can join Heil's Research Support
+12542@ [Run Event]
+12543@ 1.  $1#Yellow Gage above$ will be filled when materials displayed have been inserted.
+12544@ 2. When $1#Gauge is filled $, users can receive a $1#'Circuit Reward'$ from Heil's Res. Support.
+12545@ 3. $1#1 'Decoded Circuit' will be accumul.$ when receiving Heil's Res. Support Reward 10 times.
+12546@ 4. Out of users who have gained more than 7 'Decod. Circuits' after Heil's Res. Support has ended,
+12547@ $1#Will give 'Clue Reward'$ randomly by draw.
+12548@ [Run Event]
+12549@ 1. Heil's Research will be held in a total of $1#3 Seasons$.
+12550@ [Rule]
+12551@ 1. Can only view up to 10 recent $1#decoded circuits$.
+12552@ 2. Clue finding will be drawn by $1#'Guild Main Character$.
+12553@ 3. If $1#Guild is dissolved or you withdraw$ during period, you cannot use Heil's Research Support.
+12554@ However, if you re-join a guild and set a main char., you can $1#continue$ with Heil's Res. Support.
+12555@ 4. When materials are inserted, for a certain % a $1#Bonus multiple$ will be applied to prev. gauge.
+12556@ 5. A $1#Spec. Circ. Reward.$ can be gained from circ. reward by a small chance.
+12557@ Info for Heil's Research Support
+12558@ [Reward]
+12559@ 1. Circuit Reward: given by opening 10 circuits displayed on Heil's Res. Support.
+12560@ 2. Clue Reward: given by draw after Heil's Res. Support ends.
+12561@ 3. Rewards will be sent to Inv. and will be kept for 7 days after 1st time received.
+12562@ 4. Clue reward will be given depending on the $1#Clue Lv.$.
+12641@ Link
+12642@ Stellar
+12643@ Stellar Force
+12644@ Set
+12645@ Set
+12646@ Set
+12632@ Close
+11361@ Hide Vehicle Costume (Option Applied)
+15095@ Close
+15096@ Anima Mastery Guide
+15087@ Cancel
+15088@ OK
+15089@ Use Anima Gem
+15090@ Overwrites the ability score save slot.
+15091@ Slot selection:
+15071@ Cancel
+15072@ OK
+15073@ Ability score conversion
+15074@ Converts $34#stats$ of the selected slot.
+15075@ Existing abilities
+15076@ Force Essence
+15077@ Conversion Kit
+15078@ cost
+15079@ Cancel
+15080@ Extract
+15081@ Ability score extraction
+15082@ Extract $34#stats$ from the selected slot.
+15083@ target slot
+15084@ Force Gem
+15085@ ※ If you have an extraction kit,
+15086@ Consumes the extraction kit first.
+15105@ Cancel
+15106@ Reset
+15107@ Reset ability values
+15108@ Resets the stats of the selected slot to $34#reset$.
+15109@ target slot
+15110@ Force Gem
+15111@ ※ If you have a reset kit
+15112@ Consume the reset kit first.
+15092@ Close
+15093@ Use item
+15094@ Items acquired
+3150@ Cancel
+3151@ Receive
+3152@ Use Coupon
+3153@ Confirm Receipt
+3154@ Receive Alz from item sale
+3155@ Gross Sales
+3156@ Sales Fee
+3157@ Net Sales
+3158@ Alz
+3159@ Alz
+3160@ Alz
+4381@ Cancel
+4382@ Receive
+4383@ Alz (Bronze)
+4384@ Alz (Silver)
+4385@ Alz (Gold)
+4386@ Confirm Receive
+4387@ Accept a payment for your item.
+4388@ Gross Sales
+4389@ Sales Fee
+4390@ Net Sales
+4391@ Alz
+4392@ Alz
+4393@ Alz
+4394@ Use Coupon
+3161@ Cancel
+3162@ Cancel
+3163@ Confirmation
+3164@ Alz
+3165@ Purchase QTY
+3166@ Purchase Price
+3167@ Alz
+3168@ Register QTY
+3169@ Alz
+11841@ Cancel
+11842@ Confirmation
+11843@ Awakened Aura Mode Level Up
+11844@ Max. Stats :
+11845@ Awake. Pts:
+11846@ Acquired Stats :
+11847@ Cancel
+11848@ Reset Awakened Aura Mode
+11849@ Reset Awakened Aura Mode.
+11850@ Points :
+11851@ Select Reset:
+11852@ Cancel
+11853@ Confirmation
+11854@ Awakened Aura Mode Slot Open
+11855@ Skill Book
+11856@ Troglo's Golden Fruit
+11857@ Open the chosen slot
+7510@ Adjust Battle Mode 2 Attack Rank
+7511@ Battle Mode 2
+7512@ Adjust Battle Mode 2 Attack Rank
+4731@ 1,101:0
+4732@ Bingo
+4733@ Start Time
+4734@ End Time
+6384@ Enter
+6386@ Cancel
+6385@ Legend Arena (Baldus)
+6388@ Entry Warning
+6389@ Must acquire 1 or more point for daily reward.
+6390@ If you pass midnight while running a dungeon
+6391@ you are forced out of the dungeon for ranking purposes. Points gained during the dungeon
+6392@ are not recorded and you cannot receive daily rewards.
+6387@ Ask no more
+1961@ Move Channel
+1962@ Move to a different channel.
+375@ Would you like to move?
+1963@ Current Channel :
+1966@ Select Channel :
+1965@ No
+1964@ Yes
+3279@ Add Craft Item
+3280@ Use material item to add craft item
+3282@ Craft Item :
+3283@ Material Item:
+3284@ Cancel
+3285@ Register
+7792@ Change craft item
+7793@ Registered item to other class item
+7794@ Changing Item :
+7795@ Current Item :
+7796@ can be changed.
+7797@ Registered item can only be changed to the same part,
+7798@ use forcegem when changing item
+7799@ Cancel
+4364@ Slot Extend
+4365@ Use material item and extend slot
+4367@ Material Item:
+4368@ Cancel
+4369@ Extend
+1454@ OK
+1456@ You have been disconnected from the server.
+1457@ Please relog in after clicking 'OK'
+7362@ Disconnected
+1458@ OK
+1459@ Unable to connect to the server
+1460@ You are unable to connect to the server.
+1461@ Please press the confirm button to exit the game.
+1462@ OK
+1463@ Dual Login
+1464@ Login Attempt to the Same Account
+1465@ You have been disconnected from the server because
+1466@ someone has logged in the game using the same account.
+1467@ An error has occurred while communicating with the server.
+1468@ Please relog in after clicking 'OK'
+1469@ OK
+1470@ Exit Program
+1471@ Program is being closed because some of the files are corrupted.
+1472@ Please restart and update the game.
+1473@ (If the same error continues, please uninstall the game
+1474@ and reinstall.)
+2309@ Exit Dungeon
+2310@ Exit Dungeon
+2311@ Leave to field.
+2229@ Resume
+2224@ Pause
+2225@ Pause Dungeon
+1475@ OK
+1476@ OK
+1477@ Warning for Item disposal in Temporary Inventory
+1478@ Please move your item from temporary inventory
+1479@ Item in Temporary Inventory would be disposed after
+1480@ disconnection. Please move your item to Inventory
+1481@ OK
+1482@ Error Information
+1483@ The item does not exist.
+1484@ The item does not exist, and it will be automatically removed.
+1485@ OK
+1486@ Error Information
+1487@ The game will be paused for a while.
+1488@ The game will continue in 5 seconds.
+1489@ sec
+1490@ Disconnected
+1491@ An error has occurred while communicating with the server.
+1492@ Please exit the game and log in again.
+1493@ OK
+1494@ Exit Game
+1495@ Disconnected
+1496@ An error has occurred while communicating with the server.
+1497@ Please exit the game and log in again.
+1498@ Register Coordinates
+1499@ Register your current coordinates.
+1500@ Would you like to register the coordinates to Frontier Stone?
+1501@ No
+1502@ Yes
+1503@ Confirmation
+1504@ Disconnected
+1505@ An error has been detected by the hacking protection system.
+1506@ Exit Program
+1507@ Unusual game play has been detected.
+1508@ The game will be closed because of unusual game play.
+13464@ Cancel
+13465@ Occupation
+13466@ Sanctum Occupation
+13467@ Try Sanctum Occupation
+13468@ Do you want to try sanctum occupation?
+13469@ * You cannot do anything while you are occupying.
+13474@ Destroy HQ
+13475@ Occupy Central Sanctum
+13476@ Activate the Sanctum Terminal
+13477@ Destroy Lower Sanctum
+13478@ Destroy Sanctum Guardian
+13479@ Defeat Enemy
+13480@ War Expense
+13481@ Personal Record
+13482@ Reward
+13483@ Personal Expense
+13484@ Total Expense
+13485@ Winning Bonus
+13486@ Ranking
+13487@ Ranking Reward
+13488@ Alz
+13489@ Alz
+13490@ Alz
+13491@ Alz
+13492@ Alz
+13493@ WEXP
+13494@ P
+13495@ Damage Score
+13496@ Defense Score
+13497@ Heal Score
+13498@ Occupation Score
+13499@ AXP
+13500@ AXP
+13501@ Personal Score
+13502@ Gained
+13503@ Reward
+13504@ Total Reward Alz
+13505@ Kill/Death
+13506@ Point
+13507@ Medal Score
+13508@ Report
+13509@ OK
+13510@ OK
+13511@ WEXP UP
+2294@ No
+2295@ Yes
+2296@ Block
+2297@ Block the sender.
+2298@ No
+2299@ Yes
+2300@ Ask no more
+2301@ Delete
+2302@ Delete the mail.
+2289@ No
+2290@ Yes
+2292@ Report
+2293@ Report the mail.
+2284@ No
+2285@ Yes
+2286@ Ask no more
+2287@ Return
+2288@ Return the mail.
+554@ No
+555@ Yes
+556@ Ask no more
+557@ Send
+558@ Would you send the Mail?
+60@ Recipient
+587@ Attached Alz
+588@ Attached Item
+4286@ No
+4285@ Yes
+4290@ Acquired Stats :
+4291@ Merit Point :
+4292@ Pre-Mastery :
+4301@ Acquired Merit Mastery
+4305@ Additional Stats :
+4267@ Cancel
+4268@ Apply
+4262@ Merit Mastery Level Up
+4264@ Additional Stats :
+4265@ Merit Point :
+4266@ Acquired Stats :
+14835@ Level:
+14836@ Required Mastery:
+14837@ Result
+14838@ Stats Changed:
+3932@ Team A Base
+3933@ Team B Base
+3934@ Team A Portal
+3935@ Team B Portal
+3936@ Team A Tower
+3937@ Team B Altar
+3938@ Team A Altar
+3939@ Enemy Member
+3940@ Ally Member
+3941@ Team B Tower
+3956@ Neutral Altar
+3957@ Neutral Monster
+3942@ GPS
+3539@ Acquired points
+3540@ Used Point
+3541@ Defeat Enemy
+3574@ Ally
+3575@ Opponent
+3578@ Death
+3546@ Ladder Record
+3560@ Victory
+3561@ Defeat
+3564@ WExp
+3567@ Reward
+3570@ Rating
+3581@ Battle Point
+3582@ Victory
+3583@ Defeat
+3584@ Standard Record
+3586@ Battle Point
+3587@ SP
+3571@ Report
+3572@ OK
+3573@ OK
+7102@ Occupied HQ
+7103@ Occupied Fortress
+7104@ Defeat Enemy
+7105@ Destroy Force Tower
+7106@ Destroy Legacy Guardian
+7107@ Left Force Tower
+7108@ Gold Coin Production
+7109@ Gold Coin Deposit
+7110@ Defeat Neutral Monster
+7111@ War Expense
+7112@ Personal Record
+7113@ Reward
+7114@ Personal Expense
+7115@ Total Expense
+7116@ Winning Bonus
+7117@ Ranking
+7118@ Ranking Reward
+7119@ Alz
+7120@ Alz
+7121@ Alz
+7122@ Alz
+7123@ Alz
+7124@ WExp
+7125@ P
+7126@ Damage Score
+7127@ Defense Score
+7128@ Heal Score
+7129@ Building Score
+7130@ AXP
+7131@ AXP
+7132@ Personal Score
+7133@ Gained
+7134@ Reward
+7135@ Total Reward Alz
+7136@ Kill/Death
+7137@ Gold Coin Deposit Point
+7138@ Medal Score
+7139@ Point
+7140@ Report
+7141@ OK
+7142@ OK
+7143@ WEXP UP
+1509@ OK
+1510@ Event Guide
+2313@ View Titles
+2314@ Acquire Title
+2315@ Colony Trainee Title gained.
+6626@ 2,124:20
+6590@ 2,123:5
+6591@ Overlord Mastery
+6592@ Overlord EXP (OXP)
+6593@ Overlord Point (OP)
+6594@ All Attack
+6595@ Defense
+6596@ Overlord LV (OLV)
+6597@ No
+6598@ Yes
+6599@ Overlord Mastery Level Ip
+6600@ Acquired Stats :
+6601@ Required OP:
+6602@ Cancel
+6603@ Reset Overlord Mastery
+6604@ Reset Overlord Mastery
+6605@ Points :
+3426@ Confirmation
+3427@ PC Registration Authenticated
+3428@ Please check the following mail
+2110@ Confirm Exchange
+2111@ Exchange an item with T-Points.
+2112@ Would you like to exchange the item?
+2113@ Points Required:
+2114@ Exchange Item:
+2115@ No
+2116@ Yes
+1511@ Failed to connect the world server.
+1512@ You have failed to connect the world server.
+1513@ Please press 'confirm' button and try to reconnect.
+1514@ Confirmation
+1516@ You have failed to connect the server.
+1517@ Please try later.
+7481@ Failed to connect the server.
+1518@ Confirmation
+1519@ Failed to connect the world server.
+1520@ You have failed to connect the world server.
+1521@ Please try to connect again.
+1522@ OK
+1523@ Delete Quest
+1524@ Are you sure that you want to abandon the quest?
+1525@ Abandoned quests can be restored from
+1526@ the quests list.
+1528@ Cancel
+1529@ Delete Quest
+1530@ No
+1531@ Yes
+1532@ Abandon Quest
+1533@ Do you want to delete the quest?
+1534@ This quest will be deleted from your quest list in 30 seconds.
+2977@ Abandon Quest
+2978@ Would you like to retire from the Quest?
+2981@ Cancel
+2982@ Abandon Quest
+10882@ 1,169:0
+10883@ Use Mystery Box
+10884@ Result
+10885@ Applied
+10886@ Use completed
+10887@ Confirmation
+10888@ Stop
+10889@ Cancel
+10890@ Use
+10891@ Use Item
+10892@ Quantity
+10893@ 0
+10894@ /
+14724@ Chance Info.
+1542@ The ID is already in use.
+1543@ The ID has been connected to server.
+1544@ Would you like to reconnect?
+7358@ Dual Login
+1545@ No
+1546@ Yes
+1547@ Exit Game in a Dungeon
+1548@ Do you want to terminate the connection in dungeon?
+1549@ If you exit game while staying in a dungeon, it will
+1550@ automatically close. If you disconnect without
+1551@ clearing the dungeon, penalty might be granted.
+1552@ No
+1553@ Yes
+1554@ Exit Game in a Dungeon
+1555@ Do you want to terminate the connection in dungeon?
+1556@ If you exit game while staying in a dungeon, it will
+1557@ automatically close. If you disconnect without
+1558@ clearing the dungeon, penalty might be granted.
+1559@ No
+1560@ Yes
+1561@ Enter Dungeon
+1562@ Dungeon Entry
+1563@ Canceling Party Search
+1564@ Find party member will be canceled when you enter the dungeon.
+1565@ No
+1566@ Yes
+1567@ Exit Game in a Dungeon
+1568@ Do you want to terminate the connection in dungeon?
+1569@ You will exit dungeon automatically to enter
+1570@ Dungeon will be closed. If you disconnect without clearing the dungeon,
+1571@ dungeon penalty might be granted.
+1572@ No
+1573@ Yes
+1574@ Select Character
+1575@ Move to Select Character Window
+1576@ Are you sure to move to the Character Select Window?
+1577@ Yes
+1578@ No
+1579@ Select Server
+1580@ Move to Select Server Window
+1581@ Do you want to move to Select Server Window?
+1582@ No
+1583@ Yes
+1584@ OK
+1585@ Notice
+6061@ Cancel
+6062@ Train
+6063@ Skill Train
+6064@ Cost :
+6065@ * Change Skill Level
+6066@ New Lv
+6067@ Alz
+6068@ Skill Point :
+11550@ Cancel
+11552@ Confirmation
+11555@ Collect Points
+11556@ Point
+11557@ STR
+11558@ INT
+11559@ DEX
+11560@ (
+11561@ (
+11562@ (
+11563@ /
+11564@ /
+11565@ /
+11566@ )
+11567@ )
+11568@ )
+11569@ Stats
+11570@ Revised Points
+11571@ Auto Set
+11573@ Cancel
+11575@ Confirmation
+11578@ Divide Points
+11579@ Point
+11580@ STR
+11581@ INT
+11582@ DEX
+11583@ (
+11584@ (
+11585@ (
+11586@ /
+11587@ )
+11588@ )
+11589@ )
+11590@ Stats
+11591@ Revised Points
+14406@ [Current Stigma]
+14407@ [Next Stigma]
+14408@ [Final Stigma]
+14409@ 150 stars
+14410@ 5000
+14893@ [Assimilation Rate]
+1587@ Confirmation
+1588@ Battle Style Mastery Lv. UP
+1589@ Battle Style Lv. UP Reward
+7352@ Please type in the answer according to the question.
+7353@ Set Question and Answer
+7354@ Set Sub Password
+7451@ A.
+7355@ Cancel
+7356@ Confirmation
+7350@ Q.
+7503@ Sub Password
+7504@ Q.
+7505@ A.
+7506@ Please type in the answer according to the question.
+7507@ Set Question and Answer
+7508@ Cancel
+7509@ OK
+4079@ Evaluate
+4080@ Receive All
+4066@ Register All
+4078@ 2,94:5
+4067@ Evaluate Merit Medal
+4346@ Acquired WExp
+4083@ WExp
+4345@ WExp
+4081@ Evaluation Fee
+14725@ Chance Info.
+4086@ Report
+4087@ Register All
+4088@ 0,95:11
+4089@ Report Merit Medal
+4090@ Medals for Report
+4092@ RewardDetails
+4093@ Merit Point
+4096@ Honor Points
+4055@ Cancel
+4056@ Exchange
+4059@ Exchange Merit Medal
+4061@ Exchange 1 Merit Medal
+4062@ * May be exchanged for Honor Points exceeding 2 Billion
+4063@ Require points
+4317@ Honor Point
+14796@ Gold Insignia
+14797@ Platinum Insignia
+14807@ Diamond Insignia
+14808@ Merit Score
+14809@ Merit Points
+14810@ For character at Lv. 200+
+14811@ Applies.
+14812@ Defensive Ability
+14813@ Offensive Ability
+14814@ Diamond Insignia Mastery
+14815@ Mastery Memorize
+14816@ Passive Skill
+14819@ Diamond Insignia
+10497@ Platinum Insignia
+10498@ Rank Up
+10500@ Merit Point
+10501@ Merit Point
+10502@ On Character with Lv170 and above
+10503@ will apply.
+10504@ DEF Stats
+10505@ ATK Stats
+10506@ Gold Insignia mastery is
+10507@ Gold Insignia
+14820@ Promotion
+14821@ Diamond Insignia
+10509@ Gold Insignia
+10518@ Platinum Insignia
+10519@ Merit Point
+10520@ Merit Point
+10521@ On Character with Lv200 and above
+10522@ Applied.
+10523@ DEF Stats
+10524@ ATK Stats
+10525@ Platinum Insignia Master is
+10526@ Mastery Memory
+10532@ 1,125:0
+10533@ 1,125:0
+10535@ 1,97:0
+10534@ 1,96:0
+14840@ 1,96:0
+10536@ Merit Mastery
+14825@ Specialized Selection
+14823@ Specialized Selection
+14731@ Chance Info.
+10537@ Close
+10538@ 1,159:0
+10539@ Speed Up
+10540@ Using Time Reducer to reduce the remaining open time.
+10541@ Use
+10542@ Cancel
+10543@ Use Item
+10544@ Quantity
+10545@ 0
+10546@ Total Reduced Time
+10547@ /
+10548@ Cancel
+10549@ Confirmation
+10550@ Rank Up Insignia
+10551@ Using the following materials to promote to $55#Platinum Insignia.$
+10552@ Merit Medal Exchange Ticket
+10553@ WEXP
+10554@ Gold Insignia
+10555@ Platinum Insignia
+10556@ OK
+10557@ Rank Up Complete
+10558@ Congratulations!
+10559@ You are $55#promoted to Platinum Insignia$!
+10560@ Wishing you a victory on the glorious battleground.
+10566@ Register Quick Slot
+10567@ You can register by clicking the icon.
+10568@ OK
+10569@ 0,160:6
+10561@ Cancel
+10562@ Reset Merit Mastery
+10563@ Reset Merit Mastery
+10564@ Points:
+10565@ Select Reset:
+10570@ Cancel
+10571@ OK
+10572@ Open Mastery Slot
+10573@ Chaos Core
+10574@ Divine Stone
+10575@ Required time
+10576@ Open the chosen slot
+10577@ No
+10578@ Yes
+10579@ Cancel Open
+10580@ Cancel opening selected slot
+10581@ * Consumed materials will not be returned.
+14826@ Close
+14828@ 1,209:0
+14829@ Merit Medal Exchange Ticket
+14830@ Wexp
+14831@ Diamond Insignia Special Mastery
+14832@ Diamond Insignia Passive
+14833@ Passive Ability
+10582@ Cancel
+10583@ Confirmation
+10584@ Grant Special Mastery stat
+10585@ Abilities are chosen randomly.
+10586@ WExp
+10588@ Merit Medal Exchange Ticket
+10772@ Cancel
+10773@ Confirmation
+10774@ Special Mastery Chest
+10775@ Store stats for Special Mastery.
+10776@ Select number :
+10777@ Select Category:
+10778@ No
+10779@ Yes
+10780@ Use Item
+10781@ Store Special Mastery.
+10782@ *Selected Special Mastery will be deleted
+10783@ and will be stored in the chest.
+10808@ Cancel
+10809@ Confirmation
+10810@ Use Special Mastery Chest
+10811@ Apply Special Mastery stats in the chest.
+10812@ * It will apply on selected number.
+10813@ Select number :
+10814@ Before
+10815@ After
+10816@ Category
+10784@ No
+10785@ Yes
+10786@ Item Use
+10787@ Apply stored Special Mastery.
+10788@ *Stats of current Special Mastery
+10789@ will be deleted.
+2539@ Twitter
+2540@ ID
+2541@ Password
+2542@ Login to Twitter
+2544@ Cancel
+2545@ OK
+2547@ Twitter
+2548@ Do you want to log out from Twitter?
+2552@ No
+2553@ Yes
+1597@ Update
+1598@ The game will close to receive the update.
+1599@ Please restart the game to receive the update.
+1600@ Please restart the game again.
+14372@ Strategic symbol
+14373@ Friendly party marker
+14374@ Friendly base
+14375@ Enemy base
+14376@ Friendly outpost
+14377@ Enemy outpost
+14378@ Neutral outpost
+14379@ Our party leader
+14380@ Warp/Resurrection
+14381@ Battlefield area
+14382@ Friendly party leader
+14383@ Our party member
+14384@ GPS
+14385@ Friendly base
+14386@ Enemy base
+14387@ Our party leader
+14388@ Warp/Resurrection
+14389@ Battlefield area
+14390@ Friendly party leader
+14391@ Our party member
+14392@ Neutral structure
+14393@ Raid monster
+9630@ Occupied HQ
+9631@ Occupied Fortress
+9632@ Defeat Enemy
+9633@ Destroy Force Tower
+9634@ Destroy Legacy Guardian
+9635@ Left Force Tower
+9636@ War Expense
+9637@ Personal Record
+9638@ Reward
+9639@ Personal Expense
+9640@ Total Expense
+9641@ Winning Bonus
+9642@ Ranking
+9643@ Ranking Reward
+9644@ Alz
+9645@ Alz
+9646@ Alz
+9647@ Alz
+9648@ Alz
+9649@ WExp
+9650@ P
+9651@ Damage Score
+9652@ Defense Score
+9653@ Heal Score
+9654@ Building Score
+9655@ AXP
+9656@ AXP
+9657@ Personal Score
+9658@ Gained
+9659@ Reward
+9660@ Total Reward Alz
+9661@ Kill/Death
+9662@ Point
+9663@ Medal Score
+9664@ Report
+9665@ Confirmation
+9666@ Confirmation
+9667@ WEXP UP
+2207@ No
+2206@ Yes
+2208@ WEXP Exchange
+2209@ Would you like to exchange your WEXP?
+2210@ Once WEXP is exchanged, it cannot be retrieved.
+1649@ Create Character in the Test Server
+1650@ Would you like to create a character in the test server?
+1651@ Please remember, every characters in test server can be reset
+1652@ any time for game testing purposes.
+1653@ No
+1654@ Yes
+13665@ medal_name
+10613@ Use
+14834@ 2, 208:10
+11858@ Close
+11859@ Awakened Aura Mode Info
+11860@ [Bonus Stats]
+11861@ 1. Bonus Stats can be acquired after opening the last slot $1#'Aura Mode Duration Increase'$.
+11862@ 2. Bonus stats $1#can be obtained limitedly from opened slot$.
+11863@ *Bonus Stats cannot be acquired if last slot is not yet opened.
+11864@ [Level Upgrade]
+11865@ 1. User can level up by using Awakening Points.
+11866@ 2. More amount of Awakening Points is required as stage and level rises.
+11867@ 3. Unable to upgrade level as stats can be changed during $1#use of Aura Mode.$
+11868@ [Awakened Aura Mode]
+11869@ 1. Awakened Aura Mode is only for Transcendence level characters over $1#OLV.50.$
+11870@ 2. Only the Aura Mode trained through Craft Request can be awakened.
+11871@ [Awakening Points]
+11872@ 1. Awakening Points can be acquired through using Flame, Lightning, Aqua, and Ice Aura Mode for certain period of time.
+11873@ 2. Awakening Points will take 1,150min to $1#fully obtain, and Max points obtainable is 230 points$.
+11874@ 3. $1#112Point$ is required to upgrade Awakened Aura Mode to highest stage and level.
+11875@ 4. $1#About selective 2~3 Aura Modes$ can be awakened.
+11876@ [Open Slot]
+11877@ 1. $1#Troglo's Golden Fruit and Skill Book Material Item$ is required to open slot.
+11878@ 2. Only the target Aura Mode for awakening can be used as material item.
+11879@ 3. Awakening has 5 stages in total, and slot can be opened once $1#minimum level conditions are met.$
+4737@ Cancel
+4738@ OK
+4739@ Bingo Reward
+5753@ Customized Blessing Bead
+5754@ Remove Blessing Bead Customizing
+5755@ Cannot restore removed Blessing Bead
+5756@ Cannot restore removed Blessing Bead
+5757@ Yes
+5758@ No
+5747@ Customized Blessing Bead
+5748@ Force Gem
+5749@ Apply Blessing Bead Customizing
+5750@ Required Force Gem for Blessing Bead Customizing
+5751@ No
+5752@ Yes
+13840@ Blessing Bead Customizing
+13841@ Apply Blessing Bead Customizing
+13842@ Total Consumed Forcegem
+13843@ Required Force Gem for Blessing Bead Customizing
+13844@ Forcegem will be consumed once you clicked the 'Confirm',
+13845@ and the Buff will be applied.
+13846@ *Purchased items are non-refundable and non-exchangeable.
+13847@ 1, 194:0
+13848@ No
+13849@ Yes
+7824@ Purchase
+7826@ Empty
+7827@ Open
+7828@ Upgrade
+7909@ Total Price
+7910@ Result
+7920@ Receivable Item
+7921@ Open Random Box
+7922@ Notice
+7823@ Close
+7876@ Total Amount
+7925@ Event
+14722@ Chance Info.
+13826@ Platinum Buff
+13827@ Apply the Platinum Buff Level.
+13828@ [Discount Rate %]
+13829@ Forcegems will be consumed
+13830@ when applying the Blessing Bead
+13831@ Grade
+13832@ Original Price
+13833@ Apply Period
+13834@ Discounted Price
+13835@ Forcegem will be consumed once you clicked the 'Confirm',
+13836@ and the Buff will be applied.
+13837@ Purchased items are non-refundable and non-exchangeable.
+13838@ No
+13839@ Yes
+8622@ Receive All
+8623@ Receive
+8624@ Receive
+8625@ Receive
+8626@ Receive
+8627@ Receive
+8628@ Close
+8629@ Receive
+8659@ Auto Receive
+8630@ Giftbox (Special)
+8631@ Item List
+8632@ Giftbox List
+8633@ Giftbox (Special)
+8634@ Notice
+8635@ Box (Normal)
+8636@ Box (Premium)
+8637@ Box (Plus)
+8638@ Box (Superior)
+8639@ Not in Use
+8640@ *Gain Point when you receive Giftbox.
+8641@ *Can be received when gauge is 100%.
+8642@ Timer Bonus
+8648@ Opened
+8649@ Opened
+8650@ Opened
+8651@ Opened
+8652@ Opened
+10159@ Time(s)
+10160@ Time(s)
+10161@ Times
+10162@ Time(s)
+10163@ Times
+14723@ Chance Info.
+14866@ Close
+14867@ Diamond emblem information
+14868@ [Diamond Insignia]
+14869@ 1. The maximum merit points for the diamond badge is 800,568, and the maximum merit points are 2,260.
+14870@ 2. A total of 4,924 merit points are required to acquire all masteries in all categories.
+14871@ 3. Therefore, you need to master some or all categories depending on the points given.
+14872@ [Mastery acquired]
+14873@ 1. In order to acquire the diamond emblem mastery, you must open the corresponding $1#mastery slot.
+14874@ [Mastery Memory]
+14875@ 1. You can save the acquisition status of $1#mastery in Mastery Memorize.
+14876@ 2. If you change the memorise number, it will immediately change to the mastery you have acquired in that memorise.
+14877@ 3. The $1#slot open state$ does not change and remains common to all numbers.
+14878@ 4. Mastery Memorize can be registered in the quick slot and changed using shortcut keys.
+14879@ [Slot open]
+14880@ 1. To open a slot, certain materials and time are consumed.
+14881@ 2. Materials and time increase $1#in proportion to the number of open slots in the current category.
+14882@ 3. You can cancel opening by clicking on the mastery slot that is being opened.
+14883@ [Special Mastery]
+14884@ 1. There are 3 special masteries for each category.
+14885@ 2. Three special masteries are granted at the same time, and the abilities and values are determined randomly.
+14886@ 3. Special Mastery's abilities can only be applied if you acquire $1#'Special Mastery Expansion' in each category.
+14887@ 4. Passive experience is gained by a certain amount according to the results of Special Mastery.
+14888@ 5. When you level up your Mastery Passive, the corresponding ability will be applied permanently.
+14889@ 6. Mastery Passive You must also acquire $1#Special Mastery Expansion$ for the abilities to be applied.
+14890@ [Reduce slot opening time]
+14891@ 1. You can use the time reducer item to reduce the remaining open time.
+14892@ 2. Time Reducer cannot use items that reduce the current remaining time by more than $1#5 hours.$
+10589@ Close
+10590@ Platinum Insignia Information
+10591@ [Platinum Insignia]
+10592@ 1. Gold Insignia's maximum Merit score is 360,452, maximum merit point is 2,052.
+10593@ 2. You need a total of 3,472 merit points to learn all masteries in all categories.
+10594@ 3. so, you may $1#earn all masteries on 3~4 categories$ based on your choice.
+10595@ [Mastery Acquired]
+10596@ 1. In order to earn the Platinum Insignia's mastery, the $1#mastery slot has to be opened$ first.
+10597@ [Mastery Memory]
+10598@ 1. You can $1#save the masteries' learning status$ in mastery memory.
+10599@ 2. If you change the Memory number, it will immediately change to the acquired mastery from the memory.
+10600@ 3. $1#Situation in which slot is opened$ remains same for all numbers without changing.
+10601@ 4. Mastery Memory can be changed by shortcut keys after registering on Quick Slot
+10602@ [Open Slot]
+10603@ 1. Some materials and time are consumed to open a slot.
+10604@ 2. Material and Time $1#increase based on the open slots in current category$.
+10605@ 3. You can cancel the opening slots by clicking the mastery slot.
+10606@ [Special Mastery]
+10607@ 1. Each category has 2 special masteries.
+10608@ 2. 2 special masteries are granted at the same time and the stats and abilities are decided randomly.
+10609@ 3. Special mastery stats are applied by acquiring $1#expanded Special Mastery$
+10610@ [Reduce Slot Open Time]
+10611@ 1. Remaining open time can be reduced by using Time Reducer item.
+10612@ 2. You cannot use $5#time reducer that reduces the time remaining by more than 5 hours.$
+11454@ 1,125:0
+11455@ Total Stats
+5370@ Increase WEXP with Force Gem
+5371@ WExp
+5372@ Additional WEXP with Force Gem
+5373@ Force Gem
+5374@ No
+5375@ Yes
+5759@ Cancel
+5760@ Confirmation
+5761@ Not Enough Items
+5762@ Not enough Force Gems.
+5763@ Otherwise, your character can be attacked
+5764@ while you are using Item Shop.
+5765@ Do you want to open the Item Shop?
+5974@ Cancel
+5969@ Confirmation
+5970@ Change Battle Style
+5971@ Change Battle Style
+5972@ Change Battle Style :
+5973@ You can check out new Battle Style after login again.
+6560@ Confirmation
+6561@ Legend Arena (Baldus)
+6562@ Dungeon Complete
+6563@ Complete Time
+6564@ Season Target
+6565@ Points Earned
+6566@ 02:10
+6567@ 999,999
+6568@ 999,999
+11821@ 2, 67:20
+11822@ Move Channel
+1655@ Death Penalty
+1656@ HP
+1657@ MP
+13850@ Cancel
+13851@ Yes
+13852@ Confirmation
+13853@ If you click the 'Confirm' ,the Forcegem will be consumed
+13854@ and you may enter the dungeon.
+13855@ *Forcegems used after entering the dungeon cannot be canceled.
+5000@ Cancel
+5001@ Enter Dungeon
+5002@ Reset dungeon play limit
+5003@ Daily Reset Limit
+5004@ Will you reset dungeon limit?
+1955@ Select Channel
+2068@ Select Channel
+1658@ Select Character
+2069@ Select Character
+1659@ Cancel
+1660@ Exit Game
+1661@ GM Message
+1662@ Option
+1663@ Select Server
+1664@ Menu
+1665@ Disconnected
+1666@ You will be disconnected from server.
+1667@ You will be disconnected from the server in 5 seconds.
+1668@ sec
+1669@ End Session
+1670@ You will be disconnected from the server
+1671@ Due to no gaining personal ranking score at warning status,
+1672@ sec
+1673@ it will automatically disconnected.
+1674@ End Session
+1675@ You will be disconnected from server.
+1676@ You will be disconnected from the server in 5 seconds.
+1677@ sec
+610@ Cancel
+1887@ OK
+2598@ Not Enough Items
+2594@ Not enough Force Gems.
+2599@ Do you want to open the Item Shop?
+4736@ Cancel
+8599@ No
+8600@ Yes
+8601@ Activate Training
+8792@ Cancel
+8793@ Change dungeon difficulty
+8794@ Do you want to change the guild dungeon difficulty?
+8795@ Guild Dungeon difficulties changes randomly.
+8806@ Cancel
+8807@ OK
+8808@ Guild Dungeon Re-enter
+8809@ There is a guild dungeon in progress.
+1678@ Chat
+1679@ Delete
+1680@ Delete All
+1681@ Edit Memo
+1682@ Hide
+1683@ Mini Map
+1684@ Confirmation
+1685@ Cancel
+1686@ Location Edit Memo
+1687@ GuildCreate
+1688@ Cancel
+1689@ Guild Creation
+1690@ Create Guild
+1691@ A total of $3#10,000,000$Alz will be used in creating a guild.
+1692@ Disband Guild
+1693@ Cancel
+1694@ Disband Guild
+1695@ The guild will be disbanded.
+1696@ To recreate a Guild,
+1697@ Creation Fee will be spent.
+9099@ No
+9100@ Yes
+9101@ Apply Honor Medal Info
+9102@ Apply Honor Medal Info (grade and point)
+9103@ apply on current account
+9104@ (Item and current Medal Info will be deleted.)
+9105@ [Hero Rank 1 46.532%]
+9106@ .
+9107@ Sealed Medal Info
+9108@ No
+9109@ Yes
+9110@ Seal Honor Medal Info
+9111@ Seal Honor Medal Info (grade and point)
+9112@ Seal
+9113@ (Account shared Medal Info will reset.)
+9114@ [Hero Rank 1 46.532%]
+9115@ Current Medal Info
+4763@ Close
+4764@ Deposit Gold Coin
+14719@ Chance Info.
+15221@ Agreement
+1698@ Cancel
+1699@ Close
+1700@ Open Item Shop
+1701@ Join
+1702@ No
+1703@ OK
+1704@ Yes
+1705@ Receive WEXP 150%
+15220@ I agree.
+7454@ Cancel
+7455@ Close
+7457@ Join
+7458@ No
+7459@ Confirmation
+7460@ Yes
+7988@ No
+7989@ Yes
+13819@ No
+13820@ Yes
+13821@ OK
+13822@ Open Force Gem Box
+13823@ If you click the 'Confirm', the Forcegem will be consumed
+13824@ and the item will be given.
+13825@ Cancellation of purchased items is not possible.
+1706@ No
+1707@ Yes
+1708@ Ask no more
+1709@ Delete mail
+1710@ Mail will be deleted.
+1711@ Do you really want to delete this mail?
+1712@ (Deleted mail will not be recovered)
+1713@ No
+1714@ Yes
+1715@ Delete mail
+1716@ There is an item or Alz you did not receive
+1717@ Do you really want to delete this mail?
+1718@ (Deleted mail will not be recovered)
+1719@ OK
+1720@ Organize Inbox
+1721@ Your inbox is full.
+1722@ Mail can not be received because your Inbox is full.
+1723@ Please empty your Inbox.
+1724@ No
+1725@ Yes
+1726@ Soul Ability
+1727@ Would you like to learn Soul Ability?
+1728@ Cost:
+1729@ Ability:
+1730@ Learning Soul Ability.
+1731@ Soul Ability
+1732@ Level Up Cost:
+1733@ Change Stat:
+1734@ Soul Ability
+1735@ Ability item and the cost spent
+1736@ Would you like to delete Soul Ability?
+1737@ Deleting Soul Ability.
+1738@ cannot be restored.
+3752@ Cancel
+2593@ Use
+2597@ Take Oath
+2601@ Expiration Time
+2609@ Required Force Gems
+7817@ Cancel
+7818@ OK
+7819@ Purchase Item
+7820@ Purchase selected item.
+7821@ Will you purchase item with this price?
+7822@ (Purchased Item will be received automatically in Inventory.)
+7811@ Cancel
+7812@ Confirmation
+7813@ Delete Result Item
+7814@ Delete selected result item
+7815@ Will you delete all the selected item?
+7816@ (Cannot recover deleted item)
+7915@ Cancel
+7916@ Upgrade
+7917@ Upgrade Mystery Box
+7918@ Use Force Gem to Upgrade +1 Mystery Box
+7919@ Would you like to continue?
+3754@ Cancel
+2574@ Resurrect Party Member
+2604@ Resurrect a Party Member.
+2607@ Do you want to use Force Gems to revive?
+1739@ CABAL Security Check
+1740@ PLEASE ENTER IMAGE
+1741@ VERIFICATION CODE
+1742@ OK
+1743@ Ask later
+1744@ Set it now
+1745@ Ask no more
+1747@ Sub Password Guide
+7462@ Security Alert
+3753@ Cancel
+2579@ Summon Party Member
+2605@ Summon a Party Member to the current location.
+2608@ Do you want to consume Force Gems to summon party members?
+611@ Cancel
+2602@ Register Coordinates
+2610@ Register your current coordinates.
+2590@ Registered Coordinates
+2586@ Period
+2611@ Would you register current coordinates as Warp Point?
+3751@ Cancel
+2589@ Unlimited Warp
+2600@ Use unlimited Warp Point
+2592@ Do you want to use it without restrictions?
+2587@ Period
+2591@ Returns to Warp Point without using Return Stone
+3288@ Premium Internet Cafe exclusive benefit
+11621@ Pause Dungeon
+11622@ Exit Dungeon
+11623@ Save Current View
+1748@ Periodical Service Unused
+14034@ Unused Period Service
+14035@ Event
+14036@ Event
+4717@ Turning on Microphone
+4716@ Turning off Microphone
+200@ My voice on
+199@ My voice off
+1749@ Benefit Information
+14037@ Benefit Info
+14038@ Cash Shop
+6615@ Unlock Quick Slot
+6616@ Lock Quick Slot
+10727@ Challenge Mission
+10202@ Collection
+14200@ Costume
+14039@ Event Menu
+14766@ Event Menu
+14040@ Event Pass
+10203@ Guild Menu
+10204@ Inbox
+10205@ CABAL Menu
+14041@ Item Shop
+14042@ Special Giftbox
+8658@ Force Wing
+10350@ Force Wing
+10351@ Force Wing
+10352@ Force Wing
+10353@ Force Wing
+10354@ Force Wing
+8657@ Force Wing
+10355@ Force Wing
+10356@ Force Wing
+10357@ Force Wing
+10358@ Force Wing
+10359@ Force Wing
+10206@ Force Gem
+14043@ Every Sunday at 22:00 \\Mission War Lv.170 ~ Lv.200 \\Depending on the victory or defeat, \\national rewards are applied \\for 7 days.
+6747@ Attack Power
+9700@ Attack Power
+15038@ Anima Mastery Guide
+11924@ Edit Character Location
+11446@ Minimize Sub Quick Slot
+11447@ Expand Sub Quick Slot
+12766@ Guide on Stellar Link
+7286@ Sub Password
+7327@ Set Password
+7490@ Set Password
+7287@ Sub Password
+6320@ Arena Token Exchange Shop
+3320@ Attack Turn Target
+3319@ Boss HP
+12271@ Pet
+15171@ Equipment
+12272@ Pet
+12287@ Costume
+15017@ Other Equipment
+13391@ Holy Power
+6529@ Total daily points(Points towards Ranking)
+6578@ Daily Top Score
+6528@ Season Top Score
+6553@ Total points gained and rank
+8662@ Today's available reward
+6555@ Points needed to be ranked and to receive daily rewards
+6552@ Registered Character Information
+6551@ Available rewards in current season
+6550@ Remaining Season Time
+12257@ Item Sorting Setting
+12315@ Sorting Item Setting
+14420@ Sort Item
+12316@ Sort Item
+12996@ Refresh Guild Member list
+1757@ Save Chat Log
+1758@ Save Chat Log
+1759@ Save Chat Log
+1760@ Save Chat Log
+1761@ Save Chat Log
+1762@ Save Chat Log
+3520@ Save Chat Log
+1763@ Save Chat Log
+1764@ Save Chat Log
+14415@ Close Equipment
+3766@ Remove Favorites
+3767@ Select Favorites
+12997@ Guild Advertisement
+12998@ Guild Reward
+12999@ Guild Itemshop
+15172@ Edit Equipment Preset
+15209@ Edit Equipment Preset
+12288@ Costume Warehouse
+15173@ Costume Storage
+15174@ Sub Password
+15175@ Sub Password
+14536@ GPS
+14537@ GPS
+14538@ Legacy Exploration
+14539@ Legacy Exploration
+14540@ Member list
+14541@ Shop
+14542@ Remote Cash Shop
+14543@ Item Shop
+14544@ Character
+14545@ Help
+14546@ Inventory
+14547@ Quest
+14548@ Today's Dungeon
+14549@ Today's Dungeon
+15114@ Damage Booster
+14421@ Item Upgrade
+14416@ Open Equipment
+14417@ Bike-specific inventory
+14418@ Bike-only inventory\$48#Can be used only when equipped with a bike.$
+14419@ Remote Warehouse
+1772@ Currently selling items in personal shop.
+12324@ Cash Shop
+12273@ Equipment
+12289@ Equipment
+12290@ Pet
+12395@ Can use when Character Battle Style Lv. reaches 11 or above.
+12260@ Premium Service user only.\Can be used when using Premium Item.
+12396@ Premium Service users only.\Can use by purchasing Platinum Item available in Item Shop.
+15176@ Other Equipment
+12275@ Link Weapon
+12291@ Link Weapon
+12261@ Premium Service user only.\Can be used when using Premium Item.
+12397@ Premium Service users only.\Premium Service is available in Item Shop.
+12262@ Platinum Service user only.\Can be used when using Platinum Item.
+138@ Premium Service users only.\Premium Service is available in Item Shop.
+12263@ Platinum Service user only.\Can be used when using Platinum Item.
+139@ Premium Service users only.\Premium Service is available in Item Shop.
+12264@ Superior Service user only.\Can be used while using Bead - Superior item.
+140@ Premium Service users only.\Premium Service is available in Item Shop.
+12265@ Plus Service user only.\Can be used while using Bead - Plus item.
+141@ Premium Service users only.\Premium Service is available in Item Shop.
+12266@ Temp. Inventory
+12317@ Deposit
+12318@ Sub Password
+12319@ Sub Password
+12320@ Withdraw
+12398@ Close extended warehouse
+12399@ Open extended warehouse
+8330@ Order by Group Name
+8331@ Only show online buddy
+13000@ Order by Group Name
+13001@ Show Online Guild Member
+6677@ Favorites
+6678@ View All
+6679@ View only requestable products
+6680@ View only unregistered product
+12267@ Item destroyed
+15177@ Equipment Lock
+14422@ Item Extraction
+14423@ Protection Setting Mode
+12292@ Costume (Option Applied)
+12293@ Headgear
+12294@ Weapon Costume
+12295@ Weapon Costume
+12296@ Vehicle Costume (Option Applied)
+12297@ Force Wing Costume (Option Applied)
+12298@ Clothes
+12299@ Vehicle Costume
+12300@ Force Wing Costume
+15178@ Helmet
+15179@ Suit
+15180@ Gloves
+15181@ Boots
+15182@ Weapon
+15183@ Weapon
+15184@ Epaulet
+15185@ Amulet
+15186@ Ring
+15187@ Ring
+15188@ Bike/Board
+15189@ Earring
+15190@ Earring
+15191@ Bracelet
+15192@ Bracelet
+15193@ Ring
+15194@ Ring
+15195@ Belt
+15196@ Charm
+15197@ Effector
+15198@ Effector
+15199@ Talisman
+15200@ Carnelian
+15201@ Arcana of Chaos
+15202@ Arcana of Laws
+15203@ Brooch
+15204@ Effector
+15205@ Effector
+15206@ Arcana of Guardian
+12276@ Option Applied Pet
+12277@ Displayed Pet
+12278@ Option Applied Pet
+11607@ At Force Wing Lv 20/40/60/80/100,\\You can earn Force Wing Training Points.
+11898@ Level required to obtain next Type
+11899@ Skill Type Level
+13446@ Combat Power Standard: $34#200,000#\If you do not meet the mission war combat power standard, field entry will be restricted.
+10709@ Reward(pt) Info
+10708@ * Mission score, rank, progress will reset daily.\\* Qualification: min. of 4 weekly mission completions with Rank 3+\\* Exclusive quest will be given when selected.
+11750@ $41#Collection is Magic book which you can register items for reward.$\\-When registering mission items, number of items are accumulated and items are deleted.\\ - Once registered items cannot be refunded.
+14898@ Costume Guide
+14331@ Costume Guide
+12400@ Blessing Beads users only.\Can use by purchasing Blessing Beads - Costume Warehouse.
+12401@ Blessing Beads users only.\Can use by purchasing Blessing Beads - Costume Warehouse.
+12402@ Blessing Beads users only.\Can use by purchasing Blessing Beads - Costume Warehouse.
+11526@ *Upgrade Point is accumulated if upgrade fails at certain level.\\*  With Upgrade Point, you can get higher chance of upgrade success\\*  All Upgrade Points will disappear when upgrade is successfully done.
+10716@ Refresh item list
+12911@ Set Guild Main Character
+12944@ $41#[Mission Guide]$ \\ Minimum score: 60 points \\ Maximum score: 500 points\\
+12946@ Guild Festival Info
+12948@ Contribution rating
+12949@ Rank
+12953@ Point Rewards
+12954@ Rank Rewards
+15019@ Equipment
+6692@ When you request for all, the request does not stop until\\all materials are used or no more space is available in the inventory.\\The process is stopped if you uncheck
+6696@ Default selection
+6697@ Select current rank
+6698@ Select current rank
+6699@ Select current rank
+6700@ Select current rank
+6701@ Select current rank
+6702@ Select current rank
+2644@ See only deleted quest list
+2652@ See available quests only
+15020@ Link Weapon
+15021@ speech bubble
+15022@ Honor
+15023@ Jewel Cube
+15024@ Jewel Cube
+15025@ Jewel Cube
+15026@ Seal of Life
+15027@ Emblem of Earth
+15028@ Crest of the Sky
+15029@ Artifact
+15030@ Artifact
+15031@ Artifact
+6693@ Success/Fail Count
+6461@ Points Earned
+8679@ Applied Buff Effect
+6557@ Season Target Score
+6460@ Time Remaining
+13651@ Points Earned
+10713@ Remaining score for next rank
+10714@ Current Score Rank
+10715@ Total Mission Score
+15032@ Seal of Life
+15033@ Emblem of Earth
+15034@ Crest of the Sky
+15035@ Artifact
+15036@ Artifact
+15037@ Artifact
+11806@ Ruler Boss Channel
+4806@ Occupied Time
+4805@ Expected Gold Coin Production
+4804@ Remaining time for next Gold Coin production
+12961@ Number of Participants
+12962@ Remaining score for next rank
+12963@ Current Score Ranking
+12964@ Total Guild Point
+12965@ My guild rank
+6530@ Season date on last week
+13408@ It will be unlocked if you reach the required holy power.
+13409@ It will be unlocked if you reach the required holy power.
+13410@ It will be unlocked if you reach the required holy power.
+13411@ It will be unlocked if you reach the required holy power.
+15208@ Clear Preset Page
+15211@ Preset Modification Completed
+15210@ Clear Preset Page
+15212@ Preset Modification Completed
+14519@ *Mandarat's Legacy can no longer earn points once all explorations are completed.\\ *Mandarat's Legacy can be explored for each character.
+12966@ Add Mission Count
+13667@ Click to register at the quick slot.
+10710@ Remaining score for next rank
+10711@ Current Rank
+10712@ Total Mission Score
+14906@ Clothing
+14907@ Sundries
+14908@ Main Weapon
+14909@ Main Weapon
+14910@ Main Weapon
+14911@ Main Weapon
+14912@ Main Weapon
+14913@ Main Weapon
+14914@ Secondary Weapons
+14915@ Secondary Weapons
+14916@ Secondary Weapons
+14917@ Secondary Weapons
+14918@ Secondary Weapons
+14919@ Secondary Weapons
+14920@ Secondary Weapons
+14921@ Secondary Weapons
+14922@ Pet
+9307@ Guild
+9308@ Guild Point
+9309@ Guild Ranking
+9320@ Character
+9321@ Guild Point
+9322@ Individual Ranking
+12967@ Remaining Event Time
+12968@ Mission Progress
+12969@ Mission Time Limit
+12970@ Mission Reward Points
+15150@ ※You will receive a buff when you leave the campfire. You can reacquire it after rejoining.\\※The owner and participants can use Fire Spark Powder to add buffs.\\※The same type of Fire Spark Powder cannot be applied multiple times.\\※Up to 5 Fire Spark Powders can be applied.
+15152@ ※The campfire gains a basic lasting effect every 60 seconds.\\※Using Fire Spark Powder will reset the campfire's duration.\\※The campfire owner is in a PvP immune state.
+11511@ Refresh
+13333@ Leave channel
+13334@ Create/Enter Channel
+11501@ Refresh
+12848@ $1#Dungeon rewards can only be opened after the "open time" has passed.$\\*Only one dungeon reward can be obtained through the "open time" at a time.\\*You can save a maximum of 3 dungeon rewards at a time.\\* If you delete a dungeon reward, you won't be able to recover it.
+12855@ $1#The Guild Dungeon is located at $34#"Trial Entrance"$ \\*Please go to $34#"Trial Entrance"$ $41# to open the Guild Dungeon.$
+12856@ $1#The reward varies depending on the difficulty of the dungeon.$\\*You can check the detailed description by hovering your mouse over the item.\\*"Unity Token" is awarded when you open the reward box.
+10366@ $47#* You can rotate Right / Left by holding down the right mouse button.$\\$47#* You can Zoom In / Zoom Out by selecting Camera Zoom In level.$\\Lv1 : You can see the Character's Face and Hair Costumes well.\\Lv2 : You can see the whole character well.\\Lv3 : You can see the Force Wing / Vehicle well.
+12007@ Gain Transcendence Type Point according to OLV up. \\*Amount of points given is different for each type. \\*When reset, an unlocked slot will be maintained.
+11699@ *100% completion reward for Event Collection will be automatically applied after Event Collection ends.
+12874@ When Guild Treasures are created, Guild Golden Treasure points are created. \\* When it reaches 100%, you can earn Guild Golden Treasures.
+12875@ You must reach the minimum daily score to claim the Guild Treasure.\\ * The daily minimum score is reset at midnight (00:00) every day.
+12876@ Guild Treasure Info
+6637@ Auto Register
+6638@ Auto Register
+6639@ Auto Register
+6640@ Auto Register
+6641@ Auto Register
+6642@ Auto Register
+6643@ Auto Register
+6644@ Auto Register
+12183@ Auto Register
+11807@ You can register Title
+11808@ You can register Special Title acquired from Event.
+11809@ You can register title acquired from being selected as Bringer/Guardian.
+11810@ You can register Title acquired from Guild Activity.
+11548@ Expected result will be high-lighted in red, and outcome will be displayed in icon.
+11633@ Upgrade Point Rate Bonus
+11189@ Increasing amp. may lower sound quality
+5849@ Refresh Current Min Price
+5850@ Refresh Current Min Price
+9990@ Force Gem
+11815@ *Rank Reward will be given as Event Inventory.
+11816@ *Pariticapation Reward will be given as Event Inventory.
+15069@ initialization
+1815@ Use Return Stone to warp to location
+1816@ Use Return Stone to warp to the warp location.
+1817@ Use Return Stone to warp to the warp location.
+1818@ Use Return Stone to warp to the warp location.
+1819@ Use Return Stone to warp to the warp location.
+1820@ Use Return Stone to warp to the warp location.
+1821@ Use Return Stone to warp to the warp location.
+1822@ Use Return Stone to warp to the warp location.
+1823@ Use Return Stone to warp to the warp location.
+1824@ Use Return Stone to warp to the warp location.
+1825@ Use Return Stone to warp to the warp location.
+1826@ Use Return Stone to warp to the warp location.
+1827@ Use Return Stone to warp to the warp location.
+1828@ Use Return Stone to warp to the warp location.
+1829@ Use Return Stone to warp to the warp location.
+1830@ Use Return Stone to warp to the warp location.
+1831@ Use Return Stone to warp to the warp location.
+1832@ Use Return Stone to warp to the warp location.
+1833@ Use Return Stone to warp to the warp location.
+1834@ Use Return Stone to warp to the warp location.
+1835@ Use Return Stone to warp to the warp location.
+1836@ Use Return Stone to warp to the warp location.
+1837@ Use Return Stone to warp to the warp location.
+1838@ Use Return Stone to warp to the warp location.
+1839@ Use Return Stone to warp to the warp location.
+1840@ Use Return Stone to warp to the warp location.
+1841@ Use Return Stone to warp to the warp location.
+1842@ Use Return Stone to warp to the warp location.
+1843@ Use Return Stone to warp to the warp location.
+1844@ Use Return Stone to warp to the warp location.
+1845@ Use Return Stone to warp to the warp location.
+1846@ Use Return Stone to warp to the warp location.
+1847@ Use Return Stone to warp to the warp location.
+1848@ Use Return Stone to warp to the warp location.
+1849@ Use Return Stone to warp to the warp location.
+1850@ Use Return Stone to warp to the warp location.
+1851@ Use Return Stone to warp to the warp location.
+1852@ Use Return Stone to warp to the warp location.
+1853@ Use Return Stone to warp to the warp location.
+1854@ Use Return Stone to warp to the warp location.
+1855@ Use Return Stone to warp to the warp location.
+1856@ Use Return Stone to warp to the warp location.
+1857@ Use Return Stone to warp to the warp location.
+1858@ Use Return Stone to warp to the warp location.
+1859@ Use Return Stone to warp to the warp location.
+1860@ Use Return Stone to warp to the warp location.
+1861@ Use Return Stone to warp to the warp location.
+1862@ Use Return Stone to warp to the warp location.
+1863@ Use Return Stone to warp to the warp location.
+1864@ Use Return Stone to warp to the warp location.
+1865@ Use Return Stone to warp to the warp location.
+1866@ Use Return Stone to warp to the warp location.
+1867@ Use Return Stone to warp to the warp location.
+1868@ Use Return Stone to warp to the warp location.
+1869@ Use Return Stone to warp to the warp location.
+1870@ Use Return Stone to warp to the warp location.
+1871@ Use Return Stone to warp to the warp location.
+1872@ Use Return Stone to warp to the warp location.
+1873@ Use Return Stone to warp to the warp location.
+1874@ Use Return Stone to warp to the warp location.
+1875@ Use Return Stone to warp to the warp location.
+1876@ Use Return Stone to warp to the warp location.
+1877@ Use Return Stone to warp to the warp location.
+15040@ After clicking, you can register for quick slot.
+6525@ Not available in current season
+5195@ Death
+5196@ Kill
+5198@ Death
+5199@ Kill
+14481@ Adjustment
+2282@ Receive Alz
+2283@ Receive Item
+2757@ Attach Cancel
+2555@ Attach Cancel
+2732@ Attach Cancel
+2734@ Screen Shot Attach
+2739@ Attach Cancel
+2741@ Screen Shot Attach
+2746@ Attach Cancel
+2749@ Screen Shot Attach
+11520@ Block
+11521@ Delete
+11522@ Reply
+11523@ Report
+11524@ Return
+11525@ Delete
+2554@ Attach Cancel
+2546@ Logout
+8660@ $4# [Auto Receive] Only available when you are using $\$24#Blessing Bead - Superior$
+14682@ You rolled a dice and obtained the SP bonus.
+14683@ You rolled a dice and obtained the SP bonus.
+14684@ You rolled a dice and obtained the SP bonus.
+14685@ You rolled a dice and obtained the SP bonus.
+14686@ You rolled a dice and obtained the SP bonus.
+14687@ You rolled a dice and obtained the SP bonus.
+14688@ You rolled a dice and obtained the SP bonus.
+14674@ You rolled a dice and obtained the SP bonus.
+14675@ You rolled a dice and obtained the SP bonus.
+14676@ You rolled a dice and obtained the SP bonus.
+14677@ You rolled a dice and obtained the SP bonus.
+14678@ You rolled a dice and obtained the SP bonus.
+14679@ You rolled a dice and obtained the SP bonus.
+14680@ You rolled a dice and obtained the SP bonus.
+8647@ $4#[Timer Bonus]$\Box can be opened when remaining time is less than bonus time.\Timer Bonus increases according to activated Giftbox.
+13272@ Holy Power is not enough.
+5884@ Weekly Ave.
+5885@ Current Min
+15130@ $1#※Ctrl+click on the saved amplifier to return the item to the inventory.$\\※Only amplifiers that match your battle style characteristics can be registered.\\※When changing the battle style, the battle style characteristics If an amplifier that does not fit the criteria is registered, it cannot be used.\\※Returning the unusable amplifier to the inventory allows normal use.\\※When entering the mission war channel, the amplifier function is automatically deactivated. It's possible.
+14701@ *Platinum buff applies only during the premium service period.\\*Normal grade is provided as standard and can be upgraded to a higher grade.\\*The platinum buff period cannot be applied longer than the premium service period.
+14424@ *If you equip a bike, you can use all functions of the warehouse.\\*If you do not equip a bike, only the function of removing items that have already been stored is available.
+9166@ Delete Mission
+9167@ Re-create mission
+12859@ If you don't enter the dungeon within the remaining time, the dungeon will close and the group will disband.
+11383@ Costume
+11398@ Costume
+11412@ Equipment
+11384@ Costume
+11399@ etc
+13755@ *This refers to the recommended combat power based on solo play, and may differ from actual experience.
+13808@ * It's an unknown dungeon that needs an adventure. The challenge of Nevareth Warriors keeps continuing.
+9168@ Remaining time until renewal
+9169@ Mission Reward Points
+1878@ Withdrawal
+1879@ Deposit
+1880@ Usage History
+10083@ If you do not enter the dungeon by remaining time, dungeon will close and party will dismiss.
+10614@ Force Gem price
+11414@ etc
+4334@ Receive
+4335@ Restore to before evaluation
+11958@ Helmet
+11957@ Suit
+11956@ Glove
+11955@ Boots
+11954@ Weapon
+11953@ Weapon
+11952@ Epaulet
+11951@ Amulet
+11950@ Ring
+11949@ Ring
+11948@ Bike/Board
+11947@ Earring
+11946@ Earring
+11945@ Bracelet
+11944@ Bracelet
+11943@ Ring
+11942@ Ring
+11941@ Belt
+11940@ Charm
+12004@ Effector
+12005@ Effector
+11937@ Talisman
+11936@ Carnelian
+11935@ Arcana
+11934@ Arcana
+11933@ Brooch
+11939@ Effector
+11938@ Effector
+15219@ Arcana
+5889@ Attack Power
+11549@ Divide Points
+11551@ Reset Points
+11572@ Collect Points
+11574@ Reset Points
+14767@ * Season Missions consists of daily missions and weekly missions.\> Move the mouse over the missions in the list to see the deatils.
+11385@ Equipment
+11386@ etc
+11400@ Equipment
+11388@ General
+11389@ Weapon Costume
+11390@ Weapon Costume
+11393@ Clothes
+11394@ Vehicle Costume
+11395@ Force Wing Costume
+14634@ Crest of Life
+14635@ Crest of Earth
+14636@ Crest of Sky
+14631@ Artifact
+14632@ Artifact
+14633@ Artifact
+11405@ Jewel Cube
+11406@ Jewel Cube
+11407@ Jewel Cube
+11402@ Linked Weapon
+11404@ Honor
+11403@ Dialog Bubble
+11824@ \Total amount of Stats $4#after Awakening$
+11553@ $13#[Total Stat] Stat which $\\$23#collected$ points are \\applied.
+11554@ $13#[Stat Limit]$$48#Minimum$ Stat \\required for\\$23#Current Battle Style Level$
+11576@ $13#[Total Stat] Stat which $\\$23#distributed$ points are \\applied.
+11577@ $13#[Rank Up Stat] $48#Minimum$ amount of stat \\needed for $\\$23#Battle Style Rank Up$
+14818@ Gold Insignia
+14795@ Diamond Insignia
+14839@ Platinum Insignia
+11825@ Reset Awakening Points
+14411@ Full Bingo Bonus Rewards
+14412@ Full Bingo Bonus Rewards
+4741@ Next Bingo Board
+4742@ Back
+4743@ Change Bingo Board
+4744@ Refresh
+14413@ Receive
+14414@ Receive all
+13514@ Reset Training Points
+13655@ Medal Effect Reset
+6589@ Reset Overlord Mastery
+11826@ Awakened Aura Mode Info
+10527@ Reset Merit Point
+14827@ Special Mastery granted
+10499@ $1#[Insignia Promotion]$\\Once all Gold Insignia masteries are earned,\\You will be promoted to $55#Platinum Insignia$
+14798@ Quick Slot Registration
+14799@ Special Mastery granted
+14800@ Speed Up
+10510@ Register Quick Slot
+10511@ Grant Special Mastery
+10512@ Speed Up
+11173@ Restart to apply the option.
+10528@ $1#[Normal ability]$\\only applies on\\$23#Mission War$
+10529@ $1#[Normal ability]$\\only applies on\\$23#Mission War$
+10530@ $1#[Expanded Stats]$\\Ability stats are appliled in \\$23#mission war$ and $23#dungeons and fields$.
+10531@ $1#[Expanded Stats]$\\Ability stats are appliled in \\$23#mission war$ and $23#dungeons and fields$.
+10631@ $1#[Limited use of time reducer]$\\You cannot use $23#time reducer that reduces \\the time remaining by more than 5 hours.$
+11456@ $1#[Normal ability]$\\only applies on\\$23#Mission War$
+11457@ $1#[Expanded Stats]$\\Ability stats are appliled in \\$23#mission war$ and $23#dungeons and fields$.
+10496@ Gold Insignia
+14801@ $1#[Mastery Memory]$\You can $23#save the masteries' learning status$\and use it by changing it.
+14802@ Opening Mastery slot
+14803@ $1#[Mastery Slot Open]$\You can acquire mastery after\$23#opening the slots$ on each mastery.
+14804@ Platinum Insignia
+10513@ $1#[Mastery Memory]$\\You can $23#save the masteries' learning status$\\and use it by changing it.
+10514@ Opening Mastery slot
+10515@ $1#[Mastery Slot Open]$\\You can acquire mastery after\\$23#opening the slots$ on each mastery.
+10508@ Platinum Insignia
+14805@ Platinum Insignia Information
+10516@ Platinum Insignia Information
+14824@ Platinum Insignia Information
+14822@ Platinum Insignia Information
+14806@ $1#[Special Mastery]\Special mastery stats are applied \$23#after acquiring Expanded Special Mastery.$
+10517@ $1#[Special Mastery]\\Special mastery stats are applied \\$23#after acquiring Expanded Special Mastery.$
+7513@ Set Battle Mode Attack Rank
+14630@ *If you acquire 10 exploration points, one exploration will be completed.\\*Once all explorations are completed, no more points can be earned.\\*Legacy exploration can be performed for each character.
+11458@ Total stats for each category
+14817@ Total stats for each category
+14865@ You can access the Newbie Support exchange.
+11657@ User can display Ruler Boss Information
+13253@ Myth Mastery Guide
+6580@ Broke daily high score
+6569@ Failed to gain daily reward
+6573@ Earned daily reward

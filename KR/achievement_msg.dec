@@ -1,0 +1,1699 @@
+<achievement_message>
+	<category>
+		<category_msg	msg_id="0"	msg="전체"	/>
+		<category_msg	msg_id="1"	msg="일반"	/>
+		<category_msg	msg_id="2"	msg="퀘스트"	/>
+		<category_msg	msg_id="3"	msg="던전"	/>
+		<category_msg	msg_id="4"	msg="아이템"	/>
+		<category_msg	msg_id="5"	msg="PVP"	/>
+		<category_msg	msg_id="6"	msg="전쟁"	/>
+		<category_msg	msg_id="7"	msg="사냥"	/>
+		<category_msg	msg_id="8"	msg="제조"	/>
+		<category_msg	msg_id="9"	msg="커뮤니티"	/>
+		<category_msg	msg_id="10"	msg="공유업적"	/>
+		<category_msg	msg_id="11"	msg="스페셜"	/>
+		<category_msg	msg_id="12"	msg="회고록-일반"	/>
+		<category_msg	msg_id="13"	msg="회고록-공유업적"	/>
+	</category>
+	<achievement>
+		<achievement_msg	msg_id="1001"	name="어느덧 적응 완료"	summary="5레벨 달성"	/>
+		<achievement_msg	msg_id="1002"	name="10레벨"	summary="10레벨 달성"	/>
+		<achievement_msg	msg_id="1003"	name="30레벨"	summary="30레벨 달성"	/>
+		<achievement_msg	msg_id="1004"	name="50레벨"	summary="50레벨 달성"	/>
+		<achievement_msg	msg_id="1005"	name="70레벨"	summary="70레벨 달성"	/>
+		<achievement_msg	msg_id="1006"	name="90레벨"	summary="90레벨 달성"	/>
+		<achievement_msg	msg_id="1007"	name="큰 걸음의 시작"	summary="100레벨 달성"	/>
+		<achievement_msg	msg_id="1008"	name="120레벨"	summary="120레벨 달성"	/>
+		<achievement_msg	msg_id="1009"	name="140레벨"	summary="140레벨 달성"	/>
+		<achievement_msg	msg_id="1010"	name="160레벨"	summary="160레벨 달성"	/>
+		<achievement_msg	msg_id="1011"	name="170레벨"	summary="170레벨 달성"	/>
+		<achievement_msg	msg_id="1012"	name="180레벨"	summary="180레벨 달성"	/>
+		<achievement_msg	msg_id="1013"	name="명예의 길"	summary="명예등급 11등급 달성"	/>
+		<achievement_msg	msg_id="1014"	name="침묵과 서광의 명예"	summary="명예등급 12등급 달성"	/>
+		<achievement_msg	msg_id="1015"	name="혜안과 투혼의 명예"	summary="명예등급 13등급 달성"	/>
+		<achievement_msg	msg_id="1016"	name="관용과 열정의 명예"	summary="명예등급 14등급 달성"	/>
+		<achievement_msg	msg_id="1017"	name="영광과 수호의 명예"	summary="명예등급 15등급 달성"	/>
+		<achievement_msg	msg_id="1018"	name="신념과 용맹의 명예"	summary="명예등급 16등급 달성"	/>
+		<achievement_msg	msg_id="1019"	name="의지와 헌신의 명예"	summary="명예등급 17등급 달성"	/>
+		<achievement_msg	msg_id="1020"	name="진리와 심판의 명예"	summary="명예등급 18등급 달성"	/>
+		<achievement_msg	msg_id="1021"	name="광휘와 폭풍의 명예"	summary="명예등급 19등급 달성"	/>
+		<achievement_msg	msg_id="1022"	name="누구보다 명예로운 자"	summary="명예등급 20등급 달성"	/>
+		<achievement_msg	msg_id="1023"	name="견습에서 벗어나"	summary="스킬 랭크 레귤러 달성"	/>
+		<achievement_msg	msg_id="1024"	name="마스터 중의 마스터"	summary="스킬 랭크 그랜드 마스터 달성"	/>
+		<achievement_msg	msg_id="1025"	name="완전함의 추구"	summary="스킬 랭크 컴플리터 달성"	/>
+		<achievement_msg	msg_id="1026"	name="트랜센더"	summary="스킬 랭크 트랜센더 달성"	/>
+		<achievement_msg	msg_id="1027"	name="10억 부자"	summary="보유 금액 10억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1028"	name="100억 부자"	summary="보유 금액 100억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1029"	name="500억 부자"	summary="보유 금액 500억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1030"	name="190레벨"	summary="190레벨 달성"	/>
+		<achievement_msg	msg_id="1031"	name="30 DP"	summary="DP 30 획득"	/>
+		<achievement_msg	msg_id="1032"	name="절반의 달성"	summary="DP 50 획득"	/>
+		<achievement_msg	msg_id="1033"	name="70 DP"	summary="DP 70 획득"	/>
+		<achievement_msg	msg_id="1034"	name="DP의 끝을 보다"	summary="DP 100 획득"	/>
+		<achievement_msg	msg_id="1035"	name="가장의 비애"	summary="아니마 마스터리 일반에 Alz 드롭액수 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1036"	name="빌리는 게 아니라 훔치는 거야"	summary="아니마 마스터리 일반에 HP 스틸 옵션 부여"	/>
+		<achievement_msg	msg_id="1037"	name="더 많은 흡수를 위해"	summary="아니마 마스터리 일반에 HP 흡수 상한 증가 옵션 부여 성공"	/>
+		<achievement_msg	msg_id="1038"	name="모든 방면에서 강해진"	summary="아니마 마스터리 일반에 모증 옵션 부여 성공"	/>
+		<achievement_msg	msg_id="1039"	name="네바레스의 첫 번째 축복"	summary="영자의 축복 lv1 버프 받기"	/>
+		<achievement_msg	msg_id="1040"	name="네바레스의 두 번째 축복"	summary="영자의 축복 lv2 버프 받기"	/>
+		<achievement_msg	msg_id="1041"	name="네바레스의 세 번째 축복"	summary="영자의 축복 lv3 버프 받기"	/>
+		<achievement_msg	msg_id="1042"	name="수많은 업적"	summary="업적 점수 4000점 달성"	/>
+		<achievement_msg	msg_id="1043"	name="끝없는 업적"	summary="업적 점수 5000점 달성"	/>
+		<achievement_msg	msg_id="1044"	name="신검의 축복"	summary="세인츠 포스 버프 받기"	/>
+		<achievement_msg	msg_id="1045"	name="든든해진 느낌이야"	summary="아니마 마스터리 일반에 HP 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1046"	name="가만히 있으란다고 제가 듣겠습니까?"	summary="아니마 마스터리 일반에 행동 관련 저항 옵션 부여"	/>
+		<achievement_msg	msg_id="1047"	name="캐치 미 이프 유 캔"	summary="아니마 마스터리 일반에 회피율 옵션 부여"	/>
+		<achievement_msg	msg_id="1048"	name="때리는 족족"	summary="아니마 마스터리 일반에 크리티컬 확률 옵션 부여"	/>
+		<achievement_msg	msg_id="1049"	name="10 AP"	summary="AP 10 획득"	/>
+		<achievement_msg	msg_id="1050"	name="100 AP"	summary="AP 100 획득"	/>
+		<achievement_msg	msg_id="1051"	name="300 AP"	summary="AP 300 획득"	/>
+		<achievement_msg	msg_id="1052"	name="500 AP"	summary="AP 500 획득"	/>
+		<achievement_msg	msg_id="1053"	name="700 AP"	summary="AP 700 획득"	/>
+		<achievement_msg	msg_id="1054"	name="100 WExp"	summary="Wexp 100 획득"	/>
+		<achievement_msg	msg_id="1055"	name="1000 WExp"	summary="Wexp 1000 획득"	/>
+		<achievement_msg	msg_id="1056"	name="10000 WExp"	summary="Wexp 10000 획득"	/>
+		<achievement_msg	msg_id="1057"	name="100000 WExp"	summary="Wexp 100000 획득"	/>
+		<achievement_msg	msg_id="1058"	name="500000 WExp"	summary="Wexp 500000 획득"	/>
+		<achievement_msg	msg_id="1059"	name="50억 부자"	summary="보유 금액 50억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1060"	name="알부자"	summary="창고에 보유 금액 10억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1061"	name="굉장한 알부자"	summary="창고에 보유 금액 50억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1062"	name="어마어마한 알부자"	summary="창고에 보유 금액 100억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1063"	name="두둑한 지갑"	summary="상점에서 100만 Alz 이상의 아이템 구매"	/>
+		<achievement_msg	msg_id="1064"	name="VIP 고객"	summary="상점에서 1000만 Alz 이상의 아이템 구매"	/>
+		<achievement_msg	msg_id="1065"	name="이 맛에 산다"	summary="상점에서 1억 Alz 이상의 아이템 구매"	/>
+		<achievement_msg	msg_id="1066"	name="배틀 모드3에 대한 이해"	summary="배틀 모드3 사용"	/>
+		<achievement_msg	msg_id="1067"	name="네바레스의 석상"	summary="엑스크레이션에 당하기"	/>
+		<achievement_msg	msg_id="1068"	name="동료의 선물"	summary="섀도우 실드 받기"	/>
+		<achievement_msg	msg_id="1069"	name="정신력의 강화"	summary="래이즈 스피리트 받기"	/>
+		<achievement_msg	msg_id="1070"	name="네바레스 재력가"	summary="보유 금액 1000억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1071"	name="상단의 단장"	summary="보유 금액 2000억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1072"	name="시세의 조율"	summary="보유 금액 3000억 Alz 이상 달성"	/>
+		<achievement_msg	msg_id="1073"	name="200레벨"	summary="200레벨 달성"	/>
+		<achievement_msg	msg_id="1074"	name="보석 수집가"	summary="현재보유 포스젬 500개"	/>
+		<achievement_msg	msg_id="1075"	name="뛰어난 보석 수집가"	summary="현재보유 포스젬 2000개"	/>
+		<achievement_msg	msg_id="1076"	name="탁월한 보석 수집가"	summary="현재보유 포스젬 10000개"	/>
+		<achievement_msg	msg_id="1077"	name="부를 보여주겠다"	summary="누적사용 포스젬 200개"	/>
+		<achievement_msg	msg_id="1078"	name="진짜 부를 보여주겠다"	summary="누적사용 포스젬 1000개"	/>
+		<achievement_msg	msg_id="1079"	name="진정한 부를 보여주겠다"	summary="누적사용 포스젬 5000개"	/>
+		<achievement_msg	msg_id="1080"	name="언제 우락부락해졌지?"	summary="아니마 마스터리 계약에 힘 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1081"	name="내 계산대로라면"	summary="아니마 마스터리 계약에 지능 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1082"	name="날쌘돌이"	summary="아니마 마스터리 계약에 민첩 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1083"	name="반드시 아프게 해주겠어"	summary="아니마 마스터리 계약에 크리티컬 데미지 저항 무시 옵션 부여"	/>
+		<achievement_msg	msg_id="1084"	name="그냥 때려도 아프다고"	summary="아니마 마스터리 신뢰에 일반 데미지 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1085"	name="더 긴 시간 동안"	summary="아니마 마스터리 신뢰에 오러 모드 시간 증가 부여"	/>
+		<achievement_msg	msg_id="1086"	name="넘치는 업적"	summary="업적 점수 6000점 달성"	/>
+		<achievement_msg	msg_id="1087"	name="무한한 업적"	summary="업적 점수 7000점 달성"	/>
+		<achievement_msg	msg_id="1088"	name="업적을 통달한"	summary="업적 점수 8000점 달성"	/>
+		<achievement_msg	msg_id="1089"	name="업적의 달인"	summary="업적 점수 9000점 달성"	/>
+		<achievement_msg	msg_id="1090"	name="업적 마스터"	summary="업적 점수 10000점 달성"	/>
+		<achievement_msg	msg_id="1091"	name="환생 1회"	summary="신화 레벨 환생 1회"	/>
+		<achievement_msg	msg_id="1092"	name="환생 5회"	summary="신화 레벨 환생 5회"	/>
+		<achievement_msg	msg_id="1093"	name="환생 10회"	summary="신화 레벨 환생 10회"	/>
+		<achievement_msg	msg_id="1094"	name="환생 20회"	summary="신화 레벨 환생 20회"	/>
+		<achievement_msg	msg_id="1095"	name="환생 40회"	summary="신화 레벨 환생 40회"	/>
+		<achievement_msg	msg_id="1096"	name="환생 60회"	summary="신화 레벨 환생 60회"	/>
+		<achievement_msg	msg_id="1097"	name="환생 80회"	summary="신화 레벨 환생 80회"	/>
+		<achievement_msg	msg_id="1098"	name="환생 100회"	summary="신화 레벨 환생 100회"	/>
+		<achievement_msg	msg_id="1099"	name="별들의 향연 : 갈망"	summary="스텔라 링크 '갈망' 획득"	/>
+		<achievement_msg	msg_id="1100"	name="별들의 향연 : 비탄"	summary="스텔라 링크 '비탄' 획득"	/>
+		<achievement_msg	msg_id="1101"	name="별들의 향연 : 격노"	summary="스텔라 링크 '격노' 획득"	/>
+		<achievement_msg	msg_id="1102"	name="업적 에이스"	summary="업적 점수 12000점 달성"	/>
+		<achievement_msg	msg_id="1103"	name="업적 장인"	summary="업적 점수 14000점 달성"	/>
+		<achievement_msg	msg_id="1104"	name="업적 영웅"	summary="업적 점수 16000점 달성"	/>
+		<achievement_msg	msg_id="1105"	name="업적 프로"	summary="업적 점수 18000점 달성"	/>
+		<achievement_msg	msg_id="1106"	name="업적 챔피언"	summary="업적 점수 20000점 달성"	/>
+		<achievement_msg	msg_id="1107"	name="별의 순간 : 셀레나"	summary="스텔라 링크 각인 시도"	/>
+		<achievement_msg	msg_id="1108"	name="별의 순간 : 솔"	summary="링크 변환 시도"	/>
+		<achievement_msg	msg_id="1109"	name="환생 200회"	summary="신화 레벨 환생 200회"	/>
+		<achievement_msg	msg_id="1110"	name="환생 300회"	summary="신화 레벨 환생 300회"	/>
+		<achievement_msg	msg_id="1111"	name="환생 400회"	summary="신화 레벨 환생 400회"	/>
+		<achievement_msg	msg_id="1112"	name="환생 500회"	summary="신화 레벨 환생 500회"	/>
+		<achievement_msg	msg_id="1113"	name="환생 600회"	summary="신화 레벨 환생 600회"	/>
+		<achievement_msg	msg_id="1114"	name="환생 700회"	summary="신화 레벨 환생 700회"	/>
+		<achievement_msg	msg_id="1115"	name="환생 800회"	summary="신화 레벨 환생 800회"	/>
+		<achievement_msg	msg_id="1116"	name="또다시 명예를 쌓는"	summary="명예등급 21등급 달성"	/>
+		<achievement_msg	msg_id="1117"	name="드높은 명예"	summary="명예등급 22등급 달성"	/>
+		<achievement_msg	msg_id="1118"	name="명예를 따라올 자가 없는"	summary="명예등급 23등급 달성"	/>
+		<achievement_msg	msg_id="1119"	name="드높인 명예와 사명감"	summary="명예등급 24등급 달성"	/>
+		<achievement_msg	msg_id="1120"	name="운명이 이끄는대로"	summary="명예등급 25등급 달성"	/>
+		<achievement_msg	msg_id="1121"	name="이름을 널리 알린"	summary="명예등급 26등급 달성"	/>
+		<achievement_msg	msg_id="1122"	name="모두의 신뢰를 받는"	summary="명예등급 27등급 달성"	/>
+		<achievement_msg	msg_id="1123"	name="모두가 우러러보는 "	summary="명예등급 28등급 달성"	/>
+		<achievement_msg	msg_id="1124"	name="명예의 정점"	summary="명예등급 29등급 달성"	/>
+		<achievement_msg	msg_id="1125"	name="네바레스 전역에 이름을 알린 자"	summary="명예등급 30등급 달성"	/>
+		<achievement_msg	msg_id="1126"	name="때린 곳을 또 때려요"	summary="아니마 마스터리 초월에 크리티컬 데미지 증가 옵션 부여"	/>
+		<achievement_msg	msg_id="1127"	name="모든 방면에서 강인한"	summary="아니마 마스터리 초월에 모든 스킬 증폭 옵션 부여"	/>
+		<achievement_msg	msg_id="1128"	name="막아봤자 소용없어"	summary="아니마 마스터리 초월에 관통 옵션 부여"	/>
+		<achievement_msg	msg_id="2001"	name="콜로니 훈련생"	summary="퀘스트 완료"	/>
+		<achievement_msg	msg_id="2002"	name="콜로니 졸업생"	summary="퀘스트 완료"	/>
+		<achievement_msg	msg_id="2003"	name="인간의 시대를 열다"	summary="퀘스트 완료"	/>
+		<achievement_msg	msg_id="2004"	name="기사의 별을 이끄는 전사"	summary="퀘스트 완료"	/>
+		<achievement_msg	msg_id="2005"	name="우두머리 방해자"	summary="네임드 몬스터 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2006"	name="우두머리 추적자"	summary="네임드 몬스터 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2007"	name="우두머리 사냥꾼"	summary="네임드 몬스터 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2008"	name="우두머리 천적"	summary="네임드 몬스터 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2009"	name="우두머리 지배자"	summary="네임드 몬스터 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2010"	name="메르가헤프의 반지"	summary="메르가헤프의 반지 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2011"	name="킬리안의 반지"	summary="킬리안의 반지 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2012"	name="타일런트의 반지"	summary="타일런트의 반지 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2013"	name="드디어 면허를!"	summary="아스트랄 보드 라이선스 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2014"	name="어빌리티를 깨닫다"	summary="어빌리티 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2015"	name="DP에 대한 이해"	summary="DP에 대한 안내 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2016"	name="마물의 폭력성을 실험해 보았습니다"	summary="모든 마물의 폭력성 실험 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2017"	name="미션 전쟁에 대한 이해"	summary="미션 전쟁 길라잡이 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2018"	name="할머니.. 이렇게 귀한 것을…"	summary="예르트 할머니의 패물함 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2019"	name="세인츠 포스칼리버의 전설"	summary="세인츠 포스칼리버 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2020"	name="명예로운 전사"	summary="명예로운 전사를 위한 안내 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2021"	name="타락한 워리어의 주인"	summary="계약 IV 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2022"	name="타락한 블레이더의 주인"	summary="계약 IV 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2023"	name="타락한 위저드의 주인"	summary="계약 IV 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2024"	name="타락한 포스 아처의 주인"	summary="계약 IV 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2025"	name="타락한 포스 실더의 주인"	summary="계약 IV 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2026"	name="타락한 포스 블레이더의 주인"	summary="계약 IV 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2027"	name="타락자의 주인"	summary="모든 타락자와의 계약 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2028"	name="미네스타 경이 돌아왔다?"	summary="미네스타의 유산 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2029"	name="핏빛의 이야기"	summary="모든 핏빛 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2030"	name="파멸의 이야기"	summary="모든 파멸 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2031"	name="냉기의 이야기"	summary="모든 냉기 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2032"	name="미네스타 수련서 -  인내"	summary="모든 인내 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2033"	name="미네스타 수련서 -  전투 I"	summary="전투 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2034"	name="미네스타 수련서 -  전투 II"	summary="전투 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="2035"	name="미네스타 수련서 -  전사"	summary="전사 퀘스트 중 1개 완료"	/>
+		<achievement_msg	msg_id="2036"	name="미네스타 수련서 -  용사"	summary="용사 퀘스트 중 1개 완료"	/>
+		<achievement_msg	msg_id="2037"	name="미네스타 수련서 -  무사"	summary="무사 퀘스트 중 1개 완료"	/>
+		<achievement_msg	msg_id="2038"	name="미네스타 수련서 -  용병"	summary="용병 퀘스트 중 1개 완료"	/>
+		<achievement_msg	msg_id="2039"	name="미네스타 수련서 -  영웅"	summary="영웅 퀘스트 중 1개 완료"	/>
+		<achievement_msg	msg_id="2040"	name="미네스타 수련서 -  맹세"	summary="모든 맹세 퀘스트 완료"	/>
+		<achievement_msg	msg_id="3001"	name="황혼빛에 매료된 자"	summary="약화된 레이크 인 더스크 클리어"	/>
+		<achievement_msg	msg_id="3002"	name="낡은 역사의 방문객"	summary="약화된 루이나 스테이션 클리어"	/>
+		<achievement_msg	msg_id="3003"	name="망령과 마주친 자"	summary="약화된 망자의 탑 B1F 클리어"	/>
+		<achievement_msg	msg_id="3004"	name="황혼 호수의 파문"	summary="레이크 인 더스크 클리어"	/>
+		<achievement_msg	msg_id="3008"	name="낡은 역사의 역무원"	summary="루이나 스테이션 클리어"	/>
+		<achievement_msg	msg_id="3012"	name="떠도는 망령의 안식처"	summary="망자의 탑 B1F 클리어"	/>
+		<achievement_msg	msg_id="3016"	name="화산 동굴의 탐험가"	summary="볼캐닉 시타델 클리어"	/>
+		<achievement_msg	msg_id="3020"	name="불사의 존재의 탐구자"	summary="망자의 탑 B2F 클리어"	/>
+		<achievement_msg	msg_id="3024"	name="변이된 생명의 발견자"	summary="포가튼 템플 B1F 클리어"	/>
+		<achievement_msg	msg_id="3028"	name="비밀스런 실험의 방해꾼"	summary="포가튼 템플 B2F 클리어"	/>
+		<achievement_msg	msg_id="3032"	name="잃어버린 세계의 개척자"	summary="포비든 아일랜드 클리어"	/>
+		<achievement_msg	msg_id="3036"	name="감염 치료 전문가"	summary="알타 오브 시에나 B1F 클리어"	/>
+		<achievement_msg	msg_id="3040"	name="썩은 씨앗 감별사"	summary="알타 오브 시에나 B2F 클리어"	/>
+		<achievement_msg	msg_id="3044"	name="일그러진 영혼의 구원자"	summary="일루전 캐슬 언더월드 클리어"	/>
+		<achievement_msg	msg_id="3048"	name="판타즈말 오리진 전문가"	summary="일루전 캐슬 레디언트홀 클리어"	/>
+		<achievement_msg	msg_id="3052"	name="혼돈의 피스메이커I"	summary="카오스 아레나 LV.1 클리어"	/>
+		<achievement_msg	msg_id="3053"	name="혼돈의 피스메이커II"	summary="카오스 아레나 LV.2 클리어"	/>
+		<achievement_msg	msg_id="3054"	name="혼돈의 피스메이커III"	summary="카오스 아레나 LV.3 클리어"	/>
+		<achievement_msg	msg_id="3055"	name="혼돈의 피스메이커IV"	summary="카오스 아레나 LV.4 클리어"	/>
+		<achievement_msg	msg_id="3056"	name="혼돈의 피스메이커V"	summary="카오스 아레나 LV.5 클리어"	/>
+		<achievement_msg	msg_id="3057"	name="혼돈의 피스메이커VI"	summary="카오스 아레나 LV.6 클리어"	/>
+		<achievement_msg	msg_id="3058"	name="고대 메탈 클랜의 흔적"	summary="마퀴나스 아웃포스트 클리어"	/>
+		<achievement_msg	msg_id="3062"	name="누알레의 동굴(쉬움)"	summary="패닉 케이브(쉬움) 클리어"	/>
+		<achievement_msg	msg_id="3065"	name="누알레의 동굴(보통)"	summary="패닉 케이브(보통) 클리어"	/>
+		<achievement_msg	msg_id="3068"	name="누알레의 동굴"	summary="패닉 케이브 클리어"	/>
+		<achievement_msg	msg_id="3071"	name="누알레의 동굴(프리미엄)"	summary="패닉 케이브(프리미엄) 클리어"	/>
+		<achievement_msg	msg_id="3074"	name="폭주하는 유령 기관차(쉬움)"	summary="스티머 크레이지(쉬움) 클리어"	/>
+		<achievement_msg	msg_id="3077"	name="폭주하는 유령 기관차(보통)"	summary="스티머 크레이지(보통) 클리어"	/>
+		<achievement_msg	msg_id="3080"	name="폭주하는 유령 기관차"	summary="스티머 크레이지 클리어"	/>
+		<achievement_msg	msg_id="3083"	name="폭주하는 유령 기관차(프리미엄)"	summary="스티머 크레이지(프리미엄) 클리어"	/>
+		<achievement_msg	msg_id="3086"	name="개척자들의 안식처(쉬움)"	summary="카타쿰 프로스트(쉬움) 클리어"	/>
+		<achievement_msg	msg_id="3089"	name="개척자들의 안식처(보통)"	summary="카타쿰 프로스트(보통) 클리어"	/>
+		<achievement_msg	msg_id="3092"	name="개척자들의 안식처"	summary="카타쿰 프로스트 클리어"	/>
+		<achievement_msg	msg_id="3095"	name="개척자들의 안식처(프리미엄)"	summary="카타쿰 프로스트(프리미엄) 클리어"	/>
+		<achievement_msg	msg_id="3098"	name="식지않는 열기의 동굴(쉬움)"	summary="라바 헬파이어(쉬움) 클리어"	/>
+		<achievement_msg	msg_id="3101"	name="식지않는 열기의 동굴(보통)"	summary="라바 헬파이어(보통) 클리어"	/>
+		<achievement_msg	msg_id="3104"	name="식지않는 열기의 동굴"	summary="라바 헬파이어 클리어"	/>
+		<achievement_msg	msg_id="3107"	name="식지않는 열기의 동굴(프리미엄)"	summary="라바 헬파이어(프리미엄) 클리어"	/>
+		<achievement_msg	msg_id="3110"	name="세 자매의 비극(쉬움)"	summary="해저더스 밸리(쉬움) 클리어"	/>
+		<achievement_msg	msg_id="3113"	name="세 자매의 비극(보통)"	summary="해저더스 밸리(보통) 클리어"	/>
+		<achievement_msg	msg_id="3116"	name="세 자매의 비극"	summary="해저더스 밸리 클리어"	/>
+		<achievement_msg	msg_id="3119"	name="망자의 탑 B1F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3120"	name="망자의 탑 B1F, 20분 돌파"	summary="혼자서 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3121"	name="망자의 탑 B1F, 7분 돌파"	summary="혼자서 7분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3122"	name="망자의 탑 B1F, 무사귀환 (파티)"	summary="파티에서 한번도 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3123"	name="망자의 탑 B1F, 10분 돌파 (파티)"	summary="파티 상태로 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3124"	name="망자의 탑 B1F, 5분 돌파 (파티)"	summary="파티 상태로 5분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3125"	name="망자의 탑 B2F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3126"	name="망자의 탑 B2F, 30분 돌파"	summary="혼자서 30분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3127"	name="망자의 탑 B2F, 20분 돌파"	summary="혼자서 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3128"	name="망자의 탑 B2F, 무사귀환 (파티)"	summary="파티에서 한번도 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3129"	name="망자의 탑 B2F, 20분 돌파 (파티)"	summary="파티 상태로 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3130"	name="망자의 탑 B2F, 17분 돌파 (파티)"	summary="파티 상태로 17분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3131"	name="루이나 스테이션, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3132"	name="루이나 스테이션, 10분 돌파"	summary="혼자서 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3133"	name="루이나 스테이션, 6분 돌파"	summary="혼자서 6분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3134"	name="루이나 스테이션, 무사귀환 (파티)"	summary="파티에서 한번도 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3135"	name="루이나 스테이션, 7분 돌파 (파티)"	summary="파티 상태로 7분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3136"	name="루이나 스테이션, 5분 돌파 (파티)"	summary="파티 상태로 5분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3137"	name="볼캐닉 시타델, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3138"	name="볼캐닉 시타델, 20분 돌파"	summary="혼자서 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3139"	name="볼캐닉 시타델, 6분 돌파"	summary="혼자서 6분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3140"	name="볼캐닉 시타델, 무사귀환 (파티)"	summary="파티에서 한번도 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3141"	name="볼캐닉 시타델, 10분 돌파 (파티)"	summary="파티 상태로 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3142"	name="볼캐닉 시타델, 4분 돌파 (파티)"	summary="파티 상태로 4분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3143"	name="레이크 인 더스크, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3144"	name="레이크 인 더스크, 10분 돌파"	summary="혼자서 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3145"	name="레이크 인 더스크, 3분 돌파"	summary="혼자서 3분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3146"	name="레이크 인 더스크, 무사귀환 (파티)"	summary="파티에서 한번도 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3147"	name="레이크 인 더스크, 10분 돌파 (파티)"	summary="파티 상태로 10분 내 던전 클리어"	/>
+		<achievement_msg	msg_id="3148"	name="레이크 인 더스크, 2분 30초 돌파 (파티)"	summary="파티 상태로 2분 30초 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3149"	name="포비든 아일랜드, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3150"	name="포비든 아일랜드, 50분 돌파"	summary="혼자서 50분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3151"	name="포비든 아일랜드, 10분 돌파"	summary="혼자서 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3152"	name="포비든 아일랜드, 무사귀환 (파티)"	summary="파티에서 한번도 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3153"	name="포비든 아일랜드, 20분 돌파 (파티)"	summary="파티 상태로 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3154"	name="포비든 아일랜드, 5분 돌파 (파티)"	summary="파티 상태로 5분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3155"	name="일루전 캐슬 언더월드, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3156"	name="일루전 캐슬 언더월드, 25분 돌파"	summary="혼자서 25분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3157"	name="일루전 캐슬 언더월드, 10분 돌파"	summary="혼자서 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3158"	name="일루전 캐슬 언더월드, 무사귀환"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3159"	name="일루전 캐슬 언더월드, 10분 돌파 (파티)"	summary="파티 상태로 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3160"	name="일루전 캐슬 언더월드, 6분 돌파 (파티)"	summary="파티 상태로 6분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3161"	name="일루전 캐슬 레디언트홀, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3162"	name="일루전 캐슬 레디언트홀, 90분 돌파"	summary="혼자서 90분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3163"	name="일루전 캐슬 레디언트홀, 20분 돌파"	summary="혼자서 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3164"	name="일루전 캐슬 레디언트홀, 무사귀환 (파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3165"	name="일루전 캐슬 레디언트홀, 20분 돌파 (파티)"	summary="파티 상태로 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3166"	name="일루전 캐슬 레디언트홀, 10분 돌파 (파티)"	summary="파티 상태로 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3167"	name="알타 오브 시에나 B1F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3168"	name="알타 오브 시에나 B1F, 30분 돌파"	summary="혼자서 30분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3169"	name="알타 오브 시에나 B1F, 10분 돌파"	summary="혼자서 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3170"	name="알타 오브 시에나 B1F, 무사귀환"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3171"	name="알타 오브 시에나 B1F, 10분 돌파"	summary="파티 상태로 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3172"	name="알타 오브 시에나 B1F, 5분 돌파"	summary="파티 상태로 5분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3173"	name="알타 오브 시에나 B2F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3174"	name="알타 오브 시에나 B2F, 60분 돌파"	summary="혼자서 60분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3175"	name="알타 오브 시에나 B2F, 15분 돌파"	summary="혼자서 15분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3176"	name="알타 오브 시에나 B2F, 무사귀환 (파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3177"	name="알타 오브 시에나 B2F, 15분 돌파 (파티)"	summary="파티 상태로 15분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3178"	name="알타 오브 시에나 B2F, 7분 돌파 (파티)"	summary="파티 상태로 7분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3179"	name="포가튼 템플 B1F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3180"	name="포가튼 템플 B1F, 15분 돌파"	summary="혼자서 15분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3181"	name="포가튼 템플 B1F, 12분 돌파"	summary="혼자서 12분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3182"	name="포가튼 템플 B1F, 무사귀환 (파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3183"	name="포가튼 템플 B1F, 12분 돌파 (파티)"	summary="파티 상태로 12분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3184"	name="포가튼 템플 B1F, 9분 돌파 (파티)"	summary="파티 상태로 9분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3185"	name="포가튼 템플 B2F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3186"	name="포가튼 템플 B2F, 60분 돌파"	summary="혼자서 60분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3187"	name="포가튼 템플 B2F, 20분 돌파"	summary="혼자서 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3188"	name="포가튼 템플 B2F, 무사귀환 (파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3189"	name="포가튼 템플 B2F, 15분 돌파 (파티)"	summary="파티 상태로 15분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3190"	name="포가튼 템플 B2F, 6분 돌파 (파티)"	summary="파티 상태로 6분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3191"	name="마퀴나스 아웃포스트, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3192"	name="마퀴나스 아웃포스트, 무사귀환 (파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3193"	name="마퀴나스 아웃포스트, 20분 돌파 (파티)"	summary="파티 상태로 20분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3194"	name="마퀴나스 아웃포스트, 10분 돌파 (파티)"	summary="파티 상태로 10분 내에 던전 클리어"	/>
+		<achievement_msg	msg_id="3195"	name="패닉 케이브, 10분 돌파"	summary="10분 내에 패닉 케이브 클리어"	/>
+		<achievement_msg	msg_id="3196"	name="패닉 케이브, 3분 돌파"	summary="3분 내에 패닉 케이브 클리어"	/>
+		<achievement_msg	msg_id="3197"	name="스티머 크레이지, 10분 돌파"	summary="10분 내에 스티머 크레이지 클리어"	/>
+		<achievement_msg	msg_id="3198"	name="스티머 크레이지, 2분 돌파"	summary="2분 내에 스티머 크레이지 클리어"	/>
+		<achievement_msg	msg_id="3199"	name="라바 헬파이어, 10분 돌파"	summary="10분 내에 라바 헬파이어 클리어"	/>
+		<achievement_msg	msg_id="3200"	name="라바 헬파이어, 2분 돌파"	summary="2분 내에 라바 헬파이어 클리어"	/>
+		<achievement_msg	msg_id="3201"	name="카타쿰 프로스트, 10분 돌파"	summary="10분 내에 카타쿰 프로스트 클리어"	/>
+		<achievement_msg	msg_id="3202"	name="카타쿰 프로스트, 3분 돌파"	summary="3분 내에 카타쿰 프로스트 클리어"	/>
+		<achievement_msg	msg_id="3203"	name="해저더스 밸리, 10분 돌파"	summary="10분 내에 해저더스 밸리 클리어"	/>
+		<achievement_msg	msg_id="3204"	name="해저더스 밸리, 4분 돌파"	summary="4분 내에 해저더스 밸리 클리어"	/>
+		<achievement_msg	msg_id="3205"	name="의지를 갖고"	summary="10회 이상 죽고 던전 클리어"	/>
+		<achievement_msg	msg_id="3206"	name="불굴의 의지"	summary="100회 이상 죽고 던전 클리어"	/>
+		<achievement_msg	msg_id="3207"	name="또 다른 공간"	summary="망자의 탑 B3F 클리어"	/>
+		<achievement_msg	msg_id="3211"	name="망자의 탑 B3F, 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3212"	name="망자의 탑 B3F, 무사귀환(파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3213"	name="각성한 실험체"	summary="포가튼 템플 B2F (각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3217"	name="포가튼 템플 B2F (각성모드), 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3218"	name="포가튼 템플 B2F (각성모드), 무사귀환(파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3219"	name="해상의 수호자"	summary="포비든 아일랜드 (각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3223"	name="포비든 아일랜드 (각성모드), 귀환"	summary="혼자서 던전 클리어"	/>
+		<achievement_msg	msg_id="3224"	name="포비든 아일랜드 (각성모드), 무사귀환(파티)"	summary="파티에서 죽지 않고 던전 클리어"	/>
+		<achievement_msg	msg_id="3225"	name="포비든 아일랜드 (각성모드), 30분 돌파"	summary="30분 내에 포비든 아일랜드 (각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3226"	name="포비든 아일랜드 (각성모드), 15분 돌파"	summary="15분 내에 포비든 아일랜드 (각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3227"	name="혼돈의 지배자"	summary="이터널 카오스 아레나 클리어"	/>
+		<achievement_msg	msg_id="3231"	name="식지않는 열기의 동굴(각성모드)"	summary="라바 헬파이어(각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3234"	name="누알레의 동굴(각성모드)"	summary="패닉 케이브(각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3237"	name="폭주하는 유령 기관차(각성모드)"	summary="스티머 크레이지(각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3240"	name="개척자들의 안식처(각성모드)"	summary="카타쿰 프로스트(각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3243"	name="세 자매의 비극(각성모드)"	summary="해저더스 밸리(각성모드) 클리어"	/>
+		<achievement_msg	msg_id="3246"	name="버림받은 자들의 구원자"	summary="어밴던드 시티 클리어"	/>
+		<achievement_msg	msg_id="3249"	name="냉기와 열기의 카오스"	summary="글라키에스 인페르나 클리어"	/>
+		<achievement_msg	msg_id="3252"	name="판타즈말 클랜의 음모"	summary="일루전 캐슬 언더월드(외전) 클리어"	/>
+		<achievement_msg	msg_id="3255"	name="판타즈말 클랜의 몰락"	summary="일루전 캐슬 레디언트홀(외전) 클리어"	/>
+		<achievement_msg	msg_id="3258"	name="언데드 그라운드의 어둠"	summary="엣지 오브 팬텀 클리어"	/>
+		<achievement_msg	msg_id="3261"	name="여전히 계속 되는 실험"	summary="포가튼 템플 B3F 클리어"	/>
+		<achievement_msg	msg_id="3264"	name="지옥의 아레나"	summary="아케론 아레나 클리어"	/>
+		<achievement_msg	msg_id="3267"	name="악마의 탑으로"	summary="악마의 탑 클리어"	/>
+		<achievement_msg	msg_id="3270"	name="부활한 악마의 탑으로"	summary="악마의 탑(Part2) 클리어"	/>
+		<achievement_msg	msg_id="3273"	name="위험한 악마의 초대"	summary="판데모니엄 클리어"	/>
+		<achievement_msg	msg_id="3276"	name="각성의 근원을 찾아서"	summary="미라쥬 아일랜드 클리어"	/>
+		<achievement_msg	msg_id="3279"	name="혼돈의 파괴자"	summary="카오스 아레나 LV.7 클리어"	/>
+		<achievement_msg	msg_id="3280"	name="강력한 열기 속의 악마들"	summary="플레임 네스트 클리어"	/>
+		<achievement_msg	msg_id="3283"	name="고대 무덤의 비밀"	summary="에인션트 툼 클리어"	/>
+		<achievement_msg	msg_id="3286"	name="얼음 협곡과 사신의 부활"	summary="프로즌 캐니언 클리어"	/>
+		<achievement_msg	msg_id="3289"	name="언데드 클랜의 추종자들"	summary="망자의 탑 B3F (Part2) 클리어"	/>
+		<achievement_msg	msg_id="3290"	name="하늘 위 바람의 언덕으로"	summary="홀리아 윈드힐 클리어"	/>
+		<achievement_msg	msg_id="3291"	name="숨겨진 드래곤의 보물"	summary="미궁 클리어"	/>
+		<achievement_msg	msg_id="3292"	name="하늘 위로 솟구친 거대한 나무"	summary="홀리아 켈드라실 클리어"	/>
+		<achievement_msg	msg_id="3293"	name="밝혀지는 각성의 근원"	summary="미라쥬 아일랜드(각성 모드) 클리어"	/>
+		<achievement_msg	msg_id="3294"	name="역사를 장악한 기계들"	summary="터미너스 마키나 클리어"	/>
+		<achievement_msg	msg_id="3295"	name="드러난 정령들의 땅"	summary="가든 오브 더스트 클리어"	/>
+		<achievement_msg	msg_id="3296"	name="숨겨진 비밀의 기지"	summary="비밀기지 SCA-76 클리어"	/>
+		<achievement_msg	msg_id="3297"	name="끝까지 간다"	summary="무한의 시련 입장"	/>
+		<achievement_msg	msg_id="3298"	name="하늘 위 통곡의 울음 소리"	summary="홀리아 트리스티 클리어"	/>
+		<achievement_msg	msg_id="3299"	name="골드 러시"	summary="팔레스트라 인페르나 입장"	/>
+		<achievement_msg	msg_id="3300"	name="메카 클랜의 실험장"	summary="셀레스티아 클리어"	/>
+		<achievement_msg	msg_id="3301"	name="붉게 물든 숲 빌체노르"	summary="퓨리파이어 인 더 우즈 클리어"	/>
+		<achievement_msg	msg_id="3302"	name="유산의 탐색자I"	summary="만다라트의 유산 Lv.1 입장"	/>
+		<achievement_msg	msg_id="3303"	name="유산의 탐색자II"	summary="만다라트의 유산 Lv.2 입장"	/>
+		<achievement_msg	msg_id="3304"	name="유산의 탐색자III"	summary="만다라트의 유산 Lv.3 입장"	/>
+		<achievement_msg	msg_id="3305"	name="유산의 탐색자IV"	summary="만다라트의 유산 Lv.4 입장"	/>
+		<achievement_msg	msg_id="3306"	name="유산의 탐색자V"	summary="만다라트의 유산 Lv.5 입장"	/>
+		<achievement_msg	msg_id="3307"	name="유산의 탐색자VI"	summary="만다라트의 유산 Lv.6 입장"	/>
+		<achievement_msg	msg_id="3308"	name="망자의 근본을 찾아"	summary="망자의 탑 B4F 클리어"	/>
+		<achievement_msg	msg_id="4001"	name="신검의 주인"	summary="세인츠 포스칼리버 장착"	/>
+		<achievement_msg	msg_id="4002"	name="모험의 준비 자세"	summary="강화 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4003"	name="하급의 슬롯을 여는 방법"	summary="슬롯 익스텐더(하급) 획득"	/>
+		<achievement_msg	msg_id="4004"	name="중급의 슬롯을 여는 방법"	summary="슬롯 익스텐더(중급) 획득"	/>
+		<achievement_msg	msg_id="4005"	name="상급의 슬롯을 여는 방법"	summary="슬롯 익스텐더(상급) 획득"	/>
+		<achievement_msg	msg_id="4006"	name="최상급의 슬롯을 여는 방법"	summary="슬롯 익스텐더(최상급) 획득"	/>
+		<achievement_msg	msg_id="4007"	name="뚫고 또 뚫고"	summary="슬롯 익스텐더(상급) 사용"	/>
+		<achievement_msg	msg_id="4008"	name="신중하게 뚫고 또 뚫고"	summary="슬롯 익스텐더(최상급) 사용"	/>
+		<achievement_msg	msg_id="4015"	name="+9 성공"	summary="아이템 +9 업그레이드 성공"	/>
+		<achievement_msg	msg_id="4016"	name="+11 성공"	summary="아이템 +11 업그레이드 성공"	/>
+		<achievement_msg	msg_id="4017"	name="+13 성공"	summary="아이템 +13 업그레이드 성공"	/>
+		<achievement_msg	msg_id="4018"	name="+15 성공"	summary="아이템 +15 업그레이드 성공"	/>
+		<achievement_msg	msg_id="4019"	name="장비신의 축복"	summary="아이템 +15 업그레이드 성공"	/>
+		<achievement_msg	msg_id="4020"	name="이제 나도 라이더!"	summary="바이크 획득"	/>
+		<achievement_msg	msg_id="4021"	name="이제 나도 보드 매니아!"	summary="보드 획득"	/>
+		<achievement_msg	msg_id="4022"	name="레어 에펄릿"	summary="레어 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4023"	name="시그메탈 에펄릿"	summary="시그메탈 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4024"	name="미스릴 에펄릿"	summary="미스릴 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4025"	name="드라이 프라메 에펄릿"	summary="드라이 프라메 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4026"	name="드라이 프라메의 슈트"	summary="드라이 프라메의 슈트 획득"	/>
+		<achievement_msg	msg_id="4027"	name="드라이 프라메의 글러브"	summary="드라이 프라메의 글러브 획득"	/>
+		<achievement_msg	msg_id="4028"	name="드라이 프라메의 부츠"	summary="드라이 프라메의 부츠 획득"	/>
+		<achievement_msg	msg_id="4029"	name="드라이 프라메의 헬멧"	summary="드라이 프라메의 헬멧 획득"	/>
+		<achievement_msg	msg_id="4030"	name="드라이 프라메의 완성"	summary="모든 부위의 드라이 프라메 장비 획득"	/>
+		<achievement_msg	msg_id="4031"	name="행운이 함께하는"	summary="링 오브 럭 +2 획득"	/>
+		<achievement_msg	msg_id="4032"	name="커다란 행운이 함께하는"	summary="링 오브 럭 +3 획득"	/>
+		<achievement_msg	msg_id="4033"	name="잠재력의 발휘"	summary="크리티컬 링 +2 획득"	/>
+		<achievement_msg	msg_id="4034"	name="강대한 잠재력의 발휘"	summary="크리티컬 링 +3 획득"	/>
+		<achievement_msg	msg_id="4035"	name="라이카누스의 무기"	summary="라이카누스 무기 획득"	/>
+		<achievement_msg	msg_id="4036"	name="드로스닌의 귀걸이"	summary="드로스닌의 귀걸이 획득"	/>
+		<achievement_msg	msg_id="4042"	name="투자"	summary="+13 아이템 파괴"	/>
+		<achievement_msg	msg_id="4043"	name="과감한 투자"	summary="+14 아이템 파괴"	/>
+		<achievement_msg	msg_id="4044"	name="현재가 아닌 미래 가치를 위하여"	summary="+15 아이템 파괴"	/>
+		<achievement_msg	msg_id="4045"	name="프리데우스의 팔찌"	summary="프리데우스의 팔찌 획득"	/>
+		<achievement_msg	msg_id="4046"	name="참한 캐릭터"	summary="종류나 등급에 관계없이 참 장착"	/>
+		<achievement_msg	msg_id="4047"	name="최고참"	summary="참 +7 장착"	/>
+		<achievement_msg	msg_id="4048"	name="티타니움 세트"	summary="티타니움 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4049"	name="섀도우 티타니움 세트"	summary="섀도우 티타니움 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4050"	name="오스미움 세트"	summary="오스미움 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4051"	name="레어 세트"	summary="샤인가드/테라그레이스/미스틱 세트 달성"	/>
+		<achievement_msg	msg_id="4052"	name="시그메탈 세트"	summary="시그메탈 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4053"	name="미스릴/유니크 세트"	summary="미스릴/유니크 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4054"	name="다이아몬드처럼 빛나는"	summary="미네스타의 다이아몬드 참 획득"	/>
+		<achievement_msg	msg_id="4055"	name="해방의 구슬"	summary="해방의 구슬 획득"	/>
+		<achievement_msg	msg_id="4056"	name="시리우스의 귀속해제석(상급)"	summary="시리우스의 귀속해제석(상급) 획득"	/>
+		<achievement_msg	msg_id="4057"	name="시리우스의 귀속해제석(최상급)"	summary="시리우스의 귀속해제석(최상급) 획득"	/>
+		<achievement_msg	msg_id="4058"	name="시리우스의 기운을 받아(상급)"	summary="시리우스의 귀속해제석(상급) 사용"	/>
+		<achievement_msg	msg_id="4059"	name="시리우스의 기운을 받아(최상급)"	summary="시리우스의 귀속해제석(최상급) 사용"	/>
+		<achievement_msg	msg_id="4060"	name="미네스타의 기운을 받아(중급)"	summary="미네스타의 귀속해제석(중급) 사용"	/>
+		<achievement_msg	msg_id="4061"	name="미네스타의 기운을 받아(상급)"	summary="미네스타의 귀속해제석(상급) 사용"	/>
+		<achievement_msg	msg_id="4062"	name="미네스타의 기운을 받아(최상급)"	summary="미네스타의 귀속해제석(최상급) 사용"	/>
+		<achievement_msg	msg_id="4063"	name="생일은 카발과 함께"	summary="생일 기념 반지 착용"	/>
+		<achievement_msg	msg_id="4064"	name="속에 뭐가 들었나"	summary="바이크나 보드 파괴"	/>
+		<achievement_msg	msg_id="4065"	name="3슬롯 파괴"	summary="3슬롯 아이템 파괴"	/>
+		<achievement_msg	msg_id="4066"	name="완벽한 업그레이드를 위한 준비(하급)"	summary="퍼펙트 코어(하급) 획득"	/>
+		<achievement_msg	msg_id="4067"	name="완벽한 업그레이드를 위한 준비(중급)"	summary="퍼펙트 코어(중급) 획득"	/>
+		<achievement_msg	msg_id="4068"	name="완벽한 업그레이드를 위한 준비(상급)"	summary="퍼펙트 코어(상급) 획득"	/>
+		<achievement_msg	msg_id="4069"	name="완벽한 업그레이드를 위한 준비(최상급)"	summary="퍼펙트 코어(최상급) 획득"	/>
+		<achievement_msg	msg_id="4070"	name="진정한 명품"	summary="합성 참 장착"	/>
+		<achievement_msg	msg_id="4071"	name="아크리디움 세트"	summary="아크리디움 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4072"	name="아크리디움 에펄릿"	summary="아크리디움 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4073"	name="템푸스의 반지"	summary="템푸스의 반지 장착"	/>
+		<achievement_msg	msg_id="4074"	name="각성한 타일런트의 반지"	summary="각성한 타일런트의 반지 장착"	/>
+		<achievement_msg	msg_id="4075"	name="최고급 감정을 위한 준비"	summary="주시의 거울 (골드) 획득"	/>
+		<achievement_msg	msg_id="4076"	name="징나의 소중한 보물"	summary="징나의 보물함 발견"	/>
+		<achievement_msg	msg_id="4077"	name="효과적인 스킬을 위해"	summary="이펙터 장착"	/>
+		<achievement_msg	msg_id="4078"	name="감정을 위한 준비"	summary="이펙터 코어(피스) 획득"	/>
+		<achievement_msg	msg_id="4079"	name="시에나의 팔찌를 얻는 방법"	summary="시에나의 팔찌 조각 획득"	/>
+		<achievement_msg	msg_id="4080"	name="혼돈의 힘이 느껴지는"	summary="혼돈의 조각 획득"	/>
+		<achievement_msg	msg_id="4081"	name="새로운 팔찌를 위해"	summary="프리데우스의 팔찌 파괴"	/>
+		<achievement_msg	msg_id="4082"	name="뱀의 목걸이"	summary="오피디아의 아뮬렛 획득"	/>
+		<achievement_msg	msg_id="4083"	name="신의 가호가 함께 하기를"	summary="혼돈의 탈리스만 장착"	/>
+		<achievement_msg	msg_id="4084"	name="혼돈의 마지막 퍼즐"	summary="카오스 에펄릿 루팅"	/>
+		<achievement_msg	msg_id="4085"	name="팔라디움 세트"	summary="팔라디움 방어구 세트 달성"	/>
+		<achievement_msg	msg_id="4086"	name="팔라디움 에펄릿"	summary="팔라디움 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4087"	name="리디의 믿음"	summary="리디 용병 카드 조각 획득"	/>
+		<achievement_msg	msg_id="4088"	name="스카일드의 힘"	summary="스카일드 용병 카드 조각 획득"	/>
+		<achievement_msg	msg_id="4089"	name="아이잔의 믿음"	summary="아이잔 용병 카드 조각 획득"	/>
+		<achievement_msg	msg_id="4090"	name="엘레나의 힘"	summary="엘레나 용병 카드 조각 획득"	/>
+		<achievement_msg	msg_id="4091"	name="힘과 믿음의 초월"	summary="모든 초월 용병 조각 카드 획득"	/>
+		<achievement_msg	msg_id="4092"	name="닥터 마젤의 반지"	summary="닥터 마젤의 반지 장착"	/>
+		<achievement_msg	msg_id="4093"	name="초월급의 슬롯을 여는 방법"	summary="슬롯 익스텐더 (초월급) 획득"	/>
+		<achievement_msg	msg_id="4094"	name="진지하게 뚫고 또 뚫고"	summary="슬롯 익스텐더 (초월급) 사용"	/>
+		<achievement_msg	msg_id="4095"	name="완벽한 업그레이드를 위한 준비(초월급)"	summary="퍼펙트 코어 (초월급) 획득"	/>
+		<achievement_msg	msg_id="4096"	name="데모나이트 세트"	summary="데모나이트 장비 세트"	/>
+		<achievement_msg	msg_id="4097"	name="데모나이트 에펄릿"	summary="데모나이트 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4098"	name="아주 큰 행운이 함께하는"	summary="링 오브 럭 +4 획득"	/>
+		<achievement_msg	msg_id="4099"	name="매우 강대한 잠재력의 발휘"	summary="크리티컬 링 +4 획득"	/>
+		<achievement_msg	msg_id="4100"	name="시리우스의 귀속해제석(초월급)"	summary="시리우스의 귀속해제석(초월급) 획득"	/>
+		<achievement_msg	msg_id="4101"	name="시리우스의 기운을 받아(초월급)"	summary="시리우스의 귀속해제석(초월급) 사용"	/>
+		<achievement_msg	msg_id="4102"	name="미네스타의 기운을 받아(초월급)"	summary="미네스타의 귀속해제석(초월급) 사용"	/>
+		<achievement_msg	msg_id="4103"	name="디바인의 힘이 느껴지는"	summary="디바인 스톤 조각 획득"	/>
+		<achievement_msg	msg_id="4104"	name="락샤의 브로치를 얻는 방법"	summary="락샤의 크리스탈 조각 획득"	/>
+		<achievement_msg	msg_id="4105"	name="별자리 수집가"	summary="추출로 루미너스 파편 획득"	/>
+		<achievement_msg	msg_id="4106"	name="드래고늄 세트"	summary="드래고늄 장비 세트"	/>
+		<achievement_msg	msg_id="4107"	name="드래고늄 에펄릿"	summary="드래고늄 에펄릿 획득"	/>
+		<achievement_msg	msg_id="4108"	name="여명! 넌 내 거야!"	summary="여명의 아티팩트 획득"	/>
+		<achievement_msg	msg_id="4109"	name="황혼! 넌 내 거야!"	summary="황혼의 아티팩트 획득"	/>
+		<achievement_msg	msg_id="4110"	name="백야! 넌 내 거야!"	summary="백야의 아티팩트 획득"	/>
+		<achievement_msg	msg_id="4111"	name="새로운 기회를 위해"	summary="추출로 여명의 타임 피스 획득"	/>
+		<achievement_msg	msg_id="4112"	name="기회를 만들어 내는 자"	summary="추출로 황혼의 타임 피스 획득"	/>
+		<achievement_msg	msg_id="4113"	name="기회 창조자"	summary="추출로 백야의 타임 피스 획득"	/>
+		<achievement_msg	msg_id="4114"	name="시간은 돈이다"	summary="여명의 아티팩트 파츠 강화 Lv 달성"	/>
+		<achievement_msg	msg_id="4115"	name="시간을 사버린"	summary="황혼의 아티팩트 파츠 강화 Lv 달성"	/>
+		<achievement_msg	msg_id="4116"	name="시간을 왕창 사버린"	summary="백야의 아티팩트 파츠 강화 Lv 달성"	/>
+		<achievement_msg	msg_id="4117"	name="살짝 눌러볼까?"	summary="여명의 아티팩트 조립"	/>
+		<achievement_msg	msg_id="4118"	name="조금 눌러볼까?"	summary="황혼의 아티팩트 조립"	/>
+		<achievement_msg	msg_id="4119"	name="한번 눌러볼까?"	summary="백야의 아티팩트 조립"	/>
+		<achievement_msg	msg_id="4120"	name="돌리고 돌리고"	summary="여명의 아티팩트 조율"	/>
+		<achievement_msg	msg_id="4121"	name="돌리다 보면"	summary="황혼의 아티팩트 조율"	/>
+		<achievement_msg	msg_id="4122"	name="어느새 명품이"	summary="백야의 아티팩트 조율"	/>
+		<achievement_msg	msg_id="5001"	name="이것이 유저 대전인가!"	summary="PVP 최초 참가"	/>
+		<achievement_msg	msg_id="5002"	name="힘겨운 승리"	summary="HP 10% 이하 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5003"	name="신속한 승리"	summary="20초 이내에 PVP 승리"	/>
+		<achievement_msg	msg_id="5004"	name="접전"	summary="150초 이상 경과 후 PVP 승리"	/>
+		<achievement_msg	msg_id="5005"	name="신속하게! 응?"	summary="10초 이내에 PVP 패배"	/>
+		<achievement_msg	msg_id="5007"	name="신속하게!"	summary="10초 이내에 PVP 승리"	/>
+		<achievement_msg	msg_id="5008"	name="속전속결!"	summary="3초 이내에 PVP 승리"	/>
+		<achievement_msg	msg_id="5009"	name="손짓 한 번으로"	summary="3초 이내에 PVP 승리"	/>
+		<achievement_msg	msg_id="5010"	name="무기 꺼내지도 않았는데.."	summary="5초 이내에 PVP 패배"	/>
+		<achievement_msg	msg_id="5011"	name="명승부"	summary="HP 5% 이하 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5012"	name="극적인 명승부"	summary="HP 1% 이하 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5013"	name="극적인 명승부를 즐기다"	summary="HP 1% 이하 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5014"	name="조금 스쳤을 뿐"	summary="HP 95% 이상 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5015"	name="스치지도 않았다"	summary="HP 100% 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5016"	name="국가의 이름으로"	summary="적 국가원에 PVP 승리"	/>
+		<achievement_msg	msg_id="5017"	name="전쟁 전에 몸 풀기"	summary="전쟁 로비에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5018"	name="전쟁 전에 몸 풀..려다가"	summary="전쟁 로비에서 PVP 패배"	/>
+		<achievement_msg	msg_id="5019"	name="아직 보여줄 스킬이 많이 남았건만"	summary="MP 90% 이상 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5020"	name="스킬 쓰기도 귀찮아"	summary="MP 100% 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5021"	name="스킬을 쓰려는 의지의 부족"	summary="MP 100% 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5022"	name="전투 하기도 귀찮아"	summary="MP 100% 상태에서 PVP 패배"	/>
+		<achievement_msg	msg_id="5023"	name="잘 봐뒀어? 내가 어떻게 이겼는지"	summary="MP 50% 이하 상태에서 PVP 승리"	/>
+		<achievement_msg	msg_id="5024"	name="워리어 쯤이야"	summary="워리어를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5025"	name="블레이더 쯤이야"	summary="블레이더를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5026"	name="위저드 쯤이야"	summary="위저드를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5027"	name="포스아처 쯤이야"	summary="포스아처를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5028"	name="포스실더 쯤이야"	summary="포스실더를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5029"	name="포스블레이더 쯤이야"	summary="포스블레이더를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5030"	name="무서운 상대가 없네"	summary="모든 ~쯤이야 업적 완료"	/>
+		<achievement_msg	msg_id="5031"	name="글래디에이터 쯤이야"	summary="글래디에이터를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5032"	name="포스거너 쯤이야"	summary="포스거너를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="5033"	name="다크메이지 쯤이야"	summary="다크메이지를 상대로 PVP 승리"	/>
+		<achievement_msg	msg_id="6007"	name="레거시 가디언(대) 사냥꾼"	summary="레거시 가디언(대) 처치"	/>
+		<achievement_msg	msg_id="6008"	name="레거시 가디언(중) 사냥꾼"	summary="레거시 가디언(중) 처치"	/>
+		<achievement_msg	msg_id="6009"	name="레거시 가디언(소) 사냥꾼"	summary="레거시 가디언(소) 처치"	/>
+		<achievement_msg	msg_id="6010"	name="세이지스 엔사인 파괴자"	summary="세이지스 엔사인 처치"	/>
+		<achievement_msg	msg_id="6011"	name="아슬아슬한 승리"	summary="HP 10% 이하 상태에서 전쟁 승리"	/>
+		<achievement_msg	msg_id="6012"	name="너무 쉬운걸?"	summary="HP 90% 이상 상태에서 전쟁 승리"	/>
+		<achievement_msg	msg_id="6013"	name="지지 않는다"	summary="HP 5% 이하 상태에서 전쟁 승리"	/>
+		<achievement_msg	msg_id="6024"	name="레거시 웨폰과 나의 인연"	summary="레거시 웨폰 획득"	/>
+		<achievement_msg	msg_id="6025"	name="가디언이 절 싫어해요"	summary="미션 전쟁에서 가디언에게 죽기"	/>
+		<achievement_msg	msg_id="6026"	name="워리어 킬러"	summary="미션 전쟁에서 워리어 처치"	/>
+		<achievement_msg	msg_id="6027"	name="워리어 슬레이어"	summary="미션 전쟁에서 워리어 처치"	/>
+		<achievement_msg	msg_id="6028"	name="블레이더 킬러"	summary="미션 전쟁에서 블레이더 처치"	/>
+		<achievement_msg	msg_id="6029"	name="블레이더 슬레이어"	summary="미션 전쟁에서 블레이더 처치"	/>
+		<achievement_msg	msg_id="6030"	name="위저드 킬러"	summary="미션 전쟁에서 위저드 처치"	/>
+		<achievement_msg	msg_id="6031"	name="위저드 슬레이어"	summary="미션 전쟁에서 위저드 처치"	/>
+		<achievement_msg	msg_id="6032"	name="포스아처 킬러"	summary="미션 전쟁에서 포스 아처 처치"	/>
+		<achievement_msg	msg_id="6033"	name="포스아처 슬레이어"	summary="미션 전쟁에서 포스 아처 처치"	/>
+		<achievement_msg	msg_id="6034"	name="포스실더 킬러"	summary="미션 전쟁에서 포스 실더 처치"	/>
+		<achievement_msg	msg_id="6035"	name="포스실더 슬레이어"	summary="미션 전쟁에서 포스 실더 처치"	/>
+		<achievement_msg	msg_id="6036"	name="포스블레이더 킬러"	summary="미션 전쟁에서 포스 블레이더 처치"	/>
+		<achievement_msg	msg_id="6037"	name="포스블레이더 슬레이어"	summary="미션 전쟁에서 포스 블레이더 처치"	/>
+		<achievement_msg	msg_id="6040"	name="글래디에이터 킬러"	summary="미션 전쟁에서 글래디에이터 처치"	/>
+		<achievement_msg	msg_id="6041"	name="글래디에이터 슬레이어"	summary="미션 전쟁에서 글래디에이터 처치"	/>
+		<achievement_msg	msg_id="6042"	name="포스거너 킬러"	summary="미션 전쟁에서 포스 거너 처치"	/>
+		<achievement_msg	msg_id="6043"	name="포스거너 슬레이어"	summary="미션 전쟁에서 포스 거너 처치"	/>
+		<achievement_msg	msg_id="6038"	name="킬러 오브 킬러"	summary="모든 킬러 업적 완료"	/>
+		<achievement_msg	msg_id="6039"	name="슬레이어 오브 슬레이어"	summary="모든 슬레이어 업적 완료"	/>
+		<achievement_msg	msg_id="6044"	name="전장의 투사"	summary="미션 전쟁에서 적 국가원 처치"	/>
+		<achievement_msg	msg_id="6045"	name="전장의 투사관"	summary="미션 전쟁에서 적 국가원 처치"	/>
+		<achievement_msg	msg_id="6046"	name="전장의 투신"	summary="미션 전쟁에서 적 국가원 처치"	/>
+		<achievement_msg	msg_id="6047"	name="전장의 백전 노장"	summary="적 국가를 상대로 미션전쟁 승리"	/>
+		<achievement_msg	msg_id="6048"	name="국가의 비밀 무기"	summary="적 국가를 상대로 미션전쟁 승리"	/>
+		<achievement_msg	msg_id="6049"	name="전장의 전설로 내려오는 "	summary="적 국가를 상대로 미션전쟁 승리"	/>
+		<achievement_msg	msg_id="6050"	name="다크메이지 킬러"	summary="미션 전쟁에서 다크메이지 처치"	/>
+		<achievement_msg	msg_id="6051"	name="다크메이지 슬레이어"	summary="미션 전쟁에서 다크메이지 처치"	/>
+		<achievement_msg	msg_id="7001"	name="코우다 사냥꾼"	summary="바이얼런트 코우다 처치"	/>
+		<achievement_msg	msg_id="7002"	name="코카트리스 사냥꾼"	summary="에인션트 코카트리스 처치"	/>
+		<achievement_msg	msg_id="7003"	name="몬그렐 사냥꾼"	summary="디스티커스 몬그렐 처치"	/>
+		<achievement_msg	msg_id="7004"	name="카리온 사냥꾼"	summary="모나쿠스 카리온 처치"	/>
+		<achievement_msg	msg_id="7005"	name="파엘로 사냥꾼"	summary="베르데크 파엘로 처치"	/>
+		<achievement_msg	msg_id="7006"	name="콰드라 사냥꾼"	summary="MA-06 콰드라 처치"	/>
+		<achievement_msg	msg_id="7007"	name="로타 사냥꾼"	summary="TA-01 그라비스 로타 처치"	/>
+		<achievement_msg	msg_id="7008"	name="플루마 사냥꾼"	summary="UMD-03 라우투스 플루마 처치"	/>
+		<achievement_msg	msg_id="7009"	name="페나 사냥꾼"	summary="FP-01 마그누스 페나 처치"	/>
+		<achievement_msg	msg_id="7010"	name="만티코어 사냥꾼"	summary="만티코어 처치"	/>
+		<achievement_msg	msg_id="7011"	name="킴자크 사냥꾼"	summary="킴자크 처치"	/>
+		<achievement_msg	msg_id="7012"	name="미니샤 사냥꾼"	summary="미니샤 처치"	/>
+		<achievement_msg	msg_id="7013"	name="혈전, 지그드리스 파엘로 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7014"	name="혈전, 지그드리스 파엘로"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7015"	name="혈전, 인베이더 메카 스파이더 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7016"	name="혈전, 인베이더 메카 스파이더"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7017"	name="혈전, 메르가헤프 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7018"	name="혈전, 메르가헤프"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7019"	name="혈전, 킬리안 그라우슈텐 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7020"	name="혈전, 킬리안 그라우슈텐"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7021"	name="혈전, 발로그 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7022"	name="혈전, 발로그"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7023"	name="혈전, 멸망의 오르카 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7024"	name="혈전, 멸망의 오르카"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7025"	name="혈전, 레스 타일런트 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7026"	name="혈전, 레스 타일런트"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7027"	name="혈전, 캡틴 트루거스트 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7028"	name="혈전, 캡틴 트루거스트"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7029"	name="혈전, 퀸 칼라미디 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7030"	name="혈전, 퀸 칼라미디"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7031"	name="혈전, 센추리온 프리데우스 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7032"	name="혈전, 센추리온 프리데우스"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7033"	name="혈전, 시에나 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7034"	name="혈전, 시에나"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7035"	name="혈전, 분노한 카나프 라이카누스 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7036"	name="혈전, 분노한 카나프 라이카누스"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7037"	name="혈전, 혼돈과 어둠의 키에니스 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7038"	name="혈전, 혼돈과 어둠의 키에니스"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7039"	name="혈전, MF-03 드라이 프라메 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7040"	name="혈전, MF-03 드라이 프라메"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7041"	name="황금빛 노을의 바이칼리탄"	summary="황금빛 노을의 바이칼리탄 처치"	/>
+		<achievement_msg	msg_id="7042"	name="황금빛 노을 아래"	summary="타일라간 또는 구르반다 처치"	/>
+		<achievement_msg	msg_id="7043"	name="분노의 아케인 골렘"	summary="분노의 아케인 골렘 처치"	/>
+		<achievement_msg	msg_id="7044"	name="분노한 골렘의 수호자들"	summary="아케인 골렘 처치"	/>
+		<achievement_msg	msg_id="7045"	name="중립 거점 점령"	summary="중립 상태의 아케인 트레이스 거점 점령"	/>
+		<achievement_msg	msg_id="7046"	name="난투, 지그드리스 파엘로"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7047"	name="난투, 메카 스파이더"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7048"	name="난투, 메르가헤프"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7049"	name="난투, 킬리안 그라우슈텐"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7050"	name="난투, 발로그"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7051"	name="난투, 멸망의 오르카"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7052"	name="난투, 레스 타일런트"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7053"	name="난투, 캡틴 트루거스트"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7054"	name="난투, 퀸 칼라미티"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7055"	name="난투, 센추리온 프리데우스"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7056"	name="난투, 시에나"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7057"	name="난투, 분노한 카나프 라이카누스"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7058"	name="난투, 혼돈과 어둠의 키에니스"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7059"	name="난투, MF-03 드라이 프라메"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7060"	name="파상풍"	summary="폰투스 페룸의 모든 보스에게서 죽기"	/>
+		<achievement_msg	msg_id="7061"	name="탐욕의 조련사"	summary="루리엘 처치"	/>
+		<achievement_msg	msg_id="7062"	name="고혹, 현혹, 그리고 잔혹"	summary="엘리아나 에스트렐라 처치"	/>
+		<achievement_msg	msg_id="7063"	name="강함에 대한 갈망"	summary="테네스 뷔네렌더 처치"	/>
+		<achievement_msg	msg_id="7064"	name="검은 현자"	summary="아르키메데온 처치"	/>
+		<achievement_msg	msg_id="7065"	name="그림자 검사"	summary="카라얀 페니세르 처치"	/>
+		<achievement_msg	msg_id="7066"	name="불멸의 기사"	summary="에테르노 칼리고 템푸스 처치"	/>
+		<achievement_msg	msg_id="7067"	name="혈전, 에테르노 칼리고 템푸스"	summary="혼자서 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7068"	name="혈전, 에테르노 칼리고 템푸스 (파티)"	summary="파티 상태로 HP 5% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7069"	name="난투, 에테르노 칼리고 템푸스"	summary="HP 25% 이하일 때 대상 처치"	/>
+		<achievement_msg	msg_id="7070"	name="조련당해 버리고 말았습니다"	summary="루리엘에게 죽기"	/>
+		<achievement_msg	msg_id="7071"	name="다 필요없고, 예쁘면 그만"	summary="엘리아나 에스트렐라에게 죽기"	/>
+		<achievement_msg	msg_id="7072"	name="더 이상 강해지고 싶지 않습니다"	summary="테네스 뷔네렌더에게 죽기"	/>
+		<achievement_msg	msg_id="7073"	name="요..요즘 무슨 책을 읽냐구요?"	summary="아르키메데온에게 죽기"	/>
+		<achievement_msg	msg_id="7074"	name="와~ 경호원도 있으셨군요"	summary="카라얀 페니세르에게 죽기"	/>
+		<achievement_msg	msg_id="7075"	name="원래 짧고 굵게 살려고 했어요"	summary="에테르노 칼리고 템푸스에게 죽기"	/>
+		<achievement_msg	msg_id="7076"	name="황금의 여왕"	summary="각성한 노라 이스피타 처치"	/>
+		<achievement_msg	msg_id="7077"	name="광전사"	summary="각성한 레스 타일런트 처치"	/>
+		<achievement_msg	msg_id="7078"	name="해적왕"	summary="각성한 아이소브하 쥬라이브 처치"	/>
+		<achievement_msg	msg_id="7079"	name="각성한 섬의 숨겨진 존재"	summary="각성한 샤르소르를 발견하여 처치"	/>
+		<achievement_msg	msg_id="7080"	name="해적이 되고 싶어요"	summary="각성한 아이소브하 쥬라이브에게 죽기"	/>
+		<achievement_msg	msg_id="7081"	name="비밀을 지키는건 너무 어려워"	summary="어둠의 헤이저크에게 죽기"	/>
+		<achievement_msg	msg_id="7082"	name="최종 각성한 궁극의 마물 처치"	summary="펜타 샤르소르 처치"	/>
+		<achievement_msg	msg_id="7083"	name="꽃이 지다"	summary="일루젼 플라워 처치"	/>
+		<achievement_msg	msg_id="7084"	name="번개의 과학자"	summary="프로페서 콜튼 처치"	/>
+		<achievement_msg	msg_id="7085"	name="악마의 과학자"	summary="셰인 처치"	/>
+		<achievement_msg	msg_id="7086"	name="사념체의 저지"	summary="셰인의 사념체 - 파멸 처치"	/>
+		<achievement_msg	msg_id="7087"	name="자이언트 울프 리더 사냥꾼"	summary="자이언트 울프 리더 처치"	/>
+		<achievement_msg	msg_id="7088"	name="엔티우드 사냥꾼"	summary="엔티우드 처치"	/>
+		<achievement_msg	msg_id="7089"	name="마르고노스 토벌자"	summary="화산의 심장 마르고노스 처치"	/>
+		<achievement_msg	msg_id="7090"	name="라그노 토벌자"	summary="습격자 라그노 처치"	/>
+		<achievement_msg	msg_id="7091"	name="우르혼 토벌자"	summary="죽음의 뿔 우르혼 처치"	/>
+		<achievement_msg	msg_id="7092"	name="세트 토벌자"	summary="방황하는 영광 세트 처치"	/>
+		<achievement_msg	msg_id="7093"	name="레임스 토벌자"	summary="파괴의 표식 레임스 처치"	/>
+		<achievement_msg	msg_id="7094"	name="자켄 토벌자"	summary="제단의 수호자 자켄 처치"	/>
+		<achievement_msg	msg_id="7095"	name="구스타프 토벌자"	summary="미래병기 구스타프-Zg 처치"	/>
+		<achievement_msg	msg_id="7096"	name="헬라이더 토벌자"	summary="불꽃의 징벌자 헬라이더 처치"	/>
+		<achievement_msg	msg_id="7097"	name="아케인 골렘 토벌자"	summary="분노의 아케인 골렘 처치"	/>
+		<achievement_msg	msg_id="7098"	name="켈로수스 토벌자"	summary="고대의 파괴자 켈로수스 처치"	/>
+		<achievement_msg	msg_id="7099"	name="카르고스 토벌자"	summary="고대의 선봉장 카르고스 처치"	/>
+		<achievement_msg	msg_id="7100"	name="미궁의 아누비스"	summary="미궁에서 아누비스 처치"	/>
+		<achievement_msg	msg_id="7101"	name="미궁의 엔드리엘"	summary="미궁에서 엔드리엘 처치"	/>
+		<achievement_msg	msg_id="7102"	name="미궁의 프레리사"	summary="미궁에서 프레리사 처치"	/>
+		<achievement_msg	msg_id="7103"	name="미궁의 제고"	summary="미궁에서 제고 처치"	/>
+		<achievement_msg	msg_id="7104"	name="미궁의 타나토스"	summary="미궁에서 타나토스 처치"	/>
+		<achievement_msg	msg_id="7105"	name="미궁의 피닉스"	summary="미궁에서 피닉스 처치"	/>
+		<achievement_msg	msg_id="7106"	name="미궁속에 숨겨진 보물"	summary="미궁에서 드래곤의 보물상자 처치"	/>
+		<achievement_msg	msg_id="7107"	name="집으로 가는 길"	summary="퓨리파이어 인 더 우즈에서 실종된 연구원 처치"	/>
+		<achievement_msg	msg_id="8001"	name="제작 숙련도 500"	summary="제작 숙련도 500 달성"	/>
+		<achievement_msg	msg_id="8002"	name="제작 숙련도 1000"	summary="제작 숙련도 1000 달성"	/>
+		<achievement_msg	msg_id="8003"	name="제작 숙련도 2000"	summary="제작 숙련도 2000 달성"	/>
+		<achievement_msg	msg_id="8004"	name="제작 숙련도 3000"	summary="제작 숙련도 3000 달성"	/>
+		<achievement_msg	msg_id="8005"	name="제작 숙련도 4000"	summary="제작 숙련도 4000 달성"	/>
+		<achievement_msg	msg_id="8006"	name="제작 숙련도 5000"	summary="제작 숙련도 5000 달성"	/>
+		<achievement_msg	msg_id="8007"	name="제작 숙련도 6000"	summary="제작 숙련도 6000 달성"	/>
+		<achievement_msg	msg_id="8008"	name="제작 숙련도 7000"	summary="제작 숙련도 7000 달성"	/>
+		<achievement_msg	msg_id="8009"	name="우호도 500"	summary="우호도 500 달성"	/>
+		<achievement_msg	msg_id="8010"	name="우호도 1000"	summary="우호도 1000 달성"	/>
+		<achievement_msg	msg_id="8011"	name="우호도 2000"	summary="우호도 2000 달성"	/>
+		<achievement_msg	msg_id="8012"	name="우호도 3000"	summary="우호도 3000 달성"	/>
+		<achievement_msg	msg_id="8013"	name="우호도 4000"	summary="우호도 4000 달성"	/>
+		<achievement_msg	msg_id="8014"	name="우호도 5000"	summary="우호도 5000 달성"	/>
+		<achievement_msg	msg_id="8015"	name="우호도 6000"	summary="우호도 6000 달성"	/>
+		<achievement_msg	msg_id="8016"	name="우호도 7000"	summary="우호도 7000 달성"	/>
+		<achievement_msg	msg_id="8017"	name="소드 제조의 달인"	summary="제조 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="8018"	name="아머 제조의 달인"	summary="제조 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="8019"	name="배틀 제조의 달인"	summary="제조 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="8020"	name="마샬 제조의 달인"	summary="제조 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="8021"	name="아티펙트 제조의 달인"	summary="제조 관련 퀘스트 완료"	/>
+		<achievement_msg	msg_id="8022"	name="제작 숙련도 9000"	summary="제작 숙련도 9000 달성"	/>
+		<achievement_msg	msg_id="8023"	name="제작 숙련도 10000"	summary="제작 숙련도 10000 달성"	/>
+		<achievement_msg	msg_id="8024"	name="우호도 9000"	summary="우호도 9000 달성"	/>
+		<achievement_msg	msg_id="8025"	name="우호도 10000"	summary="우호도 10000 달성"	/>
+		<achievement_msg	msg_id="8026"	name="제작 숙련도 8000"	summary="제작 숙련도 8000 달성"	/>
+		<achievement_msg	msg_id="8027"	name="우호도 8000"	summary="우호도 8000 달성"	/>
+		<achievement_msg	msg_id="10001"	name="월세받고 산단다"	summary="상점에서 1000만 Alz 이상의 아이템 구매"	/>
+		<achievement_msg	msg_id="10002"	name="여기서부터, 저 끝까지가 내 건물이야"	summary="상점에서 1억 Alz 이상의 아이템 구매"	/>
+		<achievement_msg	msg_id="10003"	name="미다스의 손"	summary="아이템 +15 업그레이드 성공"	/>
+		<achievement_msg	msg_id="10004"	name="강화가 잘 되었다고 모두 명품은 아니지"	summary="+15 아이템 파괴"	/>
+		<achievement_msg	msg_id="10005"	name="취미 생활"	summary="바이크나 보드 파괴"	/>
+		<achievement_msg	msg_id="10006"	name="슬롯이 많다고 모두 명품은 아니지"	summary="3슬롯 아이템 파괴"	/>
+		<achievement_msg	msg_id="10007"	name="뚫지 않으면, 쓰지 않는다"	summary="슬롯 익스텐더(최상급) 사용"	/>
+		<achievement_msg	msg_id="10008"	name="귀속, 고작 이런 것에"	summary="시리우스의 귀속해제석(최상급) 사용"	/>
+		<achievement_msg	msg_id="10009"	name="귀속, 겨우 이 정도에"	summary="미네스타의 귀속해제석(최상급) 사용"	/>
+		<achievement_msg	msg_id="10010"	name="황금빛 노을에 물들다"	summary="황금빛 노을의 바이칼리탄 처치"	/>
+		<achievement_msg	msg_id="10011"	name="분노를 잠재우는 자"	summary="분노의 아케인 골렘 처치"	/>
+		<achievement_msg	msg_id="10012"	name="통합 200 레벨"	summary="캐릭터 레벨 합 200 달성"	/>
+		<achievement_msg	msg_id="10013"	name="통합 400 레벨"	summary="캐릭터 레벨 합 400 달성"	/>
+		<achievement_msg	msg_id="10014"	name="통합 600 레벨"	summary="캐릭터 레벨 합 600 달성"	/>
+		<achievement_msg	msg_id="10015"	name="통합 800 레벨"	summary="캐릭터 레벨 합 800 달성"	/>
+		<achievement_msg	msg_id="10016"	name="통합 1000 레벨"	summary="캐릭터 레벨 합 1000 달성"	/>
+		<achievement_msg	msg_id="10017"	name="통합 1200 레벨"	summary="캐릭터 레벨 합 1200 달성"	/>
+		<achievement_msg	msg_id="10018"	name="처음 겪어본 일"	summary="포스젬 패키지 사용"	/>
+		<achievement_msg	msg_id="10019"	name="뚜렷한 목적이 있으니까"	summary="혼돈의 탈리스만 파괴"	/>
+		<achievement_msg	msg_id="10020"	name="제가 더 잘할게요"	summary="혼돈의 탈리스만 강화실패"	/>
+		<achievement_msg	msg_id="10021"	name="너무나도 비싼 용사의 열쇠"	summary="레전드 아레나 진입 횟수 300회"	/>
+		<achievement_msg	msg_id="10022"	name="훗! 용사의 열쇠쯤이야"	summary="레전드 아레나 진입 횟수 1500회"	/>
+		<achievement_msg	msg_id="10023"	name="하..하얗게 불태웠어"	summary="레전드 아레나 진입 횟수 3000회"	/>
+		<achievement_msg	msg_id="10024"	name="이 잔이 식기 전에 돌아오겠다"	summary="빨리 죽은 횟수 150회"	/>
+		<achievement_msg	msg_id="10025"	name="이 잔이 식기 전에…"	summary="빨리 죽은 횟수 750회"	/>
+		<achievement_msg	msg_id="10026"	name="이 잔ㅇ…"	summary="빨리 죽은 횟수 1500회"	/>
+		<achievement_msg	msg_id="10027"	name="이것 봐! 난 아직 멀었다구"	summary="늦게 죽은 횟수 150회"	/>
+		<achievement_msg	msg_id="10028"	name="이 구역의 영웅은 나야"	summary="늦게 죽은 횟수 750회"	/>
+		<achievement_msg	msg_id="10029"	name="영웅은 죽지 않아"	summary="늦게 죽은 횟수 1500회"	/>
+		<achievement_msg	msg_id="10030"	name="통합 1400 레벨"	summary="캐릭터 레벨 합 1400 달성"	/>
+		<achievement_msg	msg_id="10031"	name="통합 1600 레벨"	summary="캐릭터 레벨 합 1600 달성"	/>
+		<achievement_msg	msg_id="10032"	name="통합 1800 레벨"	summary="캐릭터 레벨 합 1800 달성"	/>
+		<achievement_msg	msg_id="10033"	name="강해지기 위해서라면"	summary="일반 강화 횟수"	/>
+		<achievement_msg	msg_id="10034"	name="힘을 얻기 위해서라면"	summary="카오스 강화 횟수"	/>
+		<achievement_msg	msg_id="10035"	name="더 강력한 힘을 위해서라면"	summary="디바인 강화 횟수"	/>
+		<achievement_msg	msg_id="10036"	name="이게 무슨 일이야"	summary="일반 강화 실패"	/>
+		<achievement_msg	msg_id="10037"	name="있었는데요 없었습니다"	summary="카오스 강화 실패"	/>
+		<achievement_msg	msg_id="10038"	name="정말 이러기야"	summary="디바인 강화 실패"	/>
+		<achievement_msg	msg_id="10039"	name="의류 코스튬 수집가"	summary="등록된 의류 코스튬 수량"	/>
+		<achievement_msg	msg_id="10040"	name="잡화류 코스튬 수집가"	summary="등록된 잡화류 코스튬 수량"	/>
+		<achievement_msg	msg_id="10041"	name="무기 코스튬 수집가"	summary="등록된 무기 코스튬 수량"	/>
+		<achievement_msg	msg_id="10042"	name="포스윙 코스튬 수집가"	summary="등록된 포스윙 코스튬 수량"	/>
+		<achievement_msg	msg_id="10043"	name="탈 것 코스튬 수집가"	summary="등록된 탈 것 코스튬 수량"	/>
+		<achievement_msg	msg_id="10044"	name="통합 2000 레벨"	summary="캐릭터 레벨 합 2000 달성"	/>
+		<achievement_msg	msg_id="10045"	name="펫 수집가"	summary="등록된 펫 수량"	/>
+		<achievement_msg	msg_id="11001"	name="네바레스 패밀리"	summary="글로벌 캠프 참가"	/>
+		<achievement_msg	msg_id="11002"	name="천상천하 유아독존"	summary="글로벌 캠프 미션 배틀 이벤트 우승"	/>
+	</achievement>
+	<title>
+		<title_msg	msg_id="1001"	name1="방랑자"	name2="집행자"	name3="기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1002"	name1="수행자"	name2="침묵의 집행자"	name3="서광의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1003"	name1="구도자"	name2="혜안의 집행자"	name3="투혼의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1004"	name1="구도자"	name2="관용의 집행자"	name3="열정의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1005"	name1="구도자"	name2="영광의 집행자"	name3="수호의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1006"	name1="구도자"	name2="신념의 집행자"	name3="용맹의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1007"	name1="구도자"	name2="의지의 집행자"	name3="헌신의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1008"	name1="구도자"	name2="진리의 집행자"	name3="심판의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1009"	name1="구도자"	name2="광휘의 집행자"	name3="폭풍의 기사"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1010"	name1="세계를 걷는 자"	name2="질서를 조율하는 자"	name3="법칙의 지배자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1011"	name1="10억 부자"	name2=""	name3=""	desc="네바레스에서 안정적으로 생활할 수 있을만큼의 Alz를 모았다."	/>
+		<title_msg	msg_id="1012"	name1="100억 부자"	name2=""	name3=""	desc="네바레스에서 풍족하게 생활할 수 있을만큼의 Alz를 모았다."	/>
+		<title_msg	msg_id="1013"	name1="500억 부자"	name2=""	name3=""	desc="네바레스에서 손꼽힐 정도로 많은 Alz를 모았다."	/>
+		<title_msg	msg_id="1014"	name1="네바레스 프론티어"	name2=""	name3=""	desc="180 레벨에 도달한 캐릭터만이 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1015"	name1="네바레스 파이어니어"	name2=""	name3=""	desc="190 레벨에 도달한 캐릭터만이 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1016"	name1="수많은 업적 달성자"	name2=""	name3=""	desc="누구도 쉽게 따라올 수 없을 만큼 수많은 업적을 달성한 자에게 내려지는 호칭"	/>
+		<title_msg	msg_id="1017"	name1="끝없는 업적 추구자"	name2=""	name3=""	desc="수많은 업적을 달성하고, 결국은 업적의 끝을 보겠다는 굳은 의지의 증명"	/>
+		<title_msg	msg_id="1018"	name1="50억 부자"	name2=""	name3=""	desc="네바레스에서 부족함 없이 생활할 수 있을만큼의 Alz를 모았다."	/>
+		<title_msg	msg_id="1019"	name1="알부자"	name2=""	name3=""	desc="그냥 보면 허름해 보이지만, 창고에 많은 Alz를 숨겨둔 부자!"	/>
+		<title_msg	msg_id="1020"	name1="굉장한 알부자"	name2=""	name3=""	desc="그냥 보면 허름해 보이지만, 창고에 굉장히 많은 Alz를 숨겨둔 부자!"	/>
+		<title_msg	msg_id="1021"	name1="어마어마한 알부자"	name2=""	name3=""	desc="그냥 보면 허름해 보이지만, 창고에 어마어마하게 많은 Alz를 숨겨둔 부자!"	/>
+		<title_msg	msg_id="1022"	name1="네바레스 재력가"	name2=""	name3=""	desc="네바레스에서 유명할 정도로 Alz를 모았다."	/>
+		<title_msg	msg_id="1023"	name1="거상"	name2=""	name3=""	desc="네바레스에서 무역을 통해 엄청난 Alz를 모았다."	/>
+		<title_msg	msg_id="1024"	name1="시세를 조율하는 자"	name2=""	name3=""	desc="수많은 Alz를 통해 네바레스 전역의 시세를 조율한다."	/>
+		<title_msg	msg_id="1025"	name1="네바레스 오버로드"	name2=""	name3=""	desc="200 레벨에 도달한 캐릭터만이 얻을 수 있는 호칭. 그 누구보다 앞장서서 네바레스를 이끌어가는 사람들만이 획득할 수 있다."	/>
+		<title_msg	msg_id="1026"	name1="반짝반짝 빛나는"	name2=""	name3=""	desc="빛나는 보석에 눈을 떼지 못하는 당신은 이름난 보석 수집가."	/>
+		<title_msg	msg_id="1027"	name1="진정한 부를 보여주겠다"	name2=""	name3=""	desc="네바레스 대륙에 진정한 부가 무엇인지 보여주었다."	/>
+		<title_msg	msg_id="1028"	name1="넘치는 업적 달성자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1029"	name1="무한한 업적 달성자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1030"	name1="업적을 통달한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1031"	name1="업적의 달인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1032"	name1="업적 마스터"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1033"	name1="또 또 또 또 환생한"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1034"	name1="10번 다시 태어난"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1035"	name1="아마도 20번째"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1036"	name1="다음 생을 노리는"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1037"	name1="환생자"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1038"	name1="윤회의 고리"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1039"	name1="인생 100회차"	name2=""	name3=""	desc="환생을 통해 끝없는 성장을 이어가는 자"	/>
+		<title_msg	msg_id="1040"	name1="업적 에이스"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1041"	name1="업적 장인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1042"	name1="업적 영웅"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1043"	name1="업적 프로"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1044"	name1="업적 챔피언"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1045"	name1="달빛을 머금은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1046"	name1="달이 뜨면 달빛을 받고"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1047"	name1="달이 아름답네요"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1048"	name1="해가 뜨면 볕을 쬐고"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1049"	name1="내일은 내일의 해가 뜬다"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="1050"	name1="인간찬가"	name2=""	name3=""	desc="환생 200회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1051"	name1="순리를 벗어난"	name2=""	name3=""	desc="환생 300회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1052"	name1="G.O.A.T"	name2=""	name3=""	desc="환생 400회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1053"	name1="현세와 명계의 역전"	name2=""	name3=""	desc="환생 500회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1054"	name1="승천자"	name2=""	name3=""	desc="환생 600회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1055"	name1="신화의 주인공"	name2=""	name3=""	desc="환생 700회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1056"	name1="영원한 회귀"	name2=""	name3=""	desc="환생 800회를 달성하면 얻을 수 있는 호칭"	/>
+		<title_msg	msg_id="1057"	name1="세계를 걷는 자"	name2="균형을 조율하는 자"	name3="백야의 지배자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1058"	name1="세계를 걷는 자"	name2="변화를 조율하는 자"	name3="심연의 지배자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1059"	name1="세계를 걷는 자"	name2="혼란을 조율하는 자"	name3="공포의 지배자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1060"	name1="세계를 걷는 자"	name2="안식을 조율하는 자"	name3="극한의 지배자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1061"	name1="세계를 걷는 자"	name2="운명을 조율하는 자"	name3="운명의 지배자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1062"	name1="세계를 걷는 자"	name2="무질서를 심판하는 자"	name3="혼돈의 개척자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1063"	name1="세계를 걷는 자"	name2="영혼을 심판하는 자"	name3="진리의 개척자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1064"	name1="세계를 걷는 자"	name2="혼돈을 심판하는 자"	name3="운명의 개척자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1065"	name1="세계를 걷는 자"	name2="세계를 심판하는 자"	name3="세계의 개척자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="1066"	name1="세계를 걷는 자"	name2="광휘의 선구자"	name3="폭풍의 정복자"	desc="명예로운 전사의 정신을 기리고 그의 공로를 치하하기 위해 만들어진 훈장. 일정 등급에 달한 전사만이 가질 수 있으며 명예 등급마다 호칭과 효과가 달라진다."	/>
+		<title_msg	msg_id="2001"	name1="조력자T는 지켜보고 있다"	name2=""	name3=""	desc="조력자T의 미션을 모두 완료했다면 조력자의 지속적인 관심을 받게 된다."	/>
+		<title_msg	msg_id="2002"	name1="콜로니 훈련생"	name2=""	name3=""	desc="콜로니에 소속된 후 기본적인 사항들에 대한 교육을 마쳤다. 이제 본격적인 훈련이 시작된다."	/>
+		<title_msg	msg_id="2003"	name1="콜로니 졸업생"	name2=""	name3=""	desc="어느덧 소속된 콜로니에서 벗어나게 되었다. 그동안의 수련과 여정을 통해 강인해졌지만 이제부터가 새로운 시작이다."	/>
+		<title_msg	msg_id="2004"	name1="인간의 시대를 열다"	name2=""	name3=""	desc="길다면 길고, 짧다면 짧은 여정이 끝났다. 이제는 인간들 스스로 그들의 목적을 위해 움직이고 있다."	/>
+		<title_msg	msg_id="2005"	name1="기사의 별을 이끄는 전사"	name2=""	name3=""	desc="숙명을 지닌 자...숙명에 이끌린 자...숙명을 이끄는 자. 그리고 내 앞에 펼쳐질 거대한 이야기."	/>
+		<title_msg	msg_id="2006"	name1="우두머리 방해자"	name2=""	name3=""	desc="버그레일, 케일스, 바비마돈을 처치하였다. 그들 무리에 어느 정도 타격을 입힌 것 같다."	/>
+		<title_msg	msg_id="2007"	name1="우두머리 추적자"	name2=""	name3=""	desc="메가 하운드, 코모아키테, 스파메이톤을 처치하였다. 왠만한 마물의 우두머리에게는 맞설 수 있을 것 같다."	/>
+		<title_msg	msg_id="2008"	name1="우두머리 사냥꾼"	name2=""	name3=""	desc="에토쿠, 펠코스트, 엔트로스를 처치하였다. 그들을 처치하는 일에 익숙해지고 있다."	/>
+		<title_msg	msg_id="2009"	name1="우두머리 천적"	name2=""	name3=""	desc="크랙 킹 크랩, 팬텀페라, 블랙 하운드, 레드 스톤 골렘, 다크메디크를 처치하였다. 많은 우두머리를 처치하고 나니, 어떤 마물을 만나도 이길 수 있을 것 같다."	/>
+		<title_msg	msg_id="2010"	name1="우두머리 지배자"	name2=""	name3=""	desc="푸아투스, 알래샤, 메카즈를 처치하였다. 이제 마물들이 나를 두려워하기 시작했다."	/>
+		<title_msg	msg_id="2011"	name1="세상 모든 타락자의 주인"	name2=""	name3=""	desc="세상의 모든 타락한 이들을 이끄는 자"	/>
+		<title_msg	msg_id="3001"	name1="황혼 호수의 파문"	name2=""	name3=""	desc="황혼빛으로 물든 호수라는 뜻의 이곳은 네바레스의 전사들이 범접하기 어려운 곳에 위치한다. 이곳을 완벽히 정복하는 것은 더더욱 어려운 일이다."	/>
+		<title_msg	msg_id="3002"	name1="황혼에 물든 호수"	name2=""	name3=""	desc="황혼빛으로 물든 호수라는 뜻의 이곳은 네바레스의 전사들이 범접하기 어려운 곳에 위치한다. 이곳을 완벽히 정복하는 것은 더더욱 어려운 일이다."	/>
+		<title_msg	msg_id="3003"	name1="황혼 호수의 너머에"	name2=""	name3=""	desc="황혼빛으로 물든 호수라는 뜻의 이곳은 네바레스의 전사들이 범접하기 어려운 곳에 위치한다. 이곳을 완벽히 정복하는 것은 더더욱 어려운 일이다."	/>
+		<title_msg	msg_id="3004"	name1="황혼 호수의 끝에서"	name2=""	name3=""	desc="황혼빛으로 물든 호수라는 뜻의 이곳은 네바레스의 전사들이 범접하기 어려운 곳에 위치한다. 이곳을 완벽히 정복하는 것은 더더욱 어려운 일이다."	/>
+		<title_msg	msg_id="3013"	name1="낡은 역사의 역무원"	name2=""	name3=""	desc="아너러블 에이지에는 철도를 통해 많은 물자와 인력을 이동시켰다고 한다. 이곳은 이제 메탈 클랜들의 마물들의 소굴이 되었다."	/>
+		<title_msg	msg_id="3014"	name1="낡은 역사의 안으로"	name2=""	name3=""	desc="아너러블 에이지에는 철도를 통해 많은 물자와 인력을 이동시켰다고 한다. 이곳은 이제 메탈 클랜들의 마물들의 소굴이 되었다."	/>
+		<title_msg	msg_id="3015"	name1="기계들이 장악한 역사"	name2=""	name3=""	desc="아너러블 에이지에는 철도를 통해 많은 물자와 인력을 이동시켰다고 한다. 이곳은 이제 메탈 클랜들의 마물들의 소굴이 되었다."	/>
+		<title_msg	msg_id="3016"	name1="낡은 역사를 청소한"	name2=""	name3=""	desc="아너러블 에이지에는 철도를 통해 많은 물자와 인력을 이동시켰다고 한다. 이곳은 이제 메탈 클랜들의 마물들의 소굴이 되었다."	/>
+		<title_msg	msg_id="3025"	name1="떠도는 망령의 안식처"	name2=""	name3=""	desc="네바레스의 각 마물 클랜 중에는 죽어도 죽지 않고 떠도는 망령들의 언데드 클랜이 있다. 이들은 망자의 탑에서 불온한 기운을 뿜어낸다."	/>
+		<title_msg	msg_id="3026"	name1="망령들과 마주한"	name2=""	name3=""	desc="네바레스의 각 마물 클랜 중에는 죽어도 죽지 않고 떠도는 망령들의 언데드 클랜이 있다. 이들은 망자의 탑에서 불온한 기운을 뿜어낸다."	/>
+		<title_msg	msg_id="3027"	name1="망령의 안식을 방해한"	name2=""	name3=""	desc="네바레스의 각 마물 클랜 중에는 죽어도 죽지 않고 떠도는 망령들의 언데드 클랜이 있다. 이들은 망자의 탑에서 불온한 기운을 뿜어낸다."	/>
+		<title_msg	msg_id="3028"	name1="망령들을 잠재운"	name2=""	name3=""	desc="네바레스의 각 마물 클랜 중에는 죽어도 죽지 않고 떠도는 망령들의 언데드 클랜이 있다. 이들은 망자의 탑에서 불온한 기운을 뿜어낸다."	/>
+		<title_msg	msg_id="3037"	name1="화산 동굴의 탐험가"	name2=""	name3=""	desc="엑실리안 섬은 화산 활동으로 인해 섬 곳곳에 화산 동굴이 존재한다. 그 중 하나인 이곳에는 다크 클랜의 마물들이 있다."	/>
+		<title_msg	msg_id="3038"	name1="화산 동굴 깊숙한 곳"	name2=""	name3=""	desc="엑실리안 섬은 화산 활동으로 인해 섬 곳곳에 화산 동굴이 존재한다. 그 중 하나인 이곳에는 다크 클랜의 마물들이 있다."	/>
+		<title_msg	msg_id="3039"	name1="동굴 안 숨겨진 요새로"	name2=""	name3=""	desc="엑실리안 섬은 화산 활동으로 인해 섬 곳곳에 화산 동굴이 존재한다. 그 중 하나인 이곳에는 다크 클랜의 마물들이 있다."	/>
+		<title_msg	msg_id="3040"	name1="숨겨진 요새의 비밀"	name2=""	name3=""	desc="엑실리안 섬은 화산 활동으로 인해 섬 곳곳에 화산 동굴이 존재한다. 그 중 하나인 이곳에는 다크 클랜의 마물들이 있다."	/>
+		<title_msg	msg_id="3049"	name1="불사의 존재의 탐구자"	name2=""	name3=""	desc="탑의 첫 번째 층에 안식을 가져왔다해서 끝이 아니었다. 더욱 강한 사념을 내뿜는 마물들이 깊숙히 자리잡고 있었다."	/>
+		<title_msg	msg_id="3050"	name1="탑의 또 다른 비밀"	name2=""	name3=""	desc="탑의 첫 번째 층에 안식을 가져왔다해서 끝이 아니었다. 더욱 강한 사념을 내뿜는 마물들이 깊숙히 자리잡고 있었다."	/>
+		<title_msg	msg_id="3051"	name1="불사의 기사단"	name2=""	name3=""	desc="탑의 첫 번째 층에 안식을 가져왔다해서 끝이 아니었다. 더욱 강한 사념을 내뿜는 마물들이 깊숙히 자리잡고 있었다."	/>
+		<title_msg	msg_id="3052"	name1="기사단을 몰락시킨"	name2=""	name3=""	desc="탑의 첫 번째 층에 안식을 가져왔다해서 끝이 아니었다. 더욱 강한 사념을 내뿜는 마물들이 깊숙히 자리잡고 있었다."	/>
+		<title_msg	msg_id="3061"	name1="변이된 생명의 발견자"	name2=""	name3=""	desc="잊혀진 사원의 지하에는 긴 시간 행해진 각종 실험들의 기록이 있다. 그러나 변이된 여러 마물들을 먼저 처리해야 한다."	/>
+		<title_msg	msg_id="3062"	name1="실험체와의 조우"	name2=""	name3=""	desc="잊혀진 사원의 지하에는 긴 시간 행해진 각종 실험들의 기록이 있다. 그러나 변이된 여러 마물들을 먼저 처리해야 한다."	/>
+		<title_msg	msg_id="3063"	name1="알 수 없는 실험의 흔적"	name2=""	name3=""	desc="잊혀진 사원의 지하에는 긴 시간 행해진 각종 실험들의 기록이 있다. 그러나 변이된 여러 마물들을 먼저 처리해야 한다."	/>
+		<title_msg	msg_id="3064"	name1="실험실을 정리한 자"	name2=""	name3=""	desc="잊혀진 사원의 지하에는 긴 시간 행해진 각종 실험들의 기록이 있다. 그러나 변이된 여러 마물들을 먼저 처리해야 한다."	/>
+		<title_msg	msg_id="3073"	name1="또 다른 실험"	name2=""	name3=""	desc="닥터라 불리는 자의 실험의 정체가 이곳에서 드러났다. 결국 통제 불가능한 마물들만이 남아버린 이곳은 영원히 저주받았다."	/>
+		<title_msg	msg_id="3074"	name1="더욱 강해진 실험체"	name2=""	name3=""	desc="닥터라 불리는 자의 실험의 정체가 이곳에서 드러났다. 결국 통제 불가능한 마물들만이 남아버린 이곳은 영원히 저주받았다."	/>
+		<title_msg	msg_id="3075"	name1="닥터의 실패작과의 조우"	name2=""	name3=""	desc="닥터라 불리는 자의 실험의 정체가 이곳에서 드러났다. 결국 통제 불가능한 마물들만이 남아버린 이곳은 영원히 저주받았다."	/>
+		<title_msg	msg_id="3076"	name1="비밀스런 실험의 방해꾼"	name2=""	name3=""	desc="닥터라 불리는 자의 실험의 정체가 이곳에서 드러났다. 결국 통제 불가능한 마물들만이 남아버린 이곳은 영원히 저주받았다."	/>
+		<title_msg	msg_id="3085"	name1="미지의 섬을 향해서"	name2=""	name3=""	desc="언제부터 존재했는지 알 수 없는 이 섬은 어느 두 여행자의 발견에 의해 세상에 알려지게 되었다. 전 네바레스 전사들이 이곳을 정복하기 위해 오늘도 탐사선을 오르고 있다."	/>
+		<title_msg	msg_id="3086"	name1="섬을 둘러싼 비밀"	name2=""	name3=""	desc="언제부터 존재했는지 알 수 없는 이 섬은 어느 두 여행자의 발견에 의해 세상에 알려지게 되었다. 전 네바레스 전사들이 이곳을 정복하기 위해 오늘도 탐사선을 오르고 있다."	/>
+		<title_msg	msg_id="3087"	name1="섬의 숨겨진 이야기"	name2=""	name3=""	desc="언제부터 존재했는지 알 수 없는 이 섬은 어느 두 여행자의 발견에 의해 세상에 알려지게 되었다. 전 네바레스 전사들이 이곳을 정복하기 위해 오늘도 탐사선을 오르고 있다."	/>
+		<title_msg	msg_id="3088"	name1="잃어버린 세계의 개척자"	name2=""	name3=""	desc="언제부터 존재했는지 알 수 없는 이 섬은 어느 두 여행자의 발견에 의해 세상에 알려지게 되었다. 전 네바레스 전사들이 이곳을 정복하기 위해 오늘도 탐사선을 오르고 있다."	/>
+		<title_msg	msg_id="3097"	name1="혼돈의 첫 번째 경계"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3098"	name1="혼돈의 두 번째 경계"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3099"	name1="혼돈의 세 번째 경계"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3100"	name1="혼돈의 네 번째 경계"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3101"	name1="혼돈의 마지막 경계"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3102"	name1="혼돈의 경계를 넘다"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3103"	name1="새로운 혼돈의 시작"	name2=""	name3=""	desc="아너러블 에이지의 찬란한 유산, 퍼펙트 코어를 향한 도전자들의 열망은 혼돈의 소용돌이를 만들어 간다."	/>
+		<title_msg	msg_id="3104"	name1="버려진 사원"	name2=""	name3=""	desc="음모의 정체가 무엇인지 알기 위해서는 실제로 부딪혀 보는 수 밖에 없다. 외부인을 반기지 않는 이 곳은 온갖 죄악이 물들어 있다."	/>
+		<title_msg	msg_id="3105"	name1="감염된 시드들"	name2=""	name3=""	desc="음모의 정체가 무엇인지 알기 위해서는 실제로 부딪혀 보는 수 밖에 없다. 외부인을 반기지 않는 이 곳은 온갖 죄악이 물들어 있다."	/>
+		<title_msg	msg_id="3106"	name1="버려진 사원의 음모"	name2=""	name3=""	desc="음모의 정체가 무엇인지 알기 위해서는 실제로 부딪혀 보는 수 밖에 없다. 외부인을 반기지 않는 이 곳은 온갖 죄악이 물들어 있다."	/>
+		<title_msg	msg_id="3107"	name1="감염된 시드 처리 전문가"	name2=""	name3=""	desc="음모의 정체가 무엇인지 알기 위해서는 실제로 부딪혀 보는 수 밖에 없다. 외부인을 반기지 않는 이 곳은 온갖 죄악이 물들어 있다."	/>
+		<title_msg	msg_id="3116"	name1="사원의 깊은 곳"	name2=""	name3=""	desc="이 곳엔 여왕 시에나와 시에나에게 감염된 강력한 마물들이 살고 있다. 감염을 확장시키기 위한 시에나의 음모를 저지해야 한다."	/>
+		<title_msg	msg_id="3117"	name1="버려진 사원의 비밀"	name2=""	name3=""	desc="이 곳엔 여왕 시에나와 시에나에게 감염된 강력한 마물들이 살고 있다. 감염을 확장시키기 위한 시에나의 음모를 저지해야 한다."	/>
+		<title_msg	msg_id="3118"	name1="감염된 적들에 맞선"	name2=""	name3=""	desc="이 곳엔 여왕 시에나와 시에나에게 감염된 강력한 마물들이 살고 있다. 감염을 확장시키기 위한 시에나의 음모를 저지해야 한다."	/>
+		<title_msg	msg_id="3119"	name1="사원 안의 음모를 저지한"	name2=""	name3=""	desc="이 곳엔 여왕 시에나와 시에나에게 감염된 강력한 마물들이 살고 있다. 감염을 확장시키기 위한 시에나의 음모를 저지해야 한다."	/>
+		<title_msg	msg_id="3128"	name1="황혼빛에 매료된 자"	name2=""	name3=""	desc="각 콜로니의 오피서들이 회의를 통해 전사들의 훈련 목적으로 실제 던전을 재현했다고 한다."	/>
+		<title_msg	msg_id="3131"	name1="낡은 역사의 방문객"	name2=""	name3=""	desc="각 콜로니의 오피서들이 회의를 통해 전사들의 훈련 목적으로 실제 던전을 재현했다고 한다."	/>
+		<title_msg	msg_id="3134"	name1="망령과 마주친 자"	name2=""	name3=""	desc="각 콜로니의 오피서들이 회의를 통해 전사들의 훈련 목적으로 실제 던전을 재현했다고 한다."	/>
+		<title_msg	msg_id="3137"	name1="환영의 성에 대한 기록"	name2=""	name3=""	desc="그동안 베일에 쌓여있던 판타즈말 클랜에 대해 조금이나마 단서를 얻었다."	/>
+		<title_msg	msg_id="3138"	name1="동굴 안에 숨겨진 성"	name2=""	name3=""	desc="그동안 베일에 쌓여있던 판타즈말 클랜에 대해 조금이나마 단서를 얻었다."	/>
+		<title_msg	msg_id="3139"	name1="성의 입구에 다다른"	name2=""	name3=""	desc="그동안 베일에 쌓여있던 판타즈말 클랜에 대해 조금이나마 단서를 얻었다."	/>
+		<title_msg	msg_id="3140"	name1="성의 수문장을 무찌른"	name2=""	name3=""	desc="그동안 베일에 쌓여있던 판타즈말 클랜에 대해 조금이나마 단서를 얻었다."	/>
+		<title_msg	msg_id="3149"	name1="환영의 성 안으로"	name2=""	name3=""	desc="판타즈말 클랜을 이끄는 마물들은 판타즈말 오리진으로 불린다고 한다. 이들의 능력은 여타 마물들과는 차원이 다르다고 한다."	/>
+		<title_msg	msg_id="3150"	name1="판타즈말들의 성"	name2=""	name3=""	desc="판타즈말 클랜을 이끄는 마물들은 판타즈말 오리진으로 불린다고 한다. 이들의 능력은 여타 마물들과는 차원이 다르다고 한다."	/>
+		<title_msg	msg_id="3151"	name1="판타즈말에 대적한"	name2=""	name3=""	desc="판타즈말 클랜을 이끄는 마물들은 판타즈말 오리진으로 불린다고 한다. 이들의 능력은 여타 마물들과는 차원이 다르다고 한다."	/>
+		<title_msg	msg_id="3152"	name1="판타즈말 오리진 전문가"	name2=""	name3=""	desc="판타즈말 클랜을 이끄는 마물들은 판타즈말 오리진으로 불린다고 한다. 이들의 능력은 여타 마물들과는 차원이 다르다고 한다."	/>
+		<title_msg	msg_id="3161"	name1="첫번째 혼돈의 승리자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3162"	name1="두번째 혼돈의 승리자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3163"	name1="세번째 혼돈의 승리자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3164"	name1="네번째 혼돈의 승리자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3165"	name1="다섯번째 혼돈의 승리자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3166"	name1="여섯번째 혼돈의 승리자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3167"	name1="혼돈 속에서 살아남은"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3168"	name1="혼돈을 잠재운"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3171"	name1="메탈 클랜의 전초 기지"	name2=""	name3=""	desc="메탈 클랜은 그들의 뛰어난 기술력으로 네바레스 침공을 위한 전초 기지를 세웠다. 그 곳에 남아있는 모든 위협을 제거하여야 한다."	/>
+		<title_msg	msg_id="3172"	name1="기계 문명의 힘"	name2=""	name3=""	desc="메탈 클랜은 그들의 뛰어난 기술력으로 네바레스 침공을 위한 전초 기지를 세웠다. 그 곳에 남아있는 모든 위협을 제거하여야 한다."	/>
+		<title_msg	msg_id="3173"	name1="기계 문명에 맞서는 자"	name2=""	name3=""	desc="메탈 클랜은 그들의 뛰어난 기술력으로 네바레스 침공을 위한 전초 기지를 세웠다. 그 곳에 남아있는 모든 위협을 제거하여야 한다."	/>
+		<title_msg	msg_id="3174"	name1="기계들의 침공을 저지한 자"	name2=""	name3=""	desc="메탈 클랜은 그들의 뛰어난 기술력으로 네바레스 침공을 위한 전초 기지를 세웠다. 그 곳에 남아있는 모든 위협을 제거하여야 한다."	/>
+		<title_msg	msg_id="3183"	name1="동굴 탐험가"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3184"	name1="누알레 킬러"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3185"	name1="쇼워라이의 복수를 해준"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3187"	name1="이름난 동굴 탐험가"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3188"	name1="이름난 누알레 킬러"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3189"	name1="쇼워라이의 복수를 두배로 해준"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3191"	name1="유령 기관차에 대한 소문"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3192"	name1="폭주한 기관차"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3193"	name1="기관차 엔진 파괴자"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3195"	name1="유령 기관차 괴담"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3196"	name1="위험한 폭주 기관차"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3197"	name1="이름난 기관차 엔진 파괴자"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3199"	name1="지하 묘지의 비밀"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3200"	name1="묘지에 숨겨진 진실"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3201"	name1="묘지의 비밀 탐구자"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3203"	name1="스산한 지하 묘지의 비밀"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3204"	name1="스산한 묘지에 숨겨진 진실"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3205"	name1="스산한 묘지의 비밀 탐구자"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3207"	name1="화산 지대에 숨겨진"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3208"	name1="열기의 인내자"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3209"	name1="뜨거운 맛을 보여준"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3211"	name1="뜨거운 화산 지대에 숨겨진"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3212"	name1="뜨거운 열기의 인내자"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3213"	name1="아주 뜨거운 맛을 보여준"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3215"	name1="세 쌍둥이 자매의 전설"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3216"	name1="세 쌍둥이의 비극"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3217"	name1="천상의 비극 해체자"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3218"	name1="세 쌍둥이의 슬픈 결말"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3219"	name1="이름난 비극 해체자I"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3220"	name1="이름난 비극 해체자II"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3221"	name1="이름난 비극 해체자III"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3222"	name1="이름난 비극 해체자IV"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3223"	name1="빛보다 빠른 동굴 탐험가"	name2=""	name3=""	desc="한 순간의 실수도 용납하지 않는 완벽한 움직임, 적들을 손쉽게 처리할 수 있는 강력한 장비, 그리고 해내고야 말겠다는 끈기, 그 모든 것을 갖춘 자만이 '빛보다 빠른' 수식어를 가질 자격이 있다."	/>
+		<title_msg	msg_id="3224"	name1="빛보다 빠른 기관차 엔진 파괴자"	name2=""	name3=""	desc="한 순간의 실수도 용납하지 않는 완벽한 움직임, 적들을 손쉽게 처리할 수 있는 강력한 장비, 그리고 해내고야 말겠다는 끈기, 그 모든 것을 갖춘 자만이 '빛보다 빠른' 수식어를 가질 자격이 있다."	/>
+		<title_msg	msg_id="3225"	name1="빛보다 빠른 열기의 인내자"	name2=""	name3=""	desc="한 순간의 실수도 용납하지 않는 완벽한 움직임, 적들을 손쉽게 처리할 수 있는 강력한 장비, 그리고 해내고야 말겠다는 끈기, 그 모든 것을 갖춘 자만이 '빛보다 빠른' 수식어를 가질 자격이 있다."	/>
+		<title_msg	msg_id="3226"	name1="빛보다 빠른 묘지의 비밀 탐구자"	name2=""	name3=""	desc="한 순간의 실수도 용납하지 않는 완벽한 움직임, 적들을 손쉽게 처리할 수 있는 강력한 장비, 그리고 해내고야 말겠다는 끈기, 그 모든 것을 갖춘 자만이 '빛보다 빠른' 수식어를 가질 자격이 있다."	/>
+		<title_msg	msg_id="3227"	name1="빛보다 빠른 비극 해체자"	name2=""	name3=""	desc="한 순간의 실수도 용납하지 않는 완벽한 움직임, 적들을 손쉽게 처리할 수 있는 강력한 장비, 그리고 해내고야 말겠다는 끈기, 그 모든 것을 갖춘 자만이 '빛보다 빠른' 수식어를 가질 자격이 있다."	/>
+		<title_msg	msg_id="3228"	name1="불굴의 의지"	name2=""	name3=""	desc="우리 모두 의지를갖고 화이팅!!!!!"	/>
+		<title_msg	msg_id="3229"	name1="끝없는 탑의 비밀"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3230"	name1="심연의 기사들"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3231"	name1="심연의 지배자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3232"	name1="템푸스의 야망을 저지한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3241"	name1="저주 받은 실험실"	name2=""	name3=""	desc="닥터의 실험실에는 도대체 무슨일이 있었던 것일까. 알 수 없는 존재에 의해 각성한 마물들이 존재하는 이곳에서 무한한 힘이 느껴진다."	/>
+		<title_msg	msg_id="3242"	name1="각성한 실험체들"	name2=""	name3=""	desc="닥터의 실험실에는 도대체 무슨일이 있었던 것일까. 알 수 없는 존재에 의해 각성한 마물들이 존재하는 이곳에서 무한한 힘이 느껴진다."	/>
+		<title_msg	msg_id="3243"	name1="각성한 닥터의 실험체"	name2=""	name3=""	desc="닥터의 실험실에는 도대체 무슨일이 있었던 것일까. 알 수 없는 존재에 의해 각성한 마물들이 존재하는 이곳에서 무한한 힘이 느껴진다."	/>
+		<title_msg	msg_id="3244"	name1="닥터의 연구 파괴자"	name2=""	name3=""	desc="닥터의 실험실에는 도대체 무슨일이 있었던 것일까. 알 수 없는 존재에 의해 각성한 마물들이 존재하는 이곳에서 무한한 힘이 느껴진다."	/>
+		<title_msg	msg_id="3253"	name1="또 다시 섬을 향해"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3254"	name1="섬의 새로운 침략자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3255"	name1="섬의 위기를 해결해준"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3256"	name1="아렙티피의 특급 도우미"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3269"	name1="빛보다 빠른 해적 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3270"	name1="혼돈의 그림자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3271"	name1="혼돈의 힘에 물든"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3272"	name1="혼돈의 힘을 받아들인"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3273"	name1="혼돈의 지배자"	name2=""	name3=""	desc="새로운 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3280"	name1="불을 다스리는 마물"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3281"	name1="뜨거운 열기에서 태어난 자"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3282"	name1="각성한 열기의 인내자"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3283"	name1="뜨거운 열기를 잠재운 자"	name2=""	name3=""	desc="숨조차 쉬기 어려울 정도로 뜨거운 열기로 가득찬 동굴. 범접하기도 어려운 이곳에, 낯선 생물이 잠들어 있다."	/>
+		<title_msg	msg_id="3284"	name1="각성한 동굴 탐험가"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3285"	name1="동굴의 또 다른 비밀"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3286"	name1="동굴안에 갇힌 사념"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3287"	name1="밝혀진 각성의 단서"	name2=""	name3=""	desc="위대한 탐험가가 끝내 돌아오지 못했던 쓸쓸한 동굴. 그가 미처 끝내지 못한 탐험을 이어받아, 끝을 내야 한다."	/>
+		<title_msg	msg_id="3288"	name1="강력한 폭주 기관차"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3289"	name1="폭주하는 기관차의 정체"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3290"	name1="각성의 힘에 장악된 기계"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3291"	name1="각성한 기관차 엔진 파괴자"	name2=""	name3=""	desc="마을을 향해 달려 가고 있는 기관차. 그 폭주를 막기 위해서는 기관차의 엔진을 완전히 파괴하여야 한다."	/>
+		<title_msg	msg_id="3292"	name1="묘지의 새로운 비밀"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3293"	name1="나자브룸의 음모"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3294"	name1="의식을 방해한 자"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3295"	name1="밝혀진 묘지의 진실"	name2=""	name3=""	desc="음산한 기운이 서려있는 블러디 아이스 개척자들의 지하 묘지. 이 곳에는 해결하기 어려운 문제가 남겨져 있다."	/>
+		<title_msg	msg_id="3296"	name1="타락한 계곡의 이야기"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3297"	name1="강력해진 비극의 산물"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3298"	name1="비극의 마침표를 찍은 자"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3299"	name1="각성한 비극 해체자"	name2=""	name3=""	desc="세 딸을 사랑했던 천상의 신. 그런 신의 사랑보다 한 인간의 사랑만을 원했던 세 자매, 그리고 그들을 이용했던 악마. 결국 남은 것은 비극 뿐이었다."	/>
+		<title_msg	msg_id="3300"	name1="버려진 자들의 도시"	name2=""	name3=""	desc="카펠라와 프로키온으로 부터 버려진 자들. 그들의 그릇된 생각으로 인한 음모를 저지하고 그들을 구원하였다."	/>
+		<title_msg	msg_id="3301"	name1="버림받은 자들의 분노"	name2=""	name3=""	desc="카펠라와 프로키온으로 부터 버려진 자들. 그들의 그릇된 생각으로 인한 음모를 저지하고 그들을 구원하였다."	/>
+		<title_msg	msg_id="3302"	name1="버림받은 자들의 복수"	name2=""	name3=""	desc="카펠라와 프로키온으로 부터 버려진 자들. 그들의 그릇된 생각으로 인한 음모를 저지하고 그들을 구원하였다."	/>
+		<title_msg	msg_id="3303"	name1="버림받은 자들의 구원자"	name2=""	name3=""	desc="카펠라와 프로키온으로 부터 버려진 자들. 그들의 그릇된 생각으로 인한 음모를 저지하고 그들을 구원하였다."	/>
+		<title_msg	msg_id="3304"	name1="냉기와 열기가 공존하는 곳"	name2=""	name3=""	desc="냉기와 열기가 가득한 혼돈의 공간의 질서를 바로 잡았다."	/>
+		<title_msg	msg_id="3305"	name1="요동치는 냉기와 열기"	name2=""	name3=""	desc="냉기와 열기가 가득한 혼돈의 공간의 질서를 바로 잡았다."	/>
+		<title_msg	msg_id="3306"	name1="알 수 없는 힘의 정체"	name2=""	name3=""	desc="냉기와 열기가 가득한 혼돈의 공간의 질서를 바로 잡았다."	/>
+		<title_msg	msg_id="3307"	name1="냉기와 열기의 지배자"	name2=""	name3=""	desc="냉기와 열기가 가득한 혼돈의 공간의 질서를 바로 잡았다."	/>
+		<title_msg	msg_id="3308"	name1="또 다른 환영의 성의 기록"	name2=""	name3=""	desc="판타즈말 클랜의 사악한 계획을 알아내고 말았다."	/>
+		<title_msg	msg_id="3309"	name1="새로운 힘에 현혹된"	name2=""	name3=""	desc="판타즈말 클랜의 사악한 계획을 알아내고 말았다."	/>
+		<title_msg	msg_id="3310"	name1="판타즈말 클랜의 계획"	name2=""	name3=""	desc="판타즈말 클랜의 사악한 계획을 알아내고 말았다."	/>
+		<title_msg	msg_id="3311"	name1="판타즈말 클랜의 방해꾼"	name2=""	name3=""	desc="판타즈말 클랜의 사악한 계획을 알아내고 말았다."	/>
+		<title_msg	msg_id="3312"	name1="판타즈말 클랜의 음모"	name2=""	name3=""	desc="판타즈말 클랜의 야욕을 저지하고, 새로운 디바인의 힘을 손에 넣었다."	/>
+		<title_msg	msg_id="3313"	name1="새로운 힘에 눈을 뜬 "	name2=""	name3=""	desc="판타즈말 클랜의 야욕을 저지하고, 새로운 디바인의 힘을 손에 넣었다."	/>
+		<title_msg	msg_id="3314"	name1="판타즈말의 계획을 저지한"	name2=""	name3=""	desc="판타즈말 클랜의 야욕을 저지하고, 새로운 디바인의 힘을 손에 넣었다."	/>
+		<title_msg	msg_id="3315"	name1="신성한 힘의 지배자"	name2=""	name3=""	desc="판타즈말 클랜의 야욕을 저지하고, 새로운 디바인의 힘을 손에 넣었다."	/>
+		<title_msg	msg_id="3316"	name1="또 다른 언데드의 계획"	name2=""	name3=""	desc="언데드 클랜의 야심을 저지하고, 엣지 오브 팬텀을 지켰다."	/>
+		<title_msg	msg_id="3317"	name1="사악한 언데드의 기운"	name2=""	name3=""	desc="언데드 클랜의 야심을 저지하고, 엣지 오브 팬텀을 지켰다."	/>
+		<title_msg	msg_id="3318"	name1="언데드의 부활을 막은 자"	name2=""	name3=""	desc="언데드 클랜의 야심을 저지하고, 엣지 오브 팬텀을 지켰다."	/>
+		<title_msg	msg_id="3319"	name1="언데드의 야심을 저지한 자"	name2=""	name3=""	desc="언데드 클랜의 야심을 저지하고, 엣지 오브 팬텀을 지켰다."	/>
+		<title_msg	msg_id="3320"	name1="새로운 실험실"	name2=""	name3=""	desc="드디어 템플에서 시작된 모든 실험의 끝을 보았다."	/>
+		<title_msg	msg_id="3321"	name1="반복된 실험의 결과"	name2=""	name3=""	desc="드디어 템플에서 시작된 모든 실험의 끝을 보았다."	/>
+		<title_msg	msg_id="3322"	name1="밝혀진 닥터의 정체"	name2=""	name3=""	desc="드디어 템플에서 시작된 모든 실험의 끝을 보았다."	/>
+		<title_msg	msg_id="3323"	name1="포가튼 템플 종결자"	name2=""	name3=""	desc="드디어 템플에서 시작된 모든 실험의 끝을 보았다."	/>
+		<title_msg	msg_id="3324"	name1="아레나의 숨겨진 과거"	name2=""	name3=""	desc="고통받던 아케론 아레나의 망령들을 해방시키고, 대전사 데테스타투스를 처치하였다."	/>
+		<title_msg	msg_id="3325"	name1="망령들의 구원자"	name2=""	name3=""	desc="고통받던 아케론 아레나의 망령들을 해방시키고, 대전사 데테스타투스를 처치하였다."	/>
+		<title_msg	msg_id="3326"	name1="아레나의 도전자"	name2=""	name3=""	desc="고통받던 아케론 아레나의 망령들을 해방시키고, 대전사 데테스타투스를 처치하였다."	/>
+		<title_msg	msg_id="3327"	name1="네바레스 대전사"	name2=""	name3=""	desc="고통받던 아케론 아레나의 망령들을 해방시키고, 대전사 데테스타투스를 처치하였다."	/>
+		<title_msg	msg_id="3328"	name1="악마들이 사는 탑"	name2=""	name3=""	desc="악마에게 납치되었던 에일렌 남매를 무사히 구출했다."	/>
+		<title_msg	msg_id="3329"	name1="악마들과 마주한"	name2=""	name3=""	desc="악마에게 납치되었던 에일렌 남매를 무사히 구출했다."	/>
+		<title_msg	msg_id="3330"	name1="수 많은 악마를 넘어"	name2=""	name3=""	desc="악마에게 납치되었던 에일렌 남매를 무사히 구출했다."	/>
+		<title_msg	msg_id="3331"	name1="악마의 탑의 주인"	name2=""	name3=""	desc="악마에게 납치되었던 에일렌 남매를 무사히 구출했다."	/>
+		<title_msg	msg_id="3332"	name1="부활한 악마들이 사는 탑"	name2=""	name3=""	desc="악마에게 속은 멍청한 스카일드를 구해줄까 망설였지만, 무사히 구출했다."	/>
+		<title_msg	msg_id="3333"	name1="부활한 악마들과 마주한"	name2=""	name3=""	desc="악마에게 속은 멍청한 스카일드를 구해줄까 망설였지만, 무사히 구출했다."	/>
+		<title_msg	msg_id="3334"	name1="부활한 악마들을 넘어"	name2=""	name3=""	desc="악마에게 속은 멍청한 스카일드를 구해줄까 망설였지만, 무사히 구출했다."	/>
+		<title_msg	msg_id="3335"	name1="부활한 악마의 탑의 주인"	name2=""	name3=""	desc="악마에게 속은 멍청한 스카일드를 구해줄까 망설였지만, 무사히 구출했다."	/>
+		<title_msg	msg_id="3336"	name1="악마들의 초대"	name2=""	name3=""	desc="판데모니엄으로 초대해준 악마에게 보답하기 위해, 무자비하게 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3337"	name1="지옥의 불꽃 너머"	name2=""	name3=""	desc="판데모니엄으로 초대해준 악마에게 보답하기 위해, 무자비하게 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3338"	name1="지옥의 패왕을 무찌른"	name2=""	name3=""	desc="판데모니엄으로 초대해준 악마에게 보답하기 위해, 무자비하게 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3339"	name1="무자비한 악마 학살자"	name2=""	name3=""	desc="판데모니엄으로 초대해준 악마에게 보답하기 위해, 무자비하게 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3340"	name1="불길한 기운의 섬"	name2=""	name3=""	desc="각성의 근원을 찾아 미라쥬 아일랜드를 탐험하였다."	/>
+		<title_msg	msg_id="3341"	name1="미지의 괴생명체"	name2=""	name3=""	desc="각성의 근원을 찾아 미라쥬 아일랜드를 탐험하였다."	/>
+		<title_msg	msg_id="3342"	name1="누구도 발을 들이지 못한"	name2=""	name3=""	desc="각성의 근원을 찾아 미라쥬 아일랜드를 탐험하였다."	/>
+		<title_msg	msg_id="3343"	name1="각성의 비밀에 다가가는 자"	name2=""	name3=""	desc="각성의 근원을 찾아 미라쥬 아일랜드를 탐험하였다."	/>
+		<title_msg	msg_id="3344"	name1="일곱번째 혼돈의 승리자"	name2=""	name3=""	desc="또 다른 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3345"	name1="혼돈을 힘을 무너뜨린"	name2=""	name3=""	desc="또 다른 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3346"	name1="혼돈의 파괴자"	name2=""	name3=""	desc="또 다른 혼돈의 그림자가 네바레스에 드리운다."	/>
+		<title_msg	msg_id="3349"	name1="숨겨진 악마들의 소굴"	name2=""	name3=""	desc="강력한 열기 속에서 힘을 키우고 있던 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3350"	name1="강력한 열기 속으로"	name2=""	name3=""	desc="강력한 열기 속에서 힘을 키우고 있던 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3351"	name1="강력한 열기를 잠재운 자"	name2=""	name3=""	desc="강력한 열기 속에서 힘을 키우고 있던 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3352"	name1="악신의 부활을 막은"	name2=""	name3=""	desc="강력한 열기 속에서 힘을 키우고 있던 악마들을 무찔렀다."	/>
+		<title_msg	msg_id="3353"	name1="드러난 고대의 무덤"	name2=""	name3=""	desc="고대의 무덤에서 잠들어 있던 스핑크스를 물리쳤다."	/>
+		<title_msg	msg_id="3354"	name1="무덤의 수호자"	name2=""	name3=""	desc="고대의 무덤에서 잠들어 있던 스핑크스를 물리쳤다."	/>
+		<title_msg	msg_id="3355"	name1="잠들어 있는 고대의 비밀"	name2=""	name3=""	desc="고대의 무덤에서 잠들어 있던 스핑크스를 물리쳤다."	/>
+		<title_msg	msg_id="3356"	name1="고대의 비밀에 다가가는 자"	name2=""	name3=""	desc="고대의 무덤에서 잠들어 있던 스핑크스를 물리쳤다."	/>
+		<title_msg	msg_id="3357"	name1="얼어붙은 협곡"	name2=""	name3=""	desc="사신을 처치하고 악마의 침공을 저지했다."	/>
+		<title_msg	msg_id="3358"	name1="반복되는 부활 의식"	name2=""	name3=""	desc="사신을 처치하고 악마의 침공을 저지했다."	/>
+		<title_msg	msg_id="3359"	name1="나자브룸의 숙적"	name2=""	name3=""	desc="사신을 처치하고 악마의 침공을 저지했다."	/>
+		<title_msg	msg_id="3360"	name1="얼음 협곡의 해방자"	name2=""	name3=""	desc="사신을 처치하고 악마의 침공을 저지했다."	/>
+		<title_msg	msg_id="3361"	name1="탑의 숨겨진 장소"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3362"	name1="템푸스의 추종자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3363"	name1="추종자들을 무찌른"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3364"	name1="언데드를 파멸시킨"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3365"	name1="하늘 위의 신비한 섬"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3366"	name1="바람과 하늘의 지배자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3367"	name1="더 높은 하늘로"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3368"	name1="빛과 어둠의 드래곤"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3369"	name1="드래곤 오브와 황금빛 포탈"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3370"	name1="찬란한 드래곤의 보물"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3371"	name1="신비하고 거대한 나무"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3372"	name1="강력한 바람의 힘을 제압"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3373"	name1="정령왕의 힘을 넘어선 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3374"	name1="불길한 섬의 정체"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3375"	name1="각성한 괴 생명체"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3376"	name1="환상의 섬 정복자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3377"	name1="각성의 비밀을 깨우친 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3378"	name1="폭주한 기관차 너머"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3379"	name1="기계들의 방어를 뚫어낸"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3380"	name1="기계들을 고철로 만든"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3381"	name1="역사를 지켜낸"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3382"	name1="메마른 바위산 너머"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3383"	name1="오염된 정령들과 실험체"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3384"	name1="폭주하는 정령들"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3385"	name1="정령들을 지켜낸"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3386"	name1="기지 더 깊숙한 곳으로"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3387"	name1="기계로 강화된 괴물들"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3388"	name1="방어시스템을 무력화한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3389"	name1="숨겨진 기지의 비밀을 밝혀낸 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3390"	name1="자자, 선수 입장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3391"	name1="들어와 들어와"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3392"	name1="특별할 거 없어, 단지 익숙할 뿐"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3393"	name1="놀랐냐? 나도 놀랐다"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3394"	name1="구름 위 천공의 도시"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3395"	name1="성역의 문지기 제압"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3396"	name1="천공의 도시를 유린하는 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3397"	name1="돈다발을 주운"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3398"	name1="돈벼락을 맞은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3399"	name1="돈방석에 앉은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3400"	name1="이계의 실험장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3401"	name1="탈출하는 실험체들"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3402"	name1="판타즈말의 힘을 가진 메카"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3403"	name1="셀레스티아 정복자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3404"	name1="산악 특수 구조대"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3405"	name1="생존왕"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3406"	name1="대지의 축복을 받은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3407"	name1="숲의 정화자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3408"	name1="유산 탐색의 첫 걸음"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3409"	name1="유산의 발견자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3410"	name1="유산 탐색 경력직"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3411"	name1="서투른 탐사원"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3412"	name1="유산을 향한 긴장된 발걸음"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3413"	name1="쌓여가는 유산 탐사의 경험"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3414"	name1="진중한 유산 탐사원"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3415"	name1="유산 탐사의 익숙한 발걸음"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3416"	name1="유산 발굴이 일상"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3417"	name1="능숙한 유산 탐사원"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3418"	name1="내 집처럼 드나드는 유산"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3419"	name1="전문성이 넘치는 유산 발굴"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3420"	name1="만다라트의 유산 헌터"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3421"	name1="눈 감고도 찾아가는 유산"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3422"	name1="베테랑 유산 탐사원"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3423"	name1="만다라트의 유산 상속자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3424"	name1="아래로, 더욱 아래로"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3425"	name1="뒤틀린 언데드 슬레이어"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3426"	name1="혼탁한 영혼의 해방자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="3427"	name1="망자의 탑 너머로"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4001"	name1="최상급의 슬롯을 열 수 있는 자"	name2=""	name3=""	desc="누군가에게는 소문조차도 한평생 듣기 어려운 진귀한 아이템의 획득자"	/>
+		<title_msg	msg_id="4002"	name1="상급의 슬롯을 열다"	name2=""	name3=""	desc="슬롯 익스텐더(상급)을 사용한 자"	/>
+		<title_msg	msg_id="4003"	name1="최상급의 슬롯을 열다"	name2=""	name3=""	desc="슬롯 익스텐더(최상급)을 사용한 자"	/>
+		<title_msg	msg_id="4004"	name1="무엇보다 빛나는"	name2=""	name3=""	desc="+15 아이템을 만들어낸 자라면 '무엇보다 빛나는' 사람이라 할 수 있다"	/>
+		<title_msg	msg_id="4005"	name1="누구보다 축복받은"	name2=""	name3=""	desc="특별한 운이 따라야만 하는 +15 아이템의 완성, 그것을 수없이 달성한 자에게 내려지는 영광"	/>
+		<title_msg	msg_id="4006"	name1="드라이 프라메 수집가"	name2=""	name3=""	desc="모든 부위의 드라이 프라메 장비를 획득한 자만이 가질 수 있는 호칭"	/>
+		<title_msg	msg_id="4007"	name1="참한 캐릭터"	name2=""	name3=""	desc="참을 착용하여 참해졌다"	/>
+		<title_msg	msg_id="4008"	name1="최고참"	name2=""	name3=""	desc="최고참을 착용하여 참 참해졌다"	/>
+		<title_msg	msg_id="4009"	name1="호기심 넘치는"	name2=""	name3=""	desc="도대체 탈 것은 뭘로 만들었을까? 호기심을 해결하는 가장 좋은 방법은 바로 분해!"	/>
+		<title_msg	msg_id="4010"	name1="3슬롯 파괴자"	name2=""	name3=""	desc="3슬롯의 아이템을 파괴한 용기있는 자"	/>
+		<title_msg	msg_id="4011"	name1="완벽주의자"	name2=""	name3=""	desc="완벽하지 않으면 시도하지 않는다"	/>
+		<title_msg	msg_id="4012"	name1="명품참"	name2=""	name3=""	desc="참을 합성하여 명품이 되었다."	/>
+		<title_msg	msg_id="4013"	name1="초월급의 슬롯을 열 수 있는 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4014"	name1="초월급의 슬롯을 열다"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4015"	name1="퍼펙트 맨"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4016"	name1="별 헤는 밤"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4017"	name1="별 하나에 고생"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4018"	name1="별 하나에 감격"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4019"	name1="별이 빛나는 밤에"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4020"	name1="아침을 많이 먹은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4021"	name1="저녁을 많이 먹은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4022"	name1="야식을 많이 먹은"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4023"	name1="1분 1초가 아까운"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4024"	name1="1분 1초가 소중한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4025"	name1="1분 1초가 달콤한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4026"	name1="야심만만"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4027"	name1="자신만만"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4028"	name1="여유만만"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4029"	name1="맑은 눈의 장인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4030"	name1="맑은 눈의 명인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4031"	name1="맑은 눈의 명장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4032"	name1="명품 시계를 위하여"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4033"	name1="명품 시계를 찬"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="4034"	name1="명품 시계 콜렉터"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="5001"	name1="일섬"	name2=""	name3=""	desc="빛이 번뜩인다고 생각한 순간, 모든 것이 끝"	/>
+		<title_msg	msg_id="5002"	name1="죽음 가까이에서 일어서는 자"	name2=""	name3=""	desc="완전히 눈을 감지 않는 이상, 패배는 없다"	/>
+		<title_msg	msg_id="5003"	name1="의지의 부족"	name2=""	name3=""	desc="장비가 승리를 만드는 것처럼 의지가 승리를 만들 수도 있는 건데… 에휴 안타깝다."	/>
+		<title_msg	msg_id="5004"	name1="무서운 상대가 없네"	name2=""	name3=""	desc="모든 배틀스타일을 다 이겨봤더니, 무서운 상대가 없네"	/>
+		<title_msg	msg_id="6001"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 워리어에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6002"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 블레이더에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6003"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 위저드에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6004"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 포스 아처에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6005"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 포스 실더에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6006"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 포스 블레이더에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6007"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 워리어. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6008"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 블레이더. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6009"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 위저드. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6010"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 포스 아처. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6011"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 포스 실더. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6012"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 포스 블레이더. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6013"	name1="광휘의 하급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6014"	name1="광휘의 중급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6015"	name1="광휘의 상급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6016"	name1="광휘의 하급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6017"	name1="광휘의 중급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6018"	name1="광휘의 상급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6019"	name1="광휘의 투사 부장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6020"	name1="광휘의 투사 대장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6021"	name1="광휘의 투사 총관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6022"	name1="광휘의 투사 영웅"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6023"	name1="광휘의 투사 전설"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6024"	name1="광휘의 투신"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6025"	name1="폭풍의 하급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6026"	name1="폭풍의 중급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6027"	name1="폭풍의 상급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6028"	name1="폭풍의 하급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6029"	name1="폭풍의 중급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6030"	name1="폭풍의 상급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6031"	name1="폭풍의 투사 부장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6032"	name1="폭풍의 투사 대장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6033"	name1="폭풍의 투사 총관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6034"	name1="폭풍의 투사 영웅"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6035"	name1="폭풍의 투사 전설"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6036"	name1="폭풍의 투신"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6037"	name1="레거시 가디언(대) 하급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6038"	name1="레거시 가디언(대) 중급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6039"	name1="레거시 가디언(대) 상급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6040"	name1="레거시 가디언(중) 하급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6041"	name1="레거시 가디언(중) 중급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6042"	name1="레거시 가디언(중) 상급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6043"	name1="레거시 가디언(소) 하급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6044"	name1="레거시 가디언(소) 중급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6045"	name1="레거시 가디언(소) 상급 사냥꾼"	name2=""	name3=""	desc="레거시 가디언...다른 마물과는 다르게 자신을 소환한 국가원들은 공격하지 않는다. 그러나 우리편이 아니라면 처치해서 전쟁을 승리로 이끌어야 한다."	/>
+		<title_msg	msg_id="6046"	name1="세이지스 엔사인 하급 파괴자"	name2=""	name3=""	desc="기지의 소유를 증명하는 상징을 파괴한다면 아군의 사기를 높일 뿐 아니라 자신의 이름도 전장에 떨칠 수 있다."	/>
+		<title_msg	msg_id="6047"	name1="세이지스 엔사인 중급 파괴자"	name2=""	name3=""	desc="기지의 소유를 증명하는 상징을 파괴한다면 아군의 사기를 높일 뿐 아니라 자신의 이름도 전장에 떨칠 수 있다."	/>
+		<title_msg	msg_id="6048"	name1="세이지스 엔사인 상급 파괴자"	name2=""	name3=""	desc="기지의 소유를 증명하는 상징을 파괴한다면 아군의 사기를 높일 뿐 아니라 자신의 이름도 전장에 떨칠 수 있다."	/>
+		<title_msg	msg_id="6049"	name1="카펠라의 백전 노장"	name2=""	name3=""	desc="전쟁의 승리는 혼자의 힘으로 이뤄낼 수가 없다. 그렇기에 100번의 승리가 가지는 의미는 남다를 수 밖에 없다."	/>
+		<title_msg	msg_id="6050"	name1="카펠라의 비밀 무기"	name2=""	name3=""	desc="수많은 승리를 일구어 오면서, 전세를 뒤엎을 수 있을 정도의 강력한 '비밀 무기'로 인정받기 시작했다."	/>
+		<title_msg	msg_id="6051"	name1="카펠라의 전설"	name2=""	name3=""	desc="내 존재, 그것이 카펠라 승리의 이유"	/>
+		<title_msg	msg_id="6052"	name1="프로키온의 백전 노장"	name2=""	name3=""	desc="전쟁의 승리는 혼자의 힘으로 이뤄낼 수가 없다. 그렇기에 100번의 승리가 가지는 의미는 남다를 수 밖에 없다."	/>
+		<title_msg	msg_id="6053"	name1="프로키온의 비밀 무기"	name2=""	name3=""	desc="수많은 승리를 일구어 오면서, 전세를 뒤엎을 수 있을 정도의 강력한 '비밀 무기'로 인정받기 시작했다."	/>
+		<title_msg	msg_id="6054"	name1="프로키온의 전설"	name2=""	name3=""	desc="내 존재, 그것이 프로키온 승리의 이유"	/>
+		<title_msg	msg_id="6055"	name1="워리어 킬러"	name2=""	name3=""	desc="100인의 워리어 처치자"	/>
+		<title_msg	msg_id="6056"	name1="워리어 슬레이어"	name2=""	name3=""	desc="모든 워리어를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6057"	name1="블레이더 킬러"	name2=""	name3=""	desc="100인의 블레이더 처치자"	/>
+		<title_msg	msg_id="6058"	name1="블레이더 슬레이어"	name2=""	name3=""	desc="모든 블레이더를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6059"	name1="위저드 킬러"	name2=""	name3=""	desc="100인의 위저드 처치자"	/>
+		<title_msg	msg_id="6060"	name1="위저드 슬레이어"	name2=""	name3=""	desc="모든 위저드를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6061"	name1="포스아처 킬러"	name2=""	name3=""	desc="100인의 포스아처 처치자"	/>
+		<title_msg	msg_id="6062"	name1="포스아처 슬레이어"	name2=""	name3=""	desc="모든 포스아처를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6063"	name1="포스실더 킬러"	name2=""	name3=""	desc="100인의 포스실더 처치자"	/>
+		<title_msg	msg_id="6064"	name1="포스실더 슬레이어"	name2=""	name3=""	desc="모든 포스실더를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6065"	name1="포스블레이더 킬러"	name2=""	name3=""	desc="100인의 포스블레이더 처치자"	/>
+		<title_msg	msg_id="6066"	name1="포스블레이더 슬레이어"	name2=""	name3=""	desc="모든 포스블레이더를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6067"	name1="킬러 오브 킬러"	name2=""	name3=""	desc="그 어떤 적을 만나도, 이기지 못할 적은 없다"	/>
+		<title_msg	msg_id="6068"	name1="슬레이어 오브 슬레이어"	name2=""	name3=""	desc="이제 나의 이름은 모든 적에게 두려움의 대상이자, 하나의 전설이 된다"	/>
+		<title_msg	msg_id="6069"	name1="글래디에이터 킬러"	name2=""	name3=""	desc="100인의 글래디에이터 처치자"	/>
+		<title_msg	msg_id="6070"	name1="글래디에이터 슬레이어"	name2=""	name3=""	desc="모든 100인의 글래디에이터를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6071"	name1="포스거너 킬러"	name2=""	name3=""	desc="100인의 포스거너 처치자"	/>
+		<title_msg	msg_id="6072"	name1="포스거너 슬레이어"	name2=""	name3=""	desc="모든 100인의 포스거너를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6073"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 글래디에이터에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6074"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 글래디에이터. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6075"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 포스거너에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6076"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 포스거너. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6077"	name1="전장의 하급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6078"	name1="전장의 중급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6079"	name1="전장의 상급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6080"	name1="전장의 최상급 투사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6081"	name1="전장의 하급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6082"	name1="전장의 중급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6083"	name1="전장의 상급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6084"	name1="전장의 최상급 투사관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6085"	name1="전장의 하급 부장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6086"	name1="전장의 중급 부장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6087"	name1="전장의 상급 부장 "	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6088"	name1="전장의 최상급 부장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6089"	name1="전장의 하급 지휘관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6090"	name1="전장의 중급 지휘관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6091"	name1="전장의 상급 지휘관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6092"	name1="전장의 투사 대장 "	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6093"	name1="전장의 투사 총관"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6094"	name1="전장의 투사 영웅"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6095"	name1="전장의 투신 "	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6096"	name1="국가의 백전 노장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6097"	name1="국가의 비밀 무기"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6098"	name1="국가의 전설적인 영웅"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6099"	name1="다크메이지 킬러"	name2=""	name3=""	desc="100인의 다크메이지 처치자"	/>
+		<title_msg	msg_id="6100"	name1="다크메이지 슬레이어"	name2=""	name3=""	desc="모든 다크메이지를 두려움에 떨게 하는 전사, 그에게 내려지는 명예로운 호칭"	/>
+		<title_msg	msg_id="6101"	name1=""	name2="광휘의 인도자"	name3="폭풍의 인도자"	desc="국가의 미래를 건 전투에서 일정 기간 동안 가장 뛰어난 활약을 한 다크 메이지에게 부여되는 명예로운 훈장"	/>
+		<title_msg	msg_id="6102"	name1=""	name2="광휘의 수호자"	name3="폭풍의 수호자"	desc="인도자 곁을 지키며 그를 수호하는 다크 메이지. 전투에서 일정 기간 동안 세운 공적을 기준으로 선발된다."	/>
+		<title_msg	msg_id="6103"	name1="레거시 가디언(대) 고급 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6104"	name1="레거시 가디언(중) 고급 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6105"	name1="레거시 가디언(소) 고급 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6106"	name1="전장의 무신"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6107"	name1="전장의 폭풍"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6108"	name1="전장의 사신"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="6109"	name1="전장의 지배자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7001"	name1="코우다 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 바이얼런트 코우다 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7002"	name1="뛰어난 코우다 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 바이얼런트 코우다 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7003"	name1="코우다의 천적"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 바이얼런트 코우다 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7011"	name1="코카트리스 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 에인션트 코카트리스 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7012"	name1="뛰어난 코카트리스 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 에인션트 코카트리스 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7013"	name1="코카트리스의 천적"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 에인션트 코카트리스 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7021"	name1="몬그렐 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 디스티커스 몬그렐 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7022"	name1="뛰어난 몬그렐 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 디스티커스 몬그렐 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7023"	name1="몬그렐의 천적"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 디스티커스 몬그렐 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7031"	name1="카리온 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 모나쿠스 카리온 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7032"	name1="뛰어난 카리온 사냥꾼"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 모나쿠스 카리온 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7033"	name1="카리온의 천적"	name2=""	name3=""	desc="포가튼 루인의 강력한 마물 모나쿠스 카리온 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7041"	name1="파엘로 사냥꾼"	name2=""	name3=""	desc="레이크 사이드의 강력한 마물 베르데크 파엘로 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7042"	name1="뛰어난 파엘로 사냥꾼"	name2=""	name3=""	desc="레이크 사이드의 강력한 마물 베르데크 파엘로 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7043"	name1="파엘로의 천적"	name2=""	name3=""	desc="레이크 사이드의 강력한 마물 베르데크 파엘로 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7051"	name1="콰드라 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 콰드라 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7052"	name1="뛰어난 콰드라 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 콰드라 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7053"	name1="콰드라의 천적"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 콰드라 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7061"	name1="로타 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 그라비스 로타 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7062"	name1="뛰어난 로타 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 그라비스 로타 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7063"	name1="로타의 천적"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 그라비스 로타 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7071"	name1="플루마 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 라우투스 플루마 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7072"	name1="뛰어난 플루마 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 라우투스 플루마 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7073"	name1="플루마의 천적"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 라우투스 플루마 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7081"	name1="페나 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 마그누스 페나 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7082"	name1="뛰어난 페나 사냥꾼"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 마그누스 페나 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7083"	name1="페나의 천적"	name2=""	name3=""	desc="폰투스 페룸의 강력한 마물 마그누스 페나 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7091"	name1="만티코어 사냥꾼"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 만티코어 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7092"	name1="뛰어난 만티코어 사냥꾼"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 만티코어 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7093"	name1="만티코어의 천적"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 만티코어 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7101"	name1="킴자크 사냥꾼"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 다크 킴자크 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7102"	name1="뛰어난 킴자크 사냥꾼"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 다크 킴자크 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7103"	name1="킴자크의 천적"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 다크 킴자크 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7111"	name1="미니샤 사냥꾼"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 케샤포네 미니샤 1마리를 처치하였다."	/>
+		<title_msg	msg_id="7112"	name1="뛰어난 미니샤 사냥꾼"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 케샤포네 미니샤 10마리를 처치하였다."	/>
+		<title_msg	msg_id="7113"	name1="미니샤의 천적"	name2=""	name3=""	desc="포르타 인페르노의 강력한 마물 케샤포네 미니샤 100마리를 처치하였다."	/>
+		<title_msg	msg_id="7121"	name1="탐욕의 조련사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7122"	name1="매혹의 지배자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7123"	name1="끝없이 갈망하는 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7124"	name1="검은 현자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7125"	name1="그림자 검사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7126"	name1="불멸의 기사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7127"	name1="조련당해버린"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7128"	name1="예쁘면 그만"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7129"	name1="이대로가 좋아요"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7130"	name1="노는 게 남는거지"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7131"	name1="돈받고 싸우는 사람은 못 이겨요"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7132"	name1="짧고 굵게"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7133"	name1="황금의 여왕"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7134"	name1="광전사"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7135"	name1="해적왕"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7136"	name1="해적이 되고 싶어요"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7137"	name1="임금님 귀는 당나귀 귀"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7138"	name1="최종병기"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7139"	name1="꽃다운 그대"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7140"	name1="뇌제"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7141"	name1="이블 사이언티스트"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7142"	name1="로드 오브 나이트메어"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7143"	name1="자이언트 울프 리더 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7144"	name1="뛰어난 자이언트 울프 리더 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7145"	name1="자이언트 울프 리더의 천적"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7146"	name1="엔티우드 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7147"	name1="뛰어난 엔티우드 사냥꾼"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7148"	name1="엔티우드의 천적"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7149"	name1="마르고노스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7150"	name1="숙련된 마르고노스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7151"	name1="베테랑 마르고노스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7152"	name1="라그노 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7153"	name1="숙련된 라그노 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7154"	name1="베테랑 라그노 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7155"	name1="우르혼 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7156"	name1="숙련된 우르혼 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7157"	name1="베테랑 우르혼 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7158"	name1="세트 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7159"	name1="숙련된 세트 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7160"	name1="베테랑 세트 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7161"	name1="레임스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7162"	name1="숙련된 레임스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7163"	name1="베테랑 레임스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7164"	name1="자켄 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7165"	name1="숙련된 자켄 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7166"	name1="베테랑 자켄 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7167"	name1="구스타프 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7168"	name1="숙련된 구스타프 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7169"	name1="베테랑 구스타프 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7170"	name1="헬라이더 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7171"	name1="숙련된 헬라이더 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7172"	name1="베테랑 헬라이더 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7173"	name1="아케인 골렘 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7174"	name1="숙련된 아케인 골렘 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7175"	name1="베테랑 아케인 골렘 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7176"	name1="켈로수스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7177"	name1="숙련된 켈로수스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7178"	name1="베테랑 켈로수스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7179"	name1="카르고스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7180"	name1="숙련된 카르고스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7181"	name1="베테랑 카르고스 토벌자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7182"	name1="아누비스를 넘어서"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7183"	name1="아누비스를 제압한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7184"	name1="엔드리엘을 넘어서"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7185"	name1="엔드리엘을 제압한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7186"	name1="프레리사를 넘어서"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7187"	name1="프레리사를 제압한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7188"	name1="제고를 넘어서"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7189"	name1="제고를 제압한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7190"	name1="타나토스를 넘어서"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7191"	name1="타나토스를 제압한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7192"	name1="피닉스를 넘어서"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7193"	name1="피닉스를 제압한 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7194"	name1="드래곤의 숨겨진 보물"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7195"	name1="트레져 헌터"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="7196"	name1="배고픈 자에게 구원을"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8001"	name1="미숙한 제작가"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8002"	name1="뛰어난 제작가"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8003"	name1="환상적인 제작가"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8004"	name1="전설적인 제작가"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8005"	name1="미숙한 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8006"	name1="익숙한 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8007"	name1="능숙한 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8008"	name1="뛰어난 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8009"	name1="유명한 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8010"	name1="환상적인 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8011"	name1="천재적인 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8012"	name1="전설적인 의뢰자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8013"	name1="소드 제조의 달인"	name2=""	name3=""	desc="각종 소드 제조에 대해 통달한 자만이 얻을 수 있는 이 명성은 더욱 값질 수 밖에 없다."	/>
+		<title_msg	msg_id="8014"	name1="아머 제조의 달인"	name2=""	name3=""	desc="각종 아머방어구 제조에 대해 통달한 자만이 얻을 수 있는 이 명성은 더욱 값질 수 밖에 없다."	/>
+		<title_msg	msg_id="8015"	name1="배틀 제조의 달인"	name2=""	name3=""	desc="각종 배틀방어구 제조에 대해 통달한 자만이 얻을 수 있는 이 명성은 더욱 값질 수 밖에 없다."	/>
+		<title_msg	msg_id="8016"	name1="마샬 제조의 달인"	name2=""	name3=""	desc="각종 마샬방어구 제조에 대해 통달한 자만이 얻을 수 있는 이 명성은 더욱 값질 수 밖에 없다."	/>
+		<title_msg	msg_id="8017"	name1="아티펙트 제조의 달인"	name2=""	name3=""	desc="각종 아티팩트 제조에 대해 통달한 자만이 얻을 수 있는 이 명성은 더욱 값질 수 밖에 없다."	/>
+		<title_msg	msg_id="8018"	name1="제작의 대가"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8019"	name1="제작의 거장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8020"	name1="의뢰의 대가"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8021"	name1="의뢰의 거장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8022"	name1="제작의 달인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="8023"	name1="의뢰의 달인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10001"	name1="건물 소유주"	name2=""	name3=""	desc="월세만 받아도 그럭저럭 먹고 산단다"	/>
+		<title_msg	msg_id="10002"	name1="거리의 주인"	name2=""	name3=""	desc="저 끝에 있는 건물 보이니? 여기서부터 저 끝까지가 다 내 건물이야"	/>
+		<title_msg	msg_id="10003"	name1="뜻하는대로 이뤄지리라"	name2=""	name3=""	desc="내가 손을 대는 일에 실패는 없다! 언제까지고 최고의 아이템만을 만들어 낸다!"	/>
+		<title_msg	msg_id="10004"	name1="도도한 안목"	name2=""	name3=""	desc="이름만 최고인 아이템은 상대하지 않는다. 진정 최고가 아니라면 모두 파괴!"	/>
+		<title_msg	msg_id="10005"	name1="이름모를 나라의 왕자"	name2=""	name3=""	desc="취미삼아 바이크/보드를 깨는 당신은 정녕 이름모를 나라의 왕자님"	/>
+		<title_msg	msg_id="10006"	name1="명품 감별사"	name2=""	name3=""	desc="진정한 명품이 아니면, 아무리 3슬롯이라 해도 존재할 가치가 없는 법"	/>
+		<title_msg	msg_id="10007"	name1="3슬롯 뚫는 장인"	name2=""	name3=""	desc="진정한 명품을 만들기 위해, 슬롯을 열어본다"	/>
+		<title_msg	msg_id="10008"	name1="무엇으로도 구속할 수 없는"	name2=""	name3=""	desc="고작 귀속따위에 구애받지 않는다"	/>
+		<title_msg	msg_id="10009"	name1="무엇으로도 제한할 수 없는"	name2=""	name3=""	desc="겨우 귀속정도에 끌려가지 않는다"	/>
+		<title_msg	msg_id="10010"	name1="황금빛 노을에 물들다"	name2=""	name3=""	desc="황금빛 노을의 바이칼리탄, 하지만 이제 '황금빛 노을'이란 수식어는 수없이 그를 쓰러뜨린 자에게 더 어울린다."	/>
+		<title_msg	msg_id="10011"	name1="분노를 잠재우는 자"	name2=""	name3=""	desc="인간들을 향한 분노에서 태어난 분노의 아케인 골렘, 그러나 그의 분노는 그를 쓰러뜨린 자에게는 한낱 미약한 울림일 뿐."	/>
+		<title_msg	msg_id="10012"	name1="하나가 아닌"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10013"	name1="눈부신 성장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10014"	name1="지치지 않는 성장"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10015"	name1="오르고 오르는 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10016"	name1="한계를 모르는 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10017"	name1="모든 이들의 위에 서 있는"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10018"	name1="하루 세번은 기본"	name2=""	name3=""	desc="레전드 아레나의 비싼 열쇠 값을 감당할 수 있을까요?"	/>
+		<title_msg	msg_id="10019"	name1="용사의 열쇠 수집가"	name2=""	name3=""	desc="레전드 아레나의 열쇠 값은 아무것도 아니죠."	/>
+		<title_msg	msg_id="10020"	name1="하얗게 불태운 영웅"	name2=""	name3=""	desc="레전드 아레나에서 하얗게 불태웠군요."	/>
+		<title_msg	msg_id="10021"	name1="속전속결"	name2=""	name3=""	desc="레전드 아레나에서 속전속결로 죽은 자에게 어울리는.."	/>
+		<title_msg	msg_id="10022"	name1="누구보다 빠르게"	name2=""	name3=""	desc="레전드 아레나에서 배운 쓸모없는 지식"	/>
+		<title_msg	msg_id="10023"	name1="필멸의 영웅"	name2=""	name3=""	desc="레전드 아레나에서 늘 일찍 죽는 영웅들을 이렇게 부르죠."	/>
+		<title_msg	msg_id="10024"	name1="장기전에 대가"	name2=""	name3=""	desc="레전드 아레나에서의 1분 !"	/>
+		<title_msg	msg_id="10025"	name1="아레나의 버팀목"	name2=""	name3=""	desc="레전드 아레나에서 오랜 기간 살아온 영웅."	/>
+		<title_msg	msg_id="10026"	name1="불멸의 영웅"	name2=""	name3=""	desc="레전드 아레나에서 좀 놀아 본 영웅들을 이렇게 부르죠."	/>
+		<title_msg	msg_id="10027"	name1="네바레스의 극의를 깨달은 자"	name2=""	name3=""	desc="1400호칭"	/>
+		<title_msg	msg_id="10028"	name1="무한의 힘을 추구하는 자"	name2=""	name3=""	desc="1600호칭"	/>
+		<title_msg	msg_id="10029"	name1="힘의 극한에 다가가는 자"	name2=""	name3=""	desc="1800호칭"	/>
+		<title_msg	msg_id="10030"	name1="대장장이"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10031"	name1="장인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10032"	name1="만 번 두드린 자"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10033"	name1="혼돈의 힘을 맛보다"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10034"	name1="이것이 혼돈의 힘"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10035"	name1="혼돈과 함께한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10036"	name1="디바인의 힘을 맛보다"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10037"	name1="이것이 디바인의 힘"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10038"	name1="디바인과 함께한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10039"	name1="손에 기름칠을 한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10040"	name1="마이너스의 손"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10041"	name1="바람과 함께 사라지다"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10042"	name1="혼돈의 힘이 거부한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10043"	name1="다음 기회에"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10044"	name1="디바인의 힘이 거부한"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10045"	name1="옷장 좀 채운"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10046"	name1="패션의 시작"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10047"	name1="패션을 잘 아는"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10048"	name1="패션에 진심인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10049"	name1="선반 좀 채운"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10050"	name1="스타일링의 시작"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10051"	name1="스타일 좀 아는"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10052"	name1="스타일링에 진심인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10053"	name1="무기고 좀 채운"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10054"	name1="무기 튜닝의 시작"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10055"	name1="튜닝의 끝은 튜닝"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10056"	name1="무기 튜닝에 진심인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10057"	name1="포스윙을 잘 아는"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10058"	name1="포스윙 코스튬이 다섯개!"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10059"	name1="포스윙에 진심인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10060"	name1="날개를 활짝 편"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10061"	name1="탈 것을 잘 아는"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10062"	name1="탈 것 코스튬이 다섯개!"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10063"	name1="탈 것에 진심인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10064"	name1="바람을 가르며 달리는"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10065"	name1="넘치는 힘을 손에 넣은 자"	name2=""	name3=""	desc="2000호칭"	/>
+		<title_msg	msg_id="10066"	name1="첫 번째 작은 동료"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10067"	name1="귀여운 나의 동료들"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10068"	name1="테이밍에 진심인"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="10069"	name1="휼륭한 집사가 된"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11001"	name1="GM을 때려잡은"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11002"	name1="맨손으로 GM을 때려잡은"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11003"	name1="지지 않는 태양"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11004"	name1="신세계를 여는 바람"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11005"	name1="안 쓰는 호칭(번역도 필요없어요)"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11006"	name1="거룩한 혁명의 완성"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11007"	name1="거룩한 혁명의 선봉"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11008"	name1="네바레스 필승 대대"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11009"	name1="네바레스 최강 연대"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11010"	name1="네바레스 무적 사단"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11011"	name1="네바레스 역사의 계승자들I"	name2=""	name3=""	desc="창설한 지 1주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11012"	name1="네바레스 역사의 계승자들II"	name2=""	name3=""	desc="창설한 지 2주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11013"	name1="네바레스 역사의 계승자들III"	name2=""	name3=""	desc="창설한 지 3주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11014"	name1="네바레스 역사의 계승자들IV"	name2=""	name3=""	desc="창설한 지 4주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11015"	name1="네바레스 역사의 계승자들V"	name2=""	name3=""	desc="창설한 지 5주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11016"	name1="네바레스 역사의 계승자들VI"	name2=""	name3=""	desc="창설한 지 6주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11017"	name1="네바레스 역사의 계승자들VII"	name2=""	name3=""	desc="창설한 지 7주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11018"	name1="네바레스 역사의 계승자들VIII"	name2=""	name3=""	desc="창설한 지 8주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11019"	name1="네바레스 역사의 계승자들IX"	name2=""	name3=""	desc="창설한 지 9주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11020"	name1="네바레스 역사의 계승자들X"	name2=""	name3=""	desc="창설한 지 10주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11021"	name1="영자와 고기 먹은"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11022"	name1="영자와 고기 먹을뻔한"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11023"	name1="네바레스 결의의 단원"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11024"	name1="제 1회 히어로 오브 네바레스"	name2=""	name3=""	desc="제 1회 서버 대항전 우승자에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11025"	name1="제 1회 나이트 오브 네바레스"	name2=""	name3=""	desc="제 1회 서버 대항전 준우승자에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11026"	name1="제 1회 네바레스 리더"	name2=""	name3=""	desc="제 1회 서버 대항전 참가자에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11027"	name1="카발미녀"	name2=""	name3=""	desc="카발걸 컨테스트를 통해 선발된 12명의 카발미녀"	/>
+		<title_msg	msg_id="11028"	name1="카발 온라인 GM"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11029"	name1="온유한 결속"	name2=""	name3=""	desc="1레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11030"	name1="강인한 결속"	name2=""	name3=""	desc="2레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11031"	name1="신실한 결속"	name2=""	name3=""	desc="3레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11032"	name1="굳건한 결속"	name2=""	name3=""	desc="4레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11033"	name1="완전한 결속"	name2=""	name3=""	desc="5레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11034"	name1="새로운 세계의 탐험가"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11035"	name1="새로운 세계의 개척자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11036"	name1="새로운 세계의 인도자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11037"	name1="전투 지휘자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11038"	name1="칼날 위의 댄서"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11039"	name1="신념으로 구성된 벙커"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11040"	name1="라이트닝 아티스트"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11041"	name1="언데드의 종결자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11042"	name1="블랙홀에서 날아온 화살"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11043"	name1="버그 종결자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11044"	name1="두려움 없는 기자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11045"	name1="원로 유저"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11046"	name1="던전킬러"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11047"	name1="엄친아"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11048"	name1="명필"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11049"	name1="노동절 축하"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11050"	name1="즐거운 초딩"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11051"	name1="난 즐거운 종자"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11052"	name1="I'm Legend"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11053"	name1="신들린 몸매"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11054"	name1="카발 서포터즈 길드"	name2=""	name3=""	desc="최강의 서포터즈 길드를 찾아라 이벤트에 당첨된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11055"	name1="모두 나를 주목하라"	name2=""	name3=""	desc="휴식을 마치고 네바레스로 돌아온 전사에게 주어지는 호칭이다. 잠자고 있던 실력을 깨워 명성을 되찾아라."	/>
+		<title_msg	msg_id="11056"	name1="네바레스 패밀리"	name2=""	name3=""	desc="우리는 카발로 묶인 하나의 가족입니다!"	/>
+		<title_msg	msg_id="11057"	name1="네바레스 월드챔피언"	name2=""	name3=""	desc="전세계 최고 실력을 가진 나야말로 지존!"	/>
+		<title_msg	msg_id="11058"	name1="내 캐릭터는 한 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 1년이 넘었군요."	/>
+		<title_msg	msg_id="11059"	name1="내 캐릭터는 두 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 2년이 넘었군요."	/>
+		<title_msg	msg_id="11060"	name1="내 캐릭터는 세 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 3년이 넘었군요."	/>
+		<title_msg	msg_id="11061"	name1="내 캐릭터는 네 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 4년이 넘었군요."	/>
+		<title_msg	msg_id="11062"	name1="내 캐릭터는 다섯 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 5년이 넘었군요."	/>
+		<title_msg	msg_id="11063"	name1="내 캐릭터는 여섯 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 6년이 넘었군요."	/>
+		<title_msg	msg_id="11064"	name1="내 캐릭터는 일곱 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 7년이 넘었군요."	/>
+		<title_msg	msg_id="11065"	name1="내 캐릭터는 여덟 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 8년이 넘었군요."	/>
+		<title_msg	msg_id="11066"	name1="내 캐릭터는 아홉 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 9년이 넘었군요."	/>
+		<title_msg	msg_id="11067"	name1="내 캐릭터는 열 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 10년이 넘었군요."	/>
+		<title_msg	msg_id="11068"	name1="내 캐릭터는 열한 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 11년이 넘었군요."	/>
+		<title_msg	msg_id="11069"	name1="내 캐릭터는 열두 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 12년이 넘었군요."	/>
+		<title_msg	msg_id="11070"	name1="내 캐릭터는 열세 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 13년이 넘었군요."	/>
+		<title_msg	msg_id="11071"	name1="내 캐릭터는 열네 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 14년이 넘었군요."	/>
+		<title_msg	msg_id="11072"	name1="내 캐릭터는 열다섯 살!"	name2=""	name3=""	desc="네바레스 생활이 어느덧 15년이 넘었군요."	/>
+		<title_msg	msg_id="11073"	name1="거리를 넘어선 결속"	name2=""	name3=""	desc="6레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11074"	name1="국경을 넘어선 결속"	name2=""	name3=""	desc="7레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11075"	name1="대륙을 넘어선 결속"	name2=""	name3=""	desc="8레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11076"	name1="종족을 넘어선 결속"	name2=""	name3=""	desc="9레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11077"	name1="시대를 초월한 결속"	name2=""	name3=""	desc="10레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11078"	name1="시공을 초월한 결속"	name2=""	name3=""	desc="11레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11079"	name1="신성한 불멸의 결속"	name2=""	name3=""	desc="12레벨 길드에 부여되는 호칭"	/>
+		<title_msg	msg_id="11080"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 1"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 1"	/>
+		<title_msg	msg_id="11081"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 2"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 2"	/>
+		<title_msg	msg_id="11082"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 3"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 3"	/>
+		<title_msg	msg_id="11083"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 4"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 4"	/>
+		<title_msg	msg_id="11084"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 5"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 5"	/>
+		<title_msg	msg_id="11085"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 6"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 6"	/>
+		<title_msg	msg_id="11086"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 7"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 7"	/>
+		<title_msg	msg_id="11087"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 8"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 8"	/>
+		<title_msg	msg_id="11088"	name1="무신"	name2=""	name3=""	desc="PvP Battle의 랭킹 1위에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11089"	name1="투신"	name2=""	name3=""	desc="PvP Battle의 랭킹 2위에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11090"	name1="패왕"	name2=""	name3=""	desc="PvP Battle의 랭킹 3위에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11091"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 9"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 9"	/>
+		<title_msg	msg_id="11092"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 10"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 10"	/>
+		<title_msg	msg_id="11093"	name1="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 11"	name2=""	name3=""	desc="전 서비스 사이좋게 쓰는 옵션 없는 이벤트 호칭 설명 11"	/>
+		<title_msg	msg_id="11094"	name1="힘과 믿음의 초월"	name2=""	name3=""	desc="모든 초월 용병 조각을 얻게되면 부여되는 호칭"	/>
+		<title_msg	msg_id="11095"	name1="천재"	name2=""	name3=""	desc="당신은 카발 온라인 상위 1%의 진정한 지니어스 !!"	/>
+		<title_msg	msg_id="11096"	name1="역시는 역시"	name2=""	name3=""	desc="모두가 당신을 보고 '역시!!!'라며 감탄합니다."	/>
+		<title_msg	msg_id="11097"	name1="걸어다니는 백과사전"	name2=""	name3=""	desc="모두들 당신을 '걸어다니는 카발 온라인의 백과사전'이라고 칭송합니다."	/>
+		<title_msg	msg_id="11098"	name1="네바레스 역사의 계승자들XI"	name2=""	name3=""	desc="창설한 지 11주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11099"	name1="네바레스 역사의 계승자들XII"	name2=""	name3=""	desc="창설한 지 12주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11100"	name1="네바레스 역사의 계승자들XIII"	name2=""	name3=""	desc="창설한 지 13주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11101"	name1="네바레스 역사의 계승자들XIV"	name2=""	name3=""	desc="창설한 지 14주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11102"	name1="네바레스 역사의 계승자들XV"	name2=""	name3=""	desc="창설한 지 15주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11103"	name1="네바레스 역사의 계승자들XVI"	name2=""	name3=""	desc="창설한 지 16주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11104"	name1="네바레스 역사의 계승자들XVII"	name2=""	name3=""	desc="창설한 지 17주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11105"	name1="네바레스 역사의 계승자들XVIII"	name2=""	name3=""	desc="창설한 지 18주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11106"	name1="네바레스 역사의 계승자들XIX"	name2=""	name3=""	desc="창설한 지 19주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11107"	name1="네바레스 역사의 계승자들XX"	name2=""	name3=""	desc="창설한 지 20주년 이상된 길드에 지급되는 호칭"	/>
+		<title_msg	msg_id="11108"	name1="CBT Master"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11109"	name1="PATH OF THE EMPEROR"	name2=""	name3=""	desc="오프라인 이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11110"	name1="Unbreakable Bond"	name2=""	name3=""	desc="이벤트를 통해 획득한 호칭"	/>
+		<title_msg	msg_id="11111"	name1="신검의 선택을 받은"	name2=""	name3=""	desc="신검의 선택을 받은 자에게 주어지는 호칭"	/>
+		<title_msg	msg_id="11112"	name1="The Conqueror"	name2=""	name3=""	desc="PvP 이벤트 우승자에게 지급되는 호칭"	/>
+		<title_msg	msg_id="11113"	name1="Yorme ng CABAL"	name2=""	name3=""	desc="PH 레벨업 이벤트 호칭"	/>
+		<title_msg	msg_id="11114"	name1="시련따윈 우스운"	name2=""	name3=""	desc="무한의 시련에서 1위를 달성한 유저에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11115"	name1="무한한 시련을 극복한"	name2=""	name3=""	desc="무한의 시련에서 2~3위를 달성한 유저에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11116"	name1="무한한 시련에 맞선"	name2=""	name3=""	desc="무한의 시련에서 4~10위를 달성한 유저에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11117"	name1="시련을 극복한"	name2=""	name3=""	desc="무한의 시련에서 11~20위를 달성한 유저에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11118"	name1="시련에 맞선"	name2=""	name3=""	desc="무한의 시련에서 21~50위를 달성한 유저에게 부여되는 호칭"	/>
+		<title_msg	msg_id="11119"	name1="Cabal War of the Ancients : Phoenix 2023"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11120"	name1="대만 서비스 이전 전용 호칭"	name2=""	name3=""	desc="대만 서비스 이전을 완료한 유저들에게 지급되는 호칭"	/>
+		<title_msg	msg_id="11121"	name1="중국 전용 신규 호칭 1"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11122"	name1="중국 전용 신규 호칭 2"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11123"	name1="중국 전용 신규 호칭 3"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11124"	name1="중국 전용 신규 호칭 4"	name2=""	name3=""	desc=""	/>
+		<title_msg	msg_id="11125"	name1="중국 전용 신규 호칭 5"	name2=""	name3=""	desc=""	/>
+	</title>
+	<who>
+		<who_msg	msg_id="1"	msg=""	/>
+		<who_msg	msg_id="2"	msg="중립 소속일 때"	/>
+		<who_msg	msg_id="3"	msg="카펠라 소속일 때"	/>
+		<who_msg	msg_id="4"	msg="프로키온 소속일 때"	/>
+		<who_msg	msg_id="5"	msg="워리어"	/>
+		<who_msg	msg_id="6"	msg="블레이더"	/>
+		<who_msg	msg_id="7"	msg="위저드"	/>
+		<who_msg	msg_id="8"	msg="포스아처"	/>
+		<who_msg	msg_id="9"	msg="포스실더"	/>
+		<who_msg	msg_id="10"	msg="포스블레이더"	/>
+		<who_msg	msg_id="11"	msg="싱글"	/>
+		<who_msg	msg_id="12"	msg="파티"	/>
+		<who_msg	msg_id="13"	msg="파티원이 모두 친구"	/>
+		<who_msg	msg_id="14"	msg="파티원이 모두 길드원"	/>
+		<who_msg	msg_id="15"	msg="글래디에이터"	/>
+		<who_msg	msg_id="16"	msg="포스거너"	/>
+		<who_msg	msg_id="17"	msg="다크메이지"	/>
+	</who>
+	<action>
+		<action_msg	msg_id="1"	msg="처치"	/>
+		<action_msg	msg_id="2"	msg="전투에서 죽음"	/>
+		<action_msg	msg_id="3"	msg="PVP 참가"	/>
+		<action_msg	msg_id="4"	msg="PVP 승리"	/>
+		<action_msg	msg_id="5"	msg="PVP 패배"	/>
+		<action_msg	msg_id="6"	msg="전쟁 참가"	/>
+		<action_msg	msg_id="7"	msg="전쟁 승리"	/>
+		<action_msg	msg_id="8"	msg="달성"	/>
+		<action_msg	msg_id="9"	msg="아니마 마스터리 옵션 획득"	/>
+		<action_msg	msg_id="10"	msg="제조 레시피 획득"	/>
+		<action_msg	msg_id="11"	msg="제조 성공"	/>
+		<action_msg	msg_id="12"	msg="제조 실패"	/>
+		<action_msg	msg_id="13"	msg="퀘스트 완료"	/>
+		<action_msg	msg_id="14"	msg="던전 진입"	/>
+		<action_msg	msg_id="15"	msg="던전 완료"	/>
+		<action_msg	msg_id="16"	msg="획득(루팅)"	/>
+		<action_msg	msg_id="17"	msg="장착"	/>
+		<action_msg	msg_id="18"	msg="파괴"	/>
+		<action_msg	msg_id="19"	msg="획득(루팅)"	/>
+		<action_msg	msg_id="20"	msg="사용"	/>
+		<action_msg	msg_id="21"	msg="일반 강화 성공"	/>
+		<action_msg	msg_id="22"	msg="일반 강화 실패"	/>
+		<action_msg	msg_id="23"	msg="속성 부여 성공"	/>
+		<action_msg	msg_id="24"	msg="속성 부여 실패"	/>
+		<action_msg	msg_id="25"	msg="Alz 획득"	/>
+		<action_msg	msg_id="26"	msg="Alz 지출"	/>
+		<action_msg	msg_id="27"	msg="스킬 등록"	/>
+		<action_msg	msg_id="28"	msg="스킬 삭제"	/>
+		<action_msg	msg_id="29"	msg="스킬 사용"	/>
+		<action_msg	msg_id="30"	msg="스킬 사용당함"	/>
+		<action_msg	msg_id="31"	msg="편지하기"	/>
+		<action_msg	msg_id="32"	msg="편지받기"	/>
+		<action_msg	msg_id="33"	msg="달성"	/>
+		<action_msg	msg_id="34"	msg="참가"	/>
+		<action_msg	msg_id="35"	msg="우승"	/>
+		<action_msg	msg_id="36"	msg="포스젬 획득"	/>
+		<action_msg	msg_id="37"	msg="포스젬 사용"	/>
+		<action_msg	msg_id="38"	msg="일반 강화 시도"	/>
+		<action_msg	msg_id="39"	msg="카오스 강화 성공"	/>
+		<action_msg	msg_id="40"	msg="카오스 강화 실패"	/>
+		<action_msg	msg_id="41"	msg="카오스 강화 시도"	/>
+		<action_msg	msg_id="42"	msg="디바인 강화 성공"	/>
+		<action_msg	msg_id="43"	msg="디바인 강화 실패"	/>
+		<action_msg	msg_id="44"	msg="디바인 강화 시도"	/>
+		<action_msg	msg_id="45"	msg="획득(추출)"	/>
+		<action_msg	msg_id="46"	msg="코스튬"	/>
+		<action_msg	msg_id="47"	msg="파츠 강화 레벨"	/>
+		<action_msg	msg_id="48"	msg="파츠 조립"	/>
+		<action_msg	msg_id="49"	msg="파츠 조율"	/>
+	</action>
+	<target>
+		<target_msg	msg_id="0"	msg1=""	msg2=""	/>
+		<target_msg	msg_id="1"	msg1="유저를 상대로"	msg2=""	/>
+		<target_msg	msg_id="2"	msg1=""	msg2="(처치 대상)"	/>
+		<target_msg	msg_id="3"	msg1=""	msg2="레벨"	/>
+		<target_msg	msg_id="4"	msg1="명예 등급 "	msg2="등급"	/>
+		<target_msg	msg_id="5"	msg1=""	msg2="AP"	/>
+		<target_msg	msg_id="6"	msg1=""	msg2="DP"	/>
+		<target_msg	msg_id="7"	msg1=""	msg2="WExp"	/>
+		<target_msg	msg_id="8"	msg1="스킬 랭크"	msg2=""	/>
+		<target_msg	msg_id="9"	msg1="펫 "	msg2="레벨"	/>
+		<target_msg	msg_id="10"	msg1="일반 제조 "	msg2="레벨"	/>
+		<target_msg	msg_id="11"	msg1="전문 제조 "	msg2="레벨"	/>
+		<target_msg	msg_id="12"	msg1="제조 레시피 "	msg2="개"	/>
+		<target_msg	msg_id="13"	msg1="모든 퀘스트"	msg2=""	/>
+		<target_msg	msg_id="14"	msg1="시나리오 퀘스트"	msg2=""	/>
+		<target_msg	msg_id="15"	msg1="일반 퀘스트"	msg2=""	/>
+		<target_msg	msg_id="16"	msg1="일일 퀘스트"	msg2=""	/>
+		<target_msg	msg_id="17"	msg1="<"	msg2="> 퀘스트"	/>
+		<target_msg	msg_id="18"	msg1="+"	msg2=" 아이템"	/>
+		<target_msg	msg_id="19"	msg1="MD 던전"	msg2=""	/>
+		<target_msg	msg_id="20"	msg1="DX 던전"	msg2=""	/>
+		<target_msg	msg_id="21"	msg1="개인 거래로"	msg2=""	/>
+		<target_msg	msg_id="22"	msg1="위탁 상점에서"	msg2=""	/>
+		<target_msg	msg_id="23"	msg1="NPC 상점에서"	msg2=""	/>
+		<target_msg	msg_id="24"	msg1="소드 스킬"	msg2=""	/>
+		<target_msg	msg_id="25"	msg1="매직 스킬"	msg2=""	/>
+		<target_msg	msg_id="26"	msg1="스페셜 스킬"	msg2=""	/>
+		<target_msg	msg_id="27"	msg1="업그레이드 스킬"	msg2=""	/>
+		<target_msg	msg_id="28"	msg1="콤보"	msg2=""	/>
+		<target_msg	msg_id="29"	msg1="디버프"	msg2=""	/>
+		<target_msg	msg_id="30"	msg1="버프"	msg2=""	/>
+		<target_msg	msg_id="31"	msg1="힐"	msg2=""	/>
+		<target_msg	msg_id="32"	msg1="친구"	msg2=""	/>
+		<target_msg	msg_id="33"	msg1="길드원"	msg2=""	/>
+		<target_msg	msg_id="34"	msg1="<"	msg2="> 업적"	/>
+		<target_msg	msg_id="35"	msg1="업적 점수 "	msg2="점"	/>
+		<target_msg	msg_id="36"	msg1="강화 세트"	msg2=""	/>
+		<target_msg	msg_id="37"	msg1="바이크"	msg2=""	/>
+		<target_msg	msg_id="38"	msg1=""	msg2="제작 숙련도"	/>
+		<target_msg	msg_id="39"	msg1="우호도"	msg2=""	/>
+		<target_msg	msg_id="40"	msg1="참"	msg2=""	/>
+		<target_msg	msg_id="41"	msg1="보드"	msg2=""	/>
+		<target_msg	msg_id="42"	msg1="티타니움 세트"	msg2=""	/>
+		<target_msg	msg_id="43"	msg1="섀도우 티타니움 세트"	msg2=""	/>
+		<target_msg	msg_id="44"	msg1="오스미움 세트"	msg2=""	/>
+		<target_msg	msg_id="45"	msg1="샤인가드, 테라그레이스, 미스틱 세트"	msg2=""	/>
+		<target_msg	msg_id="46"	msg1="시그메탈 세트"	msg2=""	/>
+		<target_msg	msg_id="47"	msg1="미스릴 또는 유니크 세트"	msg2=""	/>
+		<target_msg	msg_id="48"	msg1="3슬롯 장비"	msg2=""	/>
+		<target_msg	msg_id="49"	msg1="글로벌 캠프"	msg2=""	/>
+		<target_msg	msg_id="50"	msg1="글로벌 캠프 미션 배틀 이벤트"	msg2=""	/>
+		<target_msg	msg_id="51"	msg1="통합 레벨 "	msg2=""	/>
+		<target_msg	msg_id="52"	msg1="아크리디움 세트"	msg2=""	/>
+		<target_msg	msg_id="53"	msg1="팔라디움 세트"	msg2=""	/>
+		<target_msg	msg_id="54"	msg1="데모나이트 세트"	msg2=""	/>
+		<target_msg	msg_id="55"	msg1=""	msg2="환생"	/>
+		<target_msg	msg_id="56"	msg1="드래고늄 세트"	msg2=""	/>
+	</target>
+	<situation>
+		<situation_msg	msg_id="1"	msg1="장비 착용 "	msg2="개"	/>
+		<situation_msg	msg_id="2"	msg1="HP "	msg2="% 이하"	/>
+		<situation_msg	msg_id="3"	msg1="HP "	msg2="%"	/>
+		<situation_msg	msg_id="4"	msg1="HP "	msg2="% 이상"	/>
+		<situation_msg	msg_id="5"	msg1="MP "	msg2="% 이하"	/>
+		<situation_msg	msg_id="6"	msg1="MP "	msg2="%"	/>
+		<situation_msg	msg_id="7"	msg1="MP "	msg2="% 이상"	/>
+		<situation_msg	msg_id="8"	msg1="미션 전쟁 채널에서"	msg2=""	/>
+		<situation_msg	msg_id="9"	msg1="전쟁 채널에서"	msg2=""	/>
+		<situation_msg	msg_id="10"	msg1="일반 채널에서"	msg2=""	/>
+		<situation_msg	msg_id="11"	msg1="죽음 "	msg2="회"	/>
+		<situation_msg	msg_id="12"	msg1=""	msg2="초 이내"	/>
+		<situation_msg	msg_id="13"	msg1=""	msg2="초 이상"	/>
+		<situation_msg	msg_id="14"	msg1="죽음 "	msg2="회 이상"	/>
+	</situation>
+</achievement_message>

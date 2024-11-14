@@ -1,0 +1,95 @@
+
+<cabal_drop_list_message>
+	<category_num>
+		<name	category="1"	msg="Weapon"	/>
+		<name	category="2"	msg="Armor"	/>
+		<name	category="3"	msg="Epaulet"	/>
+		<name	category="4"	msg="Bike"	/>
+		<name	category="5"	msg="Extender"	/>
+		<name	category="6"	msg="Accessory"	/>
+		<name	category="7"	msg="Material"	/>
+		<name	category="8"	msg="Mercenary Card Piece"	/>
+		<name	category="9"	msg="Rune"	/>
+		<name	category="10"	msg="Unbinding Stone"	/>
+		<name	category="11"	msg="Helmet"	/>
+		<name	category="12"	msg="Gloves"	/>
+		<name	category="13"	msg="Boots"	/>
+		<name	category="14"	msg="Suit"	/>
+		<name	category="15"	msg="Piece"	/>
+		<name	category="16"	msg="Board"	/>
+		<name	category="17"	msg="Craftsman's Weapon"	/>
+		<name	category="18"	msg="Craftsman's Armor"	/>
+		<name	category="19"	msg="Goods"	/>
+		<name	category="20"	msg="Option Scroll"	/>
+		<name	category="21"	msg="Others"	/>
+		<name	category="22"	msg="Charm"	/>
+		<name	category="23"	msg="Artifact"	/>
+	</category_num>
+	<grade_num>
+		<grade	category="1"	num="4"	msg="Citrine / Shadow Steel"	/>
+		<grade	category="1"	num="5"	msg="Bluestin"	/>
+		<grade	category="1"	num="6"	msg="Pherystin / Titanium"	/>
+		<grade	category="1"	num="7"	msg="Aqua / Shadow Titanium"	/>
+		<grade	category="1"	num="8"	msg="Lapis / Osmium"	/>
+		<grade	category="1"	num="9"	msg="Topaz / Red Osmium"	/>
+		<grade	category="1"	num="10"	msg="SIGMetal"	/>
+		<grade	category="1"	num="11"	msg="Mithril"	/>
+		<grade	category="1"	num="2001"	msg="Lycanus"	/>
+		<grade	category="1"	num="12"	msg="Archridium"	/>
+		<grade	category="1"	num="13"	msg="Palladium"	/>
+		<grade	category="1"	num="14"	msg="Demonite"	/>
+		<grade	category="1"	num="15"	msg="Dragonium"	/>
+		<grade	category="2"	num="4"	msg="Shadow Steel / Aramid"	/>
+		<grade	category="2"	num="5"	msg="Bluestin"	/>
+		<grade	category="2"	num="6"	msg="Titanium"	/>
+		<grade	category="2"	num="7"	msg="Shadow Titanium"	/>
+		<grade	category="2"	num="8"	msg="Osmium"	/>
+		<grade	category="2"	num="9"	msg="Shineguard / Mystic / Teragrace"	/>
+		<grade	category="2"	num="10"	msg="SIGMetal"	/>
+		<grade	category="2"	num="11"	msg="Mithril"	/>
+		<grade	category="2"	num="2002"	msg="Drei Frame"	/>
+		<grade	category="2"	num="12"	msg="Archridium"	/>
+		<grade	category="2"	num="13"	msg="Palladium"	/>
+		<grade	category="2"	num="14"	msg="Demonite"	/>
+		<grade	category="2"	num="15"	msg="Dragonium"	/>
+		<grade	category="3"	num="4"	msg="Shadow Aramid"	/>
+		<grade	category="3"	num="5"	msg="Bluestin"	/>
+		<grade	category="3"	num="7"	msg="Shadow Titanium"	/>
+		<grade	category="3"	num="6"	msg="Titanium"	/>
+		<grade	category="3"	num="8"	msg="Osmium"	/>
+		<grade	category="3"	num="9"	msg="Rare"	/>
+		<grade	category="3"	num="10"	msg="SIGMetal"	/>
+		<grade	category="3"	num="11"	msg="Mithril"	/>
+		<grade	category="3"	num="2002"	msg="Drei Frame"	/>
+		<grade	category="3"	num="12"	msg="Archridium"	/>
+		<grade	category="3"	num="13"	msg="Palladium"	/>
+		<grade	category="3"	num="14"	msg="Demonite"	/>
+		<grade	category="3"	num="15"	msg="Dragonium"	/>
+		<grade	category="17"	num="4"	msg="Citrine / Shadow Steel"	/>
+		<grade	category="17"	num="5"	msg="Bluestin"	/>
+		<grade	category="17"	num="6"	msg="Pherystin / Titanium"	/>
+		<grade	category="17"	num="7"	msg="Aqua / Shadow Titanium"	/>
+		<grade	category="17"	num="8"	msg="Lapis / Osmium"	/>
+		<grade	category="17"	num="9"	msg="Topaz / Red Osmium"	/>
+		<grade	category="17"	num="10"	msg="SIGMetal"	/>
+		<grade	category="17"	num="11"	msg="Mithril"	/>
+		<grade	category="17"	num="2001"	msg="Lycanus"	/>
+		<grade	category="17"	num="12"	msg="Archridium"	/>
+		<grade	category="17"	num="13"	msg="Palladium"	/>
+		<grade	category="17"	num="14"	msg="Demonite"	/>
+		<grade	category="17"	num="15"	msg="Dragonium"	/>
+		<grade	category="18"	num="4"	msg="Shadow Steel / Aramid"	/>
+		<grade	category="18"	num="5"	msg="Bluestin"	/>
+		<grade	category="18"	num="6"	msg="Titanium"	/>
+		<grade	category="18"	num="7"	msg="Shadow Titanium"	/>
+		<grade	category="18"	num="8"	msg="Osmium"	/>
+		<grade	category="18"	num="9"	msg="Shineguard / Mystic / Teragrace"	/>
+		<grade	category="18"	num="10"	msg="SIGMetal"	/>
+		<grade	category="18"	num="11"	msg="Mithril"	/>
+		<grade	category="18"	num="2002"	msg="Drei Frame"	/>
+		<grade	category="18"	num="12"	msg="Archridium"	/>
+		<grade	category="18"	num="13"	msg="Palladium"	/>
+		<grade	category="18"	num="14"	msg="Demonite"	/>
+		<grade	category="18"	num="15"	msg="Dragonium"	/>
+	</grade_num>
+</cabal_drop_list_message>

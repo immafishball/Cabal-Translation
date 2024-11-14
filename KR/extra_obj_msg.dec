@@ -1,0 +1,185 @@
+<cabal_message>
+	<version	index="1"	/>
+	<extra_obj_msg>
+		<msg	id="extra_npc_000"	cont="포인트 상점"	/>
+		<msg	id="extra_npc_001"	cont="위탁상인 레이디 예카테리나"	/>
+		<msg	id="extra_npc_002"	cont="이벤트 에이전트 율"	/>
+		<msg	id="extra_npc_003"	cont="룬 에이전트 플라샤"	/>
+		<msg	id="extra_npc_004"	cont="오피서 헨코프"	/>
+		<msg	id="extra_npc_005"	cont="인스트럭터 오코너"	/>
+		<msg	id="extra_npc_006"	cont="창고가드 피셔"	/>
+		<msg	id="extra_npc_007"	cont="무기상인 프뤼트"	/>
+		<msg	id="extra_npc_008"	cont="방어구상인 사이먼"	/>
+		<msg	id="extra_npc_009"	cont="마법상인 켈러"	/>
+		<msg	id="extra_npc_0010"	cont="잡화상인 데이튼"	/>
+		<msg	id="extra_npc_0011"	cont="마일즈"	/>
+		<msg	id="extra_npc_0012"	cont="에릭"	/>
+		<msg	id="extra_npc_0013"	cont="보디가드 허도르"	/>
+		<msg	id="extra_npc_0014"	cont="보디가드 허르서프"	/>
+		<msg	id="extra_npc_0015"	cont="오피서 던하이크"	/>
+		<msg	id="extra_npc_0016"	cont="인스트럭터 게트"	/>
+		<msg	id="extra_npc_0017"	cont="창고가드 콕스"	/>
+		<msg	id="extra_npc_0018"	cont="무기상인 메치아스"	/>
+		<msg	id="extra_npc_0019"	cont="방어구상인 디온"	/>
+		<msg	id="extra_npc_0020"	cont="마법상인 설리반"	/>
+		<msg	id="extra_npc_0021"	cont="잡화상인 에일렌 남매"	/>
+		<msg	id="extra_npc_0022"	cont="마커스"	/>
+		<msg	id="extra_npc_0023"	cont="디플러스"	/>
+		<msg	id="extra_npc_0024"	cont="씨토"	/>
+		<msg	id="extra_npc_0025"	cont="떼끼"	/>
+		<msg	id="extra_npc_0026"	cont="오피서 슈터버크"	/>
+		<msg	id="extra_npc_0027"	cont="인스트럭터 칼루아"	/>
+		<msg	id="extra_npc_0028"	cont="창고가드 네이들러"	/>
+		<msg	id="extra_npc_0029"	cont="무기상인 미트로프"	/>
+		<msg	id="extra_npc_0030"	cont="방어구상인 콜린즈"	/>
+		<msg	id="extra_npc_0031"	cont="마법상인 노다카"	/>
+		<msg	id="extra_npc_0032"	cont="잡화상인 리베트"	/>
+		<msg	id="extra_npc_0033"	cont="숀"	/>
+		<msg	id="extra_npc_0034"	cont="헨더슨"	/>
+		<msg	id="extra_npc_0035"	cont="항구 관리인 카터"	/>
+		<msg	id="extra_npc_0036"	cont="오피서 모리슨"	/>
+		<msg	id="extra_npc_0037"	cont="인스트럭터 하퍼"	/>
+		<msg	id="extra_npc_0038"	cont="창고가드 슐란스키"	/>
+		<msg	id="extra_npc_0039"	cont="무기상인 에이트"	/>
+		<msg	id="extra_npc_0040"	cont="방어구상인 아그리스"	/>
+		<msg	id="extra_npc_0041"	cont="마법상인 예르트"	/>
+		<msg	id="extra_npc_0042"	cont="잡화상인 햄프릭"	/>
+		<msg	id="extra_npc_0043"	cont="레이슨"	/>
+		<msg	id="extra_npc_0044"	cont="레번슨"	/>
+		<msg	id="extra_npc_0045"	cont="포러스"	/>
+		<msg	id="extra_npc_0046"	cont="항구 관리인 포터"	/>
+		<msg	id="extra_npc_0047"	cont="창고가드 크라우퍼"	/>
+		<msg	id="extra_npc_0048"	cont="무기상인 나자바"	/>
+		<msg	id="extra_npc_0049"	cont="방어구상인 령"	/>
+		<msg	id="extra_npc_0050"	cont="마법상인 소영"	/>
+		<msg	id="extra_npc_0051"	cont="잡화상인 샐리"	/>
+		<msg	id="extra_npc_0052"	cont="아인스톤"	/>
+		<msg	id="extra_npc_0053"	cont="아이밴크"	/>
+		<msg	id="extra_npc_0054"	cont="애니아크"	/>
+		<msg	id="extra_npc_0055"	cont="레두진"	/>
+		<msg	id="extra_npc_0056"	cont="스트베리"	/>
+		<msg	id="extra_npc_0057"	cont="오팽"	/>
+		<msg	id="extra_npc_0058"	cont="히데"	/>
+		<msg	id="extra_npc_0059"	cont="솔메"	/>
+		<msg	id="extra_npc_0060"	cont="나인"	/>
+		<msg	id="extra_npc_0061"	cont="낯선 노인"	/>
+		<msg	id="extra_npc_0062"	cont="사용안함"	/>
+		<msg	id="extra_npc_0063"	cont="린"	/>
+		<msg	id="extra_npc_0064"	cont="베라드릭스"	/>
+		<msg	id="extra_npc_0065"	cont="사교도"	/>
+		<msg	id="extra_npc_0066"	cont="샐리 동생 레프"	/>
+		<msg	id="extra_npc_0067"	cont="실버우드"	/>
+		<msg	id="extra_npc_0068"	cont="아리오넬"	/>
+		<msg	id="extra_npc_0069"	cont="아이크"	/>
+		<msg	id="extra_npc_0070"	cont="유안"	/>
+		<msg	id="extra_npc_0071"	cont="캡틴 마크"	/>
+		<msg	id="extra_npc_0072"	cont="벤"	/>
+		<msg	id="extra_npc_0073"	cont="페이트런"	/>
+		<msg	id="extra_npc_0074"	cont="프리드"	/>
+		<msg	id="extra_npc_0075"	cont="각성한 페이트런"	/>
+		<msg	id="extra_npc_0076"	cont="헤일"	/>
+		<msg	id="extra_npc_0077"	cont="현자 리겔"	/>
+		<msg	id="extra_npc_0078"	cont="블랙 바드"	/>
+		<msg	id="extra_npc_0079"	cont="조교 라이엔"	/>
+		<msg	id="extra_npc_0080"	cont="조교 후버"	/>
+		<msg	id="extra_npc_0081"	cont="조교 코플랜드"	/>
+		<msg	id="extra_npc_0082"	cont="미스틱 블레이드"	/>
+		<msg	id="extra_npc_0083"	cont="테스키"	/>
+		<msg	id="extra_npc_0084"	cont="알데바란"	/>
+		<msg	id="extra_npc_0085"	cont="베인"	/>
+		<msg	id="extra_npc_0086"	cont="다크 클랜 포로"	/>
+		<msg	id="extra_npc_0087"	cont="DP 교환상인 페티샤"	/>
+		<msg	id="extra_npc_0088"	cont="빛나는 카드"	/>
+		<msg	id="extra_npc_0089"	cont="마법사"	/>
+		<msg	id="extra_npc_0090"	cont="첫 번째 제단"	/>
+		<msg	id="extra_npc_0091"	cont="두 번째 제단"	/>
+		<msg	id="extra_npc_0092"	cont="카드"	/>
+		<msg	id="extra_npc_0093"	cont="찢어진 완장"	/>
+		<msg	id="extra_npc_0094"	cont="나인의 메모"	/>
+		<msg	id="extra_npc_0095"	cont="얼음 반지"	/>
+		<msg	id="extra_npc_0096"	cont="은폐된 지도"	/>
+		<msg	id="extra_npc_0097"	cont="세번째 묵시록의 카드"	/>
+		<msg	id="extra_npc_0098"	cont="세 번째 제단"	/>
+		<msg	id="extra_npc_0099"	cont="수풀 더미"	/>
+		<msg	id="extra_npc_0100"	cont="호수 바위"	/>
+		<msg	id="extra_npc_0101"	cont="흑암초"	/>
+		<msg	id="extra_npc_0102"	cont="화로"	/>
+		<msg	id="extra_npc_0103"	cont="발광석"	/>
+		<msg	id="extra_npc_0104"	cont="전자 리더기"	/>
+		<msg	id="extra_npc_0105"	cont="제조상인 클로이"	/>
+		<msg	id="extra_npc_0106"	cont="브렌"	/>
+		<msg	id="extra_npc_0107"	cont="킴"	/>
+		<msg	id="extra_npc_0108"	cont="A팀 버프상점"	/>
+		<msg	id="extra_npc_0109"	cont="B팀 버프상점"	/>
+		<msg	id="extra_npc_0110"	cont="파견 공훈관 라샤"	/>
+		<msg	id="extra_npc_0111"	cont="파견 공훈관 아이데른"	/>
+		<msg	id="extra_npc_0112"	cont="창고가드 캡틴듀크"	/>
+		<msg	id="extra_npc_0113"	cont="잡화상인 엘린"	/>
+		<msg	id="extra_npc_0114"	cont="잡화상인 케이트"	/>
+		<msg	id="extra_npc_0115"	cont="창고가드 마담델리아"	/>
+		<msg	id="extra_npc_0116"	cont="전쟁 공훈관 올리비아"	/>
+		<msg	id="extra_npc_0117"	cont="전쟁 공훈관 카일"	/>
+		<msg	id="extra_npc_0118"	cont="스카일드"	/>
+		<msg	id="extra_npc_0119"	cont="바이크탄 스카일드"	/>
+		<msg	id="extra_npc_0120"	cont="희미한 글귀의 비석"	/>
+		<msg	id="extra_npc_0121"	cont="석판"	/>
+		<msg	id="extra_npc_0122"	cont="가드 세비어스"	/>
+		<msg	id="extra_npc_0123"	cont="호수 나무"	/>
+		<msg	id="extra_npc_0124"	cont="푸른 꽃"	/>
+		<msg	id="extra_npc_0125"	cont="리디"	/>
+		<msg	id="extra_npc_0126"	cont="카펠라"	/>
+		<msg	id="extra_npc_0127"	cont="프로키온"	/>
+		<msg	id="extra_npc_0128"	cont="터너"	/>
+		<msg	id="extra_npc_0129"	cont="아이잔"	/>
+		<msg	id="extra_npc_0130"	cont="엘레나"	/>
+		<msg	id="extra_npc_0131"	cont="스카일드뒷모습"	/>
+		<msg	id="extra_npc_0132"	cont="무덤 비석"	/>
+		<msg	id="extra_npc_0133"	cont="빛나는 광물"	/>
+		<msg	id="extra_npc_0134"	cont="스카일드의 벽난로"	/>
+		<msg	id="extra_npc_0135"	cont="스카일드의 침대"	/>
+		<msg	id="extra_npc_0136"	cont="정체 불명의 물약"	/>
+		<msg	id="extra_npc_0137"	cont="가드 마일즈"	/>
+		<msg	id="extra_npc_0138"	cont="난민 대장"	/>
+		<msg	id="extra_npc_0139"	cont="쓰러진 리디"	/>
+		<msg	id="extra_npc_0140"	cont="부서진 비석"	/>
+		<msg	id="extra_npc_0141"	cont="현자 카펠라"	/>
+		<msg	id="extra_npc_0142"	cont="현자 프로키온"	/>
+		<msg	id="extra_npc_0143"	cont="카펠라 창고가드 허시"	/>
+		<msg	id="extra_npc_0144"	cont="카펠라 잡화상인 스테파니"	/>
+		<msg	id="extra_npc_0145"	cont="카펠라 무기상인 리두송"	/>
+		<msg	id="extra_npc_0146"	cont="카펠라 마법상인 리플디"	/>
+		<msg	id="extra_npc_0147"	cont="카펠라 방어구상인 플리에"	/>
+		<msg	id="extra_npc_0148"	cont="카펠라 항구관리인 도미닉"	/>
+		<msg	id="extra_npc_0149"	cont="카펠라 가드 칸돌"	/>
+		<msg	id="extra_npc_0150"	cont="카펠라 가드 여송"	/>
+		<msg	id="extra_npc_0151"	cont="프로키온 창고가드 비니요"	/>
+		<msg	id="extra_npc_0152"	cont="프로키온 잡화상인 아부람"	/>
+		<msg	id="extra_npc_0153"	cont="프로키온 무기상인 후타"	/>
+		<msg	id="extra_npc_0154"	cont="프로키온 마법상인 파나키"	/>
+		<msg	id="extra_npc_0155"	cont="프로키온 방어구상인 알롱제"	/>
+		<msg	id="extra_npc_0156"	cont="프로키온 항구관리인 베로닝"	/>
+		<msg	id="extra_npc_0157"	cont="프로키온 가드 블리처"	/>
+		<msg	id="extra_npc_0158"	cont="프로키온 가드 클로비스"	/>
+		<msg	id="extra_npc_0159"	cont="수호자"	/>
+		<msg	id="extra_npc_0160"	cont="떨어진 부적"	/>
+		<msg	id="extra_npc_0161"	cont="마일즈의 동생"	/>
+		<msg	id="extra_npc_0162"	cont="변이된 식물"	/>
+		<msg	id="extra_npc_0163"	cont="변이된 꽃"	/>
+		<msg	id="extra_npc_0164"	cont="빛나는 나무"	/>
+		<msg	id="extra_npc_0165"	cont="오래된 석탑"	/>
+		<msg	id="extra_npc_0166"	cont="첫 번째 대리석"	/>
+		<msg	id="extra_npc_0167"	cont="두 번째 대리석"	/>
+		<msg	id="extra_npc_0168"	cont="세 번째 대리석"	/>
+		<msg	id="extra_npc_0169"	cont="네 번째 대리석"	/>
+		<msg	id="extra_npc_0170"	cont="다섯 번째 대리석"	/>
+		<msg	id="extra_npc_0171"	cont="각성한 아이잔"	/>
+		<msg	id="extra_npc_0172"	cont="각성한 엘레나"	/>
+		<msg	id="extra_npc_0173"	cont="보부상 유논"	/>
+		<msg	id="extra_npc_0174"	cont="스페셜 교환머신"	/>
+		<msg	id="extra_npc_0175"	cont="테른"	/>
+		<msg	id="extra_npc_0176"	cont="륜"	/>
+		<msg	id="extra_npc_0177"	cont="히로글리"	/>
+		<msg	id="extra_npc_0178"	cont="세인츠 포스칼리버"	/>
+		<msg	id="extra_npc_0179"	cont="감독관 자베른"	/>
+	</extra_obj_msg>
+</cabal_message>

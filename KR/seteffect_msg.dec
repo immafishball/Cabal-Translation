@@ -1,0 +1,58 @@
+<seteffect_message>
+	<version	index="1"	/>
+		<msg	id="set_effect0001"	cont="수련용"	set_description="수련용 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0002"	cont="기본장비"	set_description="노말 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0003"	cont="강화"	set_description="강화 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0004"	cont="실크"	set_description="실크 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0005"	cont="아이언"	set_description="아이언 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0006"	cont="섀도우스틸"	set_description="섀도우스틸 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0007"	cont="아라미드"	set_description="아라미드 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0008"	cont="블루스틴"	set_description="블루스틴 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0009"	cont="티타니움"	set_description="티타니움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0010"	cont="섀도우 티타니움"	set_description="섀도우 티타니움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0011"	cont="오스미움"	set_description="오스미움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0012"	cont="미스틱"	set_description="미스틱 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0013"	cont="샤인가드"	set_description="샤인가드 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0014"	cont="테라그레이스"	set_description="테라그레이스 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0015"	cont="시그메탈"	set_description="시그메탈 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0016"	cont="미스릴"	set_description="미스릴 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0017"	cont="드라이 프라메"	set_description="드라이 프라메 방어구 2 개 또는, 4개 장착 시 세트효과가 적용된다. (드라이 프라메 에펄릿을 장착하면 추가 세트효과를 얻을 수 있다.)"	/>
+		<msg	id="set_effect0018"	cont="질서의 드라이 프라메 에펄릿"	set_description="드라이 프라메 방어구 2 개 또는, 4개를 장착한 상태에서 드라이 프라메 에펄릿을 장착하면 추가 세트효과가 적용 된다. "	/>
+		<msg	id="set_effect0019"	cont="전사의 드라이 프라메 에펄릿"	set_description="드라이 프라메 방어구 2 개 또는, 4개를 장착한 상태에서 드라이 프라메 에펄릿을 장착하면 추가 세트효과가 적용 된다."	/>
+		<msg	id="set_effect0020"	cont="현자의 드라이 프라메 에펄릿"	set_description="드라이 프라메 방어구 2 개 또는, 4개를 장착한 상태에서 드라이 프라메 에펄릿을 장착하면 추가 세트효과가 적용 된다."	/>
+		<msg	id="set_effect0021"	cont="장인의 블루스틴"	set_description="장인의 블루스틴 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0022"	cont="장인의 티타니움"	set_description="장인의 티타니움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0023"	cont="장인의 섀도우 티타니움"	set_description="장인의 섀도우 티타니움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0024"	cont="장인의 오스미움"	set_description="장인의 오스미움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0025"	cont="장인의 미스틱"	set_description="장인의 미스틱 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0026"	cont="장인의 샤인가드"	set_description="장인의 샤인가드 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0027"	cont="장인의 테라그레이스"	set_description="장인의 테라그레이스 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0028"	cont="장인의 시그메탈"	set_description="장인의 시그메탈 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0029"	cont="장인의 미스릴"	set_description="장인의 미스릴 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0030"	cont="명인의 블루스틴"	set_description="명인의 블루스틴 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0031"	cont="명인의 티타니움"	set_description="명인의 티타니움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0032"	cont="명인의 섀도우 티타니움"	set_description="명인의 섀도우 티타니움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0033"	cont="명인의 오스미움"	set_description="명인의 오스미움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0034"	cont="명인의 미스틱"	set_description="명인의 미스틱 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0035"	cont="명인의 샤인가드"	set_description="명인의 샤인가드 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0036"	cont="명인의 테라그레이스"	set_description="명인의 테라그레이스 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0037"	cont="명인의 시그메탈"	set_description="명인의 시그메탈 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0038"	cont="명인의 미스릴"	set_description="명인의 미스릴 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0039"	cont="아크리디움"	set_description="아크리디움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0040"	cont="장인의 아크리디움"	set_description="장인의 아크리디움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0041"	cont="명인의 아크리디움"	set_description="명인의 아크리디움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0042"	cont="카오스 아머"	set_description="카오스 아머 장착 시 적용"	/>
+		<msg	id="set_effect0043"	cont="카오스 배틀"	set_description="카오스 배틀 장착 시 적용"	/>
+		<msg	id="set_effect0044"	cont="카오스 마샬"	set_description="카오스 마샬 장착 시 적용"	/>
+		<msg	id="set_effect0045"	cont="팔라디움"	set_description="팔라디움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0046"	cont="장인의 팔라디움"	set_description="장인의 팔라디움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0047"	cont="명인의 팔라디움"	set_description="명인의 팔라디움 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0048"	cont="수호의 드라이 프라메 에펄릿"	set_description="드라이 프라메 방어구 2 개 또는, 4개를 장착한 상태에서 드라이 프라메 에펄릿을 장착하면 추가 세트효과가 적용 된다."	/>
+		<msg	id="set_effect0049"	cont="데모나이트"	set_description="데모나이트 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0050"	cont="모험가"	set_description="모험가 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0051"	cont="라이트"	set_description="라이트 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0052"	cont="미들"	set_description="미들 방어구 4개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0053"	cont="투르마칸의 팔찌(중급)"	set_description="투르마칸의 팔찌(중급) 2개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0054"	cont="투르마칸의 팔찌(상급)"	set_description="투르마칸의 팔찌(상급) 2개 장착 시 세트효과가 적용된다."	/>
+		<msg	id="set_effect0055"	cont="드래고늄"	set_description="드래고늄 방어구 4개 장착 시 세트효과가 적용된다."	/>
+</seteffect_message>

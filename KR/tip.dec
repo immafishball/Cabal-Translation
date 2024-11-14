@@ -1,0 +1,515 @@
+<tip_msg>
+	<version	index="1"/>
+	<tip	type="0"	arg1="1"	arg2="40"	order="11"	interval="900">
+		<msg	id="1"	cont="[Tip] 귓속말 모드(/W)에서 Tab키를 이용하여 최근 귓속말 대상을 선택할 수 있습니다."	/>
+		<msg	id="2"	cont="[Tip] 스킬창(K)에서 스킬 아이콘을 드래그하여 퀵슬롯에 등록할 수 있습니다."	/>
+		<msg	id="3"	cont="[Tip] 옵션 > 자동공격을 체크하면 퀵슬롯의 공격스킬이 자동으로 사용됩니다."	/>
+		<msg	id="4"	cont="[Tip] 시나리오 퀘스트는 필수 퀘스트이며 삭제되지 않습니다."	/>
+		<msg	id="5"	cont="[Tip] 퀘스트 일반탭 - '삭제된 퀘스트 목록'을 이용하여 삭제한 퀘스트를 복구 할 수 있습니다."	/>
+		<msg	id="6"	cont="[Tip] 퀘스트 진행시 맵에 표시된 느낌표(!)로 퀘스트 위치를 확인하실 수 있습니다."	/>
+		<msg	id="7"	cont="[Tip] 퀘스트에 필요한 몬스터는 맵(M)에 X 표시로 몬스터 위치가 표기됩니다."	/>
+		<msg	id="8"	cont="[Tip] '/G 할말'을 입력하면 길드 채팅이 가능합니다."	/>
+		<msg	id="9"	cont="[Tip] '/L 할말'을 입력하면 전체 채팅이 가능합니다."	/>
+		<msg	id="10"	cont="[Tip] '/N 할말'을 입력하면 일반 채팅이 가능합니다."	/>
+		<msg	id="11"	cont="[Tip] '/R 할말'을 입력하면 바로전 귓속말 상대에게 응답이 가능합니다."	/>
+		<msg	id="12"	cont="[Tip] 'Shift+ 우클릭'을 사용하면 아이템 수량 나누기가 가능합니다."	/>
+		<msg	id="13"	cont="[Tip] 'Shift+ 좌클릭'을 사용하면 다음 인벤토리로 아이템 이동이 가능합니다."	/>
+		<msg	id="14"	cont="[Tip] '/T 할말'을 입력하면 거래 채팅이 가능합니다."	/>
+		<msg	id="15"	cont="[Tip] 메가폰 소지시 '/M 할말'을 입력하면 전체 채널에 채팅이 가능합니다."	/>
+		<msg	id="16"	cont="[Tip] '/C 할말'을 입력하여 채널 채팅이 가능합니다."	/>
+		<msg	id="17"	cont="[Tip] 초보자길드 가입 후 24시간이내 4레벨을 달성하지 못하면 자동으로 탈퇴됩니다."	/>
+		<msg	id="18"	cont="[Tip] '/상점'을 입력하여 개인상점 개설이 가능합니다."	/>
+		<msg	id="19"	cont="[Tip] 게임 내 캐쉬샵은 단축키(N)을 통해 이용이 가능합니다."	/>
+		<msg	id="20"	cont="[Tip] 단축키 'Shift+ C'을 사용하면 업적창 이용이 가능합니다."	/>
+		<msg	id="21"	cont="[Tip] 퀘스트 목록 > '포기하기'기능을 이용하면 퀘스트 아이템을 복구하거나 퀘스트 재진행이 가능합니다."	/>
+		<msg	id="22"	cont="[Tip] 장비 아이템에 마우스 오버 후 'Alt키'를 누르고 있으면 장비 비교가 가능합니다."	/>
+		<msg	id="23"	cont="[Tip] EST OTP에 가입할 경우 OTP 전용 버프 혜택을 받을 수 있습니다."	/>
+	</tip>
+	<tip	type="0"	arg1="41"	arg2="70"	order="11"	interval="900">
+		<msg	id="1"	cont="[Tip] 카발 메뉴 > 던전에서 던전정보 및 던전 일시정지, 던전 포기하기가 가능합니다."	/>
+		<msg	id="2"	cont="[Tip] 던전에서 싱글 플레이 중 접속 종료된다면 10분 이내로 진입 아이템 소모없이 재진입이 가능합니다."	/>
+		<msg	id="3"	cont="[Tip] 옵션 > 자동공격을 체크하면 퀵슬롯의 공격스킬이 자동으로 사용됩니다."	/>
+		<msg	id="4"	cont="[Tip] '/말풍선 검색단어'를 입력하여 개인상점 아이템 검색이 가능합니다."	/>
+		<msg	id="5"	cont="[Tip] NPC 상점 이용시 'Ctrl+좌클릭'을 사용하면 아이템 판매가 가능합니다."	/>
+		<msg	id="6"	cont="[Tip] NPC상점에 아이템을 판매 후 24시간 이내 최근 판매한 9개의 아이템까지 재구매 가능합니다."	/>
+		<msg	id="7"	cont="[TIP] 창고에 아이템 보관시 소지한 Alz가 인벤토리에 없을 경우 창고에서 보관 수수료가 차감됩니다."	/>
+		<msg	id="8"	cont="[Tip] 퀘스트 목록 > '포기하기'기능을 이용하면 퀘스트 아이템을 복구하거나 퀘스트 재진행이 가능합니다."	/>
+		<msg	id="9"	cont="[Tip] 맵(M)을 열어 'Ctrl' + 마우스 우클릭 시 원하는 위치를 채팅창에 링크할 수 있습니다."	/>
+		<msg	id="10"	cont="[Tip] '/C 할말'을 입력하여 채널 채팅이 가능합니다."	/>
+		<msg	id="11"	cont="[Tip] NPC 상점 이용시 'Alt+ 좌클릭'을 사용하면 아이템 다량 구매가 가능합니다."	/>
+		<msg	id="12"	cont="[Tip] 포트룩스 NPC 클로이에게 재료 아이템을 주면 제작 의뢰가 가능합니다."	/>
+		<msg	id="13"	cont="[Tip] 게임 내 캐쉬샵은 단축키(N)을 통해 이용이 가능합니다."	/>
+		<msg	id="14"	cont="[Tip] 채팅 명령어 /홈페이지, /ghavpdlwl을 입력 시 홈페이지로 스크린샷 업로드가 가능합니다."	/>
+		<msg	id="15"	cont="[Tip] 아이템 추출은 캐릭터 인벤토리 하단의 ‘아이템 추출 모드’로 이용 가능합니다."	/>
+		<msg	id="16"	cont="[Tip] 의뢰 시스템의 우호도에 따라 제작 가능한 의뢰 품목이 늘어납니다."	/>
+		<msg	id="17"	cont="[Tip] 단축키 'Shift+ C'을 사용하면 업적창 이용이 가능합니다."	/>
+		<msg	id="18"	cont="[Tip] EST OTP는 홈페이지 - 보안센터를 이용하여 서비스 신청이 가능합니다."	/>
+		<msg	id="19"	cont="[Tip] 장비 아이템에 마우스 오버 후 'Alt키'를 누르고 있으면 장비 비교가 가능합니다."	/>
+		<msg	id="20"	cont="[Tip] 캐릭터 선택창에서 드래그를 이용하면 캐릭터 순서를 변경할 수 있습니다."	/>
+		<msg	id="21"	cont="[Tip] 단축키 'H'를 누르면 도움말 [헬프시스템]을 이용 하실 수 있습니다."	/>
+		<msg	id="22"	cont="[Tip] 프리미엄 PC방에서는 PC방 전용 스페셜 아이템을 받으실 수 있습니다."	/>
+		<msg	id="23"	cont="[Tip] 제작에 필요한 제작 에너지는 1분당 5씩 충전됩니다."	/>
+	</tip>
+	<tip	type="0"	arg1="71"	arg2="100"	order="11"	interval="900">
+		<msg	id="1"	cont="[Tip] 던전에서 싱글 플레이 중 접속 종료된다면 10분 이내로 진입 아이템 소모없이 재진입이 가능합니다."	/>
+		<msg	id="2"	cont="[Tip] DP는 24시간 이내로 추가 획득이 이루어져야만 초기화되지 않습니다."	/>
+		<msg	id="3"	cont="[Tip] 포트룩스의 DP교환 상인 페티샤를 통해 DP를 이용한 아이템 구매가 가능합니다."	/>
+		<msg	id="4"	cont="[Tip] 채팅 명령어 /홈페이지, /ghavpdlwl을 입력 시 홈페이지로 스크린샷 업로드가 가능합니다."	/>
+		<msg	id="5"	cont="[Tip] 캐릭터 선택창에서 드래그를 이용하면 캐릭터 순서를 변경할 수 있습니다."	/>
+		<msg	id="6"	cont="[Tip] 퀘스트 요약정보 창은 이동 및 고정이 가능하며 최대 5개까지 표시됩니다."	/>
+		<msg	id="7"	cont="[Tip] EST OTP는 홈페이지 > 보안센터를 이용하여 서비스 신청이 가능합니다."	/>
+		<msg	id="8"	cont="[Tip] NPC상점에 아이템을 판매 후 24시간 이내 최근 판매한 9개의 아이템까지 재구매 가능합니다."	/>
+		<msg	id="9"	cont="[Tip] WExp는 미션 전쟁 채널 로비에 있는 공훈관 NPC를 통하여 큐브 아이템을 구매할 수 있습니다."	/>
+		<msg	id="10"	cont="[Tip] 'Alt+ 좌클릭'을 사용하여 NPC상점을 통해 아이템 다량 구매가 가능합니다."	/>
+		<msg	id="11"	cont="[Tip] 1슬롯 이상, 에픽 방어구 및 무기 아이템을 파괴할 경우 등급에 따라 속성 주문서를 획득할 수 있습니다."	/>
+		<msg	id="12"	cont="[Tip] 단축키 'X'를 누르면 임시 인벤토리를 확인할 수 있습니다."	/>
+		<msg	id="13"	cont="[Tip] 장비 아이템의 경우 마법 상인 NPC를 통해 외형 변경이 가능합니다."	/>
+		<msg	id="14"	cont="[Tip] 아이템 추출은 캐릭터 인벤토리 하단의 ‘아이템 추출 모드’로 이용 가능합니다."	/>
+		<msg	id="15"	cont="[Tip] 게임 내 캐쉬샵은 단축키(N)을 통해 이용이 가능합니다."	/>
+		<msg	id="16"	cont="[Tip] 장비 아이템에 마우스 오버 후 'Alt키'를 누르고 있으면 장비 비교가 가능합니다."	/>
+		<msg	id="17"	cont="[Tip] 계정 귀속인 아이템을 외형 변경하였을 경우 외형 유지 기간 동안 캐릭터 귀속 속성을 가지게 됩니다."	/>
+		<msg	id="18"	cont="[Tip] 초보자길드에 가입 후 100레벨 승급 퀘스트를 완료할 경우 자동으로 탈퇴됩니다."	/>
+		<msg	id="19"	cont="[Tip] 데미지증폭제는 미션전쟁에서 스킬 사용시 데미지 증가시켜주는 아이템입니다."	/>
+		<msg	id="20"	cont="[Tip] 퀘스트 캡슐을 마우스 우클릭으로 사용할 경우 바로 퀘스트 수행이 가능합니다."	/>
+		<msg	id="21"	cont="[Tip] 미네스타의 귀속해제석 사용 실패시 대상 아이템은 파괴되며 복구가 불가능합니다."	/>
+		<msg	id="22"	cont="[Tip] 제작은 숙련도가 높아질수록 제작 성공률이 높아집니다."	/>
+		<msg	id="23"	cont="[Tip] 의뢰 등록은 Alz 또는 클로이 증표로 등록이 가능합니다."	/>
+		<msg	id="24"	cont="[Tip] '배틀모드3 스킬북'은 'Lv.130 BSLV UP 특별과정, 세 번째' 퀘스트 보상을 통해 획득이 가능합니다."	/>
+	</tip>
+	<tip	type="0"	arg1="101"	arg2="130"	order="11"	interval="900">
+		<msg	id="1"	cont="[Tip] 100레벨부터 용병 퀘스트를 통해 계약 계열의 용병 카드 획득 및 이용이 가능합니다."	/>
+		<msg	id="2"	cont="[Tip] DP는 24시간 이내로 추가 획득이 이루어져야만 초기화되지 않습니다."	/>
+		<msg	id="3"	cont="[Tip] DX던전은 난이도별 싱글 플레이 전용 던전으로, 배틀 스타일 11등급부터 진입이 가능합니다."	/>
+		<msg	id="4"	cont="[Tip] EST OTP는 홈페이지 > 보안센터를 이용하여 서비스 신청이 가능합니다."	/>
+		<msg	id="5"	cont="[Tip] 포트룩스의 DP교환 상인 페티샤를 통해 DP를 이용한 아이템 구매가 가능합니다."	/>
+		<msg	id="6"	cont="[Tip] 네바레스존은 캐릭터 정보를 카발 온라인 홈페이지에서 확인할 수 있는 서비스입니다."	/>
+		<msg	id="7"	cont="[Tip] 던전에서 싱글 플레이 중 접속 종료된다면 10분 이내로 진입 아이템 소모없이 재진입이 가능합니다."	/>
+		<msg	id="8"	cont="[Tip] 미션전쟁에서 획득한 WExp는 포트룩스의 오피서모리슨을 통해 교환이 가능합니다."	/>
+		<msg	id="9"	cont="[Tip] 오러 코드는 각 마을의 마법상인NPC에게 오러 트랜스뮤터 구매 후 퀘스트를 통해 변경 가능합니다."	/>
+		<msg	id="10"	cont="[Tip] 채팅 명령어 /홈페이지, /ghavpdlwl을 입력 시 홈페이지로 스크린샷 업로드가 가능합니다."	/>
+		<msg	id="11"	cont="[Tip] 채팅 입력창의 채팅기록 저장 버튼[◈]을 클릭하면 채팅기록이 저장됩니다."	/>
+		<msg	id="12"	cont="[Tip] 카발 메뉴 > 던전에서 던전정보 및 던전 일시정지, 던전 포기하기가 가능합니다."	/>
+		<msg	id="13"	cont="[Tip] 3번째 슬롯의 속성 부여에 실패할 경우 2번째 부여했던 속성이 사라지게 됩니다."	/>
+		<msg	id="14"	cont="[Tip] 인벤토리 상단 우측의 '장비 잠금' 버튼을 통해 장착한 장비를 잠금 설정할 수 있습니다."	/>
+		<msg	id="15"	cont="[Tip] 킬리안의 반지와 메르가헤프의 반지는 NPC클로이를 통해 제작 의뢰가 가능합니다."	/>
+		<msg	id="16"	cont="[Tip] 메르가헤프의 반지를 소지한 경우 '봉인을 해제하는 또 다른 방법' 퀘스트를 통해 추가 획득은 불가능합니다."	/>
+		<msg	id="17"	cont="[Tip] 장비 아이템에 마우스 오버 후 'Alt키'를 누르고 있으면 장비 비교가 가능합니다."	/>
+		<msg	id="18"	cont="[Tip] 외형변경으로 사용된 재료 아이템은 외형변경 시도시 모두 소멸됩니다."	/>
+		<msg	id="19"	cont="[Tip] 카발 메뉴> 커뮤니티를 이용하여 홈페이지 및 SNS에 스크린샷 업로드가 가능합니다."	/>
+		<msg	id="20"	cont="[Tip] 킬리안의 반지는 메르가헤프의 반지가 제조 재료로 사용되므로 동시에 소지할 수 없습니다."	/>
+		<msg	id="21"	cont="[Tip] 배틀모드3는 130Lv이상 배틀 스타일 등급 14이상부터 이용이 가능합니다."	/>
+		<msg	id="22"	cont="[Tip] 제작에 필요한 제작 에너지는 1분당 5씩 충전됩니다."	/>
+		<msg	id="23"	cont="[Tip] '배틀모드3 스킬북'은 'Lv.130 BSLV UP 특별과정, 세 번째' 퀘스트 보상을 통해 획득이 가능합니다."	/>
+	</tip>
+	<tip	type="0"	arg1="131"	arg2="160"	order="11"	interval="900">
+		<msg	id="1"	cont="[Tip] DP는 24시간 이내로 추가 획득이 이루어져야만 초기화되지 않습니다."	/>
+		<msg	id="2"	cont="[Tip] 포트룩스의 DP교환 상인 페티샤를 통해 DP를 이용한 아이템 구매가 가능합니다."	/>
+		<msg	id="3"	cont="[Tip] AXP는 순수 몬스터 사냥 및 미션 전쟁의 스코어 획득을 통해 습득이 가능합니다."	/>
+		<msg	id="4"	cont="[Tip] 계정도용 피해신고는 고객센터 > 계정도용 신고센터를 이용하여 신고 접수 가능합니다."	/>
+		<msg	id="5"	cont="[Tip] WExp로 미션 전쟁 로비에 있는 공훈관 NPC를 통해 큐브 아이템을 구매할 수 있습니다."	/>
+		<msg	id="6"	cont="[Tip] 킬리안의 반지와 메르가헤프의 반지는 NPC클로이를 통해 제작 의뢰가 가능합니다."	/>
+		<msg	id="7"	cont="[Tip] 메르가헤프의 반지를 소지한 경우 '봉인을 해제하는 또 다른 방법' 퀘스트를 통해 추가 획득은 불가능합니다."	/>
+		<msg	id="8"	cont="[Tip] 카발 메뉴 > 던전에서 던전정보 및 던전 일시정지, 던전 포기하기가 가능합니다."	/>
+		<msg	id="9"	cont="[Tip] 일일 알즈 습득량 제한 시스템은 하루동안 Alz 습득량이 제한되는 시스템입니다."	/>
+		<msg	id="10"	cont="[Tip] 채팅 입력창의 채팅기록 저장 버튼[◈]을 클릭하면 채팅기록이 저장됩니다."	/>
+		<msg	id="11"	cont="[Tip] 네바레스존은 캐릭터 정보를 카발 온라인 홈페이지에서 확인할 수 있는 서비스입니다."	/>
+		<msg	id="12"	cont="[Tip] 3번째 슬롯의 속성 부여에 실패할 경우 2번째 부여했던 속성이 사라지게 됩니다."	/>
+		<msg	id="13"	cont="[Tip] 장비 아이템에 마우스 오버 후 'Alt키'를 누르고 있으면 장비 비교가 가능합니다."	/>
+		<msg	id="14"	cont="[Tip] 킬리안의 반지는 105레벨 이상 캐릭터만 착용할 수 있으며 캐릭터당 1개만 소유가 가능합니다."	/>
+		<msg	id="15"	cont="[Tip] 배틀모드3상태에서 기본 어택 4회를 시전할 경우 필살기가 활성화됩니다."	/>
+		<msg	id="16"	cont="[Tip] '프리데우스의 팔찌'는 알타 오브 시에나 B1F의 히든 퀘스트 보상을 통해 획득이 가능합니다."	/>
+		<msg	id="17"	cont="[Tip] 데미지증폭제는 포트룩스 NPC 클로이의 제작 의뢰를 이용하여 획득이 가능합니다."	/>
+		<msg	id="18"	cont="[Tip] 킬리안의 반지는 메르가헤프의 반지가 제조 재료로 사용되므로 동시에 소지할 수 없습니다."	/>
+		<msg	id="19"	cont="[Tip] 캐릭터 귀속인 스테인 클론은 의뢰 시스템을 이용하여 귀속 해제가 가능합니다."	/>
+		<msg	id="20"	cont="[Tip] 배틀모드3는 130Lv이상 배틀 스타일 등급 14이상부터 사용이 가능합니다."	/>
+		<msg	id="21"	cont="[Tip] 미네스타 참은 외뢰를 통해 강화가 가능하며, 강화 실패시 참과 재료 아이템은 모두 소멸합니다."	/>
+		<msg	id="22"	cont="[Tip] 미네스타의 귀속해제석 사용시 실패할 경우 대상 아이템은 파괴되며 복구가 불가능합니다."	/>
+	</tip>
+	<tip	type="0"	arg1="161"	arg2="200"	order="11"	interval="900">
+		<msg	id="1"	cont="[Tip] 매주 일요일 22시 미션 전쟁의 승패 따라 7일간의 국가 보상 혜택이 적용됩니다."	/>
+		<msg	id="2"	cont="[Tip] 데미지증폭제는 미션전쟁에서 스킬 사용시 데미지 증가시켜주는 아이템입니다."	/>
+		<msg	id="3"	cont="[Tip] Wexp 경험치 교환시 Wexp를 180레벨 부터는 200, 190레벨 부터는 300씩 소모 합니다."	/>
+		<msg	id="4"	cont="[Tip] 계정 귀속인 아이템을 외형 변경하였을 경우 외형 유지 기간 동안 캐릭터 귀속 속성을 가지게 됩니다."	/>
+		<msg	id="5"	cont="[Tip] 계정도용 피해신고는 고객센터 > 계정도용 신고센터를 이용하여 신고 접수 가능합니다."	/>
+		<msg	id="6"	cont="[Tip] AXP는 순수 몬스터 사냥 및 미션 전쟁의 스코어 획득을 통해 습득이 가능합니다."	/>
+		<msg	id="7"	cont="[Tip] 인벤토리 상단 우측의 '장비 잠금' 버튼을 통해 장착한 장비를 잠금 설정할 수 있습니다."	/>
+		<msg	id="8"	cont="[Tip] 일일 알즈 습득량 제한 시스템은 하루동안 Alz 습득량이 제한되는 시스템입니다."	/>
+		<msg	id="9"	cont="[Tip] 액세서리 링 장착시 적용 가능한 크리티컬 확률은 최대 32% 지만 200Lv 승급시 33%로 확장 됩니다."	/>
+		<msg	id="10"	cont="[Tip] 캐릭터 및 서버 이동 서비스를 이용할 경우 적용된 블레싱 비드 효과는 사라집니다."	/>
+		<msg	id="11"	cont="[Tip] 3번째 슬롯의 속성 부여에 실패할 경우 2번째 부여했던 속성이 사라지게 됩니다."	/>
+		<msg	id="12"	cont="[Tip] EST OTP는 홈페이지 > 보안센터를 이용하여 서비스 신청이 가능합니다."	/>
+		<msg	id="13"	cont="[Tip] 배틀모드3상태에서 기본 어택 4회를 시전할 경우 필살기가 활성화됩니다."	/>
+		<msg	id="14"	cont="[Tip] 킬리안의 반지는 105레벨 이상 캐릭터만 착용할 수 있으며 캐릭터당 1개만 소유가 가능합니다."	/>
+		<msg	id="15"	cont="[Tip] 배틀모드3 스킬북 재료인 스테인 클론은 미네스타 수련서 퀘스트 보상으로만 획득이 가능합니다."	/>
+		<msg	id="16"	cont="[Tip] '프리데우스의 팔찌'는 알타 오브 시에나 B1F의 히든 퀘스트 보상을 통해 획득이 가능합니다."	/>
+		<msg	id="17"	cont="[Tip] 메르가헤프의 반지를 소지한 경우 '봉인을 해제하는 또 다른 방법' 퀘스트를 통해 추가 획득은 불가능합니다."	/>
+		<msg	id="18"	cont="[Tip] 드라이프라메 방어구는 유니크 아이템으로 착용 개수에 따라 아이템 세트 효과가 부여됩니다."	/>
+		<msg	id="19"	cont="[Tip] 시리우스의 귀속해제석은 아케인 트레이스 필드 보스인 분노의 아케인 골렘이 드롭합니다."	/>
+		<msg	id="20"	cont="[Tip] 시리우스의 귀속해제석은 +10 작이상 부터 사용이 가능합니다."	/>
+		<msg	id="21"	cont="[Tip] 미네스타의 귀속해제석 사용시 실패할 경우 대상 아이템은 파괴되며 복구가 불가능합니다."	/>
+		<msg	id="22"	cont="[Tip] 190레벨 부터는 Wexp 경험치 교환시 Wexp를 300씩 소모합니다."	/>
+	</tip>
+	<tip	type="1"	arg1="21"	arg2="59"	order="1"	interval="60">
+		<msg	id="1"	cont="[Tip] 22시부터는 미션 전쟁 참여 버튼을 통해 미션 전쟁 채널 진입이 가능합니다."	/>
+	</tip>
+	<tip	type="2"	arg1="3600"	arg2=""	order="2"	interval="0">
+		<msg	id="1"	cont="[Tip] 카발 온라인에 접속한지 1시간이 경과 하였습니다."	/>
+	</tip>
+	<tip	type="2"	arg1="7200"	arg2=""	order="2"	interval="0">
+		<msg	id="1"	cont="[Tip] 현재 접속한지 2시간이 경과하였습니다. 잠깐의 휴식과 스트레칭을 권장합니다."	/>
+	</tip>
+	<tip	type="2"	arg1="10800"	arg2=""	order="2"	interval="0">
+		<msg	id="1"	cont="[Tip] 접속 후 3시간이 경과하였습니다. 건강을 위해 잠시 휴식을 취해 주시길 권장합니다."	/>
+	</tip>
+	<tip	type="2"	arg1="14400"	arg2=""	order="2"	interval="0">
+		<msg	id="1"	cont="[Tip] 4시간이 경과하였습니다. 장시간의 게임 플레이는 건강에 해로우니 휴식을 취해 주시기 바랍니다."	/>
+	</tip>
+	<tip	type="3"	arg1="9"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 다음 레벨 10레벨 부터 블러디아이스에 있는 위탁 상점 이용이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="50"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 그린 디스파이어의 항구 관리인 카터를 통해 포트룩스 맵 입장이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="65"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 65레벨부터는 그린디스파이어 모스커터퀸존의 레이크 인 더스크 던전 탐험이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="75"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 75레벨부터는 포트루이나의 루이나 스테이션 던전 탐험이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="80"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 80레벨부터는 블러디아이스의 고스트존을 통해 언데드 그라운드 맵 입장이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="85"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 블러디아이스의 마법 상인을 통해 '메르가헤프의 힘을 봉인한 반지' 퀘스트 수행이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="95"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 시나리오 '전운' 퀘스트 그룹을 완료할 경우 국가 선택이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="100"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병 퀘스트는 각 마을 인스트럭터NPC를 통해 수행 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="105"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 언데드 그라운드의 망자의 탑 B2F는 105레벨부터, 망자의 에펄릿(B2F)으로 진입 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="110"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] DX 던전은 쉬움, 보통, 어려움의 난이도로 구성되어 있는 싱글 플레이 전용 던전입니다."	/>
+	</tip>
+	<tip	type="3"	arg1="115"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 포가튼 루인의 포가튼 템플 B1F은 115레벨부터, 머스터 카드: 포가튼 템플 B1F로 진입 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="120"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 120레벨부터 AXP를 획득할 수 있으며, AXP를 이용하여 룬 종류 아이템을 장착할 수 있습니다."	/>
+	</tip>
+	<tip	type="3"	arg1="125"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 125레벨부터는 포가튼 템플 B2F과 포비든 아일랜드 던전 탐험이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="126"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] '타일런트의 힘을 봉인한 반지' 퀘스트는 포가튼템플B2F 던전에서 진행이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="130"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정, 세번째를 완료할 경우 배틀모드3 관련 퀘스트 진행을 할 수 있습니다."	/>
+	</tip>
+	<tip	type="3"	arg1="131"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 레이크 사이드의 일루전캐슬 레디언트홀은 130레벨부터, 이계의 묵시록으로 진입 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="135"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 135레벨부터는 알타 오브 시에나 B1F와 알타 오브 시에나 B2F의 던전 탐험이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="140"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 포트루이나 메카맨더존을 통하여 폰투스 페룸 맵 입장이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="145"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 폰투스 페룸의 마퀴나스 아웃포스트는 145레벨부터, 해킹된 코드 디스크로 진입 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="150"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 국가별 미션 배틀에 참여가 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="155"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 그린 디스파이어의 D.X던전 해저더스 밸리는 155레벨부터, 곧 부화할 듯한 알로 진입 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="160"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 포르타 인페르노 맵에 진입 가능 레벨입니다. BSLV UP 특별과정, 여섯 번째 진행 후 입장 바랍니다."	/>
+	</tip>
+	<tip	type="3"	arg1="180"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 아케인 트레이스 맵 진입 가능한 레벨입니다. 포트룩스 NPC 레번슨과 레이슨을 통해 입장이 가능합니다."	/>
+	</tip>
+	<tip	type="3"	arg1="200"	arg2=""	order="3"	interval="0">
+		<msg	id="1"	cont="[Tip] 카발 온라인 최고 레벨에 도달하였으며 '네바레스 오버로드' 업적을 획득하셨습니다."	/>
+	</tip>
+	<tip	type="4"	arg1="218"	arg2=""	order="4"	interval="7200">
+		<msg	id="1"	cont="[Tip] '봉인된 메르가헤프의 반지'는 메르가헤프 처치시 드롭되는 레전더리 박스를 통해 확률적으로 획득 가능합니다."	/>
+	</tip>
+	<tip	type="4"	arg1="253"	arg2=""	order="4"	interval="7200">
+		<msg	id="1"	cont="[Tip] 킬리안의 편도핵 조직세포 아이템은 망자의 탑B2F ‘킬리안 그라우슈텐’을 통해 확률적으로 획득 가능합니다."	/>
+	</tip>
+	<tip	type="4"	arg1="293"	arg2=""	order="4"	interval="7200">
+		<msg	id="1"	cont="[Tip] 볼캐닉시타델의 히든 네임드 몬스터 '브리크리'는 특정 조건을 만족해야만 출현합니다."	/>
+	</tip>
+	<tip	type="4"	arg1="294"	arg2=""	order="4"	interval="2700">
+		<msg	id="1"	cont="[Tip] 포가튼 템플B1F 보스 몬스터 오르카의 경우 일정 시간에 따라 변신하며 변신할 수록 강해집니다."	/>
+	</tip>
+	<tip	type="4"	arg1="4097"	arg2=""	order="4"	interval="3600">
+		<msg	id="1"	cont="[Tip] 포비든 아일랜드는 퀘스트 선택 NPC에 따라 마지막 보스 몬스터가 달라 질 수 있습니다."	/>
+	</tip>
+	<tip	type="4"	arg1="4098"	arg2=""	order="4"	interval="3600">
+		<msg	id="1"	cont="[Tip] 히든 퀘스트 '숨겨진 공간'은 보스 몬스터 글루토를 처치한 후 일정 시간 내로 도착해야만 진행 가능합니다."	/>
+	</tip>
+	<tip	type="4"	arg1="4099"	arg2=""	order="4"	interval="3600">
+		<msg	id="1"	cont="[Tip] 알타 오브 시에나 B2F의 일부 보스 몬스터는 일정 시간 내로 처치해야만 히든 퀘스트 진행이 가능합니다."	/>
+	</tip>
+	<tip	type="4"	arg1="4220"	arg2=""	order="4"	interval="1200">
+		<msg	id="1"	cont="[Tip] 마퀴나스 아웃포스트는 보스 몬스터를 처치할 때마다 보너스 타임이 추가됩니다."	/>
+	</tip>
+	<tip	type="5"	arg1="10"	arg2="-1"	order="5"	interval="0">
+		<msg	id="1"	cont="[Tip] 명예등급 11등급을 달성하면 명예의 길 업적을 획득할 수 있습니다."	/>
+	</tip>
+	<tip	type="5"	arg1="13"	arg2="0"	order="5"	interval="0">
+		<msg	id="1"	cont="[Tip] 명예등급 20등급을 달성하면 '세계를 걷는자' 호칭을 획득할 수 있습니다."	/>
+	</tip>
+	<tip	type="5"	arg1="15"	arg2="1"	order="5"	interval="0">
+		<msg	id="1"	cont="[Tip] 명예등급 20등급을 달성하면 '질서를 조율하는 자' 호칭을 획득할 수 있습니다."	/>
+	</tip>
+	<tip	type="5"	arg1="15"	arg2="2"	order="5"	interval="0">
+		<msg	id="1"	cont="[Tip] 명예등급 20등급을 달성하면 '법칙의 지배자' 호칭을 획득할 수 있습니다."	/>
+	</tip>
+	<tip	type="5"	arg1="11"	arg2="0"	order="5"	interval="0">
+		<msg	id="1"	cont="[Tip] 명예등급 12등급을 달성하면 '수행자' 호칭을 획득할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="591"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 배틀 모드 Ⅰ + 콤보 스킬을 동시에 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="592"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 배틀 모드 Ⅰ + 콤보 스킬을 동시에 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="593"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 배틀 모드 Ⅰ + 콤보 스킬을 동시에 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="594"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프 지속 시간이 150% 증가됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="595"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프 지속 시간이 150% 증가됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="596"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프 지속 시간이 150% 증가됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="597"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프를 최대 7개까지 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="598"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프를 최대 7개까지 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="599"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프를 최대 7개까지 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="600"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 동일 계열 스킬 2중 버프가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="601"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 동일 계열 스킬 2중 버프가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="602"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 동일 계열 스킬 2중 버프가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="603"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프 지속 시간이 200% 증가됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="604"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프 지속 시간이 200% 증가됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="605"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프 지속 시간이 200% 증가됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="606"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프를 최대 10개까지 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="607"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프를 최대 10개까지 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="608"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 버프를 최대 10개까지 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="609"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 동일 계열 스킬 3중 버프가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="610"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 동일 계열 스킬 3중 버프가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="611"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 동일 계열 스킬 3중 버프가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="696"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] '서막' 퀘스트를 완료하시어 미션 전쟁 참여가 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="717"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="718"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="719"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="720"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="721"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="722"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="723"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="724"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="725"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="726"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="727"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="728"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="729"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="730"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="731"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="732"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="733"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="734"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="735"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="749"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 SP량 5,000증가하여 총 6번의 SP를 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="750"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 SP량 5,000증가하여 총 6번의 SP를 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="751"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 SP량 5,000증가하여 총 6번의 SP를 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="756"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="757"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="758"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="759"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="760"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 일일 퀘스트는 보고한 시점의 익일 0시에 퀘스트를 다시 수행 할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="769"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병은 던전에서 각 등급에 맞는 소환의 구슬을 이용하면 소환이 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="773"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병은 던전에서 각 등급에 맞는 소환의 구슬을 이용하면 소환이 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="777"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병은 던전에서 각 등급에 맞는 소환의 구슬을 이용하면 소환이 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="781"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병은 던전에서 각 등급에 맞는 소환의 구슬을 이용하면 소환이 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="785"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병은 던전에서 각 등급에 맞는 소환의 구슬을 이용하면 소환이 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="789"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 용병은 던전에서 각 등급에 맞는 소환의 구슬을 이용하면 소환이 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="1305"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 퀘스트 캡슐로 획득한 퀘스트를 포기할 경우 퀘스트가 삭제되고 복구 불가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="1306"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 퀘스트 캡슐로 획득한 퀘스트를 포기할 경우 퀘스트가 삭제되고 복구 불가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="1307"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 퀘스트 캡슐로 획득한 퀘스트를 포기할 경우 퀘스트가 삭제되고 복구 불가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="1342"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 장인의 증표를 이용하여 제작이 가능한 카테고리를 등록할 수 있습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3152"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] ‘인간의 시대를 열다’ 호칭을 획득하셨습니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3201"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 100레벨 승급 퀘스트 완료되어 '콜로니 졸업생' 호칭 획득 및 이용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3203"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 100레벨 승급 퀘스트 완료되어 '콜로니 졸업생' 호칭 획득 및 이용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3205"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 100레벨 승급 퀘스트 완료되어 '콜로니 졸업생' 호칭 획득 및 이용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3362"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] 퀘스트 캡슐로 획득한 퀘스트를 포기할 경우 퀘스트가 삭제되고 복구 불가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3363"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 SP량 5,000증가하여 총 7번의 SP를 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3364"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 SP량 5,000증가하여 총 7번의 SP를 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3365"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 SP량 5,000증가하여 총 7번의 SP를 사용 가능합니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3410"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 최대 12개의 버프 사용 및 링 슬롯 크리티컬 확률이 33% 로 확장 됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3411"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 최대 12개의 버프 사용 및 링 슬롯 크리티컬 확률이 33% 로 확장 됩니다."	/>
+	</tip>
+	<tip	type="6"	arg1="3412"	arg2=""	order="6"	interval="0">
+		<msg	id="1"	cont="[Tip] BSLV UP 특별과정을 완료할 경우 최대 12개의 버프 사용 및 링 슬롯 크리티컬 확률이 33% 로 확장 됩니다."	/>
+	</tip>
+	<tip	type="7"	arg1="2"	arg2="-1"	order="7"	interval="0">
+		<msg	id="1"	cont="[Tip] 스킬 랭크는 훈련용 더미를 통해서도 스킬 경험치 획득이 가능합니다."	/>
+	</tip>
+	<tip	type="8"	arg1="10"	arg2="0"	order="8"	interval="60">
+		<msg	id="1"	cont="[Tip] HP 포션이 얼마 남지 않았습니다. HP 포션은 마을의 마법상인과 잡화상인에게서 구입할 수 있습니다."	/>
+	</tip>
+	<tip	type="8"	arg1="30"	arg2="10"	order="8"	interval="90">
+		<msg	id="1"	cont="[Tip] HP 포션이 얼마 남지 않았습니다. HP 포션은 마을의 마법상인과 잡화상인에게서 구입할 수 있습니다."	/>
+	</tip>
+	<tip	type="8"	arg1="50"	arg2="20"	order="8"	interval="180">
+		<msg	id="1"	cont="[Tip] HP 포션이 얼마 남지 않았습니다."	/>
+	</tip>
+	<tip	type="9"	arg1="10"	arg2="0"	order="9"	interval="60">
+		<msg	id="1"	cont="[Tip] MP 포션이 얼마 남지 않았습니다. MP 포션은 마을의 마법상인과 잡화상인에게서 구입할 수 있습니다."	/>
+	</tip>
+	<tip	type="9"	arg1="30"	arg2="10"	order="9"	interval="90">
+		<msg	id="1"	cont="[Tip] MP 포션이 얼마 남지 않았습니다. MP 포션은 마을의 마법상인과 잡화상인에게서 구입할 수 있습니다."	/>
+	</tip>
+	<tip	type="9"	arg1="50"	arg2="20"	order="9"	interval="180">
+		<msg	id="1"	cont="[Tip] MP 포션이 얼마 남지 않았습니다."	/>
+	</tip>
+	<tip	type="10"	arg1="10"	arg2="0"	order="10"	interval="120">
+		<msg	id="1"	cont="[Tip] 리턴스톤이 얼마 남지 않았습니다. 리턴스톤은 마을의 마법상인과 잡화상인에게서 구입할 수 있습니다."	/>
+	</tip>
+	<tip	type="11"	arg1="8"	arg2="0"	order="11"	interval="60">
+		<msg	id="1"	cont="[Tip] 소환의 구슬이 얼마 남지 않았습니다. 소환의 구슬은 마을의 잡화상인에게서 구입하실 수 있습니다."	/>
+	</tip>
+</tip_msg>

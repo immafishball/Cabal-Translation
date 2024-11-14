@@ -1,0 +1,7 @@
+
+<cabal_BossArena_message>
+	<BossArena_msg>
+		<msg	id="name_0000"	cont="발두스"	/>
+		<msg	id="tooltip_0000"	cont="$32#죽음의 기사 발두스$\특징: 공격형, 벌레 폭탄 사용\제한 시간: 2분"	/>
+	</BossArena_msg>
+</cabal_BossArena_message>

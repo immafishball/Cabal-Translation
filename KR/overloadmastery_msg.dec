@@ -1,0 +1,62 @@
+<overloadmastery_message>
+	<overloadmastery_name_msg>
+		<msg	id="Overloadmastery_0001"	cont="모든 공격력 I"	/>
+		<msg	id="Overloadmastery_0002"	cont="크리티컬 데미지 I"	/>
+		<msg	id="Overloadmastery_0003"	cont="공격률 I"	/>
+		<msg	id="Overloadmastery_0004"	cont="추가 데미지 I"	/>
+		<msg	id="Overloadmastery_0005"	cont="모든 공격력 II"	/>
+		<msg	id="Overloadmastery_0006"	cont="크리티컬 데미지 II"	/>
+		<msg	id="Overloadmastery_0007"	cont="적중 I"	/>
+		<msg	id="Overloadmastery_0008"	cont="크리티컬 확률 저항 무시"	/>
+		<msg	id="Overloadmastery_0009"	cont="공격률 II"	/>
+		<msg	id="Overloadmastery_0010"	cont="관통 I"	/>
+		<msg	id="Overloadmastery_0011"	cont="모든 공격력 III"	/>
+		<msg	id="Overloadmastery_0012"	cont="적중 II"	/>
+		<msg	id="Overloadmastery_0013"	cont="추가 데미지 II"	/>
+		<msg	id="Overloadmastery_0014"	cont="관통 II"	/>
+		<msg	id="Overloadmastery_0015"	cont="방어력 I"	/>
+		<msg	id="Overloadmastery_0016"	cont="HP 증가 I"	/>
+		<msg	id="Overloadmastery_0017"	cont="넉백 저항"	/>
+		<msg	id="Overloadmastery_0018"	cont="적중 무시 I"	/>
+		<msg	id="Overloadmastery_0019"	cont="피해 감소"	/>
+		<msg	id="Overloadmastery_0020"	cont="크리티컬 데미지 저항"	/>
+		<msg	id="Overloadmastery_0021"	cont="다운 저항"	/>
+		<msg	id="Overloadmastery_0022"	cont="HP 증가 II"	/>
+		<msg	id="Overloadmastery_0023"	cont="스턴 저항"	/>
+		<msg	id="Overloadmastery_0024"	cont="관통 무시 I"	/>
+		<msg	id="Overloadmastery_0025"	cont="방어력 II"	/>
+		<msg	id="Overloadmastery_0026"	cont="스킬 증폭 저항"	/>
+		<msg	id="Overloadmastery_0027"	cont="적중 무시 II"	/>
+		<msg	id="Overloadmastery_0028"	cont="관통 무시 II"	/>
+	</overloadmastery_name_msg>
+	<overloaddesc_msg>
+		<msg	id="Overloadmasterydesc_0001"	cont="캐릭터의 $33#모든 공격력$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0002"	cont="캐릭터의 $33#크리티컬 데미지$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0003"	cont="캐릭터의 $33#공격률$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0004"	cont="캐릭터의 $33#추가데미지$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0005"	cont="캐릭터의 $33#모든 공격력$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0006"	cont="캐릭터의 $33#크리티컬 데미지$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0007"	cont="캐릭터의 $33#적중$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0008"	cont="캐릭터의 $33#크리티컬 확률 저항 무시$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0009"	cont="캐릭터의 $33#공격률$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0010"	cont="캐릭터의 $33#관통$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0011"	cont="캐릭터의 $33#모든 공격력$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0012"	cont="캐릭터의 $33#적중$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0013"	cont="캐릭터의 $33#추가데미지$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0014"	cont="캐릭터의 $33#관통$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0015"	cont="캐릭터의 $33#방어력$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0016"	cont="캐릭터의 $33#최대 HP$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0017"	cont="캐릭터의 $33#넉백 저항$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0018"	cont="캐릭터의 $33#적중 무시$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0019"	cont="캐릭터의 $33#피해 감소$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0020"	cont="캐릭터의 $33#크리티컬 데미지 저항$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0021"	cont="캐릭터의 $33#다운 저항$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0022"	cont="캐릭터의 $33#최대 HP$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0023"	cont="캐릭터의 $33#스턴 저항$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0024"	cont="캐릭터의 $33#관통 무시$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0025"	cont="캐릭터의 $33#방어력$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0026"	cont="캐릭터의 $33#스킬 증폭 저항$을 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0027"	cont="캐릭터의 $33#적중 무시$를 $33#%s$만큼 상승시킵니다._"	/>
+		<msg	id="Overloadmasterydesc_0028"	cont="캐릭터의 $33#관통 무시$를 $33#%s$만큼 상승시킵니다._"	/>
+	</overloaddesc_msg>
+</overloadmastery_message>
