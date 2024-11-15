@@ -25863,97 +25863,97 @@
 		<msg	id="item33558323"	cont="Agent Shop Coupon(Green)"	/>
 		<msg	id="item33558324"	cont="Agent Shop Coupon(Purple)"	/>
 		<msg	id="item33558325"	cont="Agent Shop Coupon(Black)"	/>
-		<msg	id="item33558326"	cont="Not in use"	/>
-		<msg	id="item33558327"	cont="Not in use"	/>
-		<msg	id="item33558328"	cont="Not in use"	/>
-		<msg	id="item33558329"	cont="Not in use"	/>
-		<msg	id="item33558330"	cont="Not in use"	/>
-		<msg	id="item33558331"	cont="Not in use"	/>
-		<msg	id="item33558332"	cont="Not in use"	/>
-		<msg	id="item33558333"	cont="Not in use"	/>
-		<msg	id="item33558334"	cont="Not in use"	/>
-		<msg	id="item33558335"	cont="Not in use"	/>
-		<msg	id="item33558336"	cont="Not in use"	/>
-		<msg	id="item33558337"	cont="Not in use"	/>
-		<msg	id="item33558338"	cont="Not in use"	/>
-		<msg	id="item33558339"	cont="Not in use"	/>
-		<msg	id="item33558340"	cont="Not in use"	/>
-		<msg	id="item33558341"	cont="Not in use"	/>
-		<msg	id="item33558342"	cont="Not in use"	/>
-		<msg	id="item33558343"	cont="Not in use"	/>
-		<msg	id="item33558344"	cont="Not in use"	/>
-		<msg	id="item33558345"	cont="empty"	/>
-		<msg	id="item33558346"	cont="empty"	/>
-		<msg	id="item33558347"	cont="empty"	/>
-		<msg	id="item33558348"	cont="empty"	/>
-		<msg	id="item33558349"	cont="empty"	/>
-		<msg	id="item33558350"	cont="empty"	/>
-		<msg	id="item33558351"	cont="empty"	/>
-		<msg	id="item33558352"	cont="empty"	/>
-		<msg	id="item33558353"	cont="empty"	/>
-		<msg	id="item33558354"	cont="empty"	/>
-		<msg	id="item33558355"	cont="empty"	/>
-		<msg	id="item33558356"	cont="empty"	/>
-		<msg	id="item33558357"	cont="empty"	/>
-		<msg	id="item33558358"	cont="empty"	/>
-		<msg	id="item33558359"	cont="empty"	/>
-		<msg	id="item33558360"	cont="empty"	/>
-		<msg	id="item33558361"	cont="empty"	/>
-		<msg	id="item33558362"	cont="empty"	/>
-		<msg	id="item33558363"	cont="empty"	/>
-		<msg	id="item33558364"	cont="empty"	/>
-		<msg	id="item33558365"	cont="empty"	/>
-		<msg	id="item33558366"	cont="empty"	/>
-		<msg	id="item33558367"	cont="empty"	/>
-		<msg	id="item33558368"	cont="empty"	/>
-		<msg	id="item33558369"	cont="empty"	/>
-		<msg	id="item33558370"	cont="empty"	/>
-		<msg	id="item33558371"	cont="empty"	/>
-		<msg	id="item33558372"	cont="empty"	/>
-		<msg	id="item33558373"	cont="empty"	/>
-		<msg	id="item33558374"	cont="empty"	/>
-		<msg	id="item33558375"	cont="empty"	/>
-		<msg	id="item33558376"	cont="empty"	/>
-		<msg	id="item33558377"	cont="empty"	/>
-		<msg	id="item33558378"	cont="empty"	/>
-		<msg	id="item33558379"	cont="empty"	/>
-		<msg	id="item33558380"	cont="empty"	/>
-		<msg	id="item33558381"	cont="empty"	/>
-		<msg	id="item33558382"	cont="empty"	/>
-		<msg	id="item33558383"	cont="empty"	/>
-		<msg	id="item33558384"	cont="empty"	/>
-		<msg	id="item33558385"	cont="empty"	/>
-		<msg	id="item33558386"	cont="empty"	/>
-		<msg	id="item33558387"	cont="empty"	/>
-		<msg	id="item33558388"	cont="empty"	/>
-		<msg	id="item33558389"	cont="empty"	/>
-		<msg	id="item33558390"	cont="empty"	/>
-		<msg	id="item33558391"	cont="empty"	/>
-		<msg	id="item33558392"	cont="empty"	/>
-		<msg	id="item33558393"	cont="empty"	/>
-		<msg	id="item33558394"	cont="empty"	/>
-		<msg	id="item33558395"	cont="empty"	/>
-		<msg	id="item33558396"	cont="empty"	/>
-		<msg	id="item33558397"	cont="empty"	/>
-		<msg	id="item33558398"	cont="empty"	/>
-		<msg	id="item33558399"	cont="empty"	/>
-		<msg	id="item33558400"	cont="empty"	/>
-		<msg	id="item33558401"	cont="empty"	/>
-		<msg	id="item33558402"	cont="empty"	/>
-		<msg	id="item33558403"	cont="empty"	/>
-		<msg	id="item33558404"	cont="empty"	/>
-		<msg	id="item33558405"	cont="empty"	/>
-		<msg	id="item33558406"	cont="empty"	/>
-		<msg	id="item33558407"	cont="empty"	/>
-		<msg	id="item33558408"	cont="empty"	/>
-		<msg	id="item33558409"	cont="empty"	/>
-		<msg	id="item33558410"	cont="empty"	/>
-		<msg	id="item33558411"	cont="empty"	/>
-		<msg	id="item33558412"	cont="empty"	/>
-		<msg	id="item33558413"	cont="empty"	/>
-		<msg	id="item33558414"	cont="empty"	/>
-		<msg	id="item33558415"	cont="empty"	/>
-		<msg	id="item33558416"	cont="empty"	/>
+		<msg	id="item33558326"	cont="Faded Fragment of Experience"	/>
+		<msg	id="item33558327"	cont="Faded Fragment of Beads"	/>
+		<msg	id="item33558328"	cont="Faded Fragment of Extender"	/>
+		<msg	id="item33558329"	cont="Faded Fragment of Rune"	/>
+		<msg	id="item33558330"	cont="Gift Box - Sleeping Kit (Lv10)"	/>
+		<msg	id="item33558331"	cont="Gift Box - Sleeping Kit (Covenant)"	/>
+		<msg	id="item33558332"	cont="Gift Box - Sleeping Kit (Trust)"	/>
+		<msg	id="item33558333"	cont="Garlie"	/>
+		<msg	id="item33558334"	cont="Red Garlie"	/>
+		<msg	id="item33558335"	cont="Giant Beetle"	/>
+		<msg	id="item33558336"	cont="Nipperlug"	/>
+		<msg	id="item33558337"	cont="Rabbithorn"	/>
+		<msg	id="item33558338"	cont="Troglo"	/>
+		<msg	id="item33558339"	cont="Troglo Warrior"	/>
+		<msg	id="item33558340"	cont="Elder Troglo"	/>
+		<msg	id="item33558341"	cont="Mantis"	/>
+		<msg	id="item33558342"	cont="Dire Boar"	/>
+		<msg	id="item33558343"	cont="Mummy"	/>
+		<msg	id="item33558344"	cont="Crag Turtle"	/>
+		<msg	id="item33558345"	cont="Armaku"	/>
+		<msg	id="item33558346"	cont="Little Jack"	/>
+		<msg	id="item33558347"	cont="Little Pery"	/>
+		<msg	id="item33558348"	cont="Golem Jr. "	/>
+		<msg	id="item33558349"	cont="Little Gry"	/>
+		<msg	id="item33558350"	cont="Cutie Lai"	/>
+		<msg	id="item33558351"	cont="Cutie Tai"	/>
+		<msg	id="item33558352"	cont="Charisma Pan"	/>
+		<msg	id="item33558353"	cont="Fancy Zard"	/>
+		<msg	id="item33558354"	cont="Gentle Parrot"	/>
+		<msg	id="item33558355"	cont="Peng"	/>
+		<msg	id="item33558356"	cont="Suping"	/>
+		<msg	id="item33558357"	cont="Rudolph"	/>
+		<msg	id="item33558358"	cont="Fortune Pig"	/>
+		<msg	id="item33558359"	cont="Golden Fortune Pig"	/>
+		<msg	id="item33558360"	cont="ChaCha"	/>
+		<msg	id="item33558361"	cont="Worry Bear"	/>
+		<msg	id="item33558362"	cont="Meow Ninja"	/>
+		<msg	id="item33558363"	cont="Robo Robo"	/>
+		<msg	id="item33558364"	cont="Woolly"	/>
+		<msg	id="item33558365"	cont="Nevareth Husky"	/>
+		<msg	id="item33558366"	cont="Outer Invader"	/>
+		<msg	id="item33558367"	cont="Molly"	/>
+		<msg	id="item33558368"	cont="Cookie"	/>
+		<msg	id="item33558369"	cont="Cute Rudolph"	/>
+		<msg	id="item33558370"	cont="Angela"	/>
+		<msg	id="item33558371"	cont="Devil O'"	/>
+		<msg	id="item33558372"	cont="Draca"	/>
+		<msg	id="item33558373"	cont="Alpa"	/>
+		<msg	id="item33558374"	cont="Alca"	/>
+		<msg	id="item33558375"	cont="Paca"	/>
+		<msg	id="item33558376"	cont="Alpaca"	/>
+		<msg	id="item33558377"	cont="May"	/>
+		<msg	id="item33558378"	cont="Claris"	/>
+		<msg	id="item33558379"	cont="Bonies"	/>
+		<msg	id="item33558380"	cont="Pirate Sheep"	/>
+		<msg	id="item33558381"	cont="Pirate Parrot"	/>
+		<msg	id="item33558382"	cont="Pirate Monkey"	/>
+		<msg	id="item33558383"	cont="Franky"	/>
+		<msg	id="item33558384"	cont="Punch King Lulu"	/>
+		<msg	id="item33558385"	cont="Elfie"	/>
+		<msg	id="item33558386"	cont="Cute Mahjong"	/>
+		<msg	id="item33558387"	cont="Pet Cage"	/>
+		<msg	id="item33558388"	cont="Force Gem Coupon"	/>
+		<msg	id="item33558389"	cont="Mileage Coupon"	/>
+		<msg	id="item33558390"	cont="Special Coupon"	/>
+		<msg	id="item33558391"	cont="Gift Box - Safety Kit"	/>
+		<msg	id="item33558392"	cont="Dead Man's Epaulet B4F"	/>
+		<msg	id="item33558393"	cont="Defense III"	/>
+		<msg	id="item33558394"	cont="Turbid Wraith's Soul"	/>
+		<msg	id="item33558395"	cont="Turbid Wraith's Ring"	/>
+		<msg	id="item33558396"	cont="Pulsing Hecaton's Heart"	/>
+		<msg	id="item33558397"	cont="Hecaton's Ring"	/>
+		<msg	id="item33558398"	cont="Legendary Cube - Tower of the Dead B4F"	/>
+		<msg	id="item33558399"	cont="Attribute Unlocking Potion"	/>
+		<msg	id="item33558400"	cont="Sword Damage Amplifier (Lv. 8)"	/>
+		<msg	id="item33558401"	cont="Magic Damage Amplifier (Lv. 8)"	/>
+		<msg	id="item33558402"	cont="Lustrous Damage Amplifier (Lv. 1)"	/>
+		<msg	id="item33558403"	cont="Lustrous Damage Amplifier (Lv. 2)"	/>
+		<msg	id="item33558404"	cont="Lustrous Damage Amplifier (Lv. 3)"	/>
+		<msg	id="item33558405"	cont="Lustrous Damage Amplifier (Lv. 4)"	/>
+		<msg	id="item33558406"	cont="Lustrous Damage Amplifier (Lv. 5)"	/>
+		<msg	id="item33558407"	cont="Lustrous Damage Amplifier (Lv. 6)"	/>
+		<msg	id="item33558408"	cont="Lustrous Damage Amplifier (Lv. 7)"	/>
+		<msg	id="item33558409"	cont="Lustrous Damage Amplifier (Lv. 8)"	/>
+		<msg	id="item33558410"	cont="Campfire"	/>
+		<msg	id="item33558411"	cont="Fire Emitting Powder (Red)"	/>
+		<msg	id="item33558412"	cont="Fire Emitting Powder (Blue)"	/>
+		<msg	id="item33558413"	cont="Fire Emitting Powder (Green)"	/>
+		<msg	id="item33558414"	cont="Fire Emitting Powder (Purple)"	/>
+		<msg	id="item33558415"	cont="Flame Powder 5"	/>
+		<msg	id="item33558416"	cont="Mixture (Lv. 8)"	/>
 		<msg	id="item33558417"	cont="[Costume] Ruler of the stars"	/>
 		<msg	id="item33558418"	cont="[Costume] Accessory of Ruler of the stars"	/>
 		<msg	id="item33558419"	cont="Giftbox - [Costume] Ruler of the stars"	/>
